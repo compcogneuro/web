@@ -146,6 +146,8 @@
 
 <p id="BuonomanoMauk94">Buonomano, D.V., & Mauk, M.D. (1994). Neural network model of the cerebellum: Temporal discrimination and the timing of motor responses. Neural Computation, 6, 38-55. </p>
 
+<p id="Butler08">Butler, A.B. (2008). Evolution of the thalamus: a morphological and functional review. Thalamus & Related Systems, 4, 35-58. https://www.cambridge.org/core/journals/thalamus-and-related-systems/article/abs/evolution-of-the-thalamus-a-morphological-and-functional-review/B0D500C7591B6FC801B600D8C43EBD9B http://doi.org/10.1017/S1472928808000356</p>
+
 <p id="CainSnutch12">Cain, S.M., & Snutch, T.P. (2012). Voltage-Gated Calcium Channels in Epilepsy. In J.L. Noebels, M. Avoli, M.A. Rogawski, R.W. Olsen, & A.V. Delgado-Escueta (Eds.), Jasper's Basic Mechanisms of the Epilepsies (4th ed.). National Center for Biotechnology Information (US) http://www.ncbi.nlm.nih.gov/books/NBK98147/</p>
 
 <p id="CampbellRaneGiallanzaEtAl24">Campbell, D., Rane, S., Giallanza, T., De Sabbata, N., Ghods, K., Joshi, A., Ku, A., Frankland, S.M., Griffiths, T.L., Cohen, J.D., & Webb, T. (2024). Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem. Advances in Neural Information Processing Systems, 37, 113436-113460. https://proceedings.neurips.cc/paper_files/paper/2024/hash/cdcc6d47c1627350014a3076112ab824-Abstract-Conference.html</p>
@@ -171,6 +173,8 @@
 <p id="ChopekHultbornBrownstone19">Chopek, J.W., Hultborn, H., & Brownstone, R.M. (2019). Multistable properties of human subthalamic nucleus neurons in Parkinson’s disease. Proceedings of the National Academy of Sciences, 116, 24326-24333. https://www.pnas.org/doi/abs/10.1073/pnas.1912128116 http://doi.org/10.1073/pnas.1912128116</p>
 
 <p id="Clark13">Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. Behavioral and Brain Sciences, 36, 181–204. http://www.ncbi.nlm.nih.gov/pubmed/23663408</p>
+
+<p id="ClascaRubio-GarridoJabaudon12">Clascá, F., Rubio‐Garrido, P., & Jabaudon, D. (2012). Unveiling the diversity of thalamocortical neuron subtypes. European Journal of Neuroscience, 35, 1524-1532. http://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2012.08033.x http://doi.org/10.1111/j.1460-9568.2012.08033.x</p>
 
 <p id="ClaytonYeungKadosh18">Clayton, M.S., Yeung, N., & Kadosh, R.C. (2018). The many characters of visual alpha oscillations. European Journal of Neuroscience, 48, 2498-2508. http://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13747 http://doi.org/10.1111/ejn.13747</p>
 
@@ -355,6 +359,8 @@
 <p id="Fujita21">Fujita, H. (2021). On the parsing of garden-path sentences. Language, Cognition and Neuroscience, 36, 1234-1245. https://doi.org/10.1080/23273798.2021.1922727 http://doi.org/10.1080/23273798.2021.1922727</p>
 
 <p id="FujitaFukaiKitano12">Fujita, T., Fukai, T., & Kitano, K. (2012). Influences of membrane properties on phase response curve and synchronization stability in a model globus pallidus neuron. Journal of Computational Neuroscience, 32, 539-553.  http://doi.org/10.1007/s10827-011-0368-2</p>
+
+<p id="FunahashiBruceGoldman-Rakic89">Funahashi, S., Bruce, C.J., & Goldman-Rakic, P.S. (1989). Mnemonic coding of visual space in the monkey's dorsolateral prefrontal cortex. Journal of Neurophysiology, 61, 331-349. http://www.ncbi.nlm.nih.gov/pubmed/2918358</p>
 
 <p id="FusiMillerRigotti16">Fusi, S., Miller, E.K., & Rigotti, M. (2016). Why neurons mix: high dimensionality for higher cognition. Current Opinion in Neurobiology, 37, 66-74. http://www.sciencedirect.com/science/article/pii/S0959438816000118 http://doi.org/10.1016/j.conb.2016.01.010</p>
 
@@ -554,6 +560,8 @@
 
 <p id="JoelWeiner00">Joel, D., & Weiner, I. (2000). The connections of the dopaminergic system with the striatum in rats and primates: an analysis with respect to the functional and compartmental organization of the striatum. Neuroscience, 96, 451-474. http://www.ncbi.nlm.nih.gov/pubmed/10717427</p>
 
+<p id="Jones98">Jones, E.G. (1998). A new view of specific and nonspecific thalamocortical connections. Advances in Neurology, 77, 49-71. http://www.ncbi.nlm.nih.gov/pubmed/9709817</p>
+
 <p id="JordanRumelhart92">Jordan, M.I., & Rumelhart, D.E. (1992). Forward models: supervised learning with a distal teacher. Cognitive Science, 16, 307-354. http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1603_1/abstract http://doi.org/10.1207/s15516709cog1603_1</p>
 
 <p id="JuttenHerault91">Jutten, C., & Herault, J. (1991). Blind separation of sources, part I: An adaptive algorithm based on neuromimetic architecture. Signal Processing, 24, 1-10. https://www.sciencedirect.com/science/article/pii/016516849190079X http://doi.org/10.1016/0165-1684(91)90079-X</p>
@@ -645,6 +653,8 @@
 <p id="LeCunBengioHinton15">LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521, 436-444. http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html http://doi.org/10.1038/nature14539</p>
 
 <p id="LeDoux00">LeDoux, J. (2000). Cognitive-Emotional Interactions: Listen to the brain. In R.D. Lane, & L. Nadel (Eds.), Cognitive neuroscience of emotion (pp. 129-156). Oxford Univ. Press. </p>
+
+<p id="LeowZhouSullivanEtAl22">Leow, Y.N., Zhou, B., Sullivan, H.A., Barlowe, A.R., Wickersham, I.R., & Sur, M. (2022). Brain-wide mapping of inputs to the mouse lateral posterior (LP/Pulvinar) thalamus–anterior cingulate cortex network. Journal of Comparative Neurology, 530, 1992-2013. https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25317 http://doi.org/10.1002/cne.25317</p>
 
 <p id="LevySteward79">Levy, W.B., & Steward, O. (1979). Synapses as associative memory elements in the hippocampal formation. Brain research, 175, 233-245. http://www.ncbi.nlm.nih.gov/pubmed/487154</p>
 
@@ -924,6 +934,8 @@
 
 <p id="Rosenblatt62">Rosenblatt, F. (1962). Principles of Neurodynamics. Spartan. </p>
 
+<p id="RovoUlbertAcsady12">Rovó, Z., Ulbert, I., & Acsády, L. (2012). Drivers of the primate thalamus. Journal of Neuroscience, 32, 17894-17908. http://www.jneurosci.org/content/32/49/17894 http://doi.org/10.1523/JNEUROSCI.2815-12.2012</p>
+
 <p id="RubinAbbottSompolinsky17">Rubin, R., Abbott, L.F., & Sompolinsky, H. (2017). Balanced excitation and inhibition are required for high-capacity, noise-robust neuronal selectivity. Proceedings of the National Academy of Sciences, 114, E9366-E9375. https://www.pnas.org/doi/abs/10.1073/pnas.1705841114 http://doi.org/10.1073/pnas.1705841114</p>
 
 <p id="RudebeckMurray14">Rudebeck, P.H., & Murray, E.A. (2014). The orbitofrontal oracle: Cortical mechanisms for the prediction and evaluation of specific behavioral outcomes. Neuron, 84, 1143-1156. http://www.sciencedirect.com/science/article/pii/S0896627314009969 http://doi.org/10.1016/j.neuron.2014.10.049</p>
@@ -1003,6 +1015,8 @@
 <p id="ShenhavBotvinickCohen13">Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2013). The expected value of control: an integrative theory of anterior cingulate cortex function. Neuron, 79, 217–240. http://www.ncbi.nlm.nih.gov/pubmed/23889930</p>
 
 <p id="ShermanGuillery06">Sherman, S.M., & Guillery, R.W. (2006). Exploring the Thalamus and Its Role in Cortical Function. MIT Press. http://www.scholarpedia.org/article/Thalamus</p>
+
+<p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A Reconsideration of the Core and Matrix Classification of Thalamocortical Projections. Journal of Neuroscience, 44, https://www.jneurosci.org/content/44/24/e0163242024 http://doi.org/10.1523/JNEUROSCI.0163-24.2024</p>
 
 <p id="ShiffrinSchneider77">Shiffrin, R.M., & Schneider, W. (1977). Controlled and automatic human information processing: II. Perceptual learning, automatic attending, and a general theory. Psychological Review, 84, 127-190. </p>
 
