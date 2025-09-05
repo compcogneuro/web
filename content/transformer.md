@@ -36,7 +36,7 @@ Because of the exponential SoftMax normalization, the attentional mechanism typi
 
 ## Feedforward network: high-dimensional pattern separator
 
-As noted above, it is actually the FFN component, which is just a standard feedforward backpropagation network, that accounts for much of the memorization ability of a transformer ([[@HuangYangPotts24]]), which is as critical to their functionality as the self-attention mechanism. This is what enables these models to be able to digest such a huge amount of information and generate any kind of prediction at an above-chance level over databases with billions of words.
+As noted above, it is actually the FFN component, which is just a standard feedforward backpropagation network, that accounts for much of the memorization ability of a transformer ([[@HuangYangPotts24]]), which is as critical to their functionality as the self-attention mechanism. This is what enables these modransels to be able to digest such a huge amount of information and generate any kind of prediction at an above-chance level over databases with billions of words.
 
 The essential feature of the FFN that supports this memorization capacity is the size of the hidden layer, which is 4x larger than the size of the token input vectors, and accounts for roughly 70% of the total LLM learnable parameters in a typical GPT LLM model ([[@Aizi23]]). The FFN projects the attentionally-weighted token representations into this large hidden layer that allows activity patterns to become relatively more separated from each other (i.e., _pattern separation_). This is the same computational trick that is used in the _support vector machine_ (SVM; [[@CortesVapnik95]]), and in the brain in the [[hippocampus]] and [[cerebellum]].
 

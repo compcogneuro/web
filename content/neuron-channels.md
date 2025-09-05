@@ -271,7 +271,7 @@ There are a large number of VGCCs types ([[@Dolphin18]]; [[@CainSnutch12]]) deno
 
 * The L type is the classic "VGCC" in dendritic spines in pyramidal cells, which we plot below.
 
-* PQ and R are specific to cerebellum.
+* PQ and R are specific to [[cerebellum]].
 
 * The T type is the most important for low frequency oscillations, and is absent in pyramidal neurons outside of the 5IB layer 5 neurons, which are the primary bursting type. It is most important for subcortical neurons, such as in TRN. See [Destexhe et al, 1998 model in BRIAN](https://brian2.readthedocs.io/en/stable/examples/frompapers.Destexhe_et_al_1998.html) for an implementation.
 
