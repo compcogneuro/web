@@ -20,3 +20,18 @@ There are natural delays between the time when the frontal cortex drives a desce
 
 This hypothesis is consistent with the "big loop" of descending and ascending motor signals shown in [[#figure_big-loop]] from [[@ArberCosta22]].
 
+## Hierarchical cascades of predictive controllers
+
+This goes in motor, but brief summary here.
+
+The residual signals provide control knobs for higher levels of control! Key example of VOR vs. saccades etc!  Saccade is an error signal from perspective of VOR. Subsumption / override and neural mechanisms supporting that.
+
+output of lower level is input to next higher level -- higher level learns to predict the residuals in lower level, using broader / higher-level context that explains the perturbations.
+
+Actual motor control signals come from BG and cortex, using sensory signals from cerebellum.
+
+Key Powers et al point: you can do all of motor control in sensory space!
+
+What does cerebellum need to handle this?
+
+

@@ -40,6 +40,8 @@
 
 <p id="AngelucciBressloff06">Angelucci, A., & Bressloff, P.C. (2006). Contribution of feedforward, lateral and feedback connections to the classical receptive field center and extra-classical receptive field surround of primate V1 neurons. In S.L.M. S. Martinez-Conde (Ed.), Progress in Brain Research (pp. 93-120). Elsevier. http://www.sciencedirect.com/science/article/pii/S0079612306540051 http://doi.org/10.1016/S0079-6123(06)54005-1</p>
 
+<p id="AppsHawkes09">Apps, R., & Hawkes, R. (2009). Cerebellar cortical organization: a one-map hypothesis. Nature Reviews Neuroscience, 10, 670-681. https://www.nature.com/articles/nrn2698 http://doi.org/10.1038/nrn2698</p>
+
 <p id="ArberCosta22">Arber, S., & Costa, R.M. (2022). Networking brainstem and basal ganglia circuits for movement. Nature Reviews Neuroscience, 23(6), 342-360. https://www.nature.com/articles/s41583-022-00581-w http://doi.org/10.1038/s41583-022-00581-w</p>
 
 <p id="ArieliSterkinGrinvaldEtAl96">Arieli, A., Sterkin, A., Grinvald, A., & Aertsen, A. (1996). Dynamics of ongoing activity: Explanation of the large variability in evoked cortical responses. Science, 273, 1868-1871. http://www.ncbi.nlm.nih.gov/pubmed/8791593</p>
@@ -104,6 +106,8 @@
 
 <p id="BerthierMoore86">Berthier, N.E., & Moore, J.W. (1986). Cerebellar Purkinje cell activity related to the classically conditioned nictitating membrane response. Experimental Brain Research, 63, 341-350. https://doi.org/10.1007/BF00236851 http://doi.org/10.1007/BF00236851</p>
 
+<p id="BeuriatCristoforiRichardEtAl20">Beuriat, P., Cristofori, I., Richard, N., Bardi, L., Loriette, C., Szathmari, A., Di Rocco, F., Leblond, P., Frappaz, D., Faure-Conter, C., Claude, L., Mottolese, C., & Desmurget, M. (2020). Cerebellar lesions at a young age predict poorer long-term functional recovery. Brain Communications, 2, fcaa027. https://doi.org/10.1093/braincomms/fcaa027 http://doi.org/10.1093/braincomms/fcaa027</p>
+
 <p id="BeurrierBioulacAudinEtAl01">Beurrier, C., Bioulac, B., Audin, J., & Hammond, C. (2001). High-Frequency Stimulation Produces a Transient Blockade of Voltage-Gated Currents in Subthalamic Neurons. Journal of Neurophysiology, 85, 1351-1356. https://journals.physiology.org/doi/full/10.1152/jn.2001.85.4.1351 http://doi.org/10.1152/jn.2001.85.4.1351</p>
 
 <p id="BevanMagillTermanEtAl02">Bevan, M.D., Magill, P.J., Terman, D., Bolam, J.P., & Wilson, C.J. (2002). Move to the rhythm: oscillations in the subthalamic nucleus-external globus pallidus network. Trends in Neurosciences, 25, 525-531. http://www.ncbi.nlm.nih.gov/pubmed/12220881</p>
@@ -133,6 +137,8 @@
 <p id="BogaczMoraudAbdiEtAl16">Bogacz, R., Moraud, E.M., Abdi, A., Magill, P.J., & Baufreton, J. (2016). Properties of Neurons in External Globus Pallidus Can Support Optimal Action Selection. PLOS Computational Biology, 12, e1005004. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005004 http://doi.org/10.1371/journal.pcbi.1005004</p>
 
 <p id="BolkanStujenskeParnaudeauEtAl17">Bolkan, S.S., Stujenske, J.M., Parnaudeau, S., Spellman, T.J., Rauffenbart, C., Abbas, A.I., Harris, A.Z., Gordon, J.A., & Kellendonk, C. (2017). Thalamic projections sustain prefrontal activity during working memory maintenance. Nature Neuroscience, 20, 987-996. https://www.nature.com/articles/nn.4568 http://doi.org/10.1038/nn.4568</p>
+
+<p id="BonnanZhangGaffieldEtAl23">Bonnan, A., Zhang, K., Gaffield, M.A., & Christie, J.M. (2023). Expression of a Form of Cerebellar Motor Memory Requires Learned Alterations to the Activity of Inhibitory Molecular Layer Interneurons. Journal of Neuroscience, 43, 601-612. https://www.jneurosci.org/content/43/4/601 http://doi.org/10.1523/JNEUROSCI.0731-22.2022</p>
 
 <p id="Borst10">Borst, J.G.G. (2010). The low synaptic release probability in vivo. Trends in Neurosciences, 33, 259-266. http://www.sciencedirect.com/science/article/pii/S0166223610000457 http://doi.org/10.1016/j.tins.2010.03.003</p>
 
@@ -248,9 +254,9 @@
 
 <p id="DayanHintonNealEtAl95">Dayan, P., Hinton, G.E., Neal, R.N., & Zemel, R.S. (1995). The {Helmholtz} machine. Neural Computation, 7, 889-904. </p>
 
-<p id="DeZeeuwBerrebi95">De Zeeuw, C.I., & Berrebi, A.S. (1995). Postsynaptic Targets of Purkinje Cell Terminals in the Cerebellar and Vestibular Nuclei of the Rat. European Journal of Neuroscience, 7, 2322-2333. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.1995.tb00653.x http://doi.org/10.1111/j.1460-9568.1995.tb00653.x</p>
+<p id="DeZeeuw21">De Zeeuw, C. (2021). Bidirectional learning in upbound and downbound microzones of the cerebellum. Nature Reviews Neuroscience, 22(2), 92-110. https://www.nature.com/articles/s41583-020-00392-x http://doi.org/10.1038/s41583-020-00392-x</p>
 
-<p id="DeZeeuwI21">Zeeuw, D., & I, C. (2021). Bidirectional learning in upbound and downbound microzones of the cerebellum. Nature Reviews Neuroscience, 22(2), 92-110. https://www.nature.com/articles/s41583-020-00392-x http://doi.org/10.1038/s41583-020-00392-x</p>
+<p id="DeZeeuwBerrebi95">De Zeeuw, C.I., & Berrebi, A.S. (1995). Postsynaptic Targets of Purkinje Cell Terminals in the Cerebellar and Vestibular Nuclei of the Rat. European Journal of Neuroscience, 7, 2322-2333. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.1995.tb00653.x http://doi.org/10.1111/j.1460-9568.1995.tb00653.x</p>
 
 <p id="DeZeeuwSimpsonHoogenraadEtAl98">De Zeeuw, C.I., Simpson, J.I., Hoogenraad, C.C., Galjart, N., Koekkoek, S.K., & Ruigrok, T.J. (1998). Microcircuitry and function of the inferior olive. Trends in neurosciences, 21, 391-400. http://www.ncbi.nlm.nih.gov/pubmed/9735947</p>
 
@@ -436,6 +442,8 @@
 
 <p id="GibsonFichmanPlaut97">Gibson, F.P., Fichman, M., & Plaut, D.C. (1997). Learning in Dynamic Decision Tasks: Computational Model and Empirical Evidence. Organizational Behavior and Human Decision Processes, 71, 1-35. https://www.sciencedirect.com/science/article/pii/S0749597897927126 http://doi.org/10.1006/obhd.1997.2712</p>
 
+<p id="GiessenKoekkoekDorpEtAl08">Giessen, R.S.V.D., Koekkoek, S.K., Dorp, S., Gruijl, J.R.D., Cupido, A., Khosrovani, S., Dortland, B., Wellershaus, K., Degen, J., Deuchars, J., Fuchs, E.C., Monyer, H., Willecke, K., Jeu, M.T.G.D., & Zeeuw, C.I.D. (2008). Role of Olivary Electrical Coupling in Cerebellar Motor Learning. Neuron, 58, 599-612. https://www.cell.com/neuron/abstract/S0896-6273(08)00262-6 http://doi.org/10.1016/j.neuron.2008.03.016</p>
+
 <p id="GiguereGoldman-Rakic88">Giguere, M., & Goldman‐Rakic, P.S. (1988). Mediodorsal nucleus: Areal, laminar, and tangential distribution of afferents and efferents in the frontal lobe of rhesus monkeys. Journal of Comparative Neurology, 277, 195-213. http://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902770204 http://doi.org/10.1002/cne.902770204</p>
 
 <p id="GilliesWillshaw06">Gillies, A., & Willshaw, D. (2006). Membrane Channel Interactions Underlying Rat Subthalamic Projection Neuron Rhythmic and Bursting Activity. Journal of Neurophysiology, 95, 2352-2365. http://journals.physiology.org/doi/full/10.1152/jn.00525.2005 http://doi.org/10.1152/jn.00525.2005</p>
@@ -514,6 +522,8 @@
 
 <p id="HanselLindenDAngelo01">Hansel, C., Linden, D.J., & D'Angelo, E. (2001). Beyond parallel fiber LTD: the diversity of synaptic and non-synaptic plasticity in the cerebellum. Nature neuroscience, 4, 467–475. http://www.ncbi.nlm.nih.gov/pubmed/11319554</p>
 
+<p id="HaoZhuHuangEtAl24">Hao, S., Zhu, X., Huang, Z., Yang, Q., Liu, H., Wu, Y., Zhan, Y., Dong, Y., Li, C., Wang, H., Haasdijk, E., Wu, Z., Li, S., Yan, H., Zhu, L., Guo, S., Wang, Z., Ye, A., Lin, Y., Cui, L., Tan, X., Liu, H., Wang, M., Chen, J., Zhong, Y., Du, W., Wang, G., Lai, T., Cao, M., Yang, T., Xu, Y., Li, L., Yu, Q., Zhuang, Z., Xia, Y., Lei, Y., An, Y., Cheng, M., Zhao, Y., Han, L., Yuan, Y., Song, X., Song, Y., Gu, L., Liu, C., Lin, X., Wang, R., Wang, Z., Wang, Y., Li, S., Li, H., Song, J., Chen, M., Zhou, W., Yuan, N., Sun, S., Wang, S., Chen, Y., Zheng, M., Fang, J., Zhang, R., Zhang, S., Chai, Q., Liu, J., Wei, W., He, J., Zhou, H., Sun, Y., Liu, Z., Liu, C., Yao, J., Liang, Z., Xu, X., Poo, M., Li, C., De Zeeuw, C.I., Shen, Z., Liu, Z., Liu, L., Liu, S., Sun, Y., & Liu, C. (2024). Cross-species single-cell spatial transcriptomic atlases of the cerebellar cortex. Science, 385, eado3927. https://www.science.org/doi/full/10.1126/science.ado3927 http://doi.org/10.1126/science.ado3927</p>
+
 <p id="HarrisShepherd15">Harris, K.D., & Shepherd, G.M.G. (2015). The neocortical circuit: themes and variations. Nature Neuroscience, 18(2), 170-181. http://www.nature.com/articles/nn.3917 http://doi.org/10.1038/nn.3917</p>
 
 <p id="HausserMel03">Hausser, M., & Mel, B. (2003). Dendrites: bug or feature? Current Opinion in Neurobiology, 13, 372-383. </p>
@@ -554,6 +564,8 @@
 
 <p id="HintonSejnowski86">Hinton, G.E., & Sejnowski, T.J. (1986). Learning and Relearning in Boltzmann Machines. In D.E. Rumelhart, J.L. McClelland, & P.R. Group (Eds.), Parallel Distributed Processing. Volume 1: Foundations (pp. 282-317). MIT Press. </p>
 
+<p id="HoangTsutsumiMatsuzakiEtAl23">Hoang, H., Tsutsumi, S., Matsuzaki, M., Kano, M., Kawato, M., Kitamura, K., & Toyama, K. (2023). Dynamic organization of cerebellar climbing fiber response and synchrony in multiple functional components reduces dimensions for reinforcement learning. eLife, 12, e86340. https://doi.org/10.7554/eLife.86340 http://doi.org/10.7554/eLife.86340</p>
+
 <p id="HobsonPace-Schott02">Hobson, J.A., & Pace-Schott, E.F. (2002). The cognitive neuroscience of sleep: neuronal systems, consciousness and learning. Nature Reviews Neuroscience, 3(9), 679-693. http://www.nature.com/articles/nrn915 http://doi.org/10.1038/nrn915</p>
 
 <p id="HochreiterSchmidhuber97">Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation, 9, 1735-1780. </p>
@@ -588,6 +600,8 @@
 
 <p id="Huerta-OcampoDautanGutEtAl21">Huerta-Ocampo, I., Dautan, D., Gut, N.K., Khan, B., & Mena-Segovia, J. (2021). Whole-brain mapping of monosynaptic inputs to midbrain cholinergic neurons. Scientific Reports, 11, 9055. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8079369/ http://doi.org/10.1038/s41598-021-88374-6</p>
 
+<p id="Hull20">Hull, C. (2020). Prediction signals in the cerebellum: Beyond supervised motor learning. eLife, 9, e54073. https://doi.org/10.7554/eLife.54073 http://doi.org/10.7554/eLife.54073</p>
+
 <p id="Hull43">Hull, C.L. (1943). Principles of Behavior. Appleton. </p>
 
 <p id="HumphriesGurney21">Humphries, M.D., & Gurney, K. (2021). Making decisions in the dark basement of the brain: A look back at the GPR model of action selection and the basal ganglia. Biological Cybernetics, 115, 323-329. https://doi.org/10.1007/s00422-021-00887-5 http://doi.org/10.1007/s00422-021-00887-5</p>
@@ -612,8 +626,6 @@
 
 <p id="Ito01">Ito, M. (2001). Cerebellar Long-Term Depression: Characterization, Signal Transduction, and Functional Roles. Physiological Reviews, 81, 1143-1195. https://journals.physiology.org/doi/full/10.1152/physrev.2001.81.3.1143 http://doi.org/10.1152/physrev.2001.81.3.1143</p>
 
-<p id="Ito05">Ito, M. (2005). Bases and implications of learning in the cerebellum — adaptive control and internal model mechanism. In Progress in Brain Research (pp. 95-109). Elsevier. https://www.sciencedirect.com/science/article/pii/S0079612304480091 http://doi.org/10.1016/S0079-6123(04)48009-1</p>
-
 <p id="Ito13">Ito, M. (2013). Error detection and representation in the olivo-cerebellar system. Frontiers in Neural Circuits, 7, https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2013.00001/full http://doi.org/10.3389/fncir.2013.00001</p>
 
 <p id="Ito72">Ito, M. (1972). Neural design of the cerebellar motor control system. Brain Research, 40, 81-84. https://www.sciencedirect.com/science/article/pii/0006899372901102 http://doi.org/10.1016/0006-8993(72)90110-2</p>
@@ -623,8 +635,6 @@
 <p id="Ito98">Ito, M. (1998). The cerebellum: from structure to control. Trends in cognitive sciences, 2, http://www.ncbi.nlm.nih.gov/pubmed/21227234</p>
 
 <p id="ItoKano82">Ito, M., & Kano, M. (1982). Long-lasting depression of parallel fiber-Purkinje cell transmission induced by conjunctive stimulation of parallel fibers and climbing fibers in the cerebellar cortex. Neuroscience Letters, 33, 253-258. https://www.sciencedirect.com/science/article/pii/0304394082903809 http://doi.org/10.1016/0304-3940(82)90380-9</p>
-
-<p id="ItoSakuraiTongroach82">Ito, M., Sakurai, M., & Tongroach, P. (1982). Climbing fibre induced depression of both mossy fibre responsiveness and glutamate sensitivity of cerebellar Purkinje cells. The Journal of Physiology, 324, 113-134. https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1982.sp014103 http://doi.org/10.1113/jphysiol.1982.sp014103</p>
 
 <p id="JahrStevens90">Jahr, C.E., & Stevens, C.F. (1990). A quantitative description of NMDA receptor-channel kinetic behavior. Journal of Neuroscience, 10, 1830-1837. http://www.jneurosci.org/content/10/6/1830 http://doi.org/10.1523/JNEUROSCI.10-06-01830.1990</p>
 
@@ -660,6 +670,8 @@
 
 <p id="KassardjianTanChungEtAl05">Kassardjian, C.D., Tan, Y., Chung, J.J., Heskin, R., Peterson, M.J., & Broussard, D.M. (2005). The Site of a Motor Memory Shifts with Consolidation. Journal of Neuroscience, 25, 7979-7985. https://www.jneurosci.org/content/25/35/7979 http://doi.org/10.1523/JNEUROSCI.2215-05.2005</p>
 
+<p id="Kawato99">Kawato, M. (1999). Internal models for motor control and trajectory planning. Current Opinion in Neurobiology, 9, 718-727. http://www.sciencedirect.com/science/article/pii/S0959438899000288 http://doi.org/10.1016/S0959-4388(99)00028-8</p>
+
 <p id="KawatoGomi92">Kawato, M., & Gomi, H. (1992). A computational model of four regions of the cerebellum based on feedback-error learning. Biological cybernetics, 68, http://www.ncbi.nlm.nih.gov/pubmed/1486143</p>
 
 <p id="KawatoHayakawaInui93">Kawato, M., Hayakawa, H., & Inui, T. (1993). A forward-inverse optics model of reciprocal connections between visual cortical areas. Network: Computation in Neural Systems, 4, 415-422. http://www.tandfonline.com/doi/abs/10.1088/0954-898X_4_4_001 http://doi.org/10.1088/0954-898X_4_4_001</p>
@@ -675,6 +687,8 @@
 <p id="KimKimNakajimaEtAl17">Kim, J., Kim, Y., Nakajima, R., Shin, A., Jeong, M., Park, A.H., Jeong, Y., Jo, S., Yang, S., Park, H., Cho, S., Cho, K., Shim, I., Chung, J.H., Paik, S., Augustine, G.J., & Kim, D. (2017). Inhibitory basal ganglia inputs induce excitatory motor signals in the thalamus. Neuron, 95, 1181-1196.e8. http://www.sciencedirect.com/science/article/pii/S0896627317307432 http://doi.org/10.1016/j.neuron.2017.08.028</p>
 
 <p id="KimKrupaThompson98">Kim, J.J., Krupa, D.J., & Thompson, R.F. (1998). Inhibitory cerebello-olivary projections and blocking effect in classical conditioning. Science (New York, N.Y.), 279, 570. http://www.ncbi.nlm.nih.gov/pubmed/9438852</p>
+
+<p id="KimpoRinaldiKimEtAl14">Kimpo, R.R., Rinaldi, J.M., Kim, C.K., Payne, H.L., & Raymond, J.L. (2014). Gating of neural error signals during motor learning. eLife, 3, http://www.ncbi.nlm.nih.gov/pubmed/24755290</p>
 
 <p id="KingmaBa14">Kingma, D.P., & Ba, J. (2014). Adam: A Method for Stochastic Optimization. arXiv:1412.6980 [cs], http://arxiv.org/abs/1412.6980</p>
 
@@ -770,7 +784,11 @@
 
 <p id="LismanFellousWang99">Lisman, J.E., Fellous, J.M., & Wang, X.J. (1999). A role for {NMDA}-receptor channels in working memory. Nature Neuroscience, 1, 273-275. http://www.ncbi.nlm.nih.gov/pubmed/10195158</p>
 
+<p id="Llinas09">Llinás, R.R. (2009). Inferior olive oscillation as the temporal basis for motricity and oscillatory reset as the basis for motor error correction. Neuroscience, 162, 797-804. https://www.sciencedirect.com/science/article/pii/S0306452209006526 http://doi.org/10.1016/j.neuroscience.2009.04.045</p>
+
 <p id="LoyolaHooglandHoedemakerEtAl23">Loyola, S., Hoogland, T.M., Hoedemaker, H., Romano, V., Negrello, M., & De Zeeuw, C.I. (2023). How inhibitory and excitatory inputs gate output of the inferior olive. eLife, 12, e83239. https://doi.org/10.7554/eLife.83239 http://doi.org/10.7554/eLife.83239</p>
+
+<p id="LuMiyachiItoEtAl07">Lu, X., Miyachi, S., Ito, Y., Nambu, A., & Takada, M. (2007). Topographic distribution of output neurons in cerebellar nuclei and cortex to somatotopic map of primary motor cortex. European Journal of Neuroscience, 25, 2374-2382. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05482.x http://doi.org/10.1111/j.1460-9568.2007.05482.x</p>
 
 <p id="MacLean52">MacLean, P.D. (1952). Some psychiatric implications of physiological studies on frontotemporal portion of limbic system (Visceral brain) Electroencephalography and Clinical Neurophysiology, 4, 407-418. https://www.sciencedirect.com/science/article/pii/0013469452900734 http://doi.org/10.1016/0013-4694(52)90073-4</p>
 
@@ -816,6 +834,8 @@
 
 <p id="McClellandHillRudolphEtAl20">McClelland, J.L., Hill, F., Rudolph, M., Baldridge, J., & Schütze, H. (2020). Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models. Proceedings of the National Academy of Sciences, 117, 25966-25974. http://www.pnas.org/content/117/42/25966 http://doi.org/10.1073/pnas.1910416117</p>
 
+<p id="McClellandMcNaughtonOReilly95">McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why There Are Complementary Learning Systems in the Hippocampus and Neocortex: Insights from the Successes and Failures of Connectionist Models of Learning and Memory. Psychological Review, 102, 419-457. http://www.ncbi.nlm.nih.gov/pubmed/7624455</p>
+
 <p id="McClellandRumelhart86">McClelland, J.L., & Rumelhart, D.E. (1986). A Distributed Model of Human Learning and Memory. In J.L. McClelland, D.E. Rumelhart, & P.R. Group (Eds.), Parallel Distributed Processing. Volume 2: Psychological and Biological Models (pp. 170-215). MIT Press. </p>
 
 <p id="McCormickClarkLavondEtAl82">McCormick, D.A., Clark, G.A., Lavond, D.G., & Thompson, R.F. (1982). Initial localization of the memory trace for a basic form of learning. Proceedings of the National Academy of Sciences, 79, 2731-2735. https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2731 http://doi.org/10.1073/pnas.79.8.2731</p>
@@ -831,6 +851,8 @@
 <p id="McGrathRussinPavlickEtAl24">McGrath, S.W., Russin, J., Pavlick, E., & Feiman, R. (2024). How Can Deep Neural Networks Inform Theory in Psychological Science? Current Directions in Psychological Science, 33, 325-333.  http://doi.org/10.1177/09637214241268098</p>
 
 <p id="McKeeCrandellChaudhuriEtAl22">McKee, K., Crandell, I., Chaudhuri, R., & O'Reilly, R. (2022). Adaptive Synaptic Failure Enables Sampling from Posterior Predictive Distributions in the Brain. http://arxiv.org/abs/2210.01691 http://doi.org/10.48550/arXiv.2210.01691</p>
+
+<p id="MedinaLisberger08">Medina, J.F., & Lisberger, S.G. (2008). Links from complex spikes to local plasticity and motor learning in the cerebellum of awake-behaving monkeys. Nature Neuroscience, 11, 1185-1192. https://www.nature.com/articles/nn.2197 http://doi.org/10.1038/nn.2197</p>
 
 <p id="MengZhouPapaneriEtAl18">Meng, C., Zhou, J., Papaneri, A., Peddada, T., Xu, K., & Cui, G. (2018). Spectrally Resolved Fiber Photometry for Multi-component Analysis of Brain Circuits. Neuron, 98, 707-717.e4. https://www.cell.com/neuron/abstract/S0896-6273(18)30296-4 http://doi.org/10.1016/j.neuron.2018.04.012</p>
 
@@ -914,6 +936,8 @@
 
 <p id="NiederMiller04">Nieder, A., & Miller, E.K. (2004). Analog numerical representations in rhesus monkeys: evidence for parallel processing. Journal of cognitive neuroscience, 16, 889-901. http://www.ncbi.nlm.nih.gov/pubmed/15200715</p>
 
+<p id="NormanOReilly03">Norman, K.A., & O'Reilly, R.C. (2003). Modeling hippocampal and neocortical contributions to recognition memory: a complementary-learning-systems approach. Psychological Review, 110, 611-646. http://www.ncbi.nlm.nih.gov/pubmed/14599236</p>
+
 <p id="Nowlan90">Nowlan, S.J. (1990). Maximum Likelihood Competitive Learning. In D.S. Touretzky (Ed.), Advances in Neural Information Processing Systems, 2 (pp. 574-582). Morgan Kaufmann. </p>
 
 <p id="NowlanHinton93">Nowlan, S.J., & Hinton, G.E. (1993). A soft decision-directed LMS algorithm for blind equalization. IEEE Transactions on Communications, 41, 275–279. </p>
@@ -942,13 +966,13 @@
 
 <p id="OReillyRanganathRussin22">O’Reilly, R.C., Ranganath, C., & Russin, J.L. (2022). The Structure of Systematicity in the Brain. Current Directions in Psychological Science, 31, 124-130. https://doi.org/10.1177/09637214211049233 http://doi.org/10.1177/09637214211049233</p>
 
+<p id="OReillyRudy01">O'Reilly, R.C., & Rudy, J.W. (2001). Conjunctive Representations in Learning and Memory: Principles of Cortical and Hippocampal Function. Psychological Review, 108, 311-345. http://www.ncbi.nlm.nih.gov/pubmed/11381832</p>
+
 <p id="OReillyRussinZolfagharEtAl21">O'Reilly, R.C., Russin, J.L., Zolfaghar, M., & Rohrlich, J. (2021). Deep Predictive Learning in Neocortex and Pulvinar. Journal of Cognitive Neuroscience, 33, 1158-1196. https://doi.org/10.1162/jocn_a_01708 http://doi.org/10.1162/jocn_a_01708</p>
 
 <p id="OReillyWyatteHerdEtAl13">O'Reilly, R.C., Wyatte, D., Herd, S.A., Mingus, B., & Jilk, D.J. (2013). Recurrent Processing during Object Recognition. Frontiers in Psychology, 4, http://www.ncbi.nlm.nih.gov/pubmed/23554596</p>
 
 <p id="OhmaeMedina15">Ohmae, S., & Medina, J.F. (2015). Climbing fibers encode a temporal-difference prediction error during cerebellar learning in mice. Nature Neuroscience, 18, 1798-1803. https://www.nature.com/articles/nn.4167 http://doi.org/10.1038/nn.4167</p>
-
-<p id="OhyamaNoresMurphyEtAl03">Ohyama, T., Nores, W.L., Murphy, M., & Mauk, M.D. (2003). What the cerebellum computes. Trends in neurosciences, 26, 222–227. http://www.ncbi.nlm.nih.gov/pubmed/12689774</p>
 
 <p id="Oja82">Oja, E. (1982). A simplified neuron model as a principal component analyzer. Journal of mathematical biology, 15, 267-273. http://www.ncbi.nlm.nih.gov/pubmed/7153672</p>
 
@@ -1014,6 +1038,8 @@
 
 <p id="PougetBeckMaEtAl13">Pouget, A., Beck, J.M., Ma, W.J., & Latham, P.E. (2013). Probabilistic brains: knowns and unknowns. Nature Neuroscience, 16, 1170-1178.  http://doi.org/10.1038/nn.3495</p>
 
+<p id="Powers73">Powers, W.T. (1973). Behavior: The Control of Perception. Hawthorne. </p>
+
 <p id="PragerPlotkin19">Prager, E.M., & Plotkin, J.L. (2019). Compartmental function and modulation of the striatum. Journal of Neuroscience Research, jnr.24522. https://onlinelibrary.wiley.com/doi/10.1002/jnr.24522 http://doi.org/10.1002/jnr.24522</p>
 
 <p id="PressFlanneryTeukolskyEtAl88">Press, W.H., Flannery, B.P., Teukolsky, S.A., & Vetterling, W.T. (1988). Numerical Recipies In C: The Art of Scientific Computing. Cambridge University Press. </p>
@@ -1037,8 +1063,6 @@
 <p id="RatcliffRouder98">Ratcliff, R., & Rouder, J.N. (1998). Modeling response times for two-choice decisions. Psychological Science, 9, 347. </p>
 
 <p id="RaymondLisberger98">Raymond, J.L., & Lisberger, S.G. (1998). Neural Learning Rules for the Vestibulo-Ocular Reflex. Journal of Neuroscience, 18, 9112-9129. https://www.jneurosci.org/content/18/21/9112 http://doi.org/10.1523/JNEUROSCI.18-21-09112.1998</p>
-
-<p id="RaymondLisbergerMaukEtAl96">Raymond, J.L., Lisberger, S.G., Mauk, M.D., & Raymond, J.L. (1996). The cerebellum: a neuronal learning machine? Science (New York, N.Y.), 272, 1126. http://www.ncbi.nlm.nih.gov/pubmed/8638157</p>
 
 <p id="RaymondMedina18">Raymond, J.L., & Medina, J.F. (2018). Computational Principles of Supervised Learning in the Cerebellum. Annual Review of Neuroscience, 41, 233-253. https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-080317-061948 http://doi.org/10.1146/annurev-neuro-080317-061948</p>
 
@@ -1198,11 +1222,11 @@
 
 <p id="SugiharaShinoda04">Sugihara, I., & Shinoda, Y. (2004). Molecular, Topographic, and Functional Organization of the Cerebellar Cortex: A Study with Combined Aldolase C and Olivocerebellar Labeling. Journal of Neuroscience, 24, 8771-8785. https://www.jneurosci.org/content/24/40/8771 http://doi.org/10.1523/JNEUROSCI.1961-04.2004</p>
 
-<p id="SugiharaShinoda07">Sugihara, I., & Shinoda, Y. (2007). Molecular, Topographic, and Functional Organization of the Cerebellar Nuclei: Analysis by Three-Dimensional Mapping of the Olivonuclear Projection and Aldolase C Labeling. Journal of Neuroscience, 27, 9696-9710. https://www.jneurosci.org/content/27/36/9696 http://doi.org/10.1523/JNEUROSCI.1579-07.2007</p>
-
 <p id="SummerfieldLuyckxSheahan20">Summerfield, C., Luyckx, F., & Sheahan, H. (2020). Structure learning and the posterior parietal cortex. Progress in Neurobiology, 184, 101717. http://www.sciencedirect.com/science/article/pii/S0301008219303351 http://doi.org/10.1016/j.pneurobio.2019.101717</p>
 
 <p id="SummerfielddeLange14">Summerfield, C., & Lange, F.P. (2014). Expectation in perceptual decision making: neural and computational mechanisms. Nature Reviews Neuroscience, 15, 745-756. https://www.nature.com/nrn/journal/v15/n11/full/nrn3838.html http://doi.org/10.1038/nrn3838</p>
+
+<p id="SurchevNazwarWeisheitEtAl07">Surchev, L., Nazwar, T.A., Weisheit, G., & Schilling, K. (2007). Developmental increase of total cell numbers in the murine cerebellum. The Cerebellum, 6, 315-320. https://doi.org/10.1080/14734220601169699 http://doi.org/10.1080/14734220601169699</p>
 
 <p id="SuryanarayanaHellgrenKotaleskiGrillnerEtAl19">Suryanarayana, S.M., Hellgren Kotaleski, J., Grillner, S., & Gurney, K.N. (2019). Roles for globus pallidus externa revealed in a computational model of action selection in the basal ganglia. Neural Networks, 109, 113-136. http://www.sciencedirect.com/science/article/pii/S0893608018302880 http://doi.org/10.1016/j.neunet.2018.10.003</p>
 
@@ -1292,11 +1316,11 @@
 
 <p id="VeceraFarah94">Vecera, S.P., & Farah, M.J. (1994). Does visual attention select objects or locations? Journal of Experimental Psychology: General, 123, 146-160. </p>
 
-<p id="Verduzco-FloresOReilly15">Verduzco-Flores, S.O., & O'Reilly, R.C. (2015). How the credit assignment problems in motor control could be solved after the cerebellum predicts increases in error. Frontiers in Computational Neuroscience, 9, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4371707/ http://doi.org/10.3389/fncom.2015.00039</p>
-
 <p id="VerfaellieRapcsakHeilman90">Verfaellie, M., Rapcsak, S.Z., & Heilman, K.M. (1990). Impaired shifting of attention in Balint's syndrome. Brain and Cognition, 12, 195-204. </p>
 
 <p id="VidalBrunaGiryesEtAl17">Vidal, R., Bruna, J., Giryes, R., & Soatto, S. (2017). Mathematics of Deep Learning. http://arxiv.org/abs/1712.04741 http://doi.org/10.48550/arXiv.1712.04741</p>
+
+<p id="VogesWuPostEtAl17">Voges, K., Wu, B., Post, L., Schonewille, M., & De Zeeuw, C.I. (2017). Mechanisms underlying vestibulo-cerebellar motor learning in mice depend on movement direction. The Journal of Physiology, 595, 5301-5326. https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274346 http://doi.org/10.1113/JP274346</p>
 
 <p id="Wald47">Wald, A. (1947). Sequential analysis. John Wiley. </p>
 
@@ -1311,6 +1335,8 @@
 <p id="WangLiuHaditschEtAl03">Wang, J., Liu, S.H., Haditsch, U., Tu, W.H., Cochrane, K., Ahmadian, G., Tran, L., Paw, J., Wang, Y.T., & Mansuy, I. (2003). Interaction of Calcineurin and Type-A GABA Receptor gamma2 Subunits Produces Long-Term Depression at CA1 Inhibitory Synapses. Journal of Neuroscience, 23, 826-836. </p>
 
 <p id="WangMarkramGoodmanEtAl06">Wang, Y., Markram, H., Goodman, P.H., Berger, T.K., Ma, J., & Goldman-Rakic, P.S. (2006). Heterogeneity in the pyramidal network of the medial prefrontal cortex. Nature Neuroscience, 9, 534-542.  http://doi.org/10.1038/nn1670</p>
+
+<p id="WangNakadateMasugi-TokitaEtAl14">Wang, W., Nakadate, K., Masugi-Tokita, M., Shutoh, F., Aziz, W., Tarusawa, E., Lorincz, A., Molnár, E., Kesaf, S., Li, Y., Fukazawa, Y., Nagao, S., & Shigemoto, R. (2014). Distinct cerebellar engrams in short-term and long-term motor learning. Proceedings of the National Academy of Sciences, 111, E188-E193. https://www.pnas.org/doi/abs/10.1073/pnas.1315541111 http://doi.org/10.1073/pnas.1315541111</p>
 
 <p id="WangStradtmanWangEtAl08">Wang, H., Stradtman, G.G., Wang, X., & Gao, W. (2008). A specialized NMDA receptor function in layer 5 recurrent microcircuitry of the adult rat prefrontal cortex. Proceedings of the National Academy of Sciences, 105, 16791-16796. https://www.pnas.org/content/105/43/16791 http://doi.org/10.1073/pnas.0804318105</p>
 
@@ -1336,10 +1362,6 @@
 
 <p id="Wolfe10">Wolfe, J.M. (2010). Visual search. Current Biology, 20, R346-R349. http://www.sciencedirect.com/science/article/pii/S0960982210001594 http://doi.org/10.1016/j.cub.2010.02.016</p>
 
-<p id="WolpertKawato98">Wolpert, D., & Kawato, M. (1998). Multiple paired forward and inverse models for motor control. Neural networks : the official journal of the International Neural Network Society, 11, 1317–1329. http://www.ncbi.nlm.nih.gov/pubmed/12662752</p>
-
-<p id="WolpertMiallKawato98">Wolpert, D.M., Miall, R.C., & Kawato, M. (1998). Internal models in the cerebellum. Trends in Cognitive Sciences, 2, 338–347. </p>
-
 <p id="XiangHuguenardPrince98">Xiang, Z., Huguenard, J.R., & Prince, D.A. (1998). Cholinergic switching within neocortical inhibitory networks. Science (New York, N.Y.), 281, 985–988. http://www.ncbi.nlm.nih.gov/pubmed/9703513</p>
 
 <p id="XiaoLiChitwoodEtAl23">Xiao, K., Li, Y., Chitwood, R.A., & Magee, J.C. (2023). A critical role for CaMKII in behavioral timescale synaptic plasticity in hippocampal CA1 pyramidal neurons. Science Advances, 9, eadi3088. https://www.science.org/doi/full/10.1126/sciadv.adi3088 http://doi.org/10.1126/sciadv.adi3088</p>
@@ -1349,6 +1371,10 @@
 <p id="YamadaInanobeKurachi98">Yamada, M., Inanobe, A., & Kurachi, Y. (1998). G protein regulation of potassium ion channels. Pharmacological Reviews, 50, 723-757. https://pharmrev.aspetjournals.org/content/50/4/723</p>
 
 <p id="YangCampbellHuangEtAl25">Yang, Y., Campbell, D., Huang, K., Wang, M., Cohen, J., & Webb, T. (2025). Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models. http://arxiv.org/abs/2502.20332 http://doi.org/10.48550/arXiv.2502.20332</p>
+
+<p id="YangLisberger14">Yang, Y., & Lisberger, S.G. (2014). Purkinje-cell plasticity and cerebellar motor learning are graded by complex-spike duration. Nature, 510, 529-532. https://www.nature.com/articles/nature13282 http://doi.org/10.1038/nature13282</p>
+
+<p id="YangLisberger14a">Yang, Y., & Lisberger, S.G. (2014). Role of Plasticity at Different Sites across the Time Course of Cerebellar Motor Learning. Journal of Neuroscience, 34, 7077-7090. https://www.jneurosci.org/content/34/21/7077 http://doi.org/10.1523/JNEUROSCI.0017-14.2014</p>
 
 <p id="YangLiu22">Yang, Y., & Liu, J. (2022). Structural LTP: Signal transduction, actin cytoskeleton reorganization, and membrane remodeling of dendritic spines. Current Opinion in Neurobiology, 74, 102534. https://www.sciencedirect.com/science/article/pii/S0959438822000289 http://doi.org/10.1016/j.conb.2022.102534</p>
 
@@ -1375,6 +1401,8 @@
 <p id="ZhangLinden06">Zhang, W., & Linden, D.J. (2006). Long-Term Depression at the Mossy Fiber–Deep Cerebellar Nucleus Synapse. Journal of Neuroscience, 26, 6935-6944. https://www.jneurosci.org/content/26/26/6935 http://doi.org/10.1523/JNEUROSCI.0784-06.2006</p>
 
 <p id="ZhangWangZhu16">Zhang, X., Wang, J., & Zhu, J. (2016). Cerebellar fastigial nucleus: from anatomic construction to physiological functions. Cerebellum & Ataxias, 3, 9. https://doi.org/10.1186/s40673-016-0047-1 http://doi.org/10.1186/s40673-016-0047-1</p>
+
+<p id="ZhangYangGaffieldEtAl23">Zhang, K., Yang, Z., Gaffield, M.A., Gross, G.G., Arnold, D.B., & Christie, J.M. (2023). Molecular layer disinhibition unlocks climbing-fiber-instructed motor learning in the cerebellum. 2023.08.04.552059. https://www.biorxiv.org/content/10.1101/2023.08.04.552059v1 http://doi.org/10.1101/2023.08.04.552059</p>
 
 <p id="ZhengWolfRanganathEtAl25">Zheng, Y., Wolf, N., Ranganath, C., O'Reilly, R.C., & McKee, K.L. (2025). Flexible prefrontal control over hippocampal episodic memory for goal-directed generalization. http://arxiv.org/abs/2503.02303 http://doi.org/10.48550/arXiv.2503.02303</p>
 
