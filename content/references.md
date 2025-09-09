@@ -156,6 +156,10 @@
 
 <p id="Brooks86">Brooks, R. (1986). A robust layered control system for a mobile robot. IEEE Journal on Robotics and Automation, 2, 14-23.  http://doi.org/10.1109/JRA.1986.1087032</p>
 
+<p id="BrooksCarriotCullen15">Brooks, J.X., Carriot, J., & Cullen, K.E. (2015). Learning to expect the unexpected: rapid updating in primate cerebellum during voluntary self-motion. Nature Neuroscience, 18, 1310-1317. https://www.nature.com/articles/nn.4077 http://doi.org/10.1038/nn.4077</p>
+
+<p id="BrooksCullen13">Brooks, J.X., & Cullen, K.E. (2013). The Primate Cerebellum Selectively Encodes Unexpected Self-Motion. Current Biology, 23, 947-955. https://www.cell.com/current-biology/abstract/S0960-9822(13)00437-5 http://doi.org/10.1016/j.cub.2013.04.029</p>
+
 <p id="BrownBullockGrossberg04">Brown, J.W., Bullock, D., & Grossberg, S. (2004). How laminar frontal cortex and basal ganglia circuits interact to control planned and reactive saccades. Neural Networks, 17, 471-510. http://www.ncbi.nlm.nih.gov/pubmed/15109680</p>
 
 <p id="BrunelWang01">Brunel, N., & Wang, X.J. (2001). Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition. Journal of Computational Neuroscience, 11, 63-85. http://www.ncbi.nlm.nih.gov/pubmed/11524578</p>
@@ -1167,6 +1171,8 @@
 <p id="ShadlenNewsome98">Shadlen, M.N., & Newsome, W.T. (1998). The variable discharge of cortical neurons: implications for connectivity, computation, and information coding. The Journal of neuroscience : the official journal of the Society for Neuroscience, 18, 3870. http://www.ncbi.nlm.nih.gov/pubmed/9570816</p>
 
 <p id="Shadmehr20">Shadmehr, R. (2020). Population coding in the cerebellum: a machine learning perspective. Journal of Neurophysiology, 124, 2022-2051. https://journals.physiology.org/doi/full/10.1152/jn.00449.2020 http://doi.org/10.1152/jn.00449.2020</p>
+
+<p id="ShadmehrSmithKrakauer10">Shadmehr, R., Smith, M.A., & Krakauer, J.W. (2010). Error correction, sensory prediction, and adaptation in motor control. Annual Review of Neuroscience, 33, 89-108.  http://doi.org/10.1146/annurev-neuro-060909-153135</p>
 
 <p id="Shannon48">Shannon, C.E. (1948). A Mathematical Theory of Communication. Bell Systems Technical Journal, 27, 623-656. </p>
 
