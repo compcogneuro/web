@@ -64,6 +64,8 @@
 
 <p id="BarKassamGhumanEtAl06">Bar, M., Kassam, K., Ghuman, A., Boshyan, J., & Schmidt, A. (2006). Top-down facilitation of visual recognition. Proceedings of the National Academy of Sciences, 103, 449–454. http://www.pnas.org/cgi/content/abstract/103/2/449</p>
 
+<p id="BarakTsodyks14">Barak, O., & Tsodyks, M. (2014). Working models of working memory. Current Opinion in Neurobiology, 25, 20-24. http://www.sciencedirect.com/science/article/pii/S0959438813002158 http://doi.org/10.1016/j.conb.2013.10.008</p>
+
 <p id="Barlow61">Barlow, H. (1961). Possible principles underlying the transformation of sensory messages. Sensory Communication, 217-234. https://cir.nii.ac.jp/crid/1570291225093500032</p>
 
 <p id="BarterLiSukharnikovaEtAl15">Barter, J.W., Li, S., Sukharnikova, T., Rossi, M.A., Bartholomew, R.A., & Yin, H.H. (2015). Basal Ganglia Outputs Map Instantaneous Position Coordinates during Behavior. Journal of Neuroscience, 35, 2703-2716. https://www.jneurosci.org/content/35/6/2703 http://doi.org/10.1523/JNEUROSCI.3245-14.2015</p>
@@ -153,6 +155,8 @@
 <p id="BretteGerstner05">Brette, R., & Gerstner, W. (2005). Adaptive exponential integrate-and-fire model as an effective description of neuronal activity. Journal of Neurophysiology, 94, 3637-3642. http://jn.physiology.org/content/94/5/3637 http://doi.org/10.1152/jn.00686.2005</p>
 
 <p id="BretteRudolphCarnevaleEtAl07">Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris, F.C., & Others (2007). Simulation of networks of spiking neurons: A review of tools and strategies. Journal of Computational Neuroscience, 23, 349-398. http://www.ncbi.nlm.nih.gov/pubmed/17629781</p>
+
+<p id="BrodyRomoKepecs03">Brody, C.D., Romo, R., & Kepecs, A. (2003). Basic mechanisms for graded persistent activity: discrete attractors, continuous attractors, and dynamic representations. Current Opinion in Neurobiology, 13, 204-211. http://www.ncbi.nlm.nih.gov/pubmed/12744975</p>
 
 <p id="Brooks86">Brooks, R. (1986). A robust layered control system for a mobile robot. IEEE Journal on Robotics and Automation, 2, 14-23.  http://doi.org/10.1109/JRA.1986.1087032</p>
 
@@ -774,6 +778,8 @@
 
 <p id="LillicrapSantoroMarrisEtAl20">Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J., & Hinton, G. (2020). Backpropagation and the brain. Nature Reviews Neuroscience, 21(6), 335-346. https://www.nature.com/articles/s41583-020-0277-3 http://doi.org/10.1038/s41583-020-0277-3</p>
 
+<p id="LimGoldman14">Lim, S., & Goldman, M.S. (2014). Balanced Cortical Microcircuitry for Spatial Working Memory Based on Corrective Feedback Control. Journal of Neuroscience, 34, 6790-6806. http://www.jneurosci.org/content/34/20/6790 http://doi.org/10.1523/JNEUROSCI.4602-13.2014</p>
+
 <p id="Lin92">Lin, L. (1992). Reinforcement learning for robots using neural networks. [phd, Carnegie Mellon University]. ACM Digital Library. </p>
 
 <p id="LindahlKotaleski16">Lindahl, M., & Kotaleski, J.H. (2016). Untangling Basal Ganglia Network Dynamics and Function: Role of Dopamine Depletion and Inhibition Investigated in a Spiking Network Model. eNeuro, 3, https://www.eneuro.org/content/3/6/ENEURO.0156-16.2016 http://doi.org/10.1523/ENEURO.0156-16.2016</p>
@@ -1074,6 +1080,8 @@
 
 <p id="RedgravePrescottGurney99">Redgrave, P., Prescott, T.J., & Gurney, K. (1999). Is the short-latency dopamine response too short to signal reward error? Trends in neurosciences, 22, 146-151. http://www.ncbi.nlm.nih.gov/pubmed/10203849</p>
 
+<p id="RedishElgaTouretzky96">Redish, A.D., Elga, A.N., & Touretzky, D.S. (1996). A coupled attractor model of the rodent head direction system. Network: computation in neural systems, 7, 671. https://iopscience.iop.org/article/10.1088/0954-898X/7/4/004/meta</p>
+
 <p id="RedondoMorris11">Redondo, R.L., & Morris, R.G.M. (2011). Making memories last: the synaptic tagging and capture hypothesis. Nature Reviews Neuroscience, 12, 17-30. http://www.nature.com/nrn/journal/v12/n1/abs/nrn2963.html http://doi.org/10.1038/nrn2963</p>
 
 <p id="RescorlaWagner72">Rescorla, R.A., & Wagner, A.R. (1972). A theory of Pavlovian conditioning: Variation in the effectiveness of reinforcement and non-reinforcement. In A.H. Black, & W.F. Prokasy (Eds.), Classical Conditioning II: Theory and Research (pp. 64-99). Appleton-Century-Crofts. </p>
@@ -1176,6 +1184,8 @@
 
 <p id="Shannon48">Shannon, C.E. (1948). A Mathematical Theory of Communication. Bell Systems Technical Journal, 27, 623-656. </p>
 
+<p id="SharpBlairBrown96">Sharp, P.E., Blair, H.T., & Brown, M. (1996). Neural network modeling of the hippocampal formation spatial signals and their possible role in navigation: A modular approach. Hippocampus, 6, 720-734. https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1063%281996%296%3A6%3C720%3A%3AAID-HIPO14%3E3.0.CO%3B2-2 http://doi.org/10.1002/(SICI)1098-1063(1996)6:6<720::AID-HIPO14>3.0.CO;2-2</p>
+
 <p id="ShenFlajoletGreengardEtAl08">Shen, W., Flajolet, M., Greengard, P., & Surmeier, D.J. (2008). Dichotomous Dopaminergic Control of Striatal Synaptic Plasticity. Science, 321, 848-851. https://www.science.org/doi/full/10.1126/science.1160575 http://doi.org/10.1126/science.1160575</p>
 
 <p id="ShenhavBotvinickCohen13">Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2013). The expected value of control: an integrative theory of anterior cingulate cortex function. Neuron, 79, 217–240. http://www.ncbi.nlm.nih.gov/pubmed/23889930</p>
@@ -1207,6 +1217,8 @@
 <p id="SimoncelliOlshausen01">Simoncelli, E.P., & Olshausen, B.A. (2001). Natural image statistics and neural representation. Annual Review of Neuroscience, 24, 1193-1216. https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.24.1.1193 http://doi.org/10.1146/annurev.neuro.24.1.1193</p>
 
 <p id="SimpsonWylieZeeuw96">Simpson, J.I., Wylie, D.R., & Zeeuw, C.I.D. (1996). On climbing fiber signals and their consequence(s) Behavioral and Brain Sciences, 19, 384-398. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/on-climbing-fiber-signals-and-their-consequences/AB7A6192A7709A33F3DA0AB6E226FE97 http://doi.org/10.1017/S0140525X00081486</p>
+
+<p id="SkaggsKnierimKudrimotiEtAl94">Skaggs, W., Knierim, J., Kudrimoti, H., & McNaughton, B. (1994). A Model of the Neural Basis of the Rat' s Sense of Direction. In Advances in Neural Information Processing Systems. MIT Press. https://proceedings.neurips.cc/paper/1994/hash/024d7f84fff11dd7e8d9c510137a2381-Abstract.html</p>
 
 <p id="SmithRajuPareEtAl04">Smith, Y., Raju, D.V., Pare, J., & Sidibe, M. (2004). The thalamostriatal system: a highly specific network of the basal ganglia circuitry. Trends in Neurosciences, 27, 520-527. http://www.ncbi.nlm.nih.gov/pubmed/15331233</p>
 
@@ -1261,6 +1273,8 @@
 <p id="TanakaIshikawaLeeEtAl20">Tanaka, H., Ishikawa, T., Lee, J., & Kakei, S. (2020). The Cerebro-Cerebellum as a Locus of Forward Model: A Review. Frontiers in Systems Neuroscience, 14, https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2020.00019/full http://doi.org/10.3389/fnsys.2020.00019</p>
 
 <p id="TangXiaoSuhEtAl17">Tang, T., Xiao, J., Suh, C.Y., Burroughs, A., Cerminara, N.L., Jia, L., Marshall, S.P., Wise, A.K., Apps, R., Sugihara, I., & Lang, E.J. (2017). Heterogeneity of Purkinje cell simple spike–complex spike interactions: zebrin- and non-zebrin-related variations. The Journal of Physiology, 595, 5341-5357. https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274252 http://doi.org/10.1113/JP274252</p>
+
+<p id="Taube07">Taube, J.S. (2007). The Head Direction Signal: Origins and Sensory-Motor Integration. Annual Review of Neuroscience, 30, 181-207. https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854 http://doi.org/10.1146/annurev.neuro.29.051605.112854</p>
 
 <p id="TavernaIlijicSurmeier08">Taverna, S., Ilijic, E., & Surmeier, D.J. (2008). Recurrent collateral connections of striatal medium spiny neurons are disrupted in models of Parkinson's disease. Journal of Neuroscience, 28, 5504-5512. http://www.jneurosci.org/cgi/content/abstract/28/21/5504</p>
 
@@ -1403,6 +1417,8 @@
 <p id="ZangDeSchutter19">Zang, Y., & De Schutter, E. (2019). Climbing Fibers Provide Graded Error Signals in Cerebellar Learning. Frontiers in Systems Neuroscience, 13, https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00046/full http://doi.org/10.3389/fnsys.2019.00046</p>
 
 <p id="ZeeuwHanselBianEtAl98">Zeeuw, C.I.D., Hansel, C., Bian, F., Koekkoek, S.K.E., Alphen, A.M., Linden, D.J., & Oberdick, J. (1998). Expression of a Protein Kinase C Inhibitor in Purkinje Cells Blocks Cerebellar LTD and Adaptation of the Vestibulo-Ocular Reflex. Neuron, 20, 495-508. https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3 http://doi.org/10.1016/S0896-6273(00)80990-3</p>
+
+<p id="Zhang96">Zhang, K. (1996). Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: a theory. The Journal of neuroscience : the official journal of the Society for Neuroscience, 16, 2112. http://www.ncbi.nlm.nih.gov/pubmed/8604055</p>
 
 <p id="ZhangLinden06">Zhang, W., & Linden, D.J. (2006). Long-Term Depression at the Mossy Fiber–Deep Cerebellar Nucleus Synapse. Journal of Neuroscience, 26, 6935-6944. https://www.jneurosci.org/content/26/26/6935 http://doi.org/10.1523/JNEUROSCI.0784-06.2006</p>
 

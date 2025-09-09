@@ -21,7 +21,7 @@ Ultimately, the definitive step in the scientific method is through direct empir
 
 These are the central elements of Axon in terms of neural and computational mechanisms, most of which are well established properties of the mammalian [[neocortex]]:
 
-* [[neuron|Spiking neurons]] with relatively long-lasting [[neuron channels#NMDA]] and [[neuron channels#GABA-B]] channels that support [[stable activation]] states over the course of a roughly 200 msec [[theta cycle]], which is essential for establishing a coherent representation of the current input state. This stability is necessary to drive effective learning
+* [[neuron|Spiking neurons]] with relatively long-lasting [[neuron channels#NMDA]] and [[neuron channels#GABA-B]] channels that support [[stable activation]] states over the course of a roughly 200 msec [[theta rhythm|theta cycle]], which is essential for establishing a coherent representation of the current input state. This stability is necessary to drive effective learning
 
     The Axon neuron model is fairly conventional from a computational neuroscience perspective, featuring two compartments (soma and [[neuron dendrites|dendrite]]) using a range of conductance-based electrophysiologically-accurate [[neuron channels|channels]] and the widely-used _AdEx_ adaptive exponential approximation to the full Hodgkin-Huxley spiking dynamics ([[@BretteGerstner05]]).
 
