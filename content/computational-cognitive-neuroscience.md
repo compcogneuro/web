@@ -91,7 +91,7 @@ The process of trying to figure out what the brain actually does at a computatio
 
 One response to this is that, in fact, we do know a lot about both the computational and cognitive levels of description for what the brain is doing, and that by putting all of this together, we can actually have some reasonable hope of understanding what the brain is doing. In many aspects of brain function, including [[synaptic plasticity]], [[perception]], and [[memory]], there is a sufficiently well-established concensus understanding spanning across these levels, that it is reasonable to be relatively confident that we truly do understand what the brain is doing.
 
-Furthermore, the general problem of [[reinforcement learning]] in complex, real-world environments is sufficiently intractable due to the [[curse of dimensionality]] that all animals rely heavily on evolution for significant survival-relevant skills. Thus, the only way to really understand how the human brain functions is to somehow reverse-engineer what we start with from evolution, and how that shapes subsequent learning over our lifetimes. This is the objective of the [[Rubicon]] framework.
+Furthermore, the general problem of [[reinforcement learning]] in complex, real-world environments is sufficiently intractable due to the [[curse of dimensionality]] that all animals rely heavily on [[evolution]] for significant survival-relevant skills. Thus, the only way to really understand how the human brain functions is to somehow reverse-engineer what we start with from evolution, and how that shapes subsequent learning over our lifetimes. This is the objective of the [[Rubicon]] framework.
 
 ## AI, ML, and neuroscience
 

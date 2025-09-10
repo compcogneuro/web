@@ -11,6 +11,7 @@ The following have contributed to this project:
 * Seth Herd: long-time collaborator on simulations and papers.
 * Members of the [CCNLab](https://ccnlab.org) over the years.
 * Stephen Read: active user of the [[Leabra]] framework and CCN [[book]].
+* Jonathan Cohen, Alex Petrov, Taylor Webb, Tim Buschman, Randy Gobbel and other members of the longstanding _Analogy group_ that is focused on understanding how higher-level cognitive functionality emerges from brain-like mechanisms.
 
 ## Contributing
 

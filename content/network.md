@@ -1,3 +1,8 @@
++++
+Categories = ["Computation"]
+bibfile = "ccnlab.json"
++++
+
 The web of interconnected [[neuron]]s in the brain is known as a **network**, and there are a number of important [[computational cognitive neuroscience#emergent phenomena]] that arise in these networks, associated with different patterns of connectivity present in the [[neocortex]]. We can only really understand brain function in terms of these networks and populations of neurons.
 
 The _feedforward_ flow of neural activity from lower layers of neurons that are closer to the sensory inputs up to higher layers can be understood in terms of [[categorization]], where detailed sensory patterns are systematically transformed into more abstract categories that provide a more efficient [[linear algebra|basis]] for behavior.

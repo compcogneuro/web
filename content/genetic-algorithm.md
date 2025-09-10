@@ -16,7 +16,7 @@ The process of evolution thus proceeds by randomly generating genotypes, creatin
 
 From a pragmatic perspective in relation to the [[Axon]] and [[Rubicon]] models, GAs are typically too computationally expensive to be of significant value. Simulating a single brain-level model of any complexity is already a very computationally expensive process, so iterating over large populations of such models for many generations is not an efficient way to proceed.
 
-Instead, we take the approach of [[computational-cognitive-neuroscience#reverse engineering the brain]] through [[neuroscience]] informed by research on [[cognition]] and [[computation]] to conduct a more directed, hypothesis-driven search for the key "discoveries" that millions of years of evolution on our planet has produced.
+Instead, we take the approach of [[computational-cognitive-neuroscience#reverse engineering the brain]] through [[neuroscience]] informed by research on [[cognition]] and [[computation]] to conduct a more directed, hypothesis-driven search for the key "discoveries" that millions of years of [[evolution]] on our planet has produced.
 
 Nevertheless, in specific narrower contexts, GA algorithms are the only way to proceed.
 

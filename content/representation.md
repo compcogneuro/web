@@ -1,3 +1,8 @@
++++
+Categories = ["Computation"]
+bibfile = "ccnlab.json"
++++
+
 The term **representation** is used everywhere in cognitive neuroscience, often without much of a precise definition. In the [[computational cognitive neuroscience]] framework used here, we can provide a precise definition of a representation:
 
 > A representation is a pattern of neural activity [[distributed representations|distributed]] across a population of neurons, where the similarity structure of these patterns captures the overall semantic meaning.

@@ -1,0 +1,29 @@
++++
+Categories = ["Neuroscience"]
+bibfile = "ccnlab.json"
++++
+
+The process of **evolution** is effectively a massively parallel [[search]] algorithm over the developmental process encoded in DNA, to optimize its ability to replicate itself. In the context of limited resources, this results in competition, and the long bloody battle of life on earth is the natural consequence. The result of millions of years of this process is reflected in the way that the mammalian brain is organized to optimize the survival and replication of the species. Relative to other beasts, mammals have larger brains with more elaborated features, and especially the [[neocortex]], which supports pervasive [[bidirectional connectivity]] that enables cognitive abilities that are not possible without this hardware.
+
+The [[Rubicon]] framework is an attempt to [[computational-cognitive-neuroscience#reverse engineer the brain]] to discover the lessons that evolution has discovered for organizing multiple brain areas to drive efficient goal-driven behavior that can organize actions over time in a way that optimizes the overall balance of positive outcomes relative to costs such as effort and risk. The hypothesis is that the parallel search process of evolution cannot be readily replicated through generic error-driven learning mechanisms operating within the "lifespan" of individual models, and must therefore be understood and implemented by appropriate neural systems. 
+
+{id="figure_evol" style="height:60em"}
+![Key changes in brain features over the course of evolutionary history, from Cisek (2021).](media/fig_evolution_cisek_21.png)
+
+[[#figure_evol]] shows an amazing figure from [[@^Cisek21]] that documents some of the key changes in brain structure associated with the evolutionary trajectory leading to mammals, primates, and ultimately humans. This provides a big-picture sense of the way in which various features have been added over time. There are two main "strategies" that can be seen in the evolutionary trajectory:
+
+* Elaboration and enlargement of existing structures, making them bigger and more capable by tweaking the effective algorithms at work.
+
+* Adding new structures on top of existing ones, with entirely new neural architectures, such as the neocortex. In this case, the existing systems are typically under modulatory control by the new systems, consistent with the [[subsumption]] architecture ([[@Brooks86]]).
+
+{id="figure_tube" style="height:45em"}
+![The tube-based template for the brain (Bauplan), in an amphioxus brain (a) versus a gnathostome (jawed fish), illustrating the processes of elaboration and addition. From Cisek (2021).](media/fig_evolution_brain_template_cisek_21.png)
+
+[[#figure_tube]] shows examples of both of these processes, in the changes from an _amphioxus_ brain (just above starfish in [[#figure_evol]]) to an early _gnathostome_ jawed fish (of which a shark is a modern-day example).  The existing tube-like _bauplan_ that provides a template for the development and structure of all brains ([[@NieuwenhuysPuelles15]]) is preserved and elaborated over the evolutionary trajectory. The most anterior, high-level brain areas present in the _amphioxus_ are equivalent to the hypothalamus, providing basic sensing of nutrient intake and basic motor actions. The template of _dorsal_ areas of the tube being sensory and _ventral_ areas being motor is established.
+
+In the jawed fish, many additional structures are present, building on top of the hypothalamus (_LHA_) and including the _mammillary body (MB)_ that is critical for [[space|spatial]] processing of body movement. The [[cerebellum]] makes its first appearance here, notably in the dorsal sensory part of the tube, processing _lateral line_ sensory inputs that are the fish-equivalent of proprioception and [[vestibular]] senses, to learn to predict and cancel the effects of the animal's self motion, so that unexplained perturbations are evident, to drive appropriately responsive [[motor]] actions.
+
+The core elements of the [[basal ganglia]] (_Str_ = striatum, _Pd_ = pallidum, _SNr_ = substantia nigra pars reticulata) are present, with the template of _approach_ vs. _escape_ circuits inherited from _amphioxus_ corresponding to the _Go_ vs. _No_ pathways in the BG. The _ventral pallidum (VPall)_ is positioned to provide the outer-loop goal-driven modulation of the BG action system, with direct input from olfactory bulb (OB) chemosenses, and visual input from the optic _tectum_ (progenitor of the [[superior colliculus]] in mammals). The VP remains a central element in the goal-driven [[Rubicon]] framework developed here. See [[@^GrillnerRobertson16]] for a more thorough discussion of the evolutionary history of the BG.
+
+Remarkably, even this evolutionarily ancient brain template in the early jawed fishes from 500 million years ago has many of the same functionality and organization that is present in the mammalian brain, and understanding these simpler brain systems helps us to understand the functionality and organization of the more complex brain systems. [[@^Cisek21]] is definitely worth the time to read for many more details and ideas about the lessons from evolution.
+

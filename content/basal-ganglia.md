@@ -207,7 +207,7 @@ The [[arm maze simulation]] shows how the [[Rubicon]] model exhibits this same p
 {id="figure_ds-actions" style="height:30em"}
 ![Averaged traces of neural activity (yellow colors) and inactivity (blue) of dSPNs and iSPNs in the DLS of freely behaving mice, associated with different actions as labeled. Each line represents the behaviorally-synchronized average for an individual neuron. There is bidirectional modulation of neural activity in both pathways specific to each action, straddling the onset of these actions. Any given neuron has a relatively brief phasic window of activity, which reliably occurs at about the same relative point in time across instances of the behavior. From Markowitz et al., 2018.](media/fig_bg_dorsal_activity_markowitz_etal_18.png)
 
-[[#figure_ds_actions]] shows neural activity in the dorsolateral striatum (DLS) of freely-behaving mice associated with different actions that they naturally exhibited ([[@MarkowitzGillisBeronEtAl18]]). The most evident properties of these responses are:
+[[#figure_ds-actions]] shows neural activity in the dorsolateral striatum (DLS) of freely-behaving mice associated with different actions that they naturally exhibited ([[@MarkowitzGillisBeronEtAl18]]). The most evident properties of these responses are:
 
 * Individual SPN neurons exhibit reliable, precisely-timed, and brief windows of activity and inhibition in relationship to distinct motor actions, spanning the time window from slightly anticipating the action onset (by roughly 50-70 ms) to roughly 1 s post-action. This is very different from the VS neurons shown above.
 
@@ -401,4 +401,6 @@ There is also evidence that different species have different balances of BG vs. 
 * [[BG ventral simulation]] is the simpler of the two basic BG models, and is the best way to understand the basic dynamics of the PCore model. It simulates the [[Rubicon]] goal-selection process in ventromedial striatum and associated BG circuits through the [[#ventral pallidum]], based on cortical input indicating the relative costs vs benefits of selecting a given goal.
 
 * [[BG dorsal simulation]] explores the dynamic motor control process supported by the dorsolateral striatum and associated BG circuits, in a simple motor sequencing task where the correct motor sequence is rewarded and others are not.
+
+<!--- Notes from Tom: clarify heterogeneity of VS -- lots of evolutionary stuff in there in addition to key goal projecting neurons in the MD.  GPePr -> GPePr inhibition is diffuse, but GPeAk -> Striatum is more focal. * try going back to patch neurons where they could actually release da and then get trained from final da -- more of a chaining model than a credit assignment model. DMS is like DLS, but for DLPFC -->
 

@@ -144,7 +144,7 @@ The Rubicon goal-driven framework posits that there are two qualitatively-distin
 {id="figure_motor-thal" style="height:30em"}
 ![Motor area thalamocortical connectivity organized along the motor hierarchy from primary to higher, associative areas (i.e., dlPFC / ALM). From Bosch-Bouju et al., 2013.](media/fig_pfc_thalamus_loops_bosch-bouju_etal_13.png)
 
-A more detailed discussion of these different thalamocortical loops is provided in the [[thalamus]] page, but the main points are summarized in [[#figure_md-pfc]] from [[@^KuramotoPanFurutaEtAl17]] showing the goal-gating connectivity of area MD in rodents, and [[#figure-motor-thal]] showing the motor area thalamocortical loops organized according to the motor hierarchy ([[@Bosch-BoujuHylandParr-Brownlie13]]).
+A more detailed discussion of these different thalamocortical loops is provided in the [[thalamus]] page, but the main points are summarized in [[#figure_md-pfc]] from [[@^KuramotoPanFurutaEtAl17]] showing the goal-gating connectivity of area MD in rodents, and [[#figure_motor-thal]] showing the motor area thalamocortical loops organized according to the motor hierarchy ([[@Bosch-BoujuHylandParr-Brownlie13]]).
 
 In the case of the MD, the medial portion (MDm) provides a single locus of gating control over all of the goal-relevant PFC areas, while the central (MDc) provides more specific connectivity to OFC (outcome) areas, while lateral (MDl) connects with the PL and ACC areas. This is consistent with the idea that there are both global goal-wide gating signals for engaging an active goal, and more specific updating of the outcome and effort / utility aspects of the goal state as things progress.
 

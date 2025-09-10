@@ -946,6 +946,8 @@
 
 <p id="NiederMiller04">Nieder, A., & Miller, E.K. (2004). Analog numerical representations in rhesus monkeys: evidence for parallel processing. Journal of cognitive neuroscience, 16, 889-901. http://www.ncbi.nlm.nih.gov/pubmed/15200715</p>
 
+<p id="NieuwenhuysPuelles15">Nieuwenhuys, R., & Puelles, L. (2015). Towards a New Neuromorphology. Springer. </p>
+
 <p id="NormanOReilly03">Norman, K.A., & O'Reilly, R.C. (2003). Modeling hippocampal and neocortical contributions to recognition memory: a complementary-learning-systems approach. Psychological Review, 110, 611-646. http://www.ncbi.nlm.nih.gov/pubmed/14599236</p>
 
 <p id="Nowlan90">Nowlan, S.J. (1990). Maximum Likelihood Competitive Learning. In D.S. Touretzky (Ed.), Advances in Neural Information Processing Systems, 2 (pp. 574-582). Morgan Kaufmann. </p>
