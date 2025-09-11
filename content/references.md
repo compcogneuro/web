@@ -480,6 +480,8 @@
 
 <p id="Gould77">Gould, S.J. (1977). Ontogeny and phylogeny. Harvard U Press. </p>
 
+<p id="GouldLewontin79">Gould, S.J., & Lewontin, R.C. (1979). The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme. Proceedings of the Royal Society (London) B, 205, 581-598. </p>
+
 <p id="GraybielRagsdale78">Graybiel, A.M., & Ragsdale, C.W.J. (1978). Histochemically distinct compartments in the striatum of human, monkey, and cat demonstrated by acetylthiocholinesterase staining. Proceedings of the National Academy of Sciences, USA, 75, 5723-5726. </p>
 
 <p id="GreenSteinmetz05">Green, J.T., & Steinmetz, J.E. (2005). Purkinje cell activity in the cerebellar anterior lobe after rabbit eyeblink conditioning. Learning & Memory, 12, 260-269. http://learnmem.cshlp.org/content/12/3/260 http://doi.org/10.1101/lm.89505</p>
