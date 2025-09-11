@@ -13,7 +13,7 @@ BFCN = basal forebrain cholinergic neurons
 
 ## Biological data
 
-In general, the ACh system is dauntingly complex at a biological level, with multiple different types of muscarinic and nicotinic receptors having opposing responses to ACh binding, and many ACh-releasing neurons also co-releasing other neurotransmitters ([[@AnanthRajebhosaleKimEtAl23]]; [[@AbudukeyoumuHernandez-FloresGarcia-MunozEtAl19]]). This is consistent with an evolutionary process that is constantly tweaking existing neural pathways to optimize behavior in various ways. Given our interest in more generalized mechanisms that support learning and modulation to accomplish well-defined computational functions, we are necessarily oversimplifying and omitting many of these details.
+In general, the ACh system is dauntingly complex at a biological level, with multiple different types of muscarinic and nicotinic receptors having opposing responses to ACh binding, and many ACh-releasing neurons also co-releasing other neurotransmitters ([[@AnanthRajebhosaleKimEtAl23]]; [[@AbudukeyoumuHernandez-FloresGarcia-MunozEtAl19]]). This is consistent with an [[evolution|evolutionary]] process that is constantly tweaking existing neural pathways to optimize behavior in various ways. Given our interest in more generalized mechanisms that support learning and modulation to accomplish well-defined computational functions, we are necessarily oversimplifying and omitting many of these details.
 
 ### Volume transmission
 

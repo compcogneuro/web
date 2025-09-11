@@ -35,7 +35,7 @@ The active goal selected at any point in time is more like the single step in a 
 
 The widely-cited SMART goal-setting framework (specific, measurable, achievable, relevant, and time-bound ([[@Doran81]]) provides a good rule-of-thumb for what an active engaged goal should be, with specificity being critical for actually facilitating the transition to the active goal state, so there is an actual concrete action plan to guide behavior. This is consistent with the implementation intention if-then plans described by [[@^GollwitzerSheeran06]].
 
-Thus, the core goal-driven system governs the _inner-loop_ of behavior, operating over relatively short time intervals of seconds to minutes, to actively guide behavior. Because this core goal system is evolutionarily ancient and supported by a number of subcortical brain areas working in concert with the neocortex, it tends to fly below the level of [[conscious awareness]].
+Thus, the core goal-driven system governs the _inner-loop_ of behavior, operating over relatively short time intervals of seconds to minutes, to actively guide behavior. Because this core goal system is [[evolution|evolutionarily]] ancient and supported by a number of subcortical brain areas working in concert with the neocortex, it tends to fly below the level of [[conscious awareness]].
 
 The more conscious, deliberative aspects of goal selection constitute a more diffuse _outer-loop_ of context and constraints that also get activated and updated in the course of the inner-loop goal selection and engagement process, but are not directly guiding online behavioral choices in the way that the active goal does ([[@HerdKruegerNairEtAl21]]).
 
@@ -43,7 +43,7 @@ Therefore, when you are sitting around thinking about what to do, you may engage
 
 From a neuroscience perspective, these goal-related principles require neural mechanisms to somehow organize the overall dynamic of goal selection and engagement, and provide the goal selection process with good estimates of the cost / benefit tradeoffs for different options, etc. The [[emotion]]al / motivational system is central, because what we experience subjectively as the emotional outcomes of goal success or failure are driven by brainstem circuits that have evolved to keep us oriented toward survival-relevant behaviors.
 
-Based on extensive research, these brain systems involve multiple layers of interconnected areas overlapping with the the classical [[limbic system]], including the ventral and medial [[prefrontal cortex]], [[basal ganglia]], [[amygdala]], and neuromodulatory systems including [[dopamine]] and [[acetycholine]].
+Based on extensive research, these brain systems involve multiple layers of interconnected areas overlapping with the [[limbic system]], including the ventral and medial [[prefrontal cortex]], [[basal ganglia]], [[amygdala]], and neuromodulatory systems including [[dopamine]] and [[acetycholine]].
 
 The subsequent sections provide a more detailed overview of the relevant computational, cognitive, and neuroscience issues underlying the Rubicon framework. Further elaboration is then provided in the following pages:
 

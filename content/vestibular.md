@@ -12,7 +12,7 @@ Furthermore, our ability to navigate through large spaces depends critically on 
 
 [[#figure_system]] provides an overview of the vestibular system and its projections into the rest of the brain, organized into four primary tracts.
 
-* [[Cerebellum]]: the most evolutionarily ancient parts of the cerebellum are strongly bidirectionally interconnected with the vestibular system, via the _fastigial_ and _interpositus_ (interposed) deep cerebellar nuclei (DCN). The central role of vestibular signals for motor processing is reflected in the massive interconnectivity of these systems.
+* [[Cerebellum]]: the most [[evolution|evolutionarily]] ancient parts of the cerebellum are strongly bidirectionally interconnected with the vestibular system, via the _fastigial_ and _interpositus_ (interposed) deep cerebellar nuclei (DCN). The central role of vestibular signals for motor processing is reflected in the massive interconnectivity of these systems.
 
 * Direct to [[neocortex]]: the most direct projection into the neocortex, specifically the somatosensory, [[space|spatial]], and [[motor]] systems in the parietal lobe, goes via a range of ventral [[thalamus|thalamic]] nuclei, including areas of the ventral posterior (VP) and medial geniculate (MG, medial portion) nuclei. The VP is primary somatosensory thalamus and MG is primary auditory thalamus, both of which have strong subcortical driver inputs conveying sensory information to the cortex. Sensibly, the vestibular system contributes to both of these.
 

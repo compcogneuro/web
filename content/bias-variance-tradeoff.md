@@ -3,7 +3,7 @@ Categories = ["Computation", "Learning"]
 bibfile = "ccnlab.json"
 +++
 
-The **bias-variance tradeoff**, also known as the "no free lunch" principle, was articulated by statisticians [[@^GemanGeman84]] and [[@^VapnikChervonenkis71]] among others. It provides essential understanding of how much data different types of learning systems need in order to exhibit [[generalization]] to novel inputs, and how hard-wired _biases_ (e.g., from evolution-shaped neural properties) can allow a system to learn from less data, but not without costs.
+The **bias-variance tradeoff**, also known as the "no free lunch" principle, was articulated by statisticians [[@^GemanGeman84]] and [[@^VapnikChervonenkis71]] among others. It provides essential understanding of how much data different types of learning systems need in order to exhibit [[generalization]] to novel inputs, and how hard-wired _biases_ (e.g., from [[evolution]]-shaped neural properties) can allow a system to learn from less data, but not without costs.
 
 _If_ these biases are appropriate for the actual world in which the learning system is being trained on, then clearly they will be beneficial. For example, building in a bias to favor highly nutritious foods, and even what those foods look like in their natural environment, will allow a biological organism to survive better than one without such biases. However, the "no free lunch" part of the tradeoff is that there are no _universally beneficial biases_: every bias you introduce is beneficial for some worlds, but harmful for other possible worlds (e.g., where the nutritious foods look different, or are actually poisonous; there goes your lunch...).
 

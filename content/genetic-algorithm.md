@@ -3,7 +3,7 @@ Categories = ["Computation", "Learning"]
 bibfile = "ccnlab.json"
 +++
 
-A **genetic algorithm** (GA) captures key elements of the process of evolution to perform [[search]] through high-dimensional spaces. In the space of adaptive learning algorithms, gradient-based [[error-driven learning]] is the best, trial-and-error [[reinforcement learning]] is the second best, and genetic algorithms are the third best, in terms of speed of convergence.
+A **genetic algorithm** (GA) captures key elements of the process of [[evolution]] to perform [[search]] through high-dimensional spaces. In the space of adaptive learning algorithms, gradient-based [[error-driven learning]] is the best, trial-and-error [[reinforcement learning]] is the second best, and genetic algorithms are the third best, in terms of speed of convergence.
 
 This hierarchy is also defined in terms of the generality of the mechanism: error-driven learning has the strongest requirements (needing target output patterns), while reinforcement learning only requires a scalar reward signal, and genetic algorithms likewise only require a definition of _fitness_, without the need for the ability to compute a gradient. Thus, it is the most general, robust form of learning. But like evolution, it can take a while.
 
