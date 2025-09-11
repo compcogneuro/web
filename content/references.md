@@ -1056,6 +1056,8 @@
 
 <p id="PressFlanneryTeukolskyEtAl88">Press, W.H., Flannery, B.P., Teukolsky, S.A., & Vetterling, W.T. (1988). Numerical Recipies In C: The Art of Scientific Computing. Cambridge University Press. </p>
 
+<p id="Pribram60">Pribram, K.H. (1960). A Review of Theory in Physiological Psychology. Annual Review of Psychology, 11, 1-40. https://www.annualreviews.org/content/journals/10.1146/annurev.ps.11.020160.000245 http://doi.org/10.1146/annurev.ps.11.020160.000245</p>
+
 <p id="PughRaman06">Pugh, J.R., & Raman, I.M. (2006). Potentiation of Mossy Fiber EPSCs in the Cerebellar Nuclei by NMDA Receptor Activation followed by Postinhibitory Rebound Current. Neuron, 51, 113-123. https://www.cell.com/neuron/abstract/S0896-6273(06)00413-2 http://doi.org/10.1016/j.neuron.2006.05.021</p>
 
 <p id="PughRaman08">Pugh, J.R., & Raman, I.M. (2008). Mechanisms of Potentiation of Mossy Fiber EPSCs in the Cerebellar Nuclei by Coincident Synaptic Excitation and Inhibition. Journal of Neuroscience, 28, 10549-10560. https://www.jneurosci.org/content/28/42/10549 http://doi.org/10.1523/JNEUROSCI.2061-08.2008</p>
@@ -1344,6 +1346,8 @@
 
 <p id="VogesWuPostEtAl17">Voges, K., Wu, B., Post, L., Schonewille, M., & De Zeeuw, C.I. (2017). Mechanisms underlying vestibulo-cerebellar motor learning in mice depend on movement direction. The Journal of Physiology, 595, 5301-5326. https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274346 http://doi.org/10.1113/JP274346</p>
 
+<p id="VonNeumann45">Von Neumann, J. (1945). First Draft of a Report on the EDVAC. document. </p>
+
 <p id="Wald47">Wald, A. (1947). Sequential analysis. John Wiley. </p>
 
 <p id="WaldWolfowitz48">Wald, A., & Wolfowitz, J. (1948). Optimum Character of the Sequential Probability Ratio Test. The Annals of Mathematical Statistics, 19, 326-339. https://www.jstor.org/stable/2235638</p>
@@ -1433,6 +1437,4 @@
 <p id="ZhuMunhallShenEtAl04">Zhu, Z., Munhall, A., Shen, K., & Johnson, S.W. (2004). Calcium-dependent subthreshold oscillations determine bursting activity induced by N-methyl-d-aspartate in rat subthalamic neurons in vitro. European Journal of Neuroscience, 19, 1296-1304. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2004.03240.x http://doi.org/10.1111/j.1460-9568.2004.03240.x</p>
 
 <p id="ZobeiriCullen24">Zobeiri, O.A., & Cullen, K.E. (2024). Cerebellar Purkinje cells combine sensory and motor information to predict the sensory consequences of active self-motion in macaques. Nature Communications, 15, 4003. https://www.nature.com/articles/s41467-024-48376-0 http://doi.org/10.1038/s41467-024-48376-0</p>
-
-<p id="vonNeumann45">Neumann, J. (1945). First Draft of a Report on the EDVAC. document. </p>
 

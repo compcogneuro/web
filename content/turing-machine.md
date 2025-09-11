@@ -6,7 +6,7 @@ bibfile = "ccnlab.json"
 {id="figure_turing-machine"}
 ![The components of a Turing machine: with just three basic components, any computation can be performed!](media/fig_turing_machine.jpg)
 
-To understand what kind of neural machinery it would take to support CPU-like functionality in the brain, we start with the surprisingly simple mechanisms needed to make a computer work. At the most abstract level, Alan Turing and John Von Neumann worked out the basic principles of a **universal computational device** (something that could in principle do _anything_) in the 1930's and 40's ([[@Turing36]], [[@vonNeumann45]]).  Amazingly, this device only requires three essential components ([[#figure_turing-machine]]):
+To understand what kind of neural machinery it would take to support CPU-like functionality in the brain, we start with the surprisingly simple mechanisms needed to make a computer work. At the most abstract level, Alan Turing and John Von Neumann worked out the basic principles of a **universal computational device** (something that could in principle do _anything_) in the 1930's and 40's ([[@Turing36]], [[@VonNeumann45]]).  Amazingly, this device only requires three essential components ([[#figure_turing-machine]]):
 
 1. A way of reading and writing information from a **memory system** (conceptualized as a *tape* by Turing).
 
@@ -14,7 +14,7 @@ To understand what kind of neural machinery it would take to support CPU-like fu
 
 3. Some **active memory** where things can be temporarily cached, for the program to refer to.
 
-These elements were elaborated by Von Neumann, in one of the most important unpublished papers of all time ([[@vonNeumann45]]), creating the foundation for modern digital computers. We now take it for granted that computers can do almost anything, but this was just theory not so long ago.
+These elements were elaborated by Von Neumann, in one of the most important unpublished papers of all time ([[@VonNeumann45]]), creating the foundation for modern digital computers. We now take it for granted that computers can do almost anything, but this was just theory not so long ago.
 
 {id="figure_mental-mult"}
 ![Computers solve problems by breaking them down into many small sequential steps, each one involving a specific, well-defined operation such as adding numbers, writing them down somewhere, and reading them back in for use later. Just like you do when performing multi-digit arithmetic. Alan Turing showed that these basic processes can be used to solve any problem.](media/fig_mental_multiplication.jpg)

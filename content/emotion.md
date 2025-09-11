@@ -9,7 +9,7 @@ bibfile = "ccnlab.json"
 
 > Emotion reflects the activity of midbrain and brainstem systems that have been shaped by evolution to guide the behavior of the organism in adaptive ways to satisfy its **needs** in relation to the external and internal state. Most emotional states involve midbrain **neuromodulatory systems** such as [[dopamine]] and [[serotonin]] that broadcast signals reflecting important changes in body state and have widespread effects on the entire brain.
 
-These brain systems overlap with elements of the [[limbic system]], and are anchored by the **hypothalamus**, **periaqueductal gray**, **parabrachial area**, and associated nuclei that directly sense the internal body state (interoception), which is conveyed in part by the vagus nerve via the medulla oblongota.
+These brain systems have traditionally been categorized as the [[limbic system]] (but this is not very precise as discussed there), and are anchored by the [[hypothalamus]], **periaqueductal gray**, **parabrachial area**, and associated nuclei that directly sense the internal body state (interoception), which is conveyed in part by the vagus nerve via the medulla oblongota.
 
 Multiple layers of additional processing and control over the brainstem systems have been added and elaborated over the course of brain [[evolution]], including:
 
@@ -19,7 +19,7 @@ Multiple layers of additional processing and control over the brainstem systems 
 
 * The [[lateral habenula]], which integrates a wide range of sensory inputs to determine when to "give up", according to the [[Rubicon]] framework.
 
-* Ventral and medial [[prefrontal cortex]] areas, that receive and send extensive connections to all of the other emotion-processing areas, providing a higher level of integration and control that is the focus of the [[Rubicon]] framework.
+* Ventral and medial [[prefrontal cortex]] areas including the [[insula]], that receive and send extensive connections to all of the other emotion-processing areas, providing a higher level of integration and control that is the focus of the [[Rubicon]] goal-driven framework.
 
 * Ventral [[hippocampus]], which is also extensively interconnected with all of these areas, and provides the ability to rapidly encode emotional states associated with distinct events in time and space.
 
@@ -43,6 +43,8 @@ From a subjective, psychological perspective, emotions can be categorized most b
 ![Maslow's hierarchy of needs, progressing from most essential to those that gain salience once the lower-level needs are satisfied.](media/fig_maslow_hierarchy_needs.png)
 
 What about more basic feelings, like _hunger_, _thirst_, etc? [[@^Maslow43]] developed a hierarchical schema to organize human needs, with the most basic ones providing the foundation, and higher-level ones only entertained once the basic needs are satisfied ([[#figure_maslow]]).
+
+The evolutionarily most ancient functions of the hypothalamus can be categorized into the _five Fs_: feeding, foraging, fleeing, fighting, and fornication, which comprise the most important survival-relevant behaviors managed by the brain, and have direct hormonal correlates. In this framing, most people spend the majority of waking time in the foraging mode (with information replacing nutrients), which is where goal-driven behavior is most relevant.
 
 {id="figure_needs" style="height:40em"}
 ![Emotional states as providing guidance toward satisfying needs, with a lack of need satisfaction generally driving negative emotional states, while need satisfaction drives positive ones. The list of needs is ordered  with the most essential needs at the bottom, as in Maslow's hierarchy. We don't usually think of things like hunger and thirst as emotions, but according to this system, they play the same overall role, and share many neural substrates in common. Resources refers to any kind of material thing needed to survive in the current physical environment (money, territory, nesting material, tools, building materials, etc). The social factors include S = self perspective and O = other perspective. Most of these needs apply across all species of mammals and other vertibrates to variable extents. The social needs are particularly important for shaping flexible, open-ended human cognition.](media/fig_emotion_needs.png)
