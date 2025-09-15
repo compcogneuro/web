@@ -49,7 +49,7 @@ Reinforcing this point, the key-value softmax mechanism that is integral to tran
 
 The above phenomena, along with a huge amount of direct neural recording and other data, strongly support the idea that the neocortex of the mammalian (including human) brain is strongly weighted toward the combinatorial, distributed end of the spectrum, which is consistent with the idea that real-world survival depends critically on dealing with the _small data, strongly biased_ domain.
 
-In other words, it is much more important to be approximately correct based on very little data, than it is to be perfectly correct with large amounts of data. This conclusion is also consistent with a large literature on the use of simple heuristics instead of more accurate but expensive processing of statistical data ([[@KahnemanTversky84]).
+In other words, it is much more important to be approximately correct based on very little data, than it is to be perfectly correct with large amounts of data. This conclusion is also consistent with a large literature on the use of simple heuristics instead of more accurate but expensive processing of statistical data ([[@KahnemanTversky84]]).
 
 This conclusion thus suggests that LLMs do not accurately capture the way that the human brain learns, because they are strongly weighted toward the conjunctive end of the spectrum. They are good at using huge amounts of data to develop accurate models of what the human brain has accomplished, but they are not a good model of how the human brain actually came up with all these ideas in the first place, which requires the kind of "deep" conceptual understanding of the world that only the combinatorially-biased neocortex can provide.
 
