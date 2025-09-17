@@ -3,11 +3,11 @@ module github.com/compcogneuro/web
 go 1.23.4
 
 require (
-	cogentcore.org/core v0.3.13-0.20250909080530-873b1e262983
-	cogentcore.org/lab v0.1.3-0.20250807190249-488f5902d68d
+	cogentcore.org/core v0.3.13-0.20250917164830-d88dd6998fdb
+	cogentcore.org/lab v0.1.3-0.20250917143805-07c473dcb032
 	github.com/cogentcore/yaegi v0.0.0-20250622201820-b7838bdd95eb
-	github.com/emer/axon/v2 v2.0.0-dev0.2.55
-	github.com/emer/emergent/v2 v2.0.0-dev0.1.7.0.20250809000107-fd8ccb2cfca1
+	github.com/emer/axon/v2 v2.0.0-dev0.2.58
+	github.com/emer/emergent/v2 v2.0.0-dev0.1.7.0.20250917165214-89adea4c1b2c
 )
 
 require (
@@ -38,10 +38,9 @@ require (
 	github.com/jinzhu/copier v0.4.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
-	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/mattn/go-shellwords v1.0.12 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
-	github.com/muesli/termenv v0.15.2 // indirect
+	github.com/muesli/termenv v0.16.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.2-0.20240227203013-2b69615b5d55 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/tdewolff/parse/v2 v2.7.19 // indirect
