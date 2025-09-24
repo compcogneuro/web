@@ -574,6 +574,8 @@
 
 <p id="HintonSejnowski86">Hinton, G.E., & Sejnowski, T.J. (1986). Learning and Relearning in Boltzmann Machines. In D.E. Rumelhart, J.L. McClelland, & P.R. Group (Eds.), Parallel Distributed Processing. Volume 1: Foundations (pp. 282-317). MIT Press. </p>
 
+<p id="HitierBesnardSmith14">Hitier, M., Besnard, S., & Smith, P.F. (2014). Vestibular pathways involved in cognition. Frontiers in Integrative Neuroscience, 8, https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00059/full http://doi.org/10.3389/fnint.2014.00059</p>
+
 <p id="HoangTsutsumiMatsuzakiEtAl23">Hoang, H., Tsutsumi, S., Matsuzaki, M., Kano, M., Kawato, M., Kitamura, K., & Toyama, K. (2023). Dynamic organization of cerebellar climbing fiber response and synchrony in multiple functional components reduces dimensions for reinforcement learning. eLife, 12, e86340. https://doi.org/10.7554/eLife.86340 http://doi.org/10.7554/eLife.86340</p>
 
 <p id="HobsonPace-Schott02">Hobson, J.A., & Pace-Schott, E.F. (2002). The cognitive neuroscience of sleep: neuronal systems, consciousness and learning. Nature Reviews Neuroscience, 3(9), 679-693. http://www.nature.com/articles/nrn915 http://doi.org/10.1038/nrn915</p>
@@ -655,6 +657,8 @@
 <p id="JensenBonnefondVanRullen12">Jensen, O., Bonnefond, M., & VanRullen, R. (2012). An oscillatory mechanism for prioritizing salient unattended stimuli. Trends in Cognitive Sciences, 16, 200–206. http://www.ncbi.nlm.nih.gov/pubmed/22436764</p>
 
 <p id="JeonLeeKwonEtAl22">Jeon, H., Lee, H., Kwon, D., Kim, J., Tanaka-Yamamoto, K., Yook, J.S., Feng, L., Park, H.R., Lim, Y.H., Cho, Z., Paek, S.H., & Kim, J. (2022). Topographic connectivity and cellular profiling reveal detailed input pathways and functionally distinct cell types in the subthalamic nucleus. Cell Reports, 38, 110439. https://www.sciencedirect.com/science/article/pii/S2211124722001668 http://doi.org/10.1016/j.celrep.2022.110439</p>
+
+<p id="JilkLebiereOReillyEtAl08">Jilk, D., Lebiere, C., O'Reilly, R.C., & Anderson, J. (2008). SAL: an explicitly pluralistic cognitive architecture. Journal of Experimental & Theoretical Artificial Intelligence, 20, 197-218. http://www.ingentaconnect.com/content/tandf/teta/2008/00000020/00000003/art00004</p>
 
 <p id="JirenhedBengtssonHesslow07">Jirenhed, D., Bengtsson, F., & Hesslow, G. (2007). Acquisition, Extinction, and Reacquisition of a Cerebellar Cortical Memory Trace. Journal of Neuroscience, 27, 2493-2502. https://www.jneurosci.org/content/27/10/2493 http://doi.org/10.1523/JNEUROSCI.4202-06.2007</p>
 
@@ -1094,6 +1098,8 @@
 
 <p id="ReymannFrey07">Reymann, K.G., & Frey, J.U. (2007). The late maintenance of hippocampal LTP: Requirements, phases, ‘synaptic tagging’, ‘late-associativity’ and implications. Neuropharmacology, 52, 24-40. https://www.sciencedirect.com/science/article/pii/S0028390806002401 http://doi.org/10.1016/j.neuropharm.2006.07.026</p>
 
+<p id="RichBlokpoeldeHaanEtAl21">Rich, P., Blokpoel, M., Haan, R., Otworowska, M., Sweers, M., Wareham, T., & Rooij, I. (2021). Naturalism, tractability and the adaptive toolbox. Synthese, 198, 5749-5784. https://doi.org/10.1007/s11229-019-02431-2 http://doi.org/10.1007/s11229-019-02431-2</p>
+
 <p id="RichWallis16">Rich, E.L., & Wallis, J.D. (2016). Decoding subjective decisions from orbitofrontal cortex. Nature Neuroscience, 19, 973-980. http://www.nature.com/neuro/journal/v19/n7/full/nn.4320.html?WT.ec_id=NEURO-201607&spMailingID=51711028&spUserID=MTc2NjQ4NzIwMwS2&spJobID=944051338&spReportId=OTQ0MDUxMzM4S0 http://doi.org/10.1038/nn.4320</p>
 
 <p id="RikhyeGilraHalassa18">Rikhye, R.V., Gilra, A., & Halassa, M.M. (2018). Thalamic regulation of switching between cortical representations enables cognitive flexibility. Nature Neuroscience, 21(12), 1753-1763. http://www.nature.com/articles/s41593-018-0269-z http://doi.org/10.1038/s41593-018-0269-z</p>
@@ -1198,7 +1204,7 @@
 
 <p id="ShermanGuillery06">Sherman, S.M., & Guillery, R.W. (2006). Exploring the Thalamus and Its Role in Cortical Function. MIT Press. http://www.scholarpedia.org/article/Thalamus</p>
 
-<p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A Reconsideration of the Core and Matrix Classification of Thalamocortical Projections. Journal of Neuroscience, 44, https://www.jneurosci.org/content/44/24/e0163242024 http://doi.org/10.1523/JNEUROSCI.0163-24.2024</p>
+<p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A reconsideration of the core and matrix classification of thalamocortical projections. Journal of Neuroscience, 44, https://www.jneurosci.org/content/44/24/e0163242024 http://doi.org/10.1523/JNEUROSCI.0163-24.2024</p>
 
 <p id="ShiffrinSchneider77">Shiffrin, R.M., & Schneider, W. (1977). Controlled and automatic human information processing: II. Perceptual learning, automatic attending, and a general theory. Psychological Review, 84, 127-190. </p>
 
@@ -1219,6 +1225,8 @@
 <p id="SilverHuangMaddisonEtAl16">Silver, D., Huang, A., Maddison, C.J., Guez, A., Sifre, L., Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T., & Hassabis, D. (2016). Mastering the game of Go with deep neural networks and tree search. Nature, 529, 484-489. https://www.nature.com/articles/nature16961 http://doi.org/10.1038/nature16961</p>
 
 <p id="SilverSchrittwieserSimonyanEtAl17">Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., Hubert, T., Baker, L., Lai, M., Bolton, A., Chen, Y., Lillicrap, T., Hui, F., Sifre, L., Driessche, G., Graepel, T., & Hassabis, D. (2017). Mastering the game of Go without human knowledge. Nature, 550, 354-359. https://www-nature-com.colorado.idm.oclc.org/articles/nature24270 http://doi.org/10.1038/nature24270</p>
+
+<p id="Simon56">Simon, H.A. (1956). Rational choice and the structure of the environment. Psychological Review, 63, 129–138. http://www.ncbi.nlm.nih.gov/pubmed/13310708</p>
 
 <p id="SimoncelliOlshausen01">Simoncelli, E.P., & Olshausen, B.A. (2001). Natural image statistics and neural representation. Annual Review of Neuroscience, 24, 1193-1216. https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.24.1.1193 http://doi.org/10.1146/annurev.neuro.24.1.1193</p>
 
@@ -1436,7 +1444,11 @@
 
 <p id="ZhengWolfRanganathEtAl25">Zheng, Y., Wolf, N., Ranganath, C., O'Reilly, R.C., & McKee, K.L. (2025). Flexible prefrontal control over hippocampal episodic memory for goal-directed generalization. http://arxiv.org/abs/2503.02303 http://doi.org/10.48550/arXiv.2503.02303</p>
 
+<p id="ZhuChenHuEtAl17">Zhu, J., Chen, J., Hu, W., & Zhang, B. (2017). Big Learning with Bayesian methods. National Science Review, 4, 627-651. https://doi.org/10.1093/nsr/nwx044 http://doi.org/10.1093/nsr/nwx044</p>
+
 <p id="ZhuMunhallShenEtAl04">Zhu, Z., Munhall, A., Shen, K., & Johnson, S.W. (2004). Calcium-dependent subthreshold oscillations determine bursting activity induced by N-methyl-d-aspartate in rat subthalamic neurons in vitro. European Journal of Neuroscience, 19, 1296-1304. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2004.03240.x http://doi.org/10.1111/j.1460-9568.2004.03240.x</p>
 
 <p id="ZobeiriCullen24">Zobeiri, O.A., & Cullen, K.E. (2024). Cerebellar Purkinje cells combine sensory and motor information to predict the sensory consequences of active self-motion in macaques. Nature Communications, 15, 4003. https://www.nature.com/articles/s41467-024-48376-0 http://doi.org/10.1038/s41467-024-48376-0</p>
+
+<p id="vanRooijWrightWareham12">Rooij, I., Wright, C.D., & Wareham, T. (2012). Intractability and the use of heuristics in psychological explanations. Synthese, 187, 471-487. https://doi.org/10.1007/s11229-010-9847-7 http://doi.org/10.1007/s11229-010-9847-7</p>
 
