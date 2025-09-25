@@ -9,9 +9,9 @@ The constraint satisfaction problem (CSP) is defined as finding a set of values 
 
 Thus, the CSP is essentially a problem of [[search]]ing over all possible states to find the one(s) that best fit the set of constraints imposed. As the number of states increases, the number of possible states explodes exponentially due to the [[curse of dimensionality]], 
 
-A bidirectionally-connected neural network can implement this search process in a highly efficient manner, by integrating all of the constraints _in parallel_ and essentially performing a _stochastic gradient descent_ process over possible solution states. This is essentially the same strategy used in [[error-backpropagation]] learning, to search over the high-dimensional space of possible representations, as explained in [[search]].
+A bidirectionally-connected neural network can implement this search process in a highly efficient manner, by integrating all of the constraints in a single gradient-based computational step over _dedicated-parallel_ representations, effectively performing a _stochastic gradient descent_ process over possible solution states. This is essentially the same strategy used in [[error-backpropagation]] learning, to search over the high-dimensional space of possible representations, as explained in [[search]].
 
-TODO: old:
+<!--- TODO: old: -->
 
 In the context of the [[curse of dimensionality]] problem, bidirectional connectivity enables the network to rapidly converge through parallel processing on a set of representations that satisfy constraints communicated throughout the network, where each active neuron contributes its own constraint, and is in turn subject to the constraints from the other neurons. Given the _small world_ nature of neural connectivity, each neuron is effectively only a few synapses away from any other neuron, so effectively any constraint anywhere can be felt anywhere else in the network, in principle.
 

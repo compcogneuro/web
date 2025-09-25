@@ -5,7 +5,7 @@ bibfile = "ccnlab.json"
 
 The **curse of dimensionality** ([[@Bellman57]]) arises in many aspects of neural computation, and provides an essential tool for understanding the relative strengths and weaknesses of computational algorithms. Human intuitions are generally (wildly) inaccurate about these issues, which effectively prevent any serial algorithm from succeeding in even a modestly complex problem space.
 
-Thus, the main conclusion here is that only **parallel** algorithms that scale approximately linearly as the dimensionality increases are viable for real-world problems, as elaborated in the discussion of [[search]] as a unifying computational framework. This is why neural networks are much more useful than symbolic approaches to [[artificial intelligence]], for example. [[Reinforcement learning]], i.e., trial-and-error search, is severely impacted by the curse of dimensionality.
+Thus, the main conclusion here is that only _dedicated-parallel, gradient-based_ algorithms that exhibit _polynomial_ computational complexity as the dimensionality increases are viable for real-world problems, as elaborated in the discussion of [[search]] as a unifying computational framework. This is why neural networks are much more useful than symbolic approaches to [[artificial intelligence]], for example. [[Reinforcement learning]], i.e., trial-and-error search, is severely impacted by the curse of dimensionality.
 
 ## Combinatorial explosion
 
@@ -24,5 +24,5 @@ This innocent-looking expression can be deceptive, and people have a hard time u
 
 Another fun real-world demonstration is the difficulty in folding paper in half progressively more than 8 times, because the thickness grows exponentially. The world record is apparently 13, which required [54,000 feet of toilet paper](https://www.npr.org/sections/thetwo-way/2011/12/05/143150449/record-folders-54-000-feet-of-paper-13-folds-one-new-standard) (NPR link).
 
-In the domain of computation, the size of the problem space for even relatively simple games grows exponentially, limiting the ability to apply simple [[search]] through this problem space to find good strategies. For example, it is only possible to fully search the problem space in the game of chess with 7 pieces in play, and even this took a massive amount of computation and storage.
+In the domain of computation, the size of the problem space for even relatively simple games grows exponentially, limiting the ability to apply simple brute-force [[search]] algorithms through this problem space to find good strategies. For example, it is only possible to fully search the problem space in the game of chess with 7 pieces in play, and even this took a massive amount of computation and storage.
 
