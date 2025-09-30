@@ -230,6 +230,8 @@
 
 <p id="CookBuonaratiCoultrapEtAl21">Cook, S.G., Buonarati, O.R., Coultrap, S.J., & Bayer, K.U. (2021). CaMKII holoenzyme mechanisms that govern the LTP versus LTD decision. Science Advances, https://www.science.org/doi/abs/10.1126/sciadv.abe2300 http://doi.org/10.1126/sciadv.abe2300</p>
 
+<p id="CoolsArnsten22">Cools, R., & Arnsten, A.F.T. (2022). Neuromodulation of prefrontal cortex cognitive function in primates: the powerful roles of monoamines and acetylcholine. Neuropsychopharmacology, 47(1), 309-328. https://www.nature.com/articles/s41386-021-01100-8 http://doi.org/10.1038/s41386-021-01100-8</p>
+
 <p id="Cooper05">Cooper, S.J. (2005). Donald O. Hebb's synapse and learning rule: a history and commentary. Neuroscience & Biobehavioral Reviews, 28, 851-874. https://www.sciencedirect.com/science/article/pii/S0149763404000995 http://doi.org/10.1016/j.neubiorev.2004.09.009</p>
 
 <p id="Corkin02">Corkin, S. (2002). What's new with the amnesic patient H. M.? Nature Reviews Neuroscience, 3, 153-160. </p>
@@ -942,6 +944,8 @@
 
 <p id="NewcomerFarberJevtovic-TodorovicEtAl99">Newcomer, J.W., Farber, N.B., Jevtovic-Todorovic, V., Selke, G., Melson, A.K., Hershey, T., Craft, S., & Olney, J.W. (1999). Ketamine-Induced NMDA Receptor Hypofunction as a Model of Memory Impairment and Psychosis. Neuropsychopharmacology, 20, 106-118. https://www.sciencedirect.com/science/article/pii/S0893133X98000670 http://doi.org/10.1016/S0893-133X(98)00067-0</p>
 
+<p id="Newell90">Newell, A. (1990). Unified Theories of Cognition. Harvard University Press. </p>
+
 <p id="NewellSimon72">Newell, A., & Simon, H.A. (1972). Human Problem Solving. Prentice-Hall. </p>
 
 <p id="Newport90">Newport, E.L. (1990). Maturational Constraints on Language Learning. Cognitive Science, 14, 11-28. </p>
@@ -969,6 +973,8 @@
 <p id="OReilly96a">O'Reilly, R.C. (1996). The Leabra Model of Neural Interactions and Learning in the Neocortex. [unpublished Ph.D. Thesis, Carnegie Mellon University]. </p>
 
 <p id="OReillyBraverCohen99">O'Reilly, R.C., Braver, T.S., & Cohen, J.D. (1999). A Biologically Based Computational Model of Working Memory. In A. Miyake, & P. Shah (Eds.), Models of Working Memory: Mechanisms of Active Maintenance and Executive Control (pp. 375-411). Cambridge University Press. </p>
+
+<p id="OReillyBusbySoto03">O'Reilly, R.C., Busby, R.S., & Soto, R. (2003). Three Forms of Binding and their Neural Substrates: Alternatives to Temporal Synchrony. In A. Cleeremans (Ed.), The Unity of Consciousness: Binding, Integration, and Dissociation (pp. 168-192). Oxford University Press. </p>
 
 <p id="OReillyFrank06">O'Reilly, R.C., & Frank, M.J. (2006). Making working memory work: a computational model of learning in the prefrontal cortex and basal ganglia. Neural Computation, 18, 283-328. http://www.ncbi.nlm.nih.gov/pubmed/16378516</p>
 
