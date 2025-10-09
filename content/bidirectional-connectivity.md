@@ -53,5 +53,3 @@ Another critical difference for the relevance of bidirectional connectivity in [
 
 * [[cats and dogs simulation]] demonstrates bottom-up and top-down dynamics in a semantic network representing different levels of information about cats and dogs.
 
-## Bidirectional connectivity pages
-

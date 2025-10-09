@@ -3,7 +3,7 @@ URL = ""
 Title = ""
 +++
 
-<img src="media/icon.png" style="width:128px;height:128px">
+<img src="media/icon.png" style="width:128px;height:128px;align-self:center">
 
 ## Computational Cognitive Neuroscience, 5th Edition
 

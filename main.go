@@ -36,7 +36,9 @@ var sims map[string]func(tree.Node)
 
 func main() {
 	core.AppIcon = icon
-	b := core.NewBody("Computational Cognitive Neuroscience")
+	content.Settings.SiteTitle = "Computational Cognitive Neuroscience"
+	content.OfflineURL = "https://compcogneuro.org"
+	b := core.NewBody(content.Settings.SiteTitle)
 	ct := content.NewContent(b).SetContent(econtent)
 	refs, err := csl.OpenFS(econtent, "citedrefs.json")
 	if err == nil {

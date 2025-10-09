@@ -220,6 +220,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GVRun()
 ```
 
 The _Kir_ channel that GABA-B couples to is also available as a separate standalone channel, using the same form of inwardly-rectifying voltage dependence, but in a persistently active form. These channels are not used by default, but are critical for certain cell types. The inward rectification results in an additional threshold-like bistable behavior, where neurons that are not activated much above the resting potential get additional leak conductance from this Kir channel, but once they start to get activated, the Kir is inactivated and they can then fire more easily. This is critical for the behavior of medium spiny neurons (MSNs) in the striatum of the basal ganglia, which tend to be very quiet, but then fire in discrete bursts when sufficiently activated.
@@ -285,6 +286,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GVRun()
 ```
 
 Our implementation of the L-type VGCC is based on [[@UrakuboHondaFroemkeEtAl08]], using source code available at this [link](http://kurodalab.bs.s.u-tokyo.ac.jp/info/STDP/Urakubo2008.tar.gz).
@@ -341,6 +343,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GVRun()
 ```
 
 The A-type K channel is voltage-gated with maximal activation around -37 mV ([[@HoffmanMageeColbertEtAl97]]). It is particularly important for counteracting the excitatory effects of the VGCC L-type channels (with which they are co-localized) which can otherwise drive runaway excitatory currents. Think of it as an "emergency brake" and is needed for this reason whenever adding VGCC to a model.
@@ -380,6 +383,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GVRun()
 ```
 
 Relative to the KNA channels described below, which respond to $Na^+$ influx from spikes, the broadly-tuned voltage sensitivity of the M-type mAHP channel produces a stronger _anticipatory_ conductance prior to the spike. Thus, it will "head off" incipient spikes in a way that the KNa channels do not.
@@ -432,6 +436,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GCaRun()
 ```
 
 It is difficult to identify the origin of a slow, long-lasting sAHP current, which has been observed in hippocampal and other neurons ([[@Larsson13]]). It appears to be yet another modulator on the M-type channels driven by calcium sensor pathways that have longer time constants. There is more research to be done here, but we can safely use a mechanism that takes a long time to build up before activating the K+ channels, and then takes a long time to decay as well.
@@ -463,6 +468,7 @@ br.FinalizeGUI(false)
 br.Splits.Styler(func(s *styles.Style) {
 	s.Min.Y.Em(25)
 })
+pl.GCaRun()
 ```
 
 There are two major types of Ca-gated K channels: "small" K (SK, SKCa) and "big" K (BK, BKCa). BK channels are high conductance with fast dynamics, and play a role in shaping the action potential, which we therefore ignore due to our use of the AdEx approximation and 1 ms time step (and they are not widely implemented in biophysical models according to [ModelDB](https://modeldb.science/modellist/243504)).

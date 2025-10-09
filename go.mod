@@ -3,10 +3,10 @@ module github.com/compcogneuro/web
 go 1.23.4
 
 require (
-	cogentcore.org/core v0.3.13-0.20250930205535-9066e37d372b
-	cogentcore.org/lab v0.1.3-0.20250917143805-07c473dcb032
+	cogentcore.org/core v0.3.13-0.20251009125244-9993be515523
+	cogentcore.org/lab v0.1.3-0.20251009131026-b81fa706d621
 	github.com/cogentcore/yaegi v0.0.0-20250622201820-b7838bdd95eb
-	github.com/emer/axon/v2 v2.0.0-dev0.2.58.0.20250930210124-edf596e962bb
+	github.com/emer/axon/v2 v2.0.0-dev0.2.58.0.20251009132128-45f2eea74684
 	github.com/emer/emergent/v2 v2.0.0-dev0.1.7.0.20250917165214-89adea4c1b2c
 )
 
