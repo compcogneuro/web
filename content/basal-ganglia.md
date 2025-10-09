@@ -148,7 +148,7 @@ In summary, the GPeAk neurons integrate the direct dSPN pathway inputs relative 
 
 This ability for the direct and indirect pathways to interact through their convergence in the GPe resolves one of the main problems with the classical theory: there is only sparse, weak inhibitory connectivity among SPN neurons in the striatum, which seems unlikely to support a robust inhibitory competition and selection dynamic ([[@TunstallOorschotKeanEtAl02]]). Because the GPe is much more compact in size than the entire striatum (i.e., roughly 46,000 neurons in the GPe in a rat, compared to roughly 2.8 million in the striatum, as shown in [[#figure_pcore-dyn]]; [[@Oorschot96]]), it is therefore much easier for these pathways to interact competitively with each other, relative to neurons having to directly compete in the much larger space of the striatum.
 
-{id="figure_ketzef-etal" style="height:30em"}
+{id="figure_ketzef-etal" style="height:35em"}
 ![Results of optogenetic selective activation of iSPN (a) or STN (b) neurons. Activating ISPNs inhibited GPePr ("Proto") neurons, while disinhibiting GPeAk ("Arky") neurons. Activating the STN much more strongly activated GPePr vs GPeAk neurons, consistent with a stronger projection to GPePr.](media/fig_ketzef_etal_21_ispn_stn_stim.png)
 
 These dynamics are consistent with various recorded patterns of neural activity, for example in a recent optogenetic stimulation experiment ([[@KetzefSilberberg21]]) that selectively activated iSPN neurons or STN neurons ([[#figure_ketzef-etal]]). A number of other studies report consistent data on the effects of GPeAk activation and inhibition of motor action ([[@MalletSchmidtLeventhalEtAl16]]; [[@GlajchKelverHegemanEtAl16]]; [[@PamukcuCuiXeniasEtAl20]]; [[@GuSchmidtBerke20]]; [[@TachibanaKitaChikenEtAl08]]; [[@DodsonLarvinDuffellEtAl15]]).
@@ -242,8 +242,8 @@ The following sections describe additional elements of the BG system, which cont
 
 ## Ventral pallidum
 
-{id="figure_vp-conns" style="height:20em"}
-![Connectivity of the ventral pallidum (VP), which has a diverse set of cell types with multiple different neurotransmitters as shown, and sends outputs to all the major motivational / affective / neuromodulatory brain areas. NAcc = nucleus accumbens (ventomedial striatum); BLA = basolateral amygdala; LH = lateral hypothalamus; VTA = ventral tegmental area (dopamine); MD = mediodorsal thalamus, which then projects extensively to ventral and medial prefrontal cortex (v/mPFC); LHb = lateral habenula; DR = dorsal raphe (serotonin). Figure from Root et al., 2015.](media/fig_vp_conns_root_etal_15.png)
+{id="figure_vp-conns" style="height:25em"}
+![Connectivity of the ventral pallidum (**VP**), which has a diverse set of cell types with multiple different neurotransmitters as shown, and sends outputs to all the major motivational / affective / neuromodulatory brain areas. NAcc = nucleus accumbens (ventomedial striatum); **BLA** = basolateral amygdala; **LH** = lateral hypothalamus; **VTA** = ventral tegmental area (dopamine); **MD** = mediodorsal thalamus, which then projects extensively to ventral and medial prefrontal cortex (v/mPFC); **LHb** = lateral habenula; **DR** = dorsal raphe (serotonin). Figure from Root et al., 2015.](media/fig_vp_conns_root_etal_15.png)
 
 A major output pathway of the ventral and medial areas of the BG (i.e., ventromedial striatum, VMS) is the ventral pallidum (VP), which can be thought of as a ventral version of the globus pallidus. The VP sends outputs to all the major [[emotion]]al brain areas ([[#figure_vp-conns]] from [[@RootMelendezZaborszkyEtAl15]]), including the MD thalamus that projects extensively to the ventral and medial areas of the [[prefrontal cortex]], the [[amygdala]], [[dopamine]] (VTA), [[serotonin]] (dorsal raphe), and the [[hypothalamus]] ([[@KupchikPrasad21]]). The SNr output from VMS also projects to MD thalamus, and it is not clear how these pathways differ ([[@GroenewegenBerendseWoltersEtAl90]])
 
@@ -259,7 +259,7 @@ The dorsal regions of the BG have a collection of important additional propertie
 
 Superimposed on this topography are additional types of neurons that coordinate learning across the individual SPN neurons that contribute to a common motor output signal. These neurons provide a credit assignment signal specialized to the actual contribution and activity of this motor pathway, in relation to phasic [[dopamine]] _critic_ (reward prediction error) signals that ultimately arise from behavioral actions. This specialized credit assignment is essential for assigning more precise credit and blame, and thus greatly speeding the parallel search process relative to an alternative where only purely global, undifferentiated critic signals are applied to all neurons in proportion to their individual activity.
 
-{id="figure_compartments" style="height:25em"}
+{id="figure_compartments" style="height:30em"}
 ![Compartmental organization of dorsal BG, showing striosome patches vs. surrounding matrix, and the cholinergic interneurons (ChI, aka CINs) that are typically found on the borders of patches. Dopamine axons broadly innervate these regions. Figure from Brimblecombe & Cragg, 2017.](media/fig_bg_compartments_dls_brimblecombe_cragg_17.png)
 
 [[#figure_compartments]] shows these elements, which include:
@@ -300,7 +300,7 @@ Because CINs are tonically active, their phasic influence is through a stereotyp
 {id="figure_striosomes-out" style="height:25em"}
 ![Direct and indirect pathway outputs from the striosomes versus those from the matrix. Direct pathway projections inhibit dopamine neurons in the SNc, while indirect pathway neurons project to a region of the globus pallidus that has excitatory projections to the lateral habenula (LHb), which is exclusively capable of driving dips in dopamine firing. Figure from Grillner et al., 2020.](media/fig_bg_striosomes_grillner_etal_20.png)
 
-{id="figure_gph" style="height:30em"}
+{id="figure_gph" style="height:35em"}
 ![The globus pallidus habenula (GPh) pathway involves projections from striosomes to a subset of GPi / entopeduncular (EP) neurons that express glutamate in addition to GABA, and project to the lateral habenula. This is a critical pathway by which the striosomes can modulate dopamine firing. Figure from Stephenson-Jones et al., 2013.](media/fig_bg_gph_stephenson-jones_etal_13.png)
 
 The patch neurons in striosomes have both direct and indirect types ([[#figure_striosomes-out]]), with the direct pathway projecting to the SNc dopamine neurons that send dopamine back up to the striatum (which they directly inhibit; [[@EvansTwedellZhuEtAl20]]; [[@NadelPawelkoScottEtAl21]]; [[@OkunomiyaWatanabeBannoEtAl25]]; [[@DongWangSullivanEtAl25]]), and the indirect pathway projecting to the [[lateral habenula]] via the GPh (habenula-projecting globus pallidus; [[#figure_gph]]; [[@Stephenson-JonesKardamakisRobertsonEtAl13]]; [[@WallaceSaundersHuangEtAl17]]). The lateral habenula (LHb) is exclusively capable of driving phasic dips in dopamine firing (see [[PVLV]]). Thus, these neurons are in a position to regulate the dopamine neuromodulation of the striatum on a relatively topographically-organized basis ([[@JoelWeiner00]]).
@@ -309,7 +309,7 @@ Overall, the striosomal input and output connectivity is similar to that of neur
 
 We hypothesize that the cholinergic input from the CINs, driven by PF feedback inputs, provides a signal to specialize the critic learning in a given striosome based on the overall BG output. Specifically, as PF activity occurs during performance of a motor action sequence, the striosomes accumulate a synaptic trace of pre * post synaptic activity modulated (multiplied) by the PF signal as filtered through the CIN activity. This synaptic trace is then modulated by the final outcome-time dopamine RPE signal to determine which direction the synaptic weights change (see below for specific equations).
 
-{id="figure_bgdorsal-dad1-epoch" style="height:25em"}
+{id="figure_bgdorsal-dad1-epoch" style="height:20em"}
 ![Direct (D1) pathway activity in patch neurons for the correct vs incorrect (error) action pools in the BG dorsal sequence learning model. Relatively quickly, these patch neurons learn to differentiate correct vs. incorrect actions on average (Correct > Error), providing a useful additional pool-specific critic modulation.) ](media/fig_bgdorsal_patch_dad1_epoch.png)
 
 The net result is that striosomes represent the expected reward associated with a PF output pathway being activated, as a function of the goal context input into the striosomes. The direct pathway striosomes encode the positive reward association (increased with dopamine bursts), while the indirect pathway neurons encode the negative associations (increased with dopamine dips). [[#figure_bgdorsal-dad1-epoch]] shows that the direct pathway (D1) patch neurons quickly learn that there is a greater reward expectation for the correct PF output pools relative to the incorrect ones. The converse pattern holds for the D2 indirect neurons as well.
@@ -379,7 +379,7 @@ $$
 
 where $o$ is the scaling factor for this weaker off factor (0.1 default), and $P_{d1}$ is the direct (D1) pathway patch activity, and $P_{d2}$ is the D2 indirect pathway activity (these factors are both normalized based on average activity in the corresponding pools of patch activities).
 
-{id="figure_bgdorsal-dad1-trial" style="height:25em"}
+{id="figure_bgdorsal-dad1-trial" style="height:20em"}
 ![Direct (D1) vs indirect (D2) pathway activity in patch neurons for the active pool in the BG dorsal sequence learning model, over the trials in a single sequence. The system has been getting the first and last actions in the sequence wrong, and this is reflected in the learned patch values as shown (D1 is strong for correct trials, weaker for incorrect, while the opposite holds for D2). The active learning rule will discount learning on the correct actions due to the stronger D1 activity, while driving more learning on the incorrect first and last trials. ](media/fig_bgdorsal_patch_da_trial.png)
 
 The active factor ([[#eq_dls-tr-pf]]) captures the shunting inhibition effect of the direct pathway inhibition onto the SNc dopamine neurons via the $(1-P_{d1})$ term, which discounts learning to the extent that a pool is already expected to be correct ([[#figure_bgdorsal-dad1-trial]]). The indirect pathway modulation of LHb DA via the D2 factor adds positively to the trace so that a negative expectation will drive synaptic decreases if the output is negative (and it will tend to be small otherwise).
