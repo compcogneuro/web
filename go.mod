@@ -3,7 +3,7 @@ module github.com/compcogneuro/web
 go 1.23.4
 
 require (
-	cogentcore.org/core v0.3.13-0.20251009162923-6628fc91d9af
+	cogentcore.org/core v0.3.13-0.20251010084209-56d294d0560f
 	cogentcore.org/lab v0.1.3-0.20251009131026-b81fa706d621
 	github.com/cogentcore/yaegi v0.0.0-20250622201820-b7838bdd95eb
 	github.com/emer/axon/v2 v2.0.0-dev0.2.58.0.20251009132128-45f2eea74684
@@ -35,6 +35,7 @@ require (
 	github.com/hack-pad/go-indexeddb v0.3.2 // indirect
 	github.com/hack-pad/hackpadfs v0.2.1 // indirect
 	github.com/hack-pad/safejs v0.1.1 // indirect
+	github.com/jeandeaual/go-locale v0.0.0-20250612000132-0ef82f21eade // indirect
 	github.com/jinzhu/copier v0.4.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
