@@ -12,6 +12,8 @@
 
 <p id="AhrensMeyerFergusonEtAl16">Ahrens, A.M., Meyer, P.J., Ferguson, L.M., Robinson, T.E., & Aldridge, J.W. (2016). Neural activity in the ventral pallidum encodes variation in the incentive value of a reward cue. <i>The Journal of Neuroscience, 36</i>, 7957-7970. <a href="http://www.jneurosci.org/content/36/30/7957">http://www.jneurosci.org/content/36/30/7957</a><a href="http://doi.org/10.1523/JNEUROSCI.0736-16.2016"> http://doi.org/10.1523/JNEUROSCI.0736-16.2016</a></p>
 
+<p id="AizenmanHuangManisEtAl00">Aizenman, C.D., Huang, E.J., Manis, P.B., & Linden, D.J. (2000). <i>Use-dependent changes in synaptic strength at the Purkinje cell to deep nuclear synapse. </i>In Progress in Brain Research (pp. 257-273). Elsevier. <a href="https://www.sciencedirect.com/science/article/pii/S0079612300240223">https://www.sciencedirect.com/science/article/pii/S0079612300240223</a><a href="http://doi.org/10.1016/S0079-6123(00)24022-3"> http://doi.org/10.1016/S0079-6123(00)24022-3</a></p>
+
 <p id="Aizi23">Aizi, R. (2023). How does GPT-3 spend its 175B parameters? <a href="https://www.lesswrong.com/posts/3duR8CrvcHywrnhLo/how-does-gpt-3-spend-its-175b-parameters">https://www.lesswrong.com/posts/3duR8CrvcHywrnhLo/how-does-gpt-3-spend-its-175b-parameters</a></p>
 
 <p id="AkhlaghpourWiskerkeChoiEtAl16">Akhlaghpour, H., Wiskerke, J., Choi, J.Y., Taliaferro, J.P., Au, J., & Witten, I.B. (2016). Dissociated sequential activity and stimulus encoding in the dorsomedial striatum during spatial working memory. <i>eLife, 5</i>, e19507. <a href="https://doi.org/10.7554/eLife.19507">https://doi.org/10.7554/eLife.19507</a><a href="http://doi.org/10.7554/eLife.19507"> http://doi.org/10.7554/eLife.19507</a></p>
@@ -966,6 +968,8 @@
 
 <p id="OhmaeMedina15">Ohmae, S., & Medina, J.F. (2015). Climbing fibers encode a temporal-difference prediction error during cerebellar learning in mice. <i>Nature Neuroscience, 18</i>, 1798-1803. <a href="https://www.nature.com/articles/nn.4167">https://www.nature.com/articles/nn.4167</a><a href="http://doi.org/10.1038/nn.4167"> http://doi.org/10.1038/nn.4167</a></p>
 
+<p id="OhyamaMedinaNoresEtAl03">Ohyama, T., Medina, J.F., Nores, W.L., & Mauk, M.D. (2003). Trying to understand the cerebellum well enough to build one. <i>Annals of the New York Academy of Sciences, 978</i>, 425-438. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12582071">http://www.ncbi.nlm.nih.gov/pubmed/12582071</a></p>
+
 <p id="Oja82">Oja, E. (1982). A simplified neuron model as a principal component analyzer. <i>Journal of mathematical biology, 15</i>, 267-273. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7153672">http://www.ncbi.nlm.nih.gov/pubmed/7153672</a></p>
 
 <p id="Oja89">Oja, E. (1989). Neural networks, principal components, and subspaces. <i>International Journal of Neural Systems, 1</i>, 61-68. <a href="https://www.worldscientific.com/doi/10.1142/S0129065789000475">https://www.worldscientific.com/doi/10.1142/S0129065789000475</a></p>
@@ -1089,6 +1093,8 @@
 <p id="RatcliffRouder98">Ratcliff, R., & Rouder, J.N. (1998). Modeling response times for two-choice decisions. <i>Psychological Science, 9</i>, 347. </p>
 
 <p id="RaymondLisberger98">Raymond, J.L., & Lisberger, S.G. (1998). Neural Learning Rules for the Vestibulo-Ocular Reflex. <i>Journal of Neuroscience, 18</i>, 9112-9129. <a href="https://www.jneurosci.org/content/18/21/9112">https://www.jneurosci.org/content/18/21/9112</a><a href="http://doi.org/10.1523/JNEUROSCI.18-21-09112.1998"> http://doi.org/10.1523/JNEUROSCI.18-21-09112.1998</a></p>
+
+<p id="RaymondLisbergerMauk96">Raymond, J.L., Lisberger, S.G., & Mauk, M.D. (1996). The cerebellum: a neuronal learning machine? <i>Science (New York, N.Y.), 272</i>, 1126. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8638157">http://www.ncbi.nlm.nih.gov/pubmed/8638157</a></p>
 
 <p id="RaymondMedina18">Raymond, J.L., & Medina, J.F. (2018). Computational Principles of Supervised Learning in the Cerebellum. <i>Annual Review of Neuroscience, 41</i>, 233-253. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-080317-061948">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-080317-061948</a><a href="http://doi.org/10.1146/annurev-neuro-080317-061948"> http://doi.org/10.1146/annurev-neuro-080317-061948</a></p>
 
@@ -1306,6 +1312,8 @@
 
 <p id="Thompson-SchillRamscarChrysikou09">Thompson-Schill, S.L., Ramscar, M., & Chrysikou, E.G. (2009). Cognition without control: when a little frontal lobe goes a long way. <i>Current directions in psychological science, 18</i>, 259-263. <a href="http://journals.sagepub.com/doi/10.1111/j.1467-8721.2009.01648.x">http://journals.sagepub.com/doi/10.1111/j.1467-8721.2009.01648.x</a><a href="http://doi.org/10.1111/j.1467-8721.2009.01648.x"> http://doi.org/10.1111/j.1467-8721.2009.01648.x</a></p>
 
+<p id="Thompson86">Thompson, R.F. (1986). The neruobiology of learning and memory. <i>Science, 233</i>, 941-947. </p>
+
 <p id="Thomson10">Thomson, A.M. (2010). Neocortical layer 6, a review. <i>Frontiers in Neuroanatomy, 4</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20556241">http://www.ncbi.nlm.nih.gov/pubmed/20556241</a></p>
 
 <p id="ThomsonDestexhe99">Thomson, A.M., & Destexhe, A. (1999). Dual intracellular recordings and computational models of slow inhibitory postsynaptic potentials in rat neocortical and hippocampal slices. <i>Neuroscience, 92</i>, 1193-1215. <a href="http://www.sciencedirect.com/science/article/pii/S0306452299000214">http://www.sciencedirect.com/science/article/pii/S0306452299000214</a><a href="http://doi.org/10.1016/S0306-4522(99)00021-4"> http://doi.org/10.1016/S0306-4522(99)00021-4</a></p>
@@ -1345,6 +1353,10 @@
 <p id="UrakuboHondaFroemkeEtAl08">Urakubo, H., Honda, M., Froemke, R.C., & Kuroda, S. (2008). Requirement of an allosteric kinetics of NMDA receptors for spike timing-dependent plasticity. <i>The Journal of Neuroscience, 28</i>, 3310-3323. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18367598">http://www.ncbi.nlm.nih.gov/pubmed/18367598</a></p>
 
 <p id="UusisaariKnopfel08">Uusisaari, M., & Knöpfel, T. (2008). GABAergic synaptic communication in the GABAergic and non-GABAergic cells in the deep cerebellar nuclei. <i>Neuroscience, 156</i>, 537-549. <a href="https://www.sciencedirect.com/science/article/pii/S0306452208011287">https://www.sciencedirect.com/science/article/pii/S0306452208011287</a><a href="http://doi.org/10.1016/j.neuroscience.2008.07.060"> http://doi.org/10.1016/j.neuroscience.2008.07.060</a></p>
+
+<p id="UusisaariKnopfel11">Uusisaari, M., & Knöpfel, T. (2011). Functional Classification of Neurons in the Mouse Lateral Cerebellar Nuclei. <i>The Cerebellum, 10</i>, 637-646. <a href="https://doi.org/10.1007/s12311-010-0240-3">https://doi.org/10.1007/s12311-010-0240-3</a><a href="http://doi.org/10.1007/s12311-010-0240-3"> http://doi.org/10.1007/s12311-010-0240-3</a></p>
+
+<p id="UusisaariKnopfel12">Uusisaari, M.Y., & Knöpfel, T. (2012). Diversity of Neuronal Elements and Circuitry in the Cerebellar Nuclei. <i>The Cerebellum, 11</i>, 420-421. <a href="https://doi.org/10.1007/s12311-011-0350-6">https://doi.org/10.1007/s12311-011-0350-6</a><a href="http://doi.org/10.1007/s12311-011-0350-6"> http://doi.org/10.1007/s12311-011-0350-6</a></p>
 
 <p id="VanHarreveldFifkova75">Van Harreveld, A., & Fifkova, E. (1975). Swelling of dendritic spines in the fascia dentata after stimulation of the perforant fibers as a mechanism of post-tetanic potentiation. <i>Experimental Neurology, 49</i>, 736-749. <a href="https://www.sciencedirect.com/science/article/pii/0014488675900552">https://www.sciencedirect.com/science/article/pii/0014488675900552</a><a href="http://doi.org/10.1016/0014-4886(75)90055-2"> http://doi.org/10.1016/0014-4886(75)90055-2</a></p>
 
