@@ -148,6 +148,20 @@ A more detailed discussion of these different thalamocortical loops is provided 
 
 In the case of the MD, the medial portion (MDm) provides a single locus of gating control over all of the goal-relevant PFC areas, while the central (MDc) provides more specific connectivity to OFC (outcome) areas, while lateral (MDl) connects with the PL and ACC areas. This is consistent with the idea that there are both global goal-wide gating signals for engaging an active goal, and more specific updating of the outcome and effort / utility aspects of the goal state as things progress.
 
+## Primate-specific PFC areas
+
+TODO:
+
+* PFC greatly expanded in primates, especially humans
+
+* Anatomically distinct new areas present that are not evident in rodents, largely in Brodmann areas 8, 9, 46, but also 44,45,47 (IFG into supplementary mouth and tongue motor areas). These are critical for language.
+
+* Tom Hazy's recent lit search on Phillips et al VAmc connectivity with 9/46 dlPFC areas.
+
+Several neuroimaging studies in humans have investigated potential gating relationships between basal ganglia and PFC. For example, [[@^vanSchouwenburgdenOudenCools10]] showed using [[dynamic causal modeling]] under [[fMRI]] that ventral striatum activity led to task switching as reflected in dlPFC areas (specifically the IFG, which has often been implicated in human task representation maintenance), which then drove activity in stimulus-specific posterior cortical areas (for faces and scenes). While it is difficult to precisely exclude the involvement of the DMS which presumably is what drives the VAmc, the VS-specific activity implies that these areas, which project to MD thalamus, may be driving more of a larger-scale goal-state updating in the task switching case, versus a more focal, purely cognitive level update. A subsequent study also found ventral striatum as the locus of attentional switching ([[@vanSchouwenburgdenOudenCools15]]), and [[@vandenBoschLambregtsMaattaEtAl22]] show differences in dopamine levels in ventral putamen are associated with individual differences and phamacological manipulations in reversal learning.
+
+* 
+
 ## Computational implementation of PFC
 
 * PT, PTp

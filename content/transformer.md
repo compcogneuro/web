@@ -66,6 +66,22 @@ In comparison with the full [[bidirectional connectivity]] and consequent constr
 
 Furthermore, the very large number of feedforward layers can be learning to effectively unroll the dynamics that would otherwise be happening in bidirectional networks (see [[bidirectional connectivity#feedforward unrolling]]). Nevertheless, unrolling the entire neocortical network in this way would be computationally intractable, so the transformer can only be capturing a much more limited aspect of what genuine bidirectional connectivity can accomplish in the neocortex.
 
+### Slot-based binding
+
+Several analyses have revealed the mechanisms by which transformers can solve the [[binding problem]] in a systematic manner ([[@FengSteinhardt24]]; [[@Gur-AriehGevaGeiger25]]). First, because the information is presented in an explicitly structured, slot-based architecture where each word has its own distinct representation, binding can occur in an abstract manner by effectively just pointing to the appropriate slot where the relevant information is present, which is manifestly independent of the content of that slot. This is effectively what happens in a symbolic computer, where you can put any arbitrary pattern of information at a given memory address, and then use that memory address as a fully abstract and systematic variable to represent whatever content plays a given role.
+
+Consider the following simple statement for example:
+
+> Ann drinks coffee
+
+The subject role (_Ann_) can be whatever pattern of bits is at one memory location, while the object role (_coffee_) can be at a different location, and as long as you have an appropriate way of putting the patterns in the right memory locations (e.g., based on word order or other linguistic conventions), then you can automatically generalize to any arbitrary content (e.g., _Bazif drinks smalrog_).
+
+The cue-value attention mechanism enables a transformer to use an arbitrary address-like activity pattern as a cue to focus attention on a specific slot, so it is the combination of both the slot-based architecture and the presence of the cue-value attentional mechanism that enables this solution to the binding problem to be used.
+
+Interestingly, a similar solution was proposed based on the dynamic working memory gating mechanisms of the [[basal ganglia]] (BG) and [[prefrontal cortex]] (PFC), where the BG could gate an arbitrary activity pattern into a specific _stripe_ (slot) of PFC active maintenance ([[@KrieteNoelleCohenEtAl13]]). This then accomplishes the same kind of address-like functional binding, where anything in that PFC slot takes on a specific functional role just by virtue of having been gated into this location.
+
+A critical challenge for this PFC-BG model is having to train the neurons across a range of different slots to represent the relevant content that might be put into that slot. The transformer accomplishes this otherwise difficult feat by just re-using the same learned synaptic weights across all of its physical binding slots. It is unclear how this might actually work in the brain, which does not have this luxury, but perhaps with suitably abstract phonological encoding of words, people can learn to route a given set of phonemes into one of a few different possible PFC locations. Thus, the compact and universal phonological code of language could be a critical element in solving the arbitrary binding problem.
+
 ### Semantic and episodic memory
 
 Although the transformer does not have any kind of structural distinction corresponding to the anatomical and functional differences between the [[neocortex]] (for [[semantic memory]]) and [[hippocampus]] (for episodic memory), the high-dimensional nature of the feedforward network allows these models to encode both highly specific memories of specific texts and more generalized semantic knowledge ([[@NandaRajamanoharanKramarEtAl23]]). As discussed in [[combinatorial vs conjunctive]] representations, there are tradeoffs between these different types of representations, and the backpropagation mechanism can learn a useful mix of these different types of representations as needed for the [[predictive learning]] task that transformers are typically used for.
