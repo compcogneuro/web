@@ -292,6 +292,8 @@
 
 <p id="DeZeeuwSimpsonHoogenraadEtAl98">De Zeeuw, C.I., Simpson, J.I., Hoogenraad, C.C., Galjart, N., Koekkoek, S.K., & Ruigrok, T.J. (1998). Microcircuitry and function of the inferior olive. <i>Trends in neurosciences, 21</i>, 391-400. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9735947">http://www.ncbi.nlm.nih.gov/pubmed/9735947</a></p>
 
+<p id="DeZeeuwVanAlphenHawkinsEtAl97">De Zeeuw, C.I., Van Alphen, A.M., Hawkins, R.K., & Ruigrok, T.J. (1997). Climbing fibre collaterals contact neurons in the cerebellar nuclei that provide a GABAergic feedback to the inferior olive. <i>Neuroscience, 80</i>, 981-986. <a href="https://doi.org/10.1016/s0306-4522(97)00249-2">https://doi.org/10.1016/s0306-4522(97)00249-2</a><a href="http://doi.org/10.1016/s0306-4522(97)00249-2"> http://doi.org/10.1016/s0306-4522(97)00249-2</a></p>
+
 <p id="DiehlCook15">Diehl, P.U., & Cook, M. (2015). Unsupervised learning of digit recognition using spike-timing-dependent plasticity. <i>Frontiers in Computational Neuroscience, 9</i>, <a href="https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full">https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full</a><a href="http://doi.org/10.3389/fncom.2015.00099"> http://doi.org/10.3389/fncom.2015.00099</a></p>
 
 <p id="DingGold13">Ding, L., & Gold, J.I. (2013). The basal ganglia’s contributions to perceptual decision making. <i>Neuron, 79</i>, 640-649. <a href="https://www.cell.com/neuron/abstract/S0896-6273(13)00666-1">https://www.cell.com/neuron/abstract/S0896-6273(13)00666-1</a><a href="http://doi.org/10.1016/j.neuron.2013.07.042"> http://doi.org/10.1016/j.neuron.2013.07.042</a></p>
@@ -377,6 +379,8 @@
 <p id="Fanselow98">Fanselow, M.S. (1998). Pavlovian Conditioning, Negative Feedback, and Blocking: Mechanisms that Regulate Association Formation. <i>Neuron, 20</i>, 625-627. <a href="https://www.cell.com/neuron/abstract/S0896-6273(00)81002-8">https://www.cell.com/neuron/abstract/S0896-6273(00)81002-8</a><a href="http://doi.org/10.1016/S0896-6273(00)81002-8"> http://doi.org/10.1016/S0896-6273(00)81002-8</a></p>
 
 <p id="Farah90">Farah, M.J. (1990). <i>Visual Agnosia. </i> MIT Press. </p>
+
+<p id="FengSteinhardt24">Feng, J., & Steinhardt, J. (2024). How do Language Models Bind Entities in Context? <a href="http://arxiv.org/abs/2310.17191">http://arxiv.org/abs/2310.17191</a><a href="http://doi.org/10.48550/arXiv.2310.17191"> http://doi.org/10.48550/arXiv.2310.17191</a></p>
 
 <p id="FerrainaPareWurtz02">Ferraina, S., Pare, M., & Wurtz, R.H. (2002). Comparison of cortico-cortical and cortico-collicular signals for the generation of saccadic eye movements. <i>Journal of Neurophysiology, 87</i>, 845-858. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11826051">http://www.ncbi.nlm.nih.gov/pubmed/11826051</a></p>
 
@@ -511,6 +515,8 @@
 <p id="GuoUusisaari25">Guo, D., & Uusisaari, M.Y. (2025). In vivo imaging of inferior olive neurons reveals roles of co-activation and cerebellar feedback in olivocerebellar signaling. 2025.01.06.631443. <a href="https://www.biorxiv.org/content/10.1101/2025.01.06.631443v1">https://www.biorxiv.org/content/10.1101/2025.01.06.631443v1</a><a href="http://doi.org/10.1101/2025.01.06.631443"> http://doi.org/10.1101/2025.01.06.631443</a></p>
 
 <p id="GuoYamawakiSvobodaEtAl18">Guo, K., Yamawaki, N., Svoboda, K., & Shepherd, G.M.G. (2018). Anterolateral motor cortex connects with a medial subdivision of ventromedial thalamus through cell type-specific circuits, forming an excitatory thalamo-cortico-thalamic loop via layer 1 apical tuft dendrites of layer 5b pyramidal tract type neurons. <i>Journal of Neuroscience, 38</i>, 8787-8797. <a href="https://www.jneurosci.org/content/38/41/8787">https://www.jneurosci.org/content/38/41/8787</a><a href="http://doi.org/10.1523/JNEUROSCI.1333-18.2018"> http://doi.org/10.1523/JNEUROSCI.1333-18.2018</a></p>
+
+<p id="Gur-AriehGevaGeiger25">Gur-Arieh, Y., Geva, M., & Geiger, A. (2025). Mixing Mechanisms: How Language Models Retrieve Bound Entities In-Context. <a href="http://arxiv.org/abs/2510.06182">http://arxiv.org/abs/2510.06182</a><a href="http://doi.org/10.48550/arXiv.2510.06182"> http://doi.org/10.48550/arXiv.2510.06182</a></p>
 
 <p id="GurneyHumphriesRedgrave15">Gurney, K.N., Humphries, M.D., & Redgrave, P. (2015). A new framework for cortico-striatal plasticity: behavioural theory meets in vitro data at the reinforcement-action interface. <i>PLoS Biology, 13</i>, ePub only e1002034. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25562526">http://www.ncbi.nlm.nih.gov/pubmed/25562526</a></p>
 
@@ -735,6 +741,8 @@
 <p id="KravitzFreezeParkerEtAl10">Kravitz, A., Freeze, B., Parker, P., Kay, K., Thwin, M., Deisseroth, K., & Kreitzer, A. (2010). Regulation of {P}arkinsonian motor behaviours by optogenetic control of basal ganglia circuitry. <i>Nature, 466</i>, 622–626. <a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature09159.html">http://www.nature.com/nature/journal/vaop/ncurrent/full/nature09159.html</a></p>
 
 <p id="KriegeskorteMurBandettini08">Kriegeskorte, N., Mur, M., & Bandettini, P. (2008). Representational similarity analysis – connecting the branches of systems neuroscience. <i>Frontiers in Systems Neuroscience, 2</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/19104670">http://www.ncbi.nlm.nih.gov/pubmed/19104670</a></p>
+
+<p id="KrieteNoelleCohenEtAl13">Kriete, T., Noelle, D.C., Cohen, J.D., & O'Reilly, R.C. (2013). Indirection and symbol-like processing in the prefrontal cortex and basal ganglia. <i>Proceedings of the National Academy of Sciences U.S.A., 110</i>, 16390-16395. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24062434">http://www.ncbi.nlm.nih.gov/pubmed/24062434</a></p>
 
 <p id="KritzerGoldman-Rakic95">Kritzer, M.F., & Goldman-Rakic, P.S. (1995). Intrinsic circuit organization of the major layers and sublayers of the dorsolateral prefrontal cortex in the rhesus monkey. <i>Journal of Comparative Neurology, 359</i>, 131-143. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8557842">http://www.ncbi.nlm.nih.gov/pubmed/8557842</a></p>
 
@@ -1358,11 +1366,17 @@
 
 <p id="UusisaariKnopfel12">Uusisaari, M.Y., & Knöpfel, T. (2012). Diversity of Neuronal Elements and Circuitry in the Cerebellar Nuclei. <i>The Cerebellum, 11</i>, 420-421. <a href="https://doi.org/10.1007/s12311-011-0350-6">https://doi.org/10.1007/s12311-011-0350-6</a><a href="http://doi.org/10.1007/s12311-011-0350-6"> http://doi.org/10.1007/s12311-011-0350-6</a></p>
 
+<p id="vandenBoschLambregtsMaattaEtAl22">Bosch, R., Lambregts, B., Määttä, J., Hofmans, L., Papadopetraki, D., Westbrook, A., Verkes, R., Booij, J., & Cools, R. (2022). Striatal dopamine dissociates methylphenidate effects on value-based versus surprise-based reversal learning. <i>Nature Communications, 13</i>, 4962. <a href="https://www.nature.com/articles/s41467-022-32679-1">https://www.nature.com/articles/s41467-022-32679-1</a><a href="http://doi.org/10.1038/s41467-022-32679-1"> http://doi.org/10.1038/s41467-022-32679-1</a></p>
+
 <p id="VanHarreveldFifkova75">Van Harreveld, A., & Fifkova, E. (1975). Swelling of dendritic spines in the fascia dentata after stimulation of the perforant fibers as a mechanism of post-tetanic potentiation. <i>Experimental Neurology, 49</i>, 736-749. <a href="https://www.sciencedirect.com/science/article/pii/0014488675900552">https://www.sciencedirect.com/science/article/pii/0014488675900552</a><a href="http://doi.org/10.1016/0014-4886(75)90055-2"> http://doi.org/10.1016/0014-4886(75)90055-2</a></p>
 
 <p id="vanRooijWrightWareham12">Rooij, I., Wright, C.D., & Wareham, T. (2012). Intractability and the use of heuristics in psychological explanations. <i>Synthese, 187</i>, 471-487. <a href="https://doi.org/10.1007/s11229-010-9847-7">https://doi.org/10.1007/s11229-010-9847-7</a><a href="http://doi.org/10.1007/s11229-010-9847-7"> http://doi.org/10.1007/s11229-010-9847-7</a></p>
 
 <p id="VanRullenKoch03">VanRullen, R., & Koch, C. (2003). Is perception discrete or continuous? <i>Trends in Cognitive Sciences, 7</i>, 207–213. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12757822">http://www.ncbi.nlm.nih.gov/pubmed/12757822</a></p>
+
+<p id="vanSchouwenburgdenOudenCools10">Schouwenburg, M.R., Ouden, H.E.M., & Cools, R. (2010). The human basal ganglia modulate frontal-posterior connectivity during attention shifting. <i>The Journal of neuroscience, 30</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20660273">http://www.ncbi.nlm.nih.gov/pubmed/20660273</a></p>
+
+<p id="vanSchouwenburgdenOudenCools15">Schouwenburg, M.R., Ouden, H.E.M., & Cools, R. (2015). Selective Attentional Enhancement and Inhibition of Fronto-Posterior Connectivity by the Basal Ganglia During Attention Switching. <i>Cerebral Cortex, 25</i>, 1527-1534. <a href="https://doi.org/10.1093/cercor/bht345">https://doi.org/10.1093/cercor/bht345</a><a href="http://doi.org/10.1093/cercor/bht345"> http://doi.org/10.1093/cercor/bht345</a></p>
 
 <p id="VapnikChervonenkis71">Vapnik, V.N., & Chervonenkis, A. (1971). On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities. <i>Theory of Probability and Its Applications, 16</i>, 264-280. </p>
 
