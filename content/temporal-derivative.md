@@ -44,7 +44,7 @@ fastTau := 10.0 // time constant for fast integration
 slowTau := 20.0 // time constant for slow integration
 pred := 50.0
 out := 80.0
-var diffStr, fastStr, slowStr, predStr, outStr string
+var dwtStr, fastStr, slowStr, predStr, outStr string
 
 ##
 totalTime := 100
@@ -78,9 +78,9 @@ func td() {
         ##
     }
     ##
-    diff := fast[-1] - slow[-1]
+    dwt := fast[-1] - slow[-1]
     ##
-    diffStr = fmt.Sprintf("<b>Weight Change ΔW ≅ Predition - Outcome = Fast - Slow = %7.2g</b>", diff.Float1D(0))
+    dwtStr = fmt.Sprintf("<b>Weight Change ΔW ≅ Predition - Outcome = Fast - Slow = %7.2g</b>", dwt.Float1D(0))
 }
 
 td()
@@ -102,18 +102,18 @@ fig1.Legend.Add("Fast", fl)
 fig1.Legend.Add("Slow", sl)
 
 
-diffTx := core.NewText(b)
-diffTx.Styler(func(s *styles.Style) {
+dwtTx := core.NewText(b)
+dwtTx.Styler(func(s *styles.Style) {
     s.Min.X.Ch(80) // clean rendering with variable width content
 })
-core.Bind(&diffStr, diffTx)
+core.Bind(&dwtStr, dwtTx)
 
 func updt() {
     td()
     dl.SetData(driver)
     fl.SetData(fast)
     sl.SetData(slow)
-    diffTx.UpdateRender()
+    dwtTx.UpdateRender()
     pw.NeedsRender()
 }
 
@@ -157,9 +157,124 @@ Some things you can try:
 
 In summary, [[#sim_td]] based on the competition between two simple exponential integration equations ([[#eq_fast-slow]]) demonstrates that a locally computed temporal derivative can drive synaptic changes in a manner consistent with an error signal that emerges over time.
 
-## When is the temporal derivative computed?
+## Timing of learning
 
-A critical issue with this temporal derivative framework is that the accurate computation of a prediction error signal must happen at a specific point in time relative to the onset of the actual outcome, which you can see in the above example in terms of the effects of the different time constants. The precise timing of the prediction signals is less critical, because any neural activity that precedes the outcome can be considered a prediction, and the cumulative effects of the learning will cause these prior activity states to become a prediction in any case.
+A critical issue with this temporal derivative framework is that the accurate computation of a prediction error signal must happen at some point _after_ the onset of the actual outcome. If learning happened during the minus (prediction) phase for example, it would learn _toward_ the prediction state and _away_ from the prior outcome state!
 
-The [[kinase algorithm]] provides an answer to this key question (TODO: summary here!).
+Furthermore, the timing must allow the fast component sufficient time to deviate from the slow component, but not too much time, because then the difference will start to go away as the slow component catches up. In many Axon simulations, the inputs are presented at regular intervals for the sake of simplicity, and learning timing can be driven algorithmically. But how could it actually work in the brain?
+
+There is a reliable timing signal available at each individual neuron, which could potentially drive the biological synaptic plasticity process, as illustrated in the following simulation. This signal is based on the way that the absolute value of the difference between `fast` -- `slow` evolves over time, plotted as `diff`:
+
+{id="sim_diff" title="Timing for learning" collapsed="true"}
+```Goal
+fastTau := 10.0 // time constant for fast integration
+slowTau := 20.0 // time constant for slow integration
+pred := 50.0
+out := 80.0
+var dwtStr, fastStr, slowStr, predStr, outStr string
+
+##
+totalTime := 100
+driver := zeros(totalTime) // driver is what is driving the system
+fast := zeros(totalTime) // fast is a fast integrator of driver
+slow := zeros(totalTime) // slow is a slow integrator of driver
+diff := zeros(totalTime) // diff is the absolute value of fast - slow diff
+##
+
+func td() {
+    fastStr = fmt.Sprintf("Fast Tau: %g", fastTau)
+    slowStr = fmt.Sprintf("Slow Tau: %g", slowTau)
+    predStr = fmt.Sprintf("Prediction: %g", pred)
+    outStr = fmt.Sprintf("Outcome: %g", out)
+    ##
+    d := array(pred) // current drive
+    f := 0.0 // current fast
+    s := 0.0 // current slow
+    fTau := array(fastTau)
+    sTau := array(slowTau)
+    ##
+    for t := range 100 {
+        if t == 75 {
+            # d = array(out)
+        }
+        ##
+        f += (1.0 / fTau) * (d - f) // f moves toward d
+        s += (1.0 / sTau) * (d - s) // s moves toward f
+        driver[t] = d
+        fast[t] = f
+        slow[t] = s
+        diff[t] = abs(s-f)
+        ##
+    }
+    ##
+    dwt := fast[-1] - slow[-1]
+    ##
+    dwtStr = fmt.Sprintf("<b>Weight Change ΔW ≅ Predition - Outcome = Fast - Slow = %7.2g</b>", dwt.Float1D(0))
+}
+
+td()
+
+plotStyler := func(s *plot.Style) {
+    s.Range.SetMax(100).SetMin(0)
+    s.Plot.XAxis.Label = "Time"
+    s.Plot.XAxis.Range.SetMax(100).SetMin(0)
+	s.Plot.Legend.Position.Left = true
+}
+plot.SetStyler(driver, plotStyler) 
+
+fig1, pw := lab.NewPlotWidget(b)
+dl := plots.NewLine(fig1, driver)
+fl := plots.NewLine(fig1, fast)
+sl := plots.NewLine(fig1, slow)
+dfl := plots.NewLine(fig1, diff)
+fig1.Legend.Add("Driver", dl)
+fig1.Legend.Add("Fast", fl)
+fig1.Legend.Add("Slow", sl)
+fig1.Legend.Add("Diff", dfl)
+
+
+dwtTx := core.NewText(b)
+dwtTx.Styler(func(s *styles.Style) {
+    s.Min.X.Ch(80) // clean rendering with variable width content
+})
+core.Bind(&dwtStr, dwtTx)
+
+func updt() {
+    td()
+    dl.SetData(driver)
+    fl.SetData(fast)
+    sl.SetData(slow)
+    dfl.SetData(diff)
+    dwtTx.UpdateRender()
+    pw.NeedsRender()
+}
+
+func addSlider(label *string, val *float64, mxVal float32) {
+    tx := core.NewText(b)
+    tx.Styler(func(s *styles.Style) {
+        s.Min.X.Ch(40)  // clean rendering with variable width content
+    })
+	core.Bind(label, tx)
+	sld := core.NewSlider(b).SetMin(1).SetMax(mxVal).SetStep(1).SetEnforceStep(true)
+	sld.SendChangeOnInput()
+	sld.OnChange(func(e events.Event) {
+		updt()
+		tx.UpdateRender()
+	})
+	core.Bind(val, sld)
+}
+
+addSlider(&predStr, &pred, 100)
+addSlider(&outStr, &out, 100)
+addSlider(&fastStr, &fastTau, 50)
+addSlider(&slowStr, &slowTau, 50)
+```
+
+You can see that across different combinations of prediction and outcome driver states, the `diff` value exhibits two distinct peaks: one at the start when the onset of prediction-phase activity drives `fast` and `slow` to change at their different rates, and another just after onset of the outcome (plus) phase. Therefore, if we trigger learning to occur some number of cycles (milliseconds) after the onset of the first second peak, it should generally happen around the end of the plus phase.
+
+Because the duration of the minus and plus phases is not in principle reliable, both peaks need to be detected. The first, generally larger one can be thought of as a "priming" pulse that provides initial activation to the learning process, while the second one triggers the final adaptation process that is sensitive to the difference between the `fast` and `slow` components.
+
+The one case where there isn't a second peak is when the outcome matches the prediction, where no learning will occur in any case. It is possible to add a timeout for learning after the first peak: if no second peak occurs within some amount of time, then everything resets and the process starts over.
+
+In a spiking network (e.g., the [[kinase algorithm]] for Axon), the time integrated values that drive learning are not nearly as smooth as those in [[#sim_diff]], because they have a significant contribution from postsynaptic spiking.  However, much smoother values are available in the total excitatory and inhibitory conductances coming into each neuron, which sample from a large number of other neurons. The same peak-driven logic works well in this case, and is used in the [[kinase algorithm]].
 

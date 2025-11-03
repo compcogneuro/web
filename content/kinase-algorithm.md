@@ -206,13 +206,13 @@ At the point of learning, which occurs once at the end of a [[theta rhythm|theta
 
 What kind of biological signal causes learning to take place _after_ the plus phase of activity, as opposed to a reversed sequence of an outcome phase followed by a subsequent prediction phase for example? Is there some distinctive neural signature that marks these phases so that the proper alignment occurs with sufficient reliability to drive effective learning?
 
-While there is always the possibility that a global [[neuromodulator]] signal (e.g., dopamine) could provide the critical "learn now" signal, it is also the case that a local synaptic mechanism can provide a sufficiently accurate signal to work in practice in large-scale simulated models.
+There is always the possibility that a global [[neuromodulator]] signal could provide the critical "learn now" signal, and indeed [[norepinipherine]] has appropriate properties and projects widely into the neocortex. However, given the different timing of activity in different cortical areas, and the relatively localized nature of sensory prediction errors for example, it would be more robust for a local, neuron-level signal to guide the timing of learning.
 
-Specifically, the conjunction of significant pre and postsynaptic activity is actually sufficiently rare that there are typically relatively brief windows of synapse-specific activity followed by relative inactivity, and that this _transition to inactivity_ can mark the end of a prior plus phase.
+As discussed in [[temporal derivative#Timing of learning]], there are two peaks of relative activity associated with the onset of the minus and plus phases, so that the minus phase peak can initiate the learning process, and the plus phase peak can finalize it. The total excitatory and inhibitory conductance impinging on a neuron robustly and relatively smoothly exhibits these peaks in terms of the difference between a fast vs. slow integration of this activity, so we use that to drive learning timing.
 
-In biophysical terms, the CaMKII and DAPK1 competitive binding dynamic takes place when there is a relatively high level of Ca++ and activated calmodulin (CaM) in a relatively brief window after synaptic activity. Once this activity falls off, DAPK1 returns to its baseline state while CaMKII that has been bound to N2B remains active for a sufficient duration to trigger the AMPA receptor trafficking dynamics that result in actual changes in synaptic efficacy ([[@BayerGiese25]]). This process takes time, and requires relative DAPK1 inactivation to proceed, so it preferentially occurs during the transition to inactivity after a learning episode. Whatever final state the CaMKII vs. DAPK1 competition was in at the point of this transition determines the resulting LTP vs. LTD direction.
+The initial minus-phase peak is generally larger and more robust, so it dominates by triggering the start of the learning process. After a parameter-dependent number of cycles (milliseconds) from the onset of the minus-phase peak, the plus-phase peak is detected, and a specified number of cycles after that, the postsynaptic learning signal is recorded into the `LearnDiff` variable, to drive learning.
 
-This rule was implemented and tested extensively, and it worked well across a wide range of tasks. The "omniscient" version where we know when the plus phase ends still learns faster, and we continue to use that in our models to save computational time, but especially in the much larger scale of the actual mammalian brain, this issue does not appear to pose a significant problem for the overall biological feasibility of the kinase algorithm.
+The peak-finding logic works robustly by recording the time and peak value whenever it exceeds the prior peak. This ratcheting-up dynamic continues until the empirical peak value is reached. When the time since the last peak exceeds the minimum minus cycle threshold, the peak baseline is reset and peak detection switches to finding the plus phase peak, using the same logic. When the cycles since that peak exceed the plus phase cycle parameter, learning occurs.
 
 ## Stabilization and rescaling mechanisms
 
@@ -385,5 +385,4 @@ $$
 $$
 
 Using this equation provides significant benefits on tasks with temporal structure, typically with a $\tau_e$ factor of around 2-4 and $\lambda$ around 0.5.
-
 
