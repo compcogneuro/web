@@ -1,6 +1,6 @@
 +++
 Name = "Intro Book"
-Categories = ["Axon", "Textbooks"]
+Categories = ["Textbooks"]
 +++
 
 ## Computational Cognitive Neuroscience: An Introduction

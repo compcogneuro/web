@@ -1,5 +1,5 @@
 +++
-Categories = ["Learning", "Rubicon"]
+Categories = ["Computation", "Cognition", "Neuroscience", "Activation", "Learning", "Rubicon"]
 bibfile = "ccnlab.json"
 +++
 
@@ -114,6 +114,4 @@ We can summarize the overall approach by way of answering several key questions 
 3. _Does it actually work in practice, at least at smaller scale?_ Extensive small-scale [[simulations]] demonstrate that the implemented models do work in practice, including demonstrating significant benefits from the spiking-based activations in Axon relative to the earlier [[rate-code activation]] in Leabra and most [[abstract neural network]] models. 
 
 4. _Does it scale effectively?_ The considerable additional computation involved in simulating the constraint satisfaction process via bidirectional excitatory connectivity on each trial of processing, along with the biologically-detailed neural activity functions, represents a significant challenge for scaling up this approach. Thus, the necessary strategy is to establish as strong of a foundation in answering the first 3 questions, to the point that it is then possible to invest the resources necessary to take on this final, definitive step. Existing efforts have at least put the entire computation on parallel GPU hardware in a highly efficient manner, so some of the necessary infrastructure is in place, but much more work remains.
-
-## Axon pages
 

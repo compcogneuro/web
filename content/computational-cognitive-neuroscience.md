@@ -1,6 +1,6 @@
 +++
 Name = "Computational Cognitive Neuroscience"
-Categories = ["Axon"]
+Categories = ["Computation", "Cognition", "Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 
