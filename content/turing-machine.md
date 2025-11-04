@@ -10,7 +10,7 @@ To understand what kind of neural machinery it would take to support CPU-like fu
 
 1. A way of reading and writing information from a **memory system** (conceptualized as a *tape* by Turing).
 
-2. A +program that determines how this information is transformed in between being read and written.
+2. A **program** that determines how this information is transformed in between being read and written.
 
 3. Some **active memory** where things can be temporarily cached, for the program to refer to.
 
@@ -29,5 +29,5 @@ More generally, parallel systems are good at doing the same kind of thing over a
 
 There is strong evidence for the presence of these two different forms of computation at the psychological level. For example, we would predict that you need to use your "mental CPU"-like capacity whenever you take on a novel task, such as when you first learned to drive a car. At that time, you relied on a sequential, deliberate process that consumed all of your attention --- at each point in time, you had to keep reminding yourself of what you were supposed to be doing. However, with sufficient practice over time, these slow, effortful processes gradually become **automated**, and you may now find yourself driving down the freeway with very little awareness of any of the underlying steps you're effortlessly performing.
 
-This difference between the initial effortful **controlled processing** and the subsequent **automatic processing** was captured in a highly influential pair of papers by Walter Schneider and Richard Shiffrin ([[@SchneiderShiffrin77]]; [[@ShiffrinSchneider77]]). This same distinction was later described by [@Kahneman11] in terms of _System 1_ (automatic, fast) vs _System 2_ (controlled, slow), which are not perhaps not the most useful labels.
+This difference between the initial effortful **controlled processing** and the subsequent **automatic processing** was captured in a highly influential pair of papers by Walter Schneider and Richard Shiffrin ([[@SchneiderShiffrin77]]; [[@ShiffrinSchneider77]]). This same distinction was later described by [[@^Kahneman11]] in terms of _System 1_ (automatic, fast) vs _System 2_ (controlled, slow), which are not perhaps not the most useful labels.
 
