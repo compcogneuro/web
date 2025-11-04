@@ -1044,6 +1044,8 @@
 
 <p id="ParnaudeauBolkanKellendonk18">Parnaudeau, S., Bolkan, S.S., & Kellendonk, C. (2018). The mediodorsal thalamus: An essential partner of the prefrontal cortex for cognition. <i>Biological Psychiatry, 83</i>, 648-656. <a href="http://www.sciencedirect.com/science/article/pii/S0006322317321935">http://www.sciencedirect.com/science/article/pii/S0006322317321935</a><a href="http://doi.org/10.1016/j.biopsych.2017.11.008"> http://doi.org/10.1016/j.biopsych.2017.11.008</a></p>
 
+<p id="Pashler94">Pashler, H. (1994). Dual-task interference in simple tasks: data and theory. <i>Psychological bulletin, 116</i>, 220-244. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7972591">http://www.ncbi.nlm.nih.gov/pubmed/7972591</a></p>
+
 <p id="PateriaSubagdjaTanEtAl21">Pateria, S., Subagdja, B., Tan, A., & Quek, C. (2021). Hierarchical Reinforcement Learning: A Comprehensive Survey. <i>ACM Comput. Surv., 54</i>, 109:1–109:35. <a href="https://dl.acm.org/doi/10.1145/3453160">https://dl.acm.org/doi/10.1145/3453160</a><a href="http://doi.org/10.1145/3453160"> http://doi.org/10.1145/3453160</a></p>
 
 <p id="PauliHazyOReilly12">Pauli, W.M., Hazy, T.E., & O'Reilly, R.C. (2012). Expectancy, ambiguity, and behavioral flexibility: separable and complementary roles of the orbital frontal cortex and amygdala in processing reward expectancies. <i>Journal of Cognitive Neuroscience, 24</i>, 351-366. <a href="http://www.ncbi.nlm.nih.gov/pubmed/22004047">http://www.ncbi.nlm.nih.gov/pubmed/22004047</a></p>
