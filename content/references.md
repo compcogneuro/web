@@ -40,6 +40,8 @@
 
 <p id="AndersonLebiere98">Anderson, J.R., & Lebiere, C. (1998). <i>The Atomic Components of Thought</i> (1 ed).  Lawrence Erlbaum Associated, Publishers. </p>
 
+<p id="AndoUedaLuoEtAl20">Ando, T., Ueda, M., Luo, Y., & Sugihara, I. (2020). Heterogeneous vestibulocerebellar mossy fiber projections revealed by single axon reconstruction in the mouse. <i>Journal of Comparative Neurology, 528</i>, 1775–1802. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24853">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24853</a><a href="http://doi.org/10.1002/cne.24853"> http://doi.org/10.1002/cne.24853</a></p>
+
 <p id="AngelucciBressloff06">Angelucci, A., & Bressloff, P.C. (2006). Contribution of feedforward, lateral and feedback connections to the classical receptive field center and extra-classical receptive field surround of primate V1 neurons. In S.L.M. S. Martinez-Conde (Ed.), <i>Progress in Brain Research</i> (pp. 93–120). Elsevier. <a href="http://www.sciencedirect.com/science/article/pii/S0079612306540051">http://www.sciencedirect.com/science/article/pii/S0079612306540051</a><a href="http://doi.org/10.1016/S0079-6123(06)54005-1"> http://doi.org/10.1016/S0079-6123(06)54005-1</a></p>
 
 <p id="AnkriHussonPietrajtisEtAl15">Ankri, L., Husson, Z., Pietrajtis, K., Proville, R., Léna, C., Yarom, Y., Dieudonné, S., & Uusisaari, M.Y. (2015). A novel inhibitory nucleo-cortical circuit controls cerebellar Golgi cell activity. <i>eLife, 4</i>, e06262. <a href="https://doi.org/10.7554/eLife.06262">https://doi.org/10.7554/eLife.06262</a><a href="http://doi.org/10.7554/eLife.06262"> http://doi.org/10.7554/eLife.06262</a></p>
@@ -80,9 +82,15 @@
 
 <p id="BartoSuttonAnderson83">Barto, A.G., Sutton, R.S., & Anderson, C.W. (1983). Neuronlike adaptive elements that can solve difficult learning control problems. <i>IEEE transactions on Systems, Man, & Cybernetics, 13</i>, 834–846. </p>
 
+<p id="BasileQuartuBertinoEtAl21">Basile, G.A., Quartu, M., Bertino, S., Serra, M.P., Boi, M., Bramanti, A., Anastasi, G.P., Milardi, D., & Cacciola, A. (2021). Red nucleus structure and function: from anatomy to clinical neurosciences. <i>Brain Structure and Function, 226</i>, 69–91. <a href="https://doi.org/10.1007/s00429-020-02171-x">https://doi.org/10.1007/s00429-020-02171-x</a><a href="http://doi.org/10.1007/s00429-020-02171-x"> http://doi.org/10.1007/s00429-020-02171-x</a></p>
+
 <p id="BassoWurtz02">Basso, M.A..., & Wurtz, R.H. (2002). Neuronal activity in substantia nigra pars reticulata during target selection. <i>Journal of Neuroscience, 22</i>, 1883–1894. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11880518">http://www.ncbi.nlm.nih.gov/pubmed/11880518</a></p>
 
 <p id="Bastian06">Bastian, A.J. (2006). Learning to predict the future: the cerebellum adapts feedforward movement control. <i>Current opinion in neurobiology, 16</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/17071073">http://www.ncbi.nlm.nih.gov/pubmed/17071073</a></p>
+
+<p id="BatistaBuneoSnyderEtAl99">Batista, A.P., Buneo, C.A., Snyder, L.H., & Andersen, R.A. (1999). Reach plans in eye-centered coordinates. <i>Science (New York, N.Y.), 285</i>, 257. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10398603">http://www.ncbi.nlm.nih.gov/pubmed/10398603</a></p>
+
+<p id="BaumelJacobsonCohen09">Baumel, Y., Jacobson, G.A., & Cohen, D. (2009). Implications of functional anatomy on information processing in the deep cerebellar nuclei. <i>Frontiers in Cellular Neuroscience, 3</i>, <a href="https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/neuro.03.014.2009/full">https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/neuro.03.014.2009/full</a><a href="http://doi.org/10.3389/neuro.03.014.2009"> http://doi.org/10.3389/neuro.03.014.2009</a></p>
 
 <p id="BayerGiese25">Bayer, K.U., & Giese, K.P. (2025). A revised view of the role of CaMKII in learning and memory. <i>Nature Neuroscience, 28</i>, 24–34. <a href="https://www.nature.com/articles/s41593-024-01809-x">https://www.nature.com/articles/s41593-024-01809-x</a><a href="http://doi.org/10.1038/s41593-024-01809-x"> http://doi.org/10.1038/s41593-024-01809-x</a></p>
 
@@ -106,9 +114,13 @@
 
 <p id="BendaMalerLongtin10">Benda, J., Maler, L., & Longtin, A. (2010). Linear Versus Nonlinear Signal Transmission in Neuron Models With Adaptation Currents or Dynamic Thresholds. <i>Journal of Neurophysiology, 104</i>, 2806–2820. <a href="http://jn.physiology.org/content/104/5/2806">http://jn.physiology.org/content/104/5/2806</a><a href="http://doi.org/10.1152/jn.00240.2010"> http://doi.org/10.1152/jn.00240.2010</a></p>
 
+<p id="BengtssonEkerotJorntell11">Bengtsson, F., Ekerot, C., & Jörntell, H. (2011). In Vivo Analysis of Inhibitory Synaptic Inputs and Rebounds in Deep Cerebellar Nuclear Neurons. <i>PLOS ONE, 6</i>, e18822. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018822">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018822</a><a href="http://doi.org/10.1371/journal.pone.0018822"> http://doi.org/10.1371/journal.pone.0018822</a></p>
+
 <p id="BeniaguevSegevLondon21">Beniaguev, D., Segev, I., & London, M. (2021). Single cortical neurons as deep artificial neural networks. <i>Neuron, <a href="https://www.sciencedirect.com/science/article/pii/S0896627321005018">https://www.sciencedirect.com/science/article/pii/S0896627321005018</a></i><a href="http://doi.org/10.1016/j.neuron.2021.07.002"> http://doi.org/10.1016/j.neuron.2021.07.002</a></p>
 
 <p id="BerendseGalis-DeGraafGroenewegen92">Berendse, H., Galis-De Graaf, Y., & Groenewegen, H. (1992). Topographical organization and relationship with ventral striatal compartments of prefrontal corticostriatal projections in the rat. <i>The Journal of Comparative Neurology, 316</i>, 314–347. <a href="http://dx.doi.org/10.1002/cne.903160305">http://dx.doi.org/10.1002/cne.903160305</a></p>
+
+<p id="BerkleyHand78">Berkley, K.J., & Hand, P.J. (1978). Projections to the inferior olive of the cat II. Comparisons of input from the gracile, cuneate and the spinal trigeminal nuclel. <i>Journal of Comparative Neurology, 180</i>, 253–264. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901800205">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901800205</a><a href="http://doi.org/10.1002/cne.901800205"> http://doi.org/10.1002/cne.901800205</a></p>
 
 <p id="BerthierMoore86">Berthier, N.E., & Moore, J.W. (1986). Cerebellar Purkinje cell activity related to the classically conditioned nictitating membrane response. <i>Experimental Brain Research, 63</i>, 341–350. <a href="https://doi.org/10.1007/BF00236851">https://doi.org/10.1007/BF00236851</a><a href="http://doi.org/10.1007/BF00236851"> http://doi.org/10.1007/BF00236851</a></p>
 
@@ -129,6 +141,8 @@
 <p id="BittnerGrienbergerVaidyaEtAl15">Bittner, K.C., Grienberger, C., Vaidya, S.P., Milstein, A.D., Macklin, J.J., Suh, J., Tonegawa, S., & Magee, J.C. (2015). Conjunctive input processing drives feature selectivity in hippocampal CA1 neurons. <i>Nature Neuroscience, 18</i>(8), 1133–1142. <a href="https://www.nature.com/articles/nn.4062">https://www.nature.com/articles/nn.4062</a><a href="http://doi.org/10.1038/nn.4062"> http://doi.org/10.1038/nn.4062</a></p>
 
 <p id="BittnerMilsteinGrienbergerEtAl17">Bittner, K.C., Milstein, A.D., Grienberger, C., Romani, S., & Magee, J.C. (2017). Behavioral time scale synaptic plasticity underlies CA1 place fields. <i>Science, 357</i>, 1033–1036. <a href="http://science.sciencemag.org/content/357/6355/1033">http://science.sciencemag.org/content/357/6355/1033</a><a href="http://doi.org/10.1126/science.aan3846"> http://doi.org/10.1126/science.aan3846</a></p>
+
+<p id="BlenkinsopLang11">Blenkinsop, T.A., & Lang, E.J. (2011). Synaptic Action of the Olivocerebellar System on Cerebellar Nuclear Spike Activity. <i>Journal of Neuroscience, 31</i>, 14708–14720. <a href="https://www.jneurosci.org/content/31/41/14708">https://www.jneurosci.org/content/31/41/14708</a><a href="http://doi.org/10.1523/JNEUROSCI.3323-11.2011"> http://doi.org/10.1523/JNEUROSCI.3323-11.2011</a></p>
 
 <p id="BlissLomo73">Bliss, T.V., & Lomo, T. (1973). Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path. <i>The Journal of physiology, 232</i>, 331–356. <a href="http://www.ncbi.nlm.nih.gov/pubmed/4727084">http://www.ncbi.nlm.nih.gov/pubmed/4727084</a></p>
 
@@ -169,6 +183,8 @@
 <p id="BrooksCullen13">Brooks, J.X., & Cullen, K.E. (2013). The Primate Cerebellum Selectively Encodes Unexpected Self-Motion. <i>Current Biology, 23</i>, 947–955. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(13)00437-5">https://www.cell.com/current-biology/abstract/S0960-9822(13)00437-5</a><a href="http://doi.org/10.1016/j.cub.2013.04.029"> http://doi.org/10.1016/j.cub.2013.04.029</a></p>
 
 <p id="BrownBullockGrossberg04">Brown, J.W., Bullock, D., & Grossberg, S. (2004). How laminar frontal cortex and basal ganglia circuits interact to control planned and reactive saccades. <i>Neural Networks, 17</i>, 471–510. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15109680">http://www.ncbi.nlm.nih.gov/pubmed/15109680</a></p>
+
+<p id="BrownChan-PalayPalay77">Brown, J.T., Chan-Palay, V., & Palay, S.L. (1977). A study of afferent input to the inferior olivary complex in the rat by retrograde axonal transport of horseradish peroxidase. <i>Journal of Comparative Neurology, 176</i>, 1–22. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901760102">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901760102</a><a href="http://doi.org/10.1002/cne.901760102"> http://doi.org/10.1002/cne.901760102</a></p>
 
 <p id="BrunelWang01">Brunel, N., & Wang, X.J. (2001). Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition. <i>Journal of Computational Neuroscience, 11</i>, 63–85. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11524578">http://www.ncbi.nlm.nih.gov/pubmed/11524578</a></p>
 
@@ -303,6 +319,8 @@
 <p id="DeZeeuwVanAlphenHawkinsEtAl97">De Zeeuw, C.I., Van Alphen, A.M., Hawkins, R.K., & Ruigrok, T.J. (1997). Climbing fibre collaterals contact neurons in the cerebellar nuclei that provide a GABAergic feedback to the inferior olive. <i>Neuroscience, 80</i>, 981–986. <a href="https://doi.org/10.1016/s0306-4522(97)00249-2">https://doi.org/10.1016/s0306-4522(97)00249-2</a><a href="http://doi.org/10.1016/s0306-4522(97)00249-2"> http://doi.org/10.1016/s0306-4522(97)00249-2</a></p>
 
 <p id="DiehlCook15">Diehl, P.U., & Cook, M. (2015). Unsupervised learning of digit recognition using spike-timing-dependent plasticity. <i>Frontiers in Computational Neuroscience, 9</i>, <a href="https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full">https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full</a><a href="http://doi.org/10.3389/fncom.2015.00099"> http://doi.org/10.3389/fncom.2015.00099</a></p>
+
+<p id="DietrichsWalberg87">Dietrichs, E., & Walberg, F. (1987). Cerebellar nuclear afferents — where do they originate? <i>Anatomy and Embryology, 177</i>, 165–172. <a href="https://doi.org/10.1007/BF00572541">https://doi.org/10.1007/BF00572541</a><a href="http://doi.org/10.1007/BF00572541"> http://doi.org/10.1007/BF00572541</a></p>
 
 <p id="DingGold13">Ding, L., & Gold, J.I. (2013). The basal ganglia’s contributions to perceptual decision making. <i>Neuron, 79</i>, 640–649. <a href="https://www.cell.com/neuron/abstract/S0896-6273(13)00666-1">https://www.cell.com/neuron/abstract/S0896-6273(13)00666-1</a><a href="http://doi.org/10.1016/j.neuron.2013.07.042"> http://doi.org/10.1016/j.neuron.2013.07.042</a></p>
 
@@ -572,6 +590,8 @@
 
 <p id="HeckhausenGollwitzer87">Heckhausen, H., & Gollwitzer, P.M. (1987). Thought contents and cognitive functioning in motivational versus volitional states of mind. <i>Motivation and Emotion, 11</i>, 101–120. <a href="https://doi.org/10.1007/BF00992338">https://doi.org/10.1007/BF00992338</a><a href="http://doi.org/10.1007/BF00992338"> http://doi.org/10.1007/BF00992338</a></p>
 
+<p id="Heckroth94">Heckroth, J.A. (1994). Quantitative morphological analysis of the cerebellar nuclei in normal and lurcher mutant mice. I. Morphology and cell number. <i>Journal of Comparative Neurology, 343</i>, 173–182. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903430113">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903430113</a><a href="http://doi.org/10.1002/cne.903430113"> http://doi.org/10.1002/cne.903430113</a></p>
+
 <p id="HeHuertasHongEtAl15">He, K., Huertas, M., Hong, S.Z., Tie, X., Hell, J.W., Shouval, H., & Kirkwood, A. (2015). Distinct eligibility traces for LTP and LTD in cortical synapses. <i>Neuron, 88</i>, 528–538. <a href="https://www.sciencedirect.com/science/article/pii/S0896627315008260">https://www.sciencedirect.com/science/article/pii/S0896627315008260</a><a href="http://doi.org/10.1016/j.neuron.2015.09.037"> http://doi.org/10.1016/j.neuron.2015.09.037</a></p>
 
 <p id="HeilbronnerRodriguez-RomagueraQuirkEtAl16">Heilbronner, S.R., Rodriguez-Romaguera, J., Quirk, G.J., Groenewegen, H.J., & Haber, S.N. (2016). Circuit-based corticostriatal homologies between rat and primate. <i>Biological Psychiatry, 80</i>, 509–521. <a href="http://www.sciencedirect.com/science/article/pii/S0006322316323885">http://www.sciencedirect.com/science/article/pii/S0006322316323885</a><a href="http://doi.org/10.1016/j.biopsych.2016.05.012"> http://doi.org/10.1016/j.biopsych.2016.05.012</a></p>
@@ -603,6 +623,8 @@
 <p id="HochreiterSchmidhuber97">Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. <i>Neural Computation, 9</i>, 1735–1780. </p>
 
 <p id="HodgkinHuxley52">Hodgkin, A.L., & Huxley, A.F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. <i>The Journal of Physiology, 117</i>, 500–544. <a href="https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1952.sp004764">https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1952.sp004764</a><a href="http://doi.org/10.1113/jphysiol.1952.sp004764"> http://doi.org/10.1113/jphysiol.1952.sp004764</a></p>
+
+<p id="HoebeekWitterRuigrokEtAl10">Hoebeek, F.E., Witter, L., Ruigrok, T.J.H., & De Zeeuw, C.I. (2010). Differential olivo-cerebellar cortical control of rebound activity in the cerebellar nuclei. <i>Proceedings of the National Academy of Sciences of the United States of America, 107</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20395550">http://www.ncbi.nlm.nih.gov/pubmed/20395550</a></p>
 
 <p id="HoffmanMageeColbertEtAl97">Hoffman, D.A., Magee, J.C., Colbert, C.M., & Johnston, D. (1997). K+ channel regulation of signal propagation in dendrites of hippocampal pyramidal neurons. <i>Nature, 387</i>, 869–875. <a href="https://www.nature.com/articles/43119">https://www.nature.com/articles/43119</a><a href="http://doi.org/10.1038/43119"> http://doi.org/10.1038/43119</a></p>
 
@@ -722,6 +744,8 @@
 
 <p id="KetzefSilberberg21">Ketzef, M., & Silberberg, G. (2021). Differential synaptic input to external globus pallidus neuronal subpopulations in vivo. <i>Neuron, 109</i>, 516-529.e4. <a href="https://www.sciencedirect.com/science/article/pii/S0896627320308849">https://www.sciencedirect.com/science/article/pii/S0896627320308849</a><a href="http://doi.org/10.1016/j.neuron.2020.11.006"> http://doi.org/10.1016/j.neuron.2020.11.006</a></p>
 
+<p id="KhalilMansvelderWitter22">Khalil, A.J., Mansvelder, H.D., & Witter, L. (2022). Mesodiencephalic junction GABAergic inputs are processed separately from motor cortical inputs in the basilar pons. <i>iScience, 25</i>, <a href="https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0">https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0</a><a href="http://doi.org/10.1016/j.isci.2022.104641"> http://doi.org/10.1016/j.isci.2022.104641</a></p>
+
 <p id="KheradpishehGanjtabeshThorpeEtAl18">Kheradpisheh, S.R., Ganjtabesh, M., Thorpe, S.J., & Masquelier, T. (2018). STDP-based spiking deep convolutional neural networks for object recognition. <i>Neural Networks, 99</i>, 56–67. <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302903">https://www.sciencedirect.com/science/article/pii/S0893608017302903</a><a href="http://doi.org/10.1016/j.neunet.2017.12.005"> http://doi.org/10.1016/j.neunet.2017.12.005</a></p>
 
 <p id="KimKimNakajimaEtAl17">Kim, J., Kim, Y., Nakajima, R., Shin, A., Jeong, M., Park, A.H., Jeong, Y., Jo, S., Yang, S., Park, H., Cho, S., Cho, K., Shim, I., Chung, J.H., Paik, S., Augustine, G.J., & Kim, D. (2017). Inhibitory basal ganglia inputs induce excitatory motor signals in the thalamus. <i>Neuron, 95</i>, 1181-1196.e8. <a href="http://www.sciencedirect.com/science/article/pii/S0896627317307432">http://www.sciencedirect.com/science/article/pii/S0896627317307432</a><a href="http://doi.org/10.1016/j.neuron.2017.08.028"> http://doi.org/10.1016/j.neuron.2017.08.028</a></p>
@@ -803,6 +827,8 @@
 <p id="LeowZhouSullivanEtAl22">Leow, Y.N., Zhou, B., Sullivan, H.A., Barlowe, A.R., Wickersham, I.R., & Sur, M. (2022). Brain-wide mapping of inputs to the mouse lateral posterior (LP/Pulvinar) thalamus–anterior cingulate cortex network. <i>Journal of Comparative Neurology, 530</i>, 1992–2013. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25317">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25317</a><a href="http://doi.org/10.1002/cne.25317"> http://doi.org/10.1002/cne.25317</a></p>
 
 <p id="LevySteward79">Levy, W.B., & Steward, O. (1979). Synapses as associative memory elements in the hippocampal formation. <i>Brain research, 175</i>, 233–245. <a href="http://www.ncbi.nlm.nih.gov/pubmed/487154">http://www.ncbi.nlm.nih.gov/pubmed/487154</a></p>
+
+<p id="LiangPaxinosWatson12">Liang, H., Paxinos, G., & Watson, C. (2012). The red nucleus and the rubrospinal projection in the mouse. <i>Brain Structure and Function, 217</i>, 221–232. <a href="https://doi.org/10.1007/s00429-011-0348-3">https://doi.org/10.1007/s00429-011-0348-3</a><a href="http://doi.org/10.1007/s00429-011-0348-3"> http://doi.org/10.1007/s00429-011-0348-3</a></p>
 
 <p id="LiaoXiongFetayaEtAl18">Liao, R., Xiong, Y., Fetaya, E., Zhang, L., Yoon, K., Pitkow, X., Urtasun, R., & Zemel, R. (2018). <i>Reviving and Improving Recurrent Back-Propagation. </i>In International Conference on Machine Learning (pp. 3082–3091). PMLR. <a href="http://proceedings.mlr.press/v80/liao18c.html">http://proceedings.mlr.press/v80/liao18c.html</a></p>
 
@@ -1054,6 +1080,8 @@
 
 <p id="OttenheimerBariSutliefEtAl20">Ottenheimer, D.J., Bari, B.A., Sutlief, E., Fraser, K.M., Kim, T.H., Richard, J.M., Cohen, J.Y., & Janak, P.H. (2020). A quantitative reward prediction error signal in the ventral pallidum. <i>Nature Neuroscience, 23</i>, 1267–1276. <a href="https://www.nature.com/articles/s41593-020-0688-5">https://www.nature.com/articles/s41593-020-0688-5</a><a href="http://doi.org/10.1038/s41593-020-0688-5"> http://doi.org/10.1038/s41593-020-0688-5</a></p>
 
+<p id="OzcanWangBindaEtAl20">Özcan, O.O., Wang, X., Binda, F., Dorgans, K., Zeeuw, C.I.D., Gao, Z., Aertsen, A., Kumar, A., & Isope, P. (2020). Differential Coding Strategies in Glutamatergic and GABAergic Neurons in the Medial Cerebellar Nucleus. <i>Journal of Neuroscience, 40</i>, 159–170. <a href="https://www.jneurosci.org/content/40/1/159">https://www.jneurosci.org/content/40/1/159</a><a href="http://doi.org/10.1523/JNEUROSCI.0806-19.2019"> http://doi.org/10.1523/JNEUROSCI.0806-19.2019</a></p>
+
 <p id="PamukcuCuiXeniasEtAl20">Pamukcu, A., Cui, Q., Xenias, H.S., Berceau, B.L., Augustine, E.C., Fan, I., Chalasani, S., Hantman, A.W., Lerner, T.N., Boca, S.M., & Chan, C.S. (2020). Parvalbumin+ and Npas1+ Pallidal Neurons Have Distinct Circuit Topology and Function. <i>Journal of Neuroscience, 40</i>, 7855–7876. <a href="https://www.jneurosci.org/content/40/41/7855">https://www.jneurosci.org/content/40/41/7855</a><a href="http://doi.org/10.1523/JNEUROSCI.0361-20.2020"> http://doi.org/10.1523/JNEUROSCI.0361-20.2020</a></p>
 
 <p id="Papez37">Papez, J.W. (1937). A proposed mechanism of emotion. <i>Archives of Neurology & Psychiatry, 38</i>, 725–743. <a href="http://doi.org/10.1001/archneurpsyc.1937.02260220069003"> http://doi.org/10.1001/archneurpsyc.1937.02260220069003</a></p>
@@ -1108,6 +1136,8 @@
 
 <p id="QuirogaReddyKreimanEtAl05">Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C., & Fried, I. (2005). Invariant visual representation by single neurons in the human brain. <i>Nature, 435</i>, 1102–1107. <a href="https://www.nature.com/articles/nature03687">https://www.nature.com/articles/nature03687</a><a href="http://doi.org/10.1038/nature03687"> http://doi.org/10.1038/nature03687</a></p>
 
+<p id="QuyFujitaSakamotoEtAl11">Quy, P.N., Fujita, H., Sakamoto, Y., Na, J., & Sugihara, I. (2011). Projection patterns of single mossy fiber axons originating from the dorsal column nuclei mapped on the aldolase C compartments in the rat cerebellar cortex. <i>Journal of Comparative Neurology, 519</i>, 874–899. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555</a><a href="http://doi.org/10.1002/cne.22555"> http://doi.org/10.1002/cne.22555</a></p>
+
 <p id="Rall67">Rall, W. (1967). Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input. <i>Journal of Neurophysiology, 30</i>, 1138–1168. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138">https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138</a><a href="http://doi.org/10.1152/jn.1967.30.5.1138"> http://doi.org/10.1152/jn.1967.30.5.1138</a></p>
 
 <p id="Ramnani06">Ramnani, N. (2006). The primate cortico-cerebellar system: anatomy and function. <i>Nature reviews. Neuroscience, 7</i>, 511–522. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16791141">http://www.ncbi.nlm.nih.gov/pubmed/16791141</a></p>
@@ -1157,6 +1187,8 @@
 <p id="Rosenblatt62">Rosenblatt, F. (1962). <i>Principles of Neurodynamics. </i> Spartan. </p>
 
 <p id="RovoUlbertAcsady12">Rovó, Z., Ulbert, I., & Acsády, L. (2012). Drivers of the primate thalamus. <i>Journal of Neuroscience, 32</i>, 17894–17908. <a href="http://www.jneurosci.org/content/32/49/17894">http://www.jneurosci.org/content/32/49/17894</a><a href="http://doi.org/10.1523/JNEUROSCI.2815-12.2012"> http://doi.org/10.1523/JNEUROSCI.2815-12.2012</a></p>
+
+<p id="RowlandJaeger05">Rowland, N.C., & Jaeger, D. (2005). Coding of Tactile Response Properties in the Rat Deep Cerebellar Nuclei. <i>Journal of Neurophysiology, 94</i>, 1236–1251. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00285.2005">https://journals.physiology.org/doi/full/10.1152/jn.00285.2005</a><a href="http://doi.org/10.1152/jn.00285.2005"> http://doi.org/10.1152/jn.00285.2005</a></p>
 
 <p id="RubinAbbottSompolinsky17">Rubin, R., Abbott, L.F., & Sompolinsky, H. (2017). Balanced excitation and inhibition are required for high-capacity, noise-robust neuronal selectivity. <i>Proceedings of the National Academy of Sciences, 114</i>, E9366-E9375. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1705841114">https://www.pnas.org/doi/abs/10.1073/pnas.1705841114</a><a href="http://doi.org/10.1073/pnas.1705841114"> http://doi.org/10.1073/pnas.1705841114</a></p>
 
@@ -1324,6 +1356,8 @@
 
 <p id="Swadlow90">Swadlow, H.A. (1990). Efferent neurons and suspected interneurons in S-1 forelimb representation of the awake rabbit: receptive fields and axonal properties. <i>Journal of Neurophysiology, 63</i>, 1477–1498. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477">https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477</a><a href="http://doi.org/10.1152/jn.1990.63.6.1477"> http://doi.org/10.1152/jn.1990.63.6.1477</a></p>
 
+<p id="SwensonCastro83">Swenson, R.S., & Castro, A.J. (1983). The afferent connections of the inferior olivary complex in rats. An anterograde study using autoradiographic and axonal degeneration techniques. <i>Neuroscience, 8</i>, 259–275. <a href="https://www.sciencedirect.com/science/article/pii/0306452283900647">https://www.sciencedirect.com/science/article/pii/0306452283900647</a><a href="http://doi.org/10.1016/0306-4522(83)90064-7"> http://doi.org/10.1016/0306-4522(83)90064-7</a></p>
+
 <p id="TachibanaHikosaka12">Tachibana, Y., & Hikosaka, O. (2012). The primate ventral pallidum encodes expected reward value and regulates motor action. <i>Neuron, 76</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23177966">http://www.ncbi.nlm.nih.gov/pubmed/23177966</a></p>
 
 <p id="TachibanaKitaChikenEtAl08">Tachibana, Y., Kita, H., Chiken, S., Takada, M., & Nambu, A. (2008). Motor cortical control of internal pallidal activity through glutamatergic and GABAergic inputs in awake monkeys. <i>European Journal of Neuroscience, 27</i>, 238–253. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x</a><a href="http://doi.org/10.1111/j.1460-9568.2007.05990.x"> http://doi.org/10.1111/j.1460-9568.2007.05990.x</a></p>
@@ -1467,6 +1501,8 @@
 <p id="WilhelmSychFominsEtAl23">Wilhelm, M., Sych, Y., Fomins, A., Alatorre Warren, J.L., Lewis, C., Serratosa Capdevila, L., Boehringer, R., Amadei, E.A., Grewe, B., O’Connor, E.C., Hall, B.J., & Helmchen, F. (2023). Striatum-projecting prefrontal cortex neurons support working memory maintenance. <i>Nature Communications, 14</i>, 7016. <a href="https://www.nature.com/articles/s41467-023-42777-3">https://www.nature.com/articles/s41467-023-42777-3</a><a href="http://doi.org/10.1038/s41467-023-42777-3"> http://doi.org/10.1038/s41467-023-42777-3</a></p>
 
 <p id="Wolfe10">Wolfe, J.M. (2010). Visual search. <i>Current Biology, 20</i>, R346-R349. <a href="http://www.sciencedirect.com/science/article/pii/S0960982210001594">http://www.sciencedirect.com/science/article/pii/S0960982210001594</a><a href="http://doi.org/10.1016/j.cub.2010.02.016"> http://doi.org/10.1016/j.cub.2010.02.016</a></p>
+
+<p id="Woodruff-Pak06">Woodruff-Pak, D.S. (2006). Stereological estimation of Purkinje neuron number in C57BL/6 mice and its relation to associative learning. <i>Neuroscience, 141</i>, 233–243. <a href="https://www.sciencedirect.com/science/article/pii/S0306452206004222">https://www.sciencedirect.com/science/article/pii/S0306452206004222</a><a href="http://doi.org/10.1016/j.neuroscience.2006.03.070"> http://doi.org/10.1016/j.neuroscience.2006.03.070</a></p>
 
 <p id="WuSugiharaShinoda99">Wu, H., Sugihara, I., & Shinoda, Y. (1999). Projection patterns of single mossy fibers originating from the lateral reticular nucleus in the rat cerebellar cortex and nuclei. <i>Journal of Comparative Neurology, 411</i>, 97–118. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O">https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O</a><a href="http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O"> http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O</a></p>
 
