@@ -104,6 +104,8 @@
 
 <p id="BeiserHouk98">Beiser, D.G., & Houk, J.C. (1998). Model of cortical-basal ganglionic processing: Encoding the serial order of sensory events. <i>Journal of Neurophysiology, 79</i>, 3168–3188. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9636117">http://www.ncbi.nlm.nih.gov/pubmed/9636117</a></p>
 
+<p id="BeitzelHouckLewisEtAl17">Beitzel, C.S., Houck, B.D., Lewis, S.M., & Person, A.L. (2017). Rubrocerebellar Feedback Loop Isolates the Interposed Nucleus as an Independent Processor of Corollary Discharge Information in Mice. <i>Journal of Neuroscience, 37</i>, 10085–10096. <a href="https://www.jneurosci.org/content/37/42/10085">https://www.jneurosci.org/content/37/42/10085</a><a href="http://doi.org/10.1523/JNEUROSCI.1093-17.2017"> http://doi.org/10.1523/JNEUROSCI.1093-17.2017</a></p>
+
 <p id="BellecScherrSubramoneyEtAl20">Bellec, G., Scherr, F., Subramoney, A., Hajek, E., Salaj, D., Legenstein, R., & Maass, W. (2020). A solution to the learning dilemma for recurrent networks of spiking neurons. <i>Nature Communications, 11</i>(1), 3625. <a href="https://www.nature.com/articles/s41467-020-17236-y">https://www.nature.com/articles/s41467-020-17236-y</a><a href="http://doi.org/10.1038/s41467-020-17236-y"> http://doi.org/10.1038/s41467-020-17236-y</a></p>
 
 <p id="BellHanSawtell08">Bell, C.C., Han, V., & Sawtell, N.B. (2008). Cerebellum-Like Structures and Their Implications for Cerebellar Function. <i>Annual Review of Neuroscience, 31</i>, 1–24. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.30.051606.094225">https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.30.051606.094225</a><a href="http://doi.org/10.1146/annurev.neuro.30.051606.094225"> http://doi.org/10.1146/annurev.neuro.30.051606.094225</a></p>
@@ -856,6 +858,8 @@
 
 <p id="Llinas09">Llinás, R.R. (2009). Inferior olive oscillation as the temporal basis for motricity and oscillatory reset as the basis for motor error correction. <i>Neuroscience, 162</i>, 797–804. <a href="https://www.sciencedirect.com/science/article/pii/S0306452209006526">https://www.sciencedirect.com/science/article/pii/S0306452209006526</a><a href="http://doi.org/10.1016/j.neuroscience.2009.04.045"> http://doi.org/10.1016/j.neuroscience.2009.04.045</a></p>
 
+<p id="LlinasLangWelsh97">Llinás, R., Lang, E.J., & Welsh, J.P. (1997). The cerebellum, LTD, and memory: Alternative views. <i>Learning & Memory, 3</i>, 445–455. <a href="http://doi.org/10.1101/lm.3.6.445"> http://doi.org/10.1101/lm.3.6.445</a></p>
+
 <p id="LoyolaHooglandHoedemakerEtAl23">Loyola, S., Hoogland, T.M., Hoedemaker, H., Romano, V., Negrello, M., & De Zeeuw, C.I. (2023). How inhibitory and excitatory inputs gate output of the inferior olive. <i>eLife, 12</i>, e83239. <a href="https://doi.org/10.7554/eLife.83239">https://doi.org/10.7554/eLife.83239</a><a href="http://doi.org/10.7554/eLife.83239"> http://doi.org/10.7554/eLife.83239</a></p>
 
 <p id="LuMiyachiItoEtAl07">Lu, X., Miyachi, S., Ito, Y., Nambu, A., & Takada, M. (2007). Topographic distribution of output neurons in cerebellar nuclei and cortex to somatotopic map of primary motor cortex. <i>European Journal of Neuroscience, 25</i>, 2374–2382. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05482.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05482.x</a><a href="http://doi.org/10.1111/j.1460-9568.2007.05482.x"> http://doi.org/10.1111/j.1460-9568.2007.05482.x</a></p>
@@ -889,6 +893,8 @@
 <p id="Maslow43">Maslow, A.H. (1943). A Theory of Human Motivation. <i>Psychological Review, 50</i>, 370–396. </p>
 
 <p id="MathewsonGrattonFabianiEtAl09">Mathewson, K., Gratton, G., Fabiani, M., Beck, D., & Ro, T. (2009). To see or not to see: Prestimulus alpha phase predicts visual awareness. <i>The Journal of Neuroscience, 29</i>, 2725–2732. </p>
+
+<p id="MathyHoDavieEtAl09">Mathy, A., Ho, S.S.N., Davie, J.T., Duguid, I.C., Clark, B.A., & Häusser, M. (2009). Encoding of Oscillations by Axonal Bursts in Inferior Olive Neurons. <i>Neuron, 62</i>, 388–399. <a href="https://www.cell.com/neuron/abstract/S0896-6273(09)00248-7">https://www.cell.com/neuron/abstract/S0896-6273(09)00248-7</a><a href="http://doi.org/10.1016/j.neuron.2009.03.023"> http://doi.org/10.1016/j.neuron.2009.03.023</a></p>
 
 <p id="MatsumotoMinamimotoGraybielEtAl01">Matsumoto, N., Minamimoto, T., Graybiel, A.M., & Kimura, M. (2001). Neurons in the thalamic CM-Pf complex supply striatal neurons with information about behaviorally significant sensory events. <i>Journal of neurophysiology, 85</i>, 960–976. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11160526">http://www.ncbi.nlm.nih.gov/pubmed/11160526</a></p>
 
@@ -1035,6 +1041,8 @@
 <p id="OlssonElhageNandaEtAl22">Olsson, C., Elhage, N., Nanda, N., Joseph, N., DasSarma, N., Henighan, T., Mann, B., Askell, A., Bai, Y., Chen, A., Conerly, T., Drain, D., Ganguli, D., Hatfield-Dodds, Z., Hernandez, D., Johnston, S., Jones, A., Kernion, J., Lovitt, L., Ndousse, K., Amodei, D., Brown, T., Clark, J., Kaplan, J., McCandlish, S., & Olah, C. (2022). In-context Learning and Induction Heads. <a href="http://arxiv.org/abs/2209.11895">http://arxiv.org/abs/2209.11895</a><a href="http://doi.org/10.48550/arXiv.2209.11895"> http://doi.org/10.48550/arXiv.2209.11895</a></p>
 
 <p id="OngurPrice00">Öngür, D., & Price, J.L. (2000). The organization of networks within the orbital and medial prefrontal cortex of rats, monkeys and humans. <i>Cerebral Cortex, 10</i>, 206–219. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10731217">http://www.ncbi.nlm.nih.gov/pubmed/10731217</a></p>
+
+<p id="OnoderaHicks95">Onodera, S., & Hicks, T.P. (1995). Patterns of transmitter labelling and connectivity of the cat's nucleus of Darkschewitsch: A wheat germ agglutinin-horseradish peroxidase and immunocytochemical study at light and electron microscopical levels. <i>Journal of Comparative Neurology, 361</i>, 553–573. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903610402">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903610402</a><a href="http://doi.org/10.1002/cne.903610402"> http://doi.org/10.1002/cne.903610402</a></p>
 
 <p id="Oorschot96">Oorschot, D.E. (1996). Total number of neurons in the neostriatal, pallidal, subthalamic, and substantia nigral nuclei of the rat basal ganglia: a stereological study using the cavalieri and optical disector methods. <i>The Journal of Comparative Neurology, 366</i>, 580–599. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8833111">http://www.ncbi.nlm.nih.gov/pubmed/8833111</a></p>
 
@@ -1368,8 +1376,6 @@
 
 <p id="TanakaIshikawaLeeEtAl20">Tanaka, H., Ishikawa, T., Lee, J., & Kakei, S. (2020). The Cerebro-Cerebellum as a Locus of Forward Model: A Review. <i>Frontiers in Systems Neuroscience, 14</i>, <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2020.00019/full">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2020.00019/full</a><a href="http://doi.org/10.3389/fnsys.2020.00019"> http://doi.org/10.3389/fnsys.2020.00019</a></p>
 
-<p id="TangXiaoSuhEtAl17">Tang, T., Xiao, J., Suh, C.Y., Burroughs, A., Cerminara, N.L., Jia, L., Marshall, S.P., Wise, A.K., Apps, R., Sugihara, I., & Lang, E.J. (2017). Heterogeneity of Purkinje cell simple spike–complex spike interactions: zebrin- and non-zebrin-related variations. <i>The Journal of Physiology, 595</i>, 5341–5357. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274252">https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274252</a><a href="http://doi.org/10.1113/JP274252"> http://doi.org/10.1113/JP274252</a></p>
-
 <p id="Taube07">Taube, J.S. (2007). The Head Direction Signal: Origins and Sensory-Motor Integration. <i>Annual Review of Neuroscience, 30</i>, 181–207. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854">https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854</a><a href="http://doi.org/10.1146/annurev.neuro.29.051605.112854"> http://doi.org/10.1146/annurev.neuro.29.051605.112854</a></p>
 
 <p id="TavernaIlijicSurmeier08">Taverna, S., Ilijic, E., & Surmeier, D.J. (2008). Recurrent collateral connections of striatal medium spiny neurons are disrupted in models of Parkinson's disease. <i>Journal of Neuroscience, 28</i>, 5504–5512. <a href="http://www.jneurosci.org/cgi/content/abstract/28/21/5504">http://www.jneurosci.org/cgi/content/abstract/28/21/5504</a></p>
@@ -1519,6 +1525,8 @@
 <p id="YangLisberger14">Yang, Y., & Lisberger, S.G. (2014). Purkinje-cell plasticity and cerebellar motor learning are graded by complex-spike duration. <i>Nature, 510</i>, 529–532. <a href="https://www.nature.com/articles/nature13282">https://www.nature.com/articles/nature13282</a><a href="http://doi.org/10.1038/nature13282"> http://doi.org/10.1038/nature13282</a></p>
 
 <p id="YangLisberger14a">Yang, Y., & Lisberger, S.G. (2014). Role of Plasticity at Different Sites across the Time Course of Cerebellar Motor Learning. <i>Journal of Neuroscience, 34</i>, 7077–7090. <a href="https://www.jneurosci.org/content/34/21/7077">https://www.jneurosci.org/content/34/21/7077</a><a href="http://doi.org/10.1523/JNEUROSCI.0017-14.2014"> http://doi.org/10.1523/JNEUROSCI.0017-14.2014</a></p>
+
+<p id="YangLisberger17">Yang, Y., & Lisberger, S.G. (2017). Modulation of Complex-Spike Duration and Probability during Cerebellar Motor Learning in Visually Guided Smooth-Pursuit Eye Movements of Monkeys. <i>eNeuro, 4</i>, <a href="https://www.eneuro.org/content/4/3/ENEURO.0115-17.2017">https://www.eneuro.org/content/4/3/ENEURO.0115-17.2017</a><a href="http://doi.org/10.1523/ENEURO.0115-17.2017"> http://doi.org/10.1523/ENEURO.0115-17.2017</a></p>
 
 <p id="YangLiu22">Yang, Y., & Liu, J. (2022). Structural LTP: Signal transduction, actin cytoskeleton reorganization, and membrane remodeling of dendritic spines. <i>Current Opinion in Neurobiology, 74</i>, 102534. <a href="https://www.sciencedirect.com/science/article/pii/S0959438822000289">https://www.sciencedirect.com/science/article/pii/S0959438822000289</a><a href="http://doi.org/10.1016/j.conb.2022.102534"> http://doi.org/10.1016/j.conb.2022.102534</a></p>
 
