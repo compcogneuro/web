@@ -21,8 +21,8 @@ The cerebellar outputs, from the **deep cerebellar nuclei** (DCN or just **CN** 
 
 Unlike the basal ganglia, neocortex, and thalamus, the cerebellum does not have a simple topographic organization that can be easily labeled in a figure. Instead, the primary function of the cerebellum is to integrate and compare signals across different modalities, so it is organized somewhat like an _outer product_ across its various inputs, with each region comparing one sensory input against another in all manner of combinations ([[#figure_outer_prod]]).
 
-{id="figure_fastigial" style="height:40em"}
-![The different output pathways of the fastigial cerebellar nucleus, which integrate a range of different sensory signals to provide useful signals for a number of different core survival-relevant systems, consistent with this nucleus being the most evolutionarily ancient in the cerebellum. Much of the cerebellar cortex that it interconnects with is in the vermis, which is the midline portion of the cerebellum. From Fujita et al (2020).](media/fig_cerebellum_fastigial_fujita_etal_20.png)
+{id="figure_fastigial" style="height:45em"}
+![The different output pathways of the fastigial cerebellar nucleus, which integrate a range of different sensory signals to provide useful signals for essentially all major subcortical brain systems, consistent with this nucleus being the most evolutionarily ancient in the cerebellum. Much of the cerebellar cortex that it interconnects with is in the vermis, which is the midline portion of the cerebellum. **7N**: facial nucleus; **CL**: centrolateral thalamic nucleus; **INC**: interstitial nucleus of Cajal; **IRt**: intermediate reticular nucleus; **IVN**: inferior vestibular nucleus; **KF**: Kölliker-Fuse nucleus; **LDTg**: laterodorsal tegmental nucleus; **LPAG**: lateral periaqueductal gray; **LPGi**: lateral paragigantocellular nucleus; **LVN**: lateral vestibular nucleus; **MD**: mediodorsal thalamic nucleus; **MDJ**: mesodiencephalic junction; **MdV**: medullary reticular nucleus, ventral; **mRt**: mesencephalic reticular formation; **MVN**: medial vestibular nucleus; **NPH**: nucleus prepositus hypoglossi; **NI**: nucleus incertus; **NRG**: nucleus reticularis gigantocellularis; **PCRt**: parvocellular reticular nucleus; **PF**: parafascicular thalamic nucleus; **PMn**: paramedian reticular nucleus; **PnC**: pontine reticular nucleus, caudal; **PPRF**: paramedian pontine reticular formation; **PTg**: pedunculotegmental nucleus; **Sim**: simplex lobule; **SC**: superior colliculus; **SNc**: substantia nigra, pars compacta; **SubC**: subcoeruleus nucleus; **SuM**: supramammillary region; **VL**: ventrolateral thalamic nucleus; **vlPAG**: ventrolateral periaqueductal gray; **VM**: ventromedial thalamic nucleus; **ZI**: zona incerta. From Fujita et al (2020).](media/fig_cerebellum_fastigial_fujita_etal_20.png)
 
 [[#figure_fastigial]] shows an example of this outer-product like organization ([[@FujitaKodamaduLac20]]), associated with the _fastigial nucleus_ (FN), which is the evolutionarily most ancient of the cerebellar nuclei ([[@ZhangWangZhu16]]). The FN is interconnected mostly with the medial _vermis_ region of the **cerebellar cortex**, which integrates different signals including [[vestibular]], somatosensory and interoceptive signals of relevance to different core survival-relevant systems.
 
@@ -152,24 +152,24 @@ The CNiIO neurons also drive learning in the cerebellar cortex via their impact 
 A critical element of the Nuclear model is that each microzone is organized around the processing of a specific sensory input signal, for example a vestibular canal, which is either anticipated (in the forward model case) or canceled (in the adaptive filtering case). Furthermore, these functions are contingent on a specific action (e.g., head rotation), which occurs significantly prior to its sensory sequelae.
 
 {id="table_inputs" title="Anatomical inputs to CN, Cerebellar Cortex (Kebschull et al., 2024) (Med = medial, PIN = posterior interposed, AIN = anterior interposed, Lat = lateral)"}
-| Input                     | Modality              | Med | PIN | AIN | Lat | Cortex |
-|---------------------------|-----------------------|-----|-----|-----|-----|--------|
-| **Spinal cord**           |                       |     |     |     |     |        |
-| Cervical                  | Neck, arm, hand       | ++  | ++  | ++  | --  | +++    |
-| Thoracic                  | Trunk                 | ++  | ++  | ++  | --  | +++    |
-| Upper lumbar              | Hip, legs             | ++  | ++  | ++  | +   | +++    |
-| Sacral, lower lumbar      | Foot, toes            | ++  | +   | +++ | --  | +++    |
-| Column of Clarke          | Spindle fibers        | +   | --  | +   | --  | +++    |
-| **Medulla oblongata**     |                       |     |     |     |     |        |
-| Cuneate, gracile          | Somatosensory         | --  | --  | --  | --  | ++     |
-| Spinal trigeminal         | Face somatosensory    | ++  | ++  | ++  | ++  | +++    |
-| Vestibular ganglion       | Primary vestibular    | --  | --  | --  | --  | ++     |
-| Medial Vestibular (MVN)   | Secondary vestibular  | ++  | --  | --  | --  | ++     |
-| **Reticular formation**   |                       |     |     |     |     |        |
-| Paramedian (PPRF)         | Gaze (SC, vestibular) | ++  | ++  | ++  | ++  | +++    |
-| Giganto, magnocellular    | Posture, trunk, tone  | ++  | ++  | ++  | ++  | ++     |
-| Lateral (LRN)             | Reflexes              | ++  | ++  | +++ | +   | +++    |
-| Red nucleus (magnocellular) | Gait, grasping      | --  | +   | ++  | +   | --     |
+| Input                       | Modality              | Med | PIN | AIN | Lat | Cortex |
+|-----------------------------|-----------------------|-----|-----|-----|-----|--------|
+| **Spinal cord**             |                       |     |     |     |     |        |
+| Cervical                    | Neck, arm, hand       | ++  | ++  | ++  | --  | +++    |
+| Thoracic                    | Trunk                 | ++  | ++  | ++  | --  | +++    |
+| Upper lumbar                | Hip, legs             | ++  | ++  | ++  | +   | +++    |
+| Sacral, lower lumbar        | Foot, toes            | ++  | +   | +++ | --  | +++    |
+| Column of Clarke            | Spindle fibers        | +   | --  | +   | --  | +++    |
+| **Medulla oblongata**       |                       |     |     |     |     |        |
+| Cuneate, gracile            | Somatosensory         | --  | --  | --  | --  | ++     |
+| Spinal trigeminal           | Face somatosensory    | ++  | ++  | ++  | ++  | +++    |
+| Vestibular ganglion         | Primary vestibular    | --  | --  | --  | --  | ++     |
+| Medial Vestibular (MVN)     | Secondary vestibular  | ++  | --  | --  | --  | ++     |
+| **Reticular formation**     |                       |     |     |     |     |        |
+| Paramedian (PPRF)           | Gaze (SC, vestibular) | ++  | ++  | ++  | ++  | +++    |
+| Giganto, magnocellular      | Posture, trunk, tone  | ++  | ++  | ++  | ++  | ++     |
+| Lateral (LRN)               | Reflexes              | ++  | ++  | +++ | +   | +++    |
+| Red nucleus (magnocellular) | Gait, grasping        | --  | +   | ++  | +   | --     |
 
 The specific sensory input signals originate from various spinal and midbrain nuclei, including the vestibular nuclei, trigeminal nuclei, dorsal column nuclei, medulla oblongata, and reticular nuclei, as shown in [[#table_inputs]] (adapted from [[@KebschullCasoniConsalezEtAl24]], which is not exhaustive). These are generally consistent with the inputs to the IO ([[@SwensonCastro83]]; [[@BrownChan-PalayPalay77]]), although the IO receives from the cuneate and gracile nuclei ([[@BerkleyHand78]]), whereas the CN do not ([[@DietrichsWalberg87]]; [[@QuyFujitaSakamotoEtAl11]]).
 
@@ -180,36 +180,36 @@ There are several lines of evidence that are consistent with the upbound areas r
 Furthermore, the CN projections are generally more focal than those to the cerebellar cortex ([[@Sugihara11]]; [[@AndoUedaLuoEtAl20]]; [[@ShinodaSugiuchiFutamiEtAl92]]; [[@WuSugiharaShinoda99]]). In addition, the CN areas that project strongly to the MDJ are zebrin II positive, i.e., upbound ([[@Sugihara11]]; see also [[@WangNovelloGaoEtAl22]]).
 
 {id="table_groups" title="Functional groups (Sugihara, 2011). (v = ventral, d = dorsal, m = medial, l = lateral, c = caudal, r = rostral; FN = fastigial, ICG = interstitial cell group, PIN = posterior interposed, DN = dentate, DLP = dorsolateral protuberance, LVN = lateral vestibular nucleus, DMC = dorsomedial crest, AIN = anterior interposed; MD = Mesodiencephalic)"}
-| Group  | Zebrin II | Inputs          | CN          | Cortex     | Zone   | IO        |
-|--------|-----------|-----------------|-------------|------------|--------|-----------|
+| Group  | Zebrin II | Inputs           | CN          | Cortex     | Zone   | IO        |
+|--------|-----------|------------------|-------------|------------|--------|-----------|
 | I      | + Up      | Mesodiencephalic | FN v m      | 1+//1+     | A      | c-MAO c   |
-|        |           |                 | FN v l      | 2+//3+ m   | AX     |           |
-|        |           |                 | ICG v       | 2+//3+ l   | AX     | c-MAO r   |
-|        |           |                 | PIN dl      | 4+//5+     | C2     | r-MAO     |
-|        |           |                 | DN c        | 5+//6+     | D1     | v-PO      |
-|        |           |                 | DN rl       | 6+//7+     | D2     | d-PO      |
-| IIa    | + Up      | Vestibular      | FN vc m     | a+//2+ m   | A      | Beta c    |
-|        |           |                 | FN vc l     | a+//2+ l   | A      | Beta c-r  |
-|        |           |                 | PIN v       | 2b+//4+    | X-CX   | DMCC, DM c, v-PO cm |
-| IIb    | + Up      | Collicular      | FN mid-c m  | a+//2+     | Lat A  | c-MAO m   |
-|        |           |                 | FN mid-c dl | c+//4b+    | Lat A  | c-MAO l c |
-|        |           |                 | FN mid-c l  | d+//5a+    | X-CX   | c-MAO r   |
-| III    | -- Dn     | Soma, Vest, MD  | FN rd m     | 1-m//1-    | A      | c-MAO l c |
-|        |           |                 | FN rd l     | 1-l/a-//2- | A1     | c-MAO int |
-|        |           |                 | ICG d       | 2a-//3-    | X      | c-MAO r   |
-|        |           |                 | DLP r       | 2b-//4a-   | Lat A  | c-MAO m cl |
-|        |           |                 | DLP d       | c-//4b-    | Lat A  | c-MAO cm  |
-|        |           |                 | DLP c       | d-//5a-    | Lat A  | c-MAO int |
-|        |           |                 | PIN dm      | 3b-//e2-   | CX     | c-MAO r   |
-| IV     | -- Dn     | Somatosensory   | LVN, AICG   | 2-//4-     | B      | d-DAO m c |
-|        |           |                 | LVN, AICG   | b+//f+     | B      | d-DAO l pole |
-|        |           |                 | DMC (cm AIN) | 3+//el+   | C1     | v-DAO cl  |
-|        |           |                 | AIN rm      | b-//f-     | C1     | v-DAO l   |
-|        |           |                 | AIN c       | 3-//el-    | C1     | v-DAO c   |
-|        |           |                 | AIN l       | 4-//5-     | C3     | v-DAO rm  |
-| V      | + Up      | Visual          | v-DN, d-Y   | floc, nod  | D0     | DC, VLO   |
+|        |           |                  | FN v l      | 2+//3+ m   | AX     |           |
+|        |           |                  | ICG v       | 2+//3+ l   | AX     | c-MAO r   |
+|        |           |                  | PIN dl      | 4+//5+     | C2     | r-MAO     |
+|        |           |                  | DN c        | 5+//6+     | D1     | v-PO      |
+|        |           |                  | DN rl       | 6+//7+     | D2     | d-PO      |
+| IIa    | + Up      | Vestibular       | FN vc m     | a+//2+ m   | A      | Beta c    |
+|        |           |                  | FN vc l     | a+//2+ l   | A      | Beta c-r  |
+|        |           |                  | PIN v       | 2b+//4+    | X-CX   | DMCC, DM c, v-PO cm |
+| IIb    | + Up      | Collicular       | FN mid-c m  | a+//2+     | Lat A  | c-MAO m   |
+|        |           |                  | FN mid-c dl | c+//4b+    | Lat A  | c-MAO l c |
+|        |           |                  | FN mid-c l  | d+//5a+    | X-CX   | c-MAO r   |
+| III    | -- Dn     | Soma, Vest, MD   | FN rd m     | 1-m//1-    | A      | c-MAO l c |
+|        |           |                  | FN rd l     | 1-l/a-//2- | A1     | c-MAO int |
+|        |           |                  | ICG d       | 2a-//3-    | X      | c-MAO r   |
+|        |           |                  | DLP r       | 2b-//4a-   | Lat A  | c-MAO m cl |
+|        |           |                  | DLP d       | c-//4b-    | Lat A  | c-MAO cm  |
+|        |           |                  | DLP c       | d-//5a-    | Lat A  | c-MAO int |
+|        |           |                  | PIN dm      | 3b-//e2-   | CX     | c-MAO r   |
+| IV     | -- Dn     | Somatosensory    | LVN, AICG   | 2-//4-     | B      | d-DAO m c |
+|        |           |                  | LVN, AICG   | b+//f+     | B      | d-DAO l pole |
+|        |           |                  | DMC (cm AIN) | 3+//el+   | C1     | v-DAO cl  |
+|        |           |                  | AIN rm      | b-//f-     | C1     | v-DAO l   |
+|        |           |                  | AIN c       | 3-//el-    | C1     | v-DAO c   |
+|        |           |                  | AIN l       | 4-//5-     | C3     | v-DAO rm  |
+| V      | + Up      | Visual           | v-DN, d-Y   | floc, nod  | D0     | DC, VLO   |
 
-[[#table_groups]] adapted from [[@^Sugihara11]] provides an attempt to organize the different upbound and downbound microzones into groups based on their inputs. From this, it seems that the downbound (forward model) areas are more diverse in their inputs, and overall much more focused on somatosensory inputs. By contrast, upbound (adaptive filtering) is focused more on vestibular and visual, auditory localization signals (collicular), while somatosensory signals are not significantly filtered.
+[[#table_groups]] adapted from [[@^Sugihara11]] (see [[#figure_cortex]] and [[#figure_cortex-nuclei]] for locations, in the rat) provides an attempt to organize the different upbound and downbound microzones into groups based on their inputs. From this, it seems that the downbound (forward model) areas are more diverse in their inputs, and overall much more focused on somatosensory inputs. By contrast, upbound (adaptive filtering) is focused more on vestibular and visual, auditory localization signals (collicular), while somatosensory signals are not significantly filtered.
 
 These differences in sensory inputs make sense in terms of the sensory signals that are used to drive motor actions, which require upbound adaptive filtering so that the sensory signal properly compensates for other actions. These sensory inputs are largely visual and auditory localization inputs, which provide a distal guide to where you want to reach or navigate to. Indeed, a range of evidence shows that most motor areas in cortex use visually-grounded spatial reference frames for planning (e.g., [[@BatistaBuneoSnyderEtAl99]]). Because these sensory inputs (eyes and ears) are located on the head, they also require knowing about the orientation of the head, as provided by vestibular inputs.
 
