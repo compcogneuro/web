@@ -10,6 +10,8 @@
 
 <p id="AdelmanMaylieSah12">Adelman, J.P., Maylie, J., & Sah, P. (2012). Small-conductance Ca2+-activated K+ channels: form and function. <i>Annual Review of Physiology, 74</i>, 245–269. <a href="http://doi.org/10.1146/annurev-physiol-020911-153336"> http://doi.org/10.1146/annurev-physiol-020911-153336</a></p>
 
+<p id="AgrochaoTanakaSalazar-GatzimasEtAl20">Agrochao, M., Tanaka, R., Salazar-Gatzimas, E., & Clark, D.A. (2020). Mechanism for analogous illusory motion perception in flies and humans. <i>Proceedings of the National Academy of Sciences, 117</i>, 23044–23053. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2002937117">https://www.pnas.org/doi/abs/10.1073/pnas.2002937117</a><a href="http://doi.org/10.1073/pnas.2002937117"> http://doi.org/10.1073/pnas.2002937117</a></p>
+
 <p id="AhrensMeyerFergusonEtAl16">Ahrens, A.M., Meyer, P.J., Ferguson, L.M., Robinson, T.E., & Aldridge, J.W. (2016). Neural activity in the ventral pallidum encodes variation in the incentive value of a reward cue. <i>The Journal of Neuroscience, 36</i>, 7957–7970. <a href="http://www.jneurosci.org/content/36/30/7957">http://www.jneurosci.org/content/36/30/7957</a><a href="http://doi.org/10.1523/JNEUROSCI.0736-16.2016"> http://doi.org/10.1523/JNEUROSCI.0736-16.2016</a></p>
 
 <p id="AizenmanHuangManisEtAl00">Aizenman, C.D., Huang, E.J., Manis, P.B., & Linden, D.J. (2000). <i>Use-dependent changes in synaptic strength at the Purkinje cell to deep nuclear synapse. </i>In Progress in Brain Research (pp. 257–273). Elsevier. <a href="https://www.sciencedirect.com/science/article/pii/S0079612300240223">https://www.sciencedirect.com/science/article/pii/S0079612300240223</a><a href="http://doi.org/10.1016/S0079-6123(00)24022-3"> http://doi.org/10.1016/S0079-6123(00)24022-3</a></p>
@@ -170,6 +172,8 @@
 
 <p id="BoudreauFerster05">Boudreau, C.E., & Ferster, D. (2005). Short-Term Depression in Thalamocortical Synapses of Cat Primary Visual Cortex. <i>Journal of Neuroscience, 25</i>, 7179–7190. <a href="https://www.jneurosci.org/content/25/31/7179">https://www.jneurosci.org/content/25/31/7179</a><a href="http://doi.org/10.1523/JNEUROSCI.1445-05.2005"> http://doi.org/10.1523/JNEUROSCI.1445-05.2005</a></p>
 
+<p id="BowmakerDartnall80">Bowmaker, J.K., & Dartnall, H.J. (1980). Visual pigments of rods and cones in a human retina. <i>The Journal of Physiology, 298</i>, 501–511. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1980.sp013097">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1980.sp013097</a><a href="http://doi.org/10.1113/jphysiol.1980.sp013097"> http://doi.org/10.1113/jphysiol.1980.sp013097</a></p>
+
 <p id="Brette15">Brette, R. (2015). Philosophy of the Spike: Rate-Based vs. Spike-Based Theories of the Brain. <i>Frontiers in Systems Neuroscience, 9</i>, 151. <a href="https://www.frontiersin.org/article/10.3389/fnsys.2015.00151">https://www.frontiersin.org/article/10.3389/fnsys.2015.00151</a><a href="http://doi.org/10.3389/fnsys.2015.00151"> http://doi.org/10.3389/fnsys.2015.00151</a></p>
 
 <p id="BretteGerstner05">Brette, R., & Gerstner, W. (2005). Adaptive exponential integrate-and-fire model as an effective description of neuronal activity. <i>Journal of Neurophysiology, 94</i>, 3637–3642. <a href="http://jn.physiology.org/content/94/5/3637">http://jn.physiology.org/content/94/5/3637</a><a href="http://doi.org/10.1152/jn.00686.2005"> http://doi.org/10.1152/jn.00686.2005</a></p>
@@ -177,6 +181,8 @@
 <p id="BretteRudolphCarnevaleEtAl07">Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris, F.C., & Others (2007). Simulation of networks of spiking neurons: A review of tools and strategies. <i>Journal of Computational Neuroscience, 23</i>, 349–398. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17629781">http://www.ncbi.nlm.nih.gov/pubmed/17629781</a></p>
 
 <p id="BrodyRomoKepecs03">Brody, C.D., Romo, R., & Kepecs, A. (2003). Basic mechanisms for graded persistent activity: discrete attractors, continuous attractors, and dynamic representations. <i>Current Opinion in Neurobiology, 13</i>, 204–211. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12744975">http://www.ncbi.nlm.nih.gov/pubmed/12744975</a></p>
+
+<p id="BrombasKalita-deCroftCooper-WilliamsEtAl17">Brombas, A., Kalita-de Croft, S., Cooper-Williams, E.J., & Williams, S.R. (2017). Dendro-dendritic cholinergic excitation controls dendritic spike initiation in retinal ganglion cells. <i>Nature Communications, 8</i>, 15683. <a href="https://www.nature.com/articles/ncomms15683">https://www.nature.com/articles/ncomms15683</a><a href="http://doi.org/10.1038/ncomms15683"> http://doi.org/10.1038/ncomms15683</a></p>
 
 <p id="Brooks86">Brooks, R. (1986). A robust layered control system for a mobile robot. <i>IEEE Journal on Robotics and Automation, 2</i>, 14–23. <a href="http://doi.org/10.1109/JRA.1986.1087032"> http://doi.org/10.1109/JRA.1986.1087032</a></p>
 
@@ -251,6 +257,10 @@
 <p id="CollinsFrank13">Collins, A.G.E., & Frank, M.J. (2013). Cognitive control over learning: creating, clustering, and generalizing task-set structure. <i>Psychological Review, 120</i>, 190–229. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23356780">http://www.ncbi.nlm.nih.gov/pubmed/23356780</a></p>
 
 <p id="CollinsFrank14">Collins, A.G.E., & Frank, M.J. (2014). Opponent actor learning (OpAL): modeling interactive effects of striatal dopamine on reinforcement learning and choice incentive. <i>Psychological Review, 121</i>, 337–366. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25090423">http://www.ncbi.nlm.nih.gov/pubmed/25090423</a></p>
+
+<p id="Conway01">Conway, B.R. (2001). Spatial structure of cone inputs to color cells in alert macaque primary visual cortex (V-1). <i>The Journal of neuroscience, 21</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/11306629">http://www.ncbi.nlm.nih.gov/pubmed/11306629</a></p>
+
+<p id="ConwayKitaokaYazdanbakhshEtAl05">Conway, B.R., Kitaoka, A., Yazdanbakhsh, A., Pack, C.C., & Livingstone, M.S. (2005). Neural Basis for a Powerful Static Motion Illusion. <i>Journal of Neuroscience, 25</i>, 5651–5656. <a href="https://www.jneurosci.org/content/25/23/5651">https://www.jneurosci.org/content/25/23/5651</a><a href="http://doi.org/10.1523/JNEUROSCI.1084-05.2005"> http://doi.org/10.1523/JNEUROSCI.1084-05.2005</a></p>
 
 <p id="CookBuonaratiCoultrapEtAl21">Cook, S.G., Buonarati, O.R., Coultrap, S.J., & Bayer, K.U. (2021). CaMKII holoenzyme mechanisms that govern the LTP versus LTD decision. <i>Science Advances, <a href="https://www.science.org/doi/abs/10.1126/sciadv.abe2300">https://www.science.org/doi/abs/10.1126/sciadv.abe2300</a></i><a href="http://doi.org/10.1126/sciadv.abe2300"> http://doi.org/10.1126/sciadv.abe2300</a></p>
 
@@ -392,6 +402,8 @@
 
 <p id="Elston03">Elston, G.N. (2003). Cortex, cognition and the cell: new insights into the pyramidal neuron and prefrontal function. <i>Cerebral Cortex, 13</i>, 1124–1138. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14576205">http://www.ncbi.nlm.nih.gov/pubmed/14576205</a></p>
 
+<p id="EncisoRempeDmitrievEtAl10">Enciso, G.A., Rempe, M., Dmitriev, A.V., Gavrikov, K.E., Terman, D., & Mangel, S.C. (2010). A model of direction selectivity in the starburst amacrine cell network. <i>Journal of Computational Neuroscience, 28</i>, 567–578. <a href="https://doi.org/10.1007/s10827-010-0238-3">https://doi.org/10.1007/s10827-010-0238-3</a><a href="http://doi.org/10.1007/s10827-010-0238-3"> http://doi.org/10.1007/s10827-010-0238-3</a></p>
+
 <p id="EvansTwedellZhuEtAl20">Evans, R.C., Twedell, E.L., Zhu, M., Ascencio, J., Zhang, R., & Khaliq, Z.M. (2020). Functional dissection of basal ganglia inhibitory inputs onto substantia nigra dopaminergic neurons. <i>Cell Reports, 32</i>, 108156. <a href="https://www.sciencedirect.com/science/article/pii/S2211124720311451">https://www.sciencedirect.com/science/article/pii/S2211124720311451</a><a href="http://doi.org/10.1016/j.celrep.2020.108156"> http://doi.org/10.1016/j.celrep.2020.108156</a></p>
 
 <p id="FagetZellSouterEtAl18">Faget, L., Zell, V., Souter, E., McPherson, A., Ressler, R., Gutierrez-Reed, N., Yoo, J.H., Dulcis, D., & Hnasko, T.S. (2018). Opponent control of behavioral reinforcement by inhibitory and excitatory projections from the ventral pallidum. <i>Nature Communications, 9</i>, 849. <a href="https://www.nature.com/articles/s41467-018-03125-y">https://www.nature.com/articles/s41467-018-03125-y</a><a href="http://doi.org/10.1038/s41467-018-03125-y"> http://doi.org/10.1038/s41467-018-03125-y</a></p>
@@ -413,6 +425,8 @@
 <p id="FerrainaPareWurtz02">Ferraina, S., Pare, M., & Wurtz, R.H. (2002). Comparison of cortico-cortical and cortico-collicular signals for the generation of saccadic eye movements. <i>Journal of Neurophysiology, 87</i>, 845–858. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11826051">http://www.ncbi.nlm.nih.gov/pubmed/11826051</a></p>
 
 <p id="FerreiraHenderson91">Ferreira, F., & Henderson, J.M. (1991). Recovery from misanalyses of garden-path sentences. <i>Journal of Memory and Language, 30</i>, 725–745. <a href="https://www.sciencedirect.com/science/article/pii/0749596X9190034H">https://www.sciencedirect.com/science/article/pii/0749596X9190034H</a><a href="http://doi.org/10.1016/0749-596X(91)90034-H"> http://doi.org/10.1016/0749-596X(91)90034-H</a></p>
+
+<p id="FieldGauthierSherEtAl10">Field, G.D., Gauthier, J.L., Sher, A., Greschner, M., Machado, T.A., Jepson, L.H., Shlens, J., Gunning, D.E., Mathieson, K., Dabrowski, W., Paninski, L., Litke, A.M., & Chichilnisky, E.J. (2010). Functional connectivity in the retina at the resolution of photoreceptors. <i>Nature, 467</i>, 673–677. <a href="http://www.nature.com/nature/journal/v467/n7316/abs/nature09424.html">http://www.nature.com/nature/journal/v467/n7316/abs/nature09424.html</a><a href="http://doi.org/10.1038/nature09424"> http://doi.org/10.1038/nature09424</a></p>
 
 <p id="FodorPylyshyn88">Fodor, J.A., & Pylyshyn, Z.W. (1988). Connectionism and cognitive architecture: a critical analysis. <i>Cognition, 28</i>, 3–71. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2450716">http://www.ncbi.nlm.nih.gov/pubmed/2450716</a></p>
 
@@ -468,6 +482,8 @@
 
 <p id="GarciaSteeleMauk99">Garcia, K.S., Steele, P.M., & Mauk, M.D. (1999). Cerebellar Cortex Lesions Prevent Acquisition of Conditioned Eyelid Responses. <i>Journal of Neuroscience, 19</i>, 10940–10947. <a href="https://www.jneurosci.org/content/19/24/10940">https://www.jneurosci.org/content/19/24/10940</a><a href="http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999"> http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999</a></p>
 
+<p id="Gegenfurtner03">Gegenfurtner, K.R. (2003). Cortical mechanisms of colour vision. <i>Nature Reviews Neuroscience, 4</i>, 563–572. <a href="http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html">http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html</a><a href="http://doi.org/10.1038/nrn1138"> http://doi.org/10.1038/nrn1138</a></p>
+
 <p id="GemanGeman84">Geman, S., & Geman, D. (1984). Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-6</i>, 721–741. </p>
 
 <p id="Gentner83">Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. <i>Cognitive Science, 7</i>, 155–170. <a href="https://www.sciencedirect.com/science/article/pii/S0364021383800093">https://www.sciencedirect.com/science/article/pii/S0364021383800093</a><a href="http://doi.org/10.1016/S0364-0213(83)80009-3"> http://doi.org/10.1016/S0364-0213(83)80009-3</a></p>
@@ -521,6 +537,8 @@
 <p id="GraybielRagsdale78">Graybiel, A.M., & Ragsdale, C.W.J. (1978). Histochemically distinct compartments in the striatum of human, monkey, and cat demonstrated by acetylthiocholinesterase staining. <i>Proceedings of the National Academy of Sciences, USA, 75</i>, 5723–5726. </p>
 
 <p id="GreeneHoshi17">Greene, D.L., & Hoshi, N. (2017). Modulation of Kv7 channels and excitability in the brain. <i>Cellular and molecular life sciences : CMLS, 74</i>, 495–508. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5243414/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5243414/</a><a href="http://doi.org/10.1007/s00018-016-2359-y"> http://doi.org/10.1007/s00018-016-2359-y</a></p>
+
+<p id="GreeneKimSeung16">Greene, M.J., Kim, J.S., & Seung, H.S. (2016). Analogous Convergence of Sustained and Transient Inputs in Parallel On and Off Pathways for Retinal Motion Computation. <i>Cell Reports, 14</i>, 1892–1900. <a href="https://www.cell.com/cell-reports/abstract/S2211-1247(16)30068-7">https://www.cell.com/cell-reports/abstract/S2211-1247(16)30068-7</a><a href="http://doi.org/10.1016/j.celrep.2016.02.001"> http://doi.org/10.1016/j.celrep.2016.02.001</a></p>
 
 <p id="GreenSteinmetz05">Green, J.T., & Steinmetz, J.E. (2005). Purkinje cell activity in the cerebellar anterior lobe after rabbit eyeblink conditioning. <i>Learning & Memory, 12</i>, 260–269. <a href="http://learnmem.cshlp.org/content/12/3/260">http://learnmem.cshlp.org/content/12/3/260</a><a href="http://doi.org/10.1101/lm.89505"> http://doi.org/10.1101/lm.89505</a></p>
 
@@ -698,6 +716,8 @@
 
 <p id="JahrStevens90">Jahr, C.E., & Stevens, C.F. (1990). A quantitative description of NMDA receptor-channel kinetic behavior. <i>Journal of Neuroscience, 10</i>, 1830–1837. <a href="http://www.jneurosci.org/content/10/6/1830">http://www.jneurosci.org/content/10/6/1830</a><a href="http://doi.org/10.1523/JNEUROSCI.10-06-01830.1990"> http://doi.org/10.1523/JNEUROSCI.10-06-01830.1990</a></p>
 
+<p id="JainMurphy-BaumdeRosenrollEtAl20">Jain, V., Murphy-Baum, B.L., deRosenroll, G., Sethuramanujam, S., Delsey, M., Delaney, K.R., & Awatramani, G.B. (2020). The functional organization of excitation and inhibition in the dendrites of mouse direction-selective ganglion cells. <i>eLife, 9</i>, e52949. <a href="https://doi.org/10.7554/eLife.52949">https://doi.org/10.7554/eLife.52949</a><a href="http://doi.org/10.7554/eLife.52949"> http://doi.org/10.7554/eLife.52949</a></p>
+
 <p id="JainNakahataPancaniEtAl24">Jain, A., Nakahata, Y., Pancani, T., Watabe, T., Rusina, P., South, K., Adachi, K., Yan, L., Simorowski, N., Furukawa, H., & Yasuda, R. (2024). Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity. <i>Nature, 635</i>, 151–159. <a href="https://www.nature.com/articles/s41586-024-08021-8">https://www.nature.com/articles/s41586-024-08021-8</a><a href="http://doi.org/10.1038/s41586-024-08021-8"> http://doi.org/10.1038/s41586-024-08021-8</a></p>
 
 <p id="JarskyRoxinKathEtAl05">Jarsky, T., Roxin, A., Kath, W.L., & Spruston, N. (2005). Conditional dendritic spike propagation following distal synaptic activation of hippocampal CA1 pyramidal neurons. <i>Nat Neurosci, 8</i>, 1667–1676. <a href="http://dx.doi.org/10.1038/nn1599">http://dx.doi.org/10.1038/nn1599</a></p>
@@ -750,6 +770,8 @@
 
 <p id="KheradpishehGanjtabeshThorpeEtAl18">Kheradpisheh, S.R., Ganjtabesh, M., Thorpe, S.J., & Masquelier, T. (2018). STDP-based spiking deep convolutional neural networks for object recognition. <i>Neural Networks, 99</i>, 56–67. <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302903">https://www.sciencedirect.com/science/article/pii/S0893608017302903</a><a href="http://doi.org/10.1016/j.neunet.2017.12.005"> http://doi.org/10.1016/j.neunet.2017.12.005</a></p>
 
+<p id="KimGreeneZlateskiEtAl14">Kim, J.S., Greene, M.J., Zlateski, A., Lee, K., Richardson, M., Turaga, S.C., Purcaro, M., Balkam, M., Robinson, A., Behabadi, B.F., Campos, M., Denk, W., & Seung, H.S. (2014). Space–time wiring specificity supports direction selectivity in the retina. <i>Nature, 509</i>, 331–336. <a href="https://www.nature.com/articles/nature13240">https://www.nature.com/articles/nature13240</a><a href="http://doi.org/10.1038/nature13240"> http://doi.org/10.1038/nature13240</a></p>
+
 <p id="KimKimNakajimaEtAl17">Kim, J., Kim, Y., Nakajima, R., Shin, A., Jeong, M., Park, A.H., Jeong, Y., Jo, S., Yang, S., Park, H., Cho, S., Cho, K., Shim, I., Chung, J.H., Paik, S., Augustine, G.J., & Kim, D. (2017). Inhibitory basal ganglia inputs induce excitatory motor signals in the thalamus. <i>Neuron, 95</i>, 1181-1196.e8. <a href="http://www.sciencedirect.com/science/article/pii/S0896627317307432">http://www.sciencedirect.com/science/article/pii/S0896627317307432</a><a href="http://doi.org/10.1016/j.neuron.2017.08.028"> http://doi.org/10.1016/j.neuron.2017.08.028</a></p>
 
 <p id="KimKrupaThompson98">Kim, J.J., Krupa, D.J., & Thompson, R.F. (1998). Inhibitory cerebello-olivary projections and blocking effect in classical conditioning. <i>Science (New York, N.Y.), 279</i>, 570. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9438852">http://www.ncbi.nlm.nih.gov/pubmed/9438852</a></p>
@@ -791,6 +813,8 @@
 <p id="KrizhevskySutskeverHinton12">Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. In F. Pereira, C.J.C. Burges, L. Bottou, & K.Q. Weinberger (Eds.), <i>Advances in Neural Information Processing Systems 25</i> (pp. 1097–1105). Curran Associates, Inc. <a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf</a></p>
 
 <p id="KrotovHopfield21">Krotov, D., & Hopfield, J. (2021). Large Associative Memory Problem in Neurobiology and Machine Learning. <a href="http://arxiv.org/abs/2008.06996">http://arxiv.org/abs/2008.06996</a><a href="http://doi.org/10.48550/arXiv.2008.06996"> http://doi.org/10.48550/arXiv.2008.06996</a></p>
+
+<p id="KrubitzerCampiCooke11">Krubitzer, L., Campi, K.L., & Cooke, D.F. (2011). All Rodents Are Not the Same: A Modern Synthesis of Cortical Organization. <i>Brain Behavior and Evolution, 78</i>, 51–93. <a href="https://doi.org/10.1159/000327320">https://doi.org/10.1159/000327320</a><a href="http://doi.org/10.1159/000327320"> http://doi.org/10.1159/000327320</a></p>
 
 <p id="KrystalAbi-SaabPerryEtAl05">Krystal, J.H., Abi-Saab, W., Perry, E., D’Souza, D.C., Liu, N., Gueorguieva, R., McDougall, L., Hunsberger, T., Belger, A., Levine, L., & Breier, A. (2005). Preliminary evidence of attenuation of the disruptive effects of the NMDA glutamate receptor antagonist, ketamine, on working memory by pretreatment with the group II metabotropic glutamate receptor agonist, LY354740, in healthy human subjects. <i>Psychopharmacology, 179</i>, 303–309. <a href="https://doi.org/10.1007/s00213-004-1982-8">https://doi.org/10.1007/s00213-004-1982-8</a><a href="http://doi.org/10.1007/s00213-004-1982-8"> http://doi.org/10.1007/s00213-004-1982-8</a></p>
 
@@ -960,6 +984,10 @@
 
 <p id="MontgomeryPerks19">Montgomery, J., & Perks, K. (2019). Understanding cerebellum in vertebrate neuroethology: From sensing in sharks and electric fish to motor sequences in movement and birdsong. <i>Behavioral Neuroscience, 133</i>, 267–281. <a href="http://doi.org/10.1037/bne0000317"> http://doi.org/10.1037/bne0000317</a></p>
 
+<p id="MoroneyFairchildHuntEtAl02">Moroney, N., Fairchild, M.D., Hunt, R.W., Li, C., Luo, M.R., & Newman, T. (2002). The CIECAM02 Color Appearance Model. <i>Color and Imaging Conference, 2002</i>, 23–27. </p>
+
+<p id="MorrieFeller18">Morrie, R.D., & Feller, M.B. (2018). A Dense Starburst Plexus Is Critical for Generating Direction Selectivity. <i>Current Biology, 28</i>, 1204-1212.e5. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(18)30302-6">https://www.cell.com/current-biology/abstract/S0960-9822(18)30302-6</a><a href="http://doi.org/10.1016/j.cub.2018.03.001"> http://doi.org/10.1016/j.cub.2018.03.001</a></p>
+
 <p id="MorrisFrey97">Morris, R.G.M., & Frey, U. (1997). Hippocampal synaptic plasticity: role in spatial learning or the automatic recording of attended experience? <i>Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 352</i>, 1489–1503. <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1997.0136">https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1997.0136</a><a href="http://doi.org/10.1098/rstb.1997.0136"> http://doi.org/10.1098/rstb.1997.0136</a></p>
 
 <p id="MortonJohnson91">Morton, J., & Johnson, M.H. (1991). CONSPEC and CONLERN: a two-process theory of infant face recognition. <i>Psychological Review, 98</i>, 164–181. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2047512">http://www.ncbi.nlm.nih.gov/pubmed/2047512</a></p>
@@ -1083,6 +1111,8 @@
 <p id="Oscasson80">Oscasson, O. (1980). Functional organization of olivary projection to the cerebellar anterior lobe. <i>The inferior olivary nucleus, anatomy and physiology, </i>279–289. <a href="https://cir.nii.ac.jp/crid/1572543025577012096">https://cir.nii.ac.jp/crid/1572543025577012096</a></p>
 
 <p id="OswaldNiklassonRandazzoEtAl23">Oswald, J.V., Niklasson, E., Randazzo, E., Sacramento, J., Mordvintsev, A., Zhmoginov, A., & Vladymyrov, M. (2023). <i>Transformers Learn In-Context by Gradient Descent. </i>In Proceedings of the 40th International Conference on Machine Learning (pp. 35151–35174). PMLR. <a href="https://proceedings.mlr.press/v202/von-oswald23a.html">https://proceedings.mlr.press/v202/von-oswald23a.html</a></p>
+
+<p id="Otero-MillanMacknikMartinez-Conde12">Otero-Millan, J., Macknik, S.L., & Martinez-Conde, S. (2012). Microsaccades and Blinks Trigger Illusory Rotation in the “Rotating Snakes” Illusion. <i>Journal of Neuroscience, 32</i>, 6043–6051. <a href="https://www.jneurosci.org/content/32/17/6043">https://www.jneurosci.org/content/32/17/6043</a><a href="http://doi.org/10.1523/JNEUROSCI.5823-11.2012"> http://doi.org/10.1523/JNEUROSCI.5823-11.2012</a></p>
 
 <p id="OtsukaAbeTsukagawaEtAl04">Otsuka, T., Abe, T., Tsukagawa, T., & Song, W. (2004). Conductance-Based Model of the Voltage-Dependent Generation of a Plateau Potential in Subthalamic Neurons. <i>Journal of Neurophysiology, 92</i>, 255–264. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00508.2003">https://journals.physiology.org/doi/full/10.1152/jn.00508.2003</a><a href="http://doi.org/10.1152/jn.00508.2003"> http://doi.org/10.1152/jn.00508.2003</a></p>
 
@@ -1280,6 +1310,8 @@
 
 <p id="Shannon48">Shannon, C.E. (1948). A Mathematical Theory of Communication. <i>Bell Systems Technical Journal, 27</i>, 623–656. </p>
 
+<p id="ShapleyHawken11">Shapley, R., & Hawken, M.J. (2011). Color in the Cortex: single- and double-opponent cells. <i>Vision Research, 51</i>, 701–717. <a href="http://www.sciencedirect.com/science/article/pii/S0042698911000526">http://www.sciencedirect.com/science/article/pii/S0042698911000526</a><a href="http://doi.org/10.1016/j.visres.2011.02.012"> http://doi.org/10.1016/j.visres.2011.02.012</a></p>
+
 <p id="SharpBlairBrown96">Sharp, P.E., Blair, H.T., & Brown, M. (1996). Neural network modeling of the hippocampal formation spatial signals and their possible role in navigation: A modular approach. <i>Hippocampus, 6</i>, 720–734. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1063%281996%296%3A6%3C720%3A%3AAID-HIPO14%3E3.0.CO%3B2-2">https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1063%281996%296%3A6%3C720%3A%3AAID-HIPO14%3E3.0.CO%3B2-2</a><a href="http://doi.org/10.1002/(SICI)1098-1063(1996)6:6<720::AID-HIPO14>3.0.CO;2-2"> http://doi.org/10.1002/(SICI)1098-1063(1996)6:6<720::AID-HIPO14>3.0.CO;2-2</a></p>
 
 <p id="ShenFlajoletGreengardEtAl08">Shen, W., Flajolet, M., Greengard, P., & Surmeier, D.J. (2008). Dichotomous Dopaminergic Control of Striatal Synaptic Plasticity. <i>Science, 321</i>, 848–851. <a href="https://www.science.org/doi/full/10.1126/science.1160575">https://www.science.org/doi/full/10.1126/science.1160575</a><a href="http://doi.org/10.1126/science.1160575"> http://doi.org/10.1126/science.1160575</a></p>
@@ -1323,6 +1355,8 @@
 <p id="SmithRajuPareEtAl04">Smith, Y., Raju, D.V., Pare, J., & Sidibe, M. (2004). The thalamostriatal system: a highly specific network of the basal ganglia circuitry. <i>Trends in Neurosciences, 27</i>, 520–527. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15331233">http://www.ncbi.nlm.nih.gov/pubmed/15331233</a></p>
 
 <p id="Smolensky86">Smolensky, P. (1986). Information Processing in Dynamical Systems: Foundations of Harmony Theory. In D.E. Rumelhart, J.L. McClelland, & P.R. Group (Eds.), <i>Parallel Distributed Processing. Volume 1: Foundations</i> (pp. 282–317). MIT Press. </p>
+
+<p id="SolomonLennie07">Solomon, S.G., & Lennie, P. (2007). The machinery of colour vision. <i>Nature Reviews Neuroscience, 8</i>, 276–286. <a href="http://www.nature.com/nrn/journal/v8/n4/abs/nrn2094.html">http://www.nature.com/nrn/journal/v8/n4/abs/nrn2094.html</a><a href="http://doi.org/10.1038/nrn2094"> http://doi.org/10.1038/nrn2094</a></p>
 
 <p id="SommerWurtz00">Sommer, M.A., & Wurtz, R.H. (2000). Composition and topographic organization of signals sent from the frontal eye field to the superior colliculus. <i>Journal of Neurophysiology, 83</i>, 1979–2001. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10758109">http://www.ncbi.nlm.nih.gov/pubmed/10758109</a></p>
 
@@ -1416,6 +1450,8 @@
 
 <p id="Tsang14">Tsang, E. (2014). <i>Foundations of Constraint Satisfaction: Computation in Cognitive Science. </i> Academic Press. </p>
 
+<p id="TukkerTaylorSmith04">Tukker, J.J., Taylor, W.R., & Smith, R.G. (2004). Direction selectivity in a model of the starburst amacrine cell. <i>Visual Neuroscience, 21</i>, 611–625. <a href="https://www.cambridge.org/core/journals/visual-neuroscience/article/direction-selectivity-in-a-model-of-the-starburst-amacrine-cell/BEFF3097D9C22BE07CFA6F5AA3BE4095">https://www.cambridge.org/core/journals/visual-neuroscience/article/direction-selectivity-in-a-model-of-the-starburst-amacrine-cell/BEFF3097D9C22BE07CFA6F5AA3BE4095</a><a href="http://doi.org/10.1017/S0952523804214109"> http://doi.org/10.1017/S0952523804214109</a></p>
+
 <p id="TullisBayer23">Tullis, J.E., & Bayer, K.U. (2023). Distinct synaptic pools of DAPK1 differentially regulate activity-dependent synaptic CaMKII accumulation. <i>iScience, 26</i>, <a href="https://www.cell.com/iscience/abstract/S2589-0042(23)00800-3">https://www.cell.com/iscience/abstract/S2589-0042(23)00800-3</a><a href="http://doi.org/10.1016/j.isci.2023.106723"> http://doi.org/10.1016/j.isci.2023.106723</a></p>
 
 <p id="TunstallOorschotKeanEtAl02">Tunstall, M.J., Oorschot, D.E., Kean, A., & Wickens, J.R. (2002). Inhibitory interactions between spiny projection neurons in the rat striatum. <i>Journal of Neurophysiology, 88</i>, 1263–1269. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12205147">http://www.ncbi.nlm.nih.gov/pubmed/12205147</a></p>
@@ -1492,6 +1528,8 @@
 
 <p id="WebbFranklandAltabaaEtAl24">Webb, T.W., Frankland, S.M., Altabaa, A., Segert, S., Krishnamurthy, K., Campbell, D., Russin, J., Giallanza, T., O’Reilly, R., Lafferty, J., & Cohen, J.D. (2024). The relational bottleneck as an inductive bias for efficient abstraction. <i>Trends in Cognitive Sciences, <a href="https://www.sciencedirect.com/science/article/pii/S1364661324000809">https://www.sciencedirect.com/science/article/pii/S1364661324000809</a></i><a href="http://doi.org/10.1016/j.tics.2024.04.001"> http://doi.org/10.1016/j.tics.2024.04.001</a></p>
 
+<p id="Wei18">Wei, W. (2018). Neural Mechanisms of Motion Processing in the Mammalian Retina. <i>Annual Review of Vision Science, 4</i>, 165–192. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-091517-034048">https://www.annualreviews.org/content/journals/10.1146/annurev-vision-091517-034048</a><a href="http://doi.org/10.1146/annurev-vision-091517-034048"> http://doi.org/10.1146/annurev-vision-091517-034048</a></p>
+
 <p id="Werbos74">Werbos, P. (1974). <i>Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences. </i>[unpublished thesis, Harvard University]. </p>
 
 <p id="Werbos88">Werbos, P.J. (1988). Generalization of backpropagation with application to a recurrent gas market model. <i>Neural Networks, 1</i>, 339–356. <a href="https://www.sciencedirect.com/science/article/pii/089360808890007X">https://www.sciencedirect.com/science/article/pii/089360808890007X</a><a href="http://doi.org/10.1016/0893-6080(88)90007-X"> http://doi.org/10.1016/0893-6080(88)90007-X</a></p>
@@ -1510,6 +1548,8 @@
 
 <p id="Woodruff-Pak06">Woodruff-Pak, D.S. (2006). Stereological estimation of Purkinje neuron number in C57BL/6 mice and its relation to associative learning. <i>Neuroscience, 141</i>, 233–243. <a href="https://www.sciencedirect.com/science/article/pii/S0306452206004222">https://www.sciencedirect.com/science/article/pii/S0306452206004222</a><a href="http://doi.org/10.1016/j.neuroscience.2006.03.070"> http://doi.org/10.1016/j.neuroscience.2006.03.070</a></p>
 
+<p id="WuKimDaceyEtAl23">Wu, J., Kim, Y.J., Dacey, D.M., Troy, J.B., & Smith, R.G. (2023). Two mechanisms for direction selectivity in a model of the primate starburst amacrine cell. <i>Visual Neuroscience, 40</i>, E003. <a href="https://www.cambridge.org/core/journals/visual-neuroscience/article/two-mechanisms-for-direction-selectivity-in-a-model-of-the-primate-starburst-amacrine-cell/6C688BA235ED1FE58BBD8BCDDB8C5B59">https://www.cambridge.org/core/journals/visual-neuroscience/article/two-mechanisms-for-direction-selectivity-in-a-model-of-the-primate-starburst-amacrine-cell/6C688BA235ED1FE58BBD8BCDDB8C5B59</a><a href="http://doi.org/10.1017/S0952523823000019"> http://doi.org/10.1017/S0952523823000019</a></p>
+
 <p id="WuSugiharaShinoda99">Wu, H., Sugihara, I., & Shinoda, Y. (1999). Projection patterns of single mossy fibers originating from the lateral reticular nucleus in the rat cerebellar cortex and nuclei. <i>Journal of Comparative Neurology, 411</i>, 97–118. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O">https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O</a><a href="http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O"> http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O</a></p>
 
 <p id="XiangHuguenardPrince98">Xiang, Z., Huguenard, J.R., & Prince, D.A. (1998). Cholinergic switching within neocortical inhibitory networks. <i>Science (New York, N.Y.), 281</i>, 985–988. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9703513">http://www.ncbi.nlm.nih.gov/pubmed/9703513</a></p>
@@ -1521,6 +1561,8 @@
 <p id="YamadaInanobeKurachi98">Yamada, M., Inanobe, A., & Kurachi, Y. (1998). G protein regulation of potassium ion channels. <i>Pharmacological Reviews, 50</i>, 723–757. <a href="https://pharmrev.aspetjournals.org/content/50/4/723">https://pharmrev.aspetjournals.org/content/50/4/723</a></p>
 
 <p id="YangCampbellHuangEtAl25">Yang, Y., Campbell, D., Huang, K., Wang, M., Cohen, J., & Webb, T. (2025). Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models. <a href="http://arxiv.org/abs/2502.20332">http://arxiv.org/abs/2502.20332</a><a href="http://doi.org/10.48550/arXiv.2502.20332"> http://doi.org/10.48550/arXiv.2502.20332</a></p>
+
+<p id="YangGaoLiEtAl13">Yang, K., Gao, S., Li, C., & Li, Y. (2013). <i>Efficient color boundary detection with color-opponent mechanisms. </i>In <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Yang_Efficient_Color_Boundary_2013_CVPR_paper.html">http://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Yang_Efficient_Color_Boundary_2013_CVPR_paper.html</a></p>
 
 <p id="YangLisberger14">Yang, Y., & Lisberger, S.G. (2014). Purkinje-cell plasticity and cerebellar motor learning are graded by complex-spike duration. <i>Nature, 510</i>, 529–532. <a href="https://www.nature.com/articles/nature13282">https://www.nature.com/articles/nature13282</a><a href="http://doi.org/10.1038/nature13282"> http://doi.org/10.1038/nature13282</a></p>
 
@@ -1551,6 +1593,8 @@
 <p id="ZeeuwHanselBianEtAl98">Zeeuw, C.I.D., Hansel, C., Bian, F., Koekkoek, S.K.E., Alphen, A.M., Linden, D.J., & Oberdick, J. (1998). Expression of a Protein Kinase C Inhibitor in Purkinje Cells Blocks Cerebellar LTD and Adaptation of the Vestibulo-Ocular Reflex. <i>Neuron, 20</i>, 495–508. <a href="https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3">https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3</a><a href="http://doi.org/10.1016/S0896-6273(00)80990-3"> http://doi.org/10.1016/S0896-6273(00)80990-3</a></p>
 
 <p id="Zhang96">Zhang, K. (1996). Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: a theory. <i>The Journal of neuroscience : the official journal of the Society for Neuroscience, 16</i>, 2112. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8604055">http://www.ncbi.nlm.nih.gov/pubmed/8604055</a></p>
+
+<p id="ZhangBarhomiSerre12">Zhang, J., Barhomi, Y., & Serre, T. (2012). A New Biologically Inspired Color Image Descriptor. In A. Fitzgibbon, S. Lazebnik, P. Perona, Y. Sato, & C. Schmid (Eds.), <i>Computer Vision – ECCV 2012</i> (pp. 312–324). Springer Berlin Heidelberg. <a href="http://link.springer.com/chapter/10.1007/978-3-642-33715-4_23">http://link.springer.com/chapter/10.1007/978-3-642-33715-4_23</a><a href="http://doi.org/10.1007/978-3-642-33715-4_23"> http://doi.org/10.1007/978-3-642-33715-4_23</a></p>
 
 <p id="ZhangLinden06">Zhang, W., & Linden, D.J. (2006). Long-Term Depression at the Mossy Fiber–Deep Cerebellar Nucleus Synapse. <i>Journal of Neuroscience, 26</i>, 6935–6944. <a href="https://www.jneurosci.org/content/26/26/6935">https://www.jneurosci.org/content/26/26/6935</a><a href="http://doi.org/10.1523/JNEUROSCI.0784-06.2006"> http://doi.org/10.1523/JNEUROSCI.0784-06.2006</a></p>
 
