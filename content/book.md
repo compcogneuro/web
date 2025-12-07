@@ -4,7 +4,7 @@ Categories = ["Leabra", "Textbooks"]
 
 ## Computational Cognitive Neuroscience
 
-This is an open and free textbook based on the [[Leabra]] framework, which has been published in various forms going back to [[@^OReillyMunakata00]]. See [[CCN Intro]] for a newer version based on the [[Axon]] framework which is a successor to Leabra, and forms the basis for all the other content on this website.
+This is an open and free textbook based on the [[Leabra]] framework, which has been published in various forms going back to [[@^OReillyMunakata00]]. See [[sims]] for associated simulation models for this book. 
 
 This book is available for download in a variety of formats:
 
