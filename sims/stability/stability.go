@@ -193,7 +193,7 @@ func LayByNm(net *axon.Network, n int) *axon.Layer {
 
 func (ss *Sim) ConfigNet(net *axon.Network) {
 	net.SetMaxData(1)
-	net.Context().ThetaCycles = int32(ss.Config.Run.Cycles)
+	net.Context().ThetaCycles = int32(ss.Config.Run.Cycles())
 	net.SetRandSeed(ss.RandSeeds[0]) // init new separate random seed, using run = 0
 
 	sz := ss.Config.Params.HiddenSize
@@ -271,21 +271,18 @@ func (ss *Sim) NetViewUpdater(mode enums.Enum) *axon.NetViewUpdate {
 func (ss *Sim) ConfigLoops() {
 	ls := looper.NewStacks()
 
-	cycles := ss.Config.Run.Cycles
-	plusPhase := ss.Config.Run.PlusCycles
+	cycles := ss.Config.Run.Cycles()
 
 	ls.AddStack(Test, Trial).
 		AddLevel(Epoch, 1).
 		AddLevelIncr(Trial, ss.Config.Run.Trials, 1).
 		AddLevel(Cycle, cycles)
 
-	axon.LooperStandard(ls, ss.Net, ss.NetViewUpdater, cycles-plusPhase, Cycle, Trial, Train)
-
+	axon.LooperStandard(ls, ss.Net, ss.NetViewUpdater, Cycle, Trial, Train,
+		func(mode enums.Enum) { ss.Net.ClearInputs() },
+		func(mode enums.Enum) { ss.ApplyInputs(mode.(Modes)) },
+	)
 	ls.Stacks[Test].OnInit.Add("Init", func() { ss.Init() })
-
-	ls.AddOnStartToLoop(Trial, "ApplyInputs", func(mode enums.Enum) {
-		ss.ApplyInputs(mode.(Modes))
-	})
 
 	ls.AddOnStartToAll("StatsStart", ss.StatsStart)
 	ls.AddOnEndToAll("StatsStep", ss.StatsStep)
@@ -534,8 +531,8 @@ func (ss *Sim) ConfigGUI(b tree.Node) {
 	ss.GUI.CycleUpdateInterval = 10
 
 	nv := ss.GUI.AddNetView("Network")
-	nv.Options.MaxRecs = 2 * ss.Config.Run.Cycles
-	nv.Options.Raster.Max = ss.Config.Run.Cycles
+	nv.Options.MaxRecs = 2 * ss.Config.Run.Cycles()
+	nv.Options.Raster.Max = ss.Config.Run.Cycles()
 	nv.SetNet(ss.Net)
 	ss.NetUpdate.Config(nv, axon.Theta, ss.StatCounters)
 	ss.GUI.OnStop = func(mode, level enums.Enum) {

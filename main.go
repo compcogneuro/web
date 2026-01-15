@@ -45,7 +45,10 @@ func main() {
 		ct.References = csl.NewKeyList(refs)
 	}
 	b.AddTopBar(func(bar *core.Frame) {
-		core.NewToolbar(bar).Maker(ct.MakeToolbar)
+		core.NewToolbar(bar).Maker(func(p *tree.Plan) {
+			ct.MakeToolbar(p)
+			ct.MakeToolbarPDF(p)
+		})
 	})
 	b.RunMainWindow()
 }
