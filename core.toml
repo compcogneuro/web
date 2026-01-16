@@ -1,2 +1,3 @@
 Name = "Computational Cognitive Neuroscience"
-About = "A complete, self-contained introduction to the field of Computational Cognitive Neuroscience, where computer models of the brain are used to understand a wide range of cognitive functions, including perception, attention, learning, memory, motor control, executive function, and language."
+About = "A comprehensive, self-contained framework for understanding the cognitive and computational functions of the brain through biologically-based computational models that simulate all major aspects of brain and cognitive function, using spiking neurons. A wide range of cognitive functions are simulated, including perception, attention, learning, memory, motor control, goal-driven motivation, executive function, and language based on models of different areas of the neocortex interacting with the thalamus, basal ganglia, hippocampus, cerebellum, amygdala, and a number of other subcortical networks."
+

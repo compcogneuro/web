@@ -114,6 +114,8 @@
 
 <p id="Bellman57">Bellman, R. (1957). <i>Dynamic Programming. </i> Princeton University Press. </p>
 
+<p id="BenavidezBienkowskiZhuEtAl21">Benavidez, N.L., Bienkowski, M.S., Zhu, M., Garcia, L.H., Fayzullina, M., Gao, L., Bowman, I., Gou, L., Khanjani, N., Cotter, K.R., Korobkova, L., Becerra, M., Cao, C., Song, M.Y., Zhang, B., Yamashita, S., Tugangui, A.J., Zingg, B., Rose, K., Lo, D., Foster, N.N., Boesen, T., Mun, H., Aquino, S., Wickersham, I.R., Ascoli, G.A., Hintiryan, H., & Dong, H. (2021). Organization of the inputs and outputs of the mouse superior colliculus. <i>Nature Communications, 12</i>, 4004. <a href="https://www.nature.com/articles/s41467-021-24241-2">https://www.nature.com/articles/s41467-021-24241-2</a><a href="http://doi.org/10.1038/s41467-021-24241-2"> http://doi.org/10.1038/s41467-021-24241-2</a></p>
+
 <p id="Benda21">Benda, J. (2021). Neural adaptation. <i>Current Biology, 31</i>, R110-R116. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(20)31767-X">https://www.cell.com/current-biology/abstract/S0960-9822(20)31767-X</a><a href="http://doi.org/10.1016/j.cub.2020.11.054"> http://doi.org/10.1016/j.cub.2020.11.054</a></p>
 
 <p id="BendaMalerLongtin10">Benda, J., Maler, L., & Longtin, A. (2010). Linear Versus Nonlinear Signal Transmission in Neuron Models With Adaptation Currents or Dynamic Thresholds. <i>Journal of Neurophysiology, 104</i>, 2806–2820. <a href="http://jn.physiology.org/content/104/5/2806">http://jn.physiology.org/content/104/5/2806</a><a href="http://doi.org/10.1152/jn.00240.2010"> http://doi.org/10.1152/jn.00240.2010</a></p>
@@ -169,6 +171,8 @@
 <p id="Bosch-BoujuHylandParr-Brownlie13">Bosch-Bouju, C., Hyland, B.I., & Parr-Brownlie, L.C. (2013). Motor thalamus integration of cortical, cerebellar and basal ganglia information: implications for normal and parkinsonian conditions. <i>Frontiers in Computational Neuroscience, 7</i>, <a href="https://www.frontiersin.org/articles/10.3389/fncom.2013.00163/full">https://www.frontiersin.org/articles/10.3389/fncom.2013.00163/full</a><a href="http://doi.org/10.3389/fncom.2013.00163"> http://doi.org/10.3389/fncom.2013.00163</a></p>
 
 <p id="BoschCastroSaneyoshiEtAl14">Bosch, M., Castro, J., Saneyoshi, T., Matsuno, H., Sur, M., & Hayashi, Y. (2014). Structural and Molecular Remodeling of Dendritic Spine Substructures during Long-Term Potentiation. <i>Neuron, 82</i>, 444–459. <a href="https://www.cell.com/neuron/abstract/S0896-6273(14)00251-7">https://www.cell.com/neuron/abstract/S0896-6273(14)00251-7</a><a href="http://doi.org/10.1016/j.neuron.2014.03.021"> http://doi.org/10.1016/j.neuron.2014.03.021</a></p>
+
+<p id="BostanDumStrick10">Bostan, A.C., Dum, R.P., & Strick, P.L. (2010). The basal ganglia communicate with the cerebellum. <i>Proceedings of the National Academy of Sciences, 107</i>, 8452–8456. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1000496107">https://www.pnas.org/doi/abs/10.1073/pnas.1000496107</a><a href="http://doi.org/10.1073/pnas.1000496107"> http://doi.org/10.1073/pnas.1000496107</a></p>
 
 <p id="BoudreauFerster05">Boudreau, C.E., & Ferster, D. (2005). Short-Term Depression in Thalamocortical Synapses of Cat Primary Visual Cortex. <i>Journal of Neuroscience, 25</i>, 7179–7190. <a href="https://www.jneurosci.org/content/25/31/7179">https://www.jneurosci.org/content/25/31/7179</a><a href="http://doi.org/10.1523/JNEUROSCI.1445-05.2005"> http://doi.org/10.1523/JNEUROSCI.1445-05.2005</a></p>
 
@@ -226,7 +230,7 @@
 
 <p id="ChenShwartz-ZivChoEtAl25">Chen, A., Shwartz-Ziv, R., Cho, K., Leavitt, M.L., & Saphra, N. (2025). Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs. <a href="http://arxiv.org/abs/2309.07311">http://arxiv.org/abs/2309.07311</a><a href="http://doi.org/10.48550/arXiv.2309.07311"> http://doi.org/10.48550/arXiv.2309.07311</a></p>
 
-<p id="ChevalierDeniau90">Chevalier, G., & Deniau, J.M. (1990). Disinhibition as a basic process in the expression of striatal functions. <i>Trends in neurosciences, 13</i>, 277–280. <a href="http://www.ncbi.nlm.nih.gov/pubmed/1695403">http://www.ncbi.nlm.nih.gov/pubmed/1695403</a></p>
+<p id="ChevalierDeniau90">Chevalier, G., & Deniau, J.M. (1990). Disinhibition as a basic process in the expression of striatal functions. <i>Trends in Neurosciences, 13</i>, 277–280. <a href="http://www.ncbi.nlm.nih.gov/pubmed/1695403">http://www.ncbi.nlm.nih.gov/pubmed/1695403</a></p>
 
 <p id="Chollet19">Chollet, F. (2019). On the measure of intelligence. <i>arXiv:1911.01547 [cs], <a href="http://arxiv.org/abs/1911.01547">http://arxiv.org/abs/1911.01547</a></i></p>
 
@@ -249,6 +253,8 @@
 <p id="CohenDunbarMcClelland90">Cohen, J.D., Dunbar, K., & McClelland, J.L. (1990). On the control of automatic processes: A parallel distributed processing model of the Stroop effect. <i>Psychological Review, 97</i>, 332–361. </p>
 
 <p id="CohenRomeroFarahEtAl94">Cohen, J.D., Romero, R.D., Farah, M.J., & Servan-Schreiber, D. (1994). Mechanisms of Spatial Attention: The Relation of Macrostructure To Microstructure in Parietal Neglect. <i>Journal of Cognitive Neuroscience, 6</i>, 377–387. </p>
+
+<p id="CoizetGrahamMossEtAl09">Coizet, V., Graham, J.H., Moss, J., Bolam, J.P., Savasta, M., McHaffie, J.G., Redgrave, P., & Overton, P.G. (2009). Short-Latency Visual Input to the Subthalamic Nucleus Is Provided by the Midbrain Superior Colliculus. <i>Journal of Neuroscience, 29</i>, 5701–5709. <a href="https://www.jneurosci.org/content/29/17/5701">https://www.jneurosci.org/content/29/17/5701</a><a href="http://doi.org/10.1523/JNEUROSCI.0247-09.2009"> http://doi.org/10.1523/JNEUROSCI.0247-09.2009</a></p>
 
 <p id="CollingridgeBliss87">Collingridge, G.L., & Bliss, T.V.P. (1987). NMDA Receptors — Their Role in Long-Term Potentiation. <i>Trends in Neurosciences, 10</i>, 288–293. </p>
 
@@ -902,6 +908,8 @@
 
 <p id="ManningClarkHewittEtAl20">Manning, C.D., Clark, K., Hewitt, J., Khandelwal, U., & Levy, O. (2020). Emergent linguistic structure in artificial neural networks trained by self-supervision. <i>Proceedings of the National Academy of Sciences, 117</i>, 30046–30054. <a href="https://www.pnas.org/doi/full/10.1073/pnas.1907367117">https://www.pnas.org/doi/full/10.1073/pnas.1907367117</a><a href="http://doi.org/10.1073/pnas.1907367117"> http://doi.org/10.1073/pnas.1907367117</a></p>
 
+<p id="MariniPiancaTredici99">Marini, G., Pianca, L., & Tredici, G. (1999). Descending projections arising from the parafascicular nucleus in rats: trajectory of fibers, projection pattern and mapping of terminations. <i>Somatosensory & Motor Research, 16</i>, 207–222. <a href="https://doi.org/10.1080/08990229970465">https://doi.org/10.1080/08990229970465</a><a href="http://doi.org/10.1080/08990229970465"> http://doi.org/10.1080/08990229970465</a></p>
+
 <p id="MarkowitzGillisBeronEtAl18">Markowitz, J.E., Gillis, W.F., Beron, C.C., Neufeld, S.Q., Robertson, K., Bhagat, N.D., Peterson, R.E., Peterson, E., Hyun, M., Linderman, S.W., Sabatini, B.L., & Datta, S.R. (2018). The striatum organizes 3D behavior via moment-to-moment action selection. <i>Cell, 174</i>, 44-58.e17. <a href="http://www.sciencedirect.com/science/article/pii/S0092867418305129">http://www.sciencedirect.com/science/article/pii/S0092867418305129</a><a href="http://doi.org/10.1016/j.cell.2018.04.019"> http://doi.org/10.1016/j.cell.2018.04.019</a></p>
 
 <p id="MarkowitzGillisJayEtAl23">Markowitz, J.E., Gillis, W.F., Jay, M., Wood, J., Harris, R.W., Cieszkowski, R., Scott, R., Brann, D., Koveal, D., Kula, T., Weinreb, C., Osman, M.A.M., Pinto, S.R., Uchida, N., Linderman, S.W., Sabatini, B.L., & Datta, S.R. (2023). Spontaneous behaviour is structured by reinforcement without explicit reward. <i>Nature, 614</i>(7946), 108–117. <a href="https://www.nature.com/articles/s41586-022-05611-2">https://www.nature.com/articles/s41586-022-05611-2</a><a href="http://doi.org/10.1038/s41586-022-05611-2"> http://doi.org/10.1038/s41586-022-05611-2</a></p>
@@ -955,6 +963,10 @@
 <p id="MedinaLisberger08">Medina, J.F., & Lisberger, S.G. (2008). Links from complex spikes to local plasticity and motor learning in the cerebellum of awake-behaving monkeys. <i>Nature Neuroscience, 11</i>, 1185–1192. <a href="https://www.nature.com/articles/nn.2197">https://www.nature.com/articles/nn.2197</a><a href="http://doi.org/10.1038/nn.2197"> http://doi.org/10.1038/nn.2197</a></p>
 
 <p id="MengZhouPapaneriEtAl18">Meng, C., Zhou, J., Papaneri, A., Peddada, T., Xu, K., & Cui, G. (2018). Spectrally Resolved Fiber Photometry for Multi-component Analysis of Brain Circuits. <i>Neuron, 98</i>, 707-717.e4. <a href="https://www.cell.com/neuron/abstract/S0896-6273(18)30296-4">https://www.cell.com/neuron/abstract/S0896-6273(18)30296-4</a><a href="http://doi.org/10.1016/j.neuron.2018.04.012"> http://doi.org/10.1016/j.neuron.2018.04.012</a></p>
+
+<p id="MeyerSmithKornblumEtAl90">Meyer, D.E., Smith, J.E.K., Kornblum, S., Abrams, R.A., & Wright, C.E. (1990). <i>Speed—Accuracy Tradeoffs in Aimed Movements: Toward a Theory of Rapid Voluntary Action. </i>In Attention and Performance Xiii. Psychology Press. </p>
+
+<p id="MeyerSmithWright82">Meyer, D.E., Smith, J.E., & Wright, C.E. (1982). Models for the speed and accuracy of aimed movements. <i>Psychological Review, 89</i>, 449–482. <a href="http://doi.org/10.1037/0033-295X.89.5.449"> http://doi.org/10.1037/0033-295X.89.5.449</a></p>
 
 <p id="MiallWolpert96">Miall, R.C., & Wolpert, D.M. (1996). Forward Models for Physiological Motor Control. <i>Neural Netw, 9</i>, 1265–1279. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd">http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd</a></p>
 
