@@ -3,9 +3,8 @@ module github.com/compcogneuro/web
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.14-0.20260117204258-0df48929cf7e
+	cogentcore.org/core v0.3.14-0.20260118080844-a0b6306c62be
 	cogentcore.org/lab v0.1.3-0.20260118025330-40dd4638d88a
-	github.com/cogentcore/yaegi v0.0.0-20260116172027-700fbf8949f3
 	github.com/emer/axon/v2 v2.0.0-dev0.2.88
 	github.com/emer/emergent/v2 v2.0.0-dev0.1.7.0.20260118035849-68022169e155
 )
@@ -23,6 +22,7 @@ require (
 	github.com/chewxy/math32 v1.11.1 // indirect
 	github.com/cogentcore/readline v0.1.3 // indirect
 	github.com/cogentcore/webgpu v0.23.0 // indirect
+	github.com/cogentcore/yaegi v0.0.0-20260116172027-700fbf8949f3 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
 	github.com/ericchiang/css v1.4.0 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
