@@ -4,11 +4,7 @@ Categories = ["Rubicon", "Simulations"]
 bibfile = "ccnlab.json"
 +++
 
-{id="sim_bg" collapsed="true"}
-```Goal
-// see https://github.com/emer/axon/tree/main/sims/bgdorsal for source code
-bgdorsal.Embed(b)
-```
+<sim-bgdorsal>
 
 <div>
 

@@ -4,11 +4,7 @@ Categories = ["Rubicon", "Simulations"]
 bibfile = "ccnlab.json"
 +++
 
-{id="sim_vmbg" collapsed="true"}
-```Goal
-// see https://github.com/emer/axon/tree/main/sims/bgventral for source code
-bgventral.Embed(b)
-```
+<sim-bgventral>
 
 <div>
 

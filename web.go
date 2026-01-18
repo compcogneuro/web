@@ -12,7 +12,7 @@ import (
 	"cogentcore.org/core/text/csl"
 	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
-	_ "github.com/compcogneuro/web/sims/yaegisims"
+	_ "github.com/emer/axon/v2/yaegiaxon"
 )
 
 // NOTE: you must make a symbolic link to the zotero CCNLab CSL file as ccnlab.json
@@ -40,6 +40,7 @@ func main() {
 	content.OfflineURL = "https://compcogneuro.org"
 	b := core.NewBody(content.Settings.SiteTitle)
 	ct := content.NewContent(b).SetContent(econtent)
+	ctx := ct.Context
 	refs, err := csl.OpenFS(econtent, "citedrefs.json")
 	if err == nil {
 		ct.References = csl.NewKeyList(refs)
@@ -50,5 +51,8 @@ func main() {
 			ct.MakeToolbarPDF(p)
 		})
 	})
+
+	AddSims(ctx)
+
 	b.RunMainWindow()
 }

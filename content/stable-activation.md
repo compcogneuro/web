@@ -3,11 +3,7 @@ Categories = ["Activation", "Simulations"]
 bibfile = "ccnlab.json"
 +++
 
-{id="sim_stability" collapsed="true"}
-```Goal
-// see https://github.com/compcogneuro/web/sims/stability for source code
-stability.Embed(b)
-```
+<sim-stability>
 
 <div>
 
