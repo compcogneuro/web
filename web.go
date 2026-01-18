@@ -9,6 +9,8 @@ import (
 
 	"cogentcore.org/core/content"
 	"cogentcore.org/core/core"
+	"cogentcore.org/core/htmlcore"
+	"cogentcore.org/core/styles"
 	"cogentcore.org/core/text/csl"
 	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
@@ -55,4 +57,20 @@ func main() {
 	AddSims(ctx)
 
 	b.RunMainWindow()
+}
+
+func AddSims(ctx *htmlcore.Context) {
+	for nm, em := range sims {
+		snm := "sim-" + nm
+		ctx.ElementHandlers[snm] = func(ctx *htmlcore.Context) bool {
+			fr := core.NewFrame(ctx.BlockParent)
+			fr.SetName(snm)
+			fr.Styler(func(s *styles.Style) {
+				s.Direction = styles.Column
+				s.Grow.Set(1, 1)
+			})
+			em(fr)
+			return true
+		}
+	}
 }

@@ -7,9 +7,6 @@
 package main
 
 import (
-	"cogentcore.org/core/core"
-	"cogentcore.org/core/htmlcore"
-	"cogentcore.org/core/styles"
 	"cogentcore.org/core/tree"
 	"github.com/compcogneuro/web/sims/stability"
 	"github.com/compcogneuro/web/sims/urakubo"
@@ -34,21 +31,5 @@ func init() {
 		"neuron":    e[neuron.Sim, neuron.Config],
 		"stability": e[stability.Sim, stability.Config],
 		"urakubo":   e[urakubo.Sim, urakubo.Config],
-	}
-}
-
-func AddSims(ctx *htmlcore.Context) {
-	for nm, em := range sims {
-		snm := "sim-" + nm
-		ctx.ElementHandlers[snm] = func(ctx *htmlcore.Context) bool {
-			fr := core.NewFrame(ctx.BlockParent)
-			fr.SetName(snm)
-			fr.Styler(func(s *styles.Style) {
-				s.Direction = styles.Column
-				s.Grow.Set(1, 1)
-			})
-			em(fr)
-			return true
-		}
 	}
 }
