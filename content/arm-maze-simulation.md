@@ -3,11 +3,6 @@ Categories = ["Rubicon", "Simulations"]
 bibfile = "ccnlab.json"
 +++
 
-{id="sim_inhib" collapsed="true"}
-```Goal
-// see https://github.com/emer/axon/tree/main/sims/armmaze for source code
-armmaze.EmbedSim(b)
-```
 
 <div>
 
