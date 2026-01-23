@@ -10,6 +10,7 @@ import (
 	"cogentcore.org/core/content"
 	"cogentcore.org/core/core"
 	"cogentcore.org/core/htmlcore"
+	"cogentcore.org/core/icons"
 	"cogentcore.org/core/styles"
 	"cogentcore.org/core/text/csl"
 	_ "cogentcore.org/core/text/tex" // include this to get math
@@ -51,6 +52,10 @@ func main() {
 		core.NewToolbar(bar).Maker(func(p *tree.Plan) {
 			ct.MakeToolbar(p)
 			ct.MakeToolbarPDF(p)
+			tree.Add(p, func(w *core.Button) {
+				ctx.LinkButton(w, "https://github.com/compcogneuro/web")
+				w.SetText("GitHub").SetIcon(icons.GitHub)
+			})
 		})
 	})
 
