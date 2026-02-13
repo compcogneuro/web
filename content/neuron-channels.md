@@ -106,7 +106,7 @@ As with all channels, this conductance then drives a corresponding current as a 
 
 {id="eq_ampa_i" title="AMPA current"}
 $$
-I_{ampa} = g_{ampa} \left(E_{ampa} - Vm\right)
+I_{ampa} = g_{ampa} \left(E_{ampa} - V_m\right)
 $$
 
 ## GABA-A
