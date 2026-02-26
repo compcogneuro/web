@@ -22,4 +22,18 @@ Furthermore, our ability to navigate through large spaces depends critically on 
 
 <!--- TODO: more about these! -->
 
+## Vestibular transduction
+
+{id="figure_transduction" style="height:25em"}
+![The vestibular organ that transduces rotational and linear motion signals into neural firing signals. The semicircular canals are sensitive to rotational motion on 3 different axes, while the otolith organs are sensitive to linear motion. Figure from BruceBlaus on Wikimedia Commons (CC-SA-4.0).](media/fig_vestibular_transduction.png)
+
+The transduction of head movements into neural firing signals occurs via the vestibular organ ([[#figure_transduction]]), where the **semicircular canals** are sensitive to rotational motion in 3 different axes, while the **otolith** organs are sensitive to linear accelerations (_utricle_ for horizontal and _saccule_ for vertical).
+
+## Vestibular nuclei (VNC)
+
+The vestibular nuclei in the VNC can be subdivided into the descending, lateral, medial and superior nuclei (DVN, LVN, MVN, SVN), along with the parasolitary nucleus (Psol), which differ more in their projection targets than in their afferent inputs from primary vestibular signals ([[@Barmack23]]). These primary afferent inputs are exclusively _ipsilateral_ (e.g., left ear to left hemisphere), but the output pathways from the nucleus neurons can project ipsilaterally or contralaterally.
+
+There is extensive cross-hemisphere connectivity between the different nuclei, which in general establishes an [[opponent process]] relationship between these neurons: any excitation of one side will lead to a proportional inhibition on the other side. This is specific to neurons that process horizontally-oriented signals (semicircular canals and utricle otoliths).
+
+In addition to primary vestibular inputs, these VNC neurons receive visual motion signals from the accessory optic system (AOS) and neck proprioceptive signals. 
 

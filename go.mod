@@ -3,9 +3,9 @@ module github.com/compcogneuro/web
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.18
+	cogentcore.org/core v0.3.20
 	cogentcore.org/lab v0.1.5
-	github.com/emer/axon/v2 v2.0.0-dev0.2.90.0.20260212081111-6fbda48e179e
+	github.com/emer/axon/v2 v2.0.0-dev0.2.92
 	github.com/emer/emergent/v2 v2.0.0-dev0.1.8.0.20260212080745-e269cbd2efb0
 )
 

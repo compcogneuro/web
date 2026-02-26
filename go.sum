@@ -1,7 +1,7 @@
 codeberg.org/go-pdf/fpdf v0.11.0 h1:n3I8WISQ1cr0S2rvx9DOlE/GypbcimMWqLpel3slHmY=
 codeberg.org/go-pdf/fpdf v0.11.0/go.mod h1:Y0DGRAdZ0OmnZPvjbMp/1bYxmIPxm0ws4tfoPOc4LjU=
-cogentcore.org/core v0.3.18 h1:xJXwUfrIg7bX9BJe3DEbOjn2a3TkIhFOvjeIzY3L0GU=
-cogentcore.org/core v0.3.18/go.mod h1:IQBEleZr+h6O/UjnymY875ve9kY0yokLK8YJ/JUPPBg=
+cogentcore.org/core v0.3.20 h1:Eyr4nrbYjteBjV1b863oPGA7zniqzSfYrVk34+IeU1g=
+cogentcore.org/core v0.3.20/go.mod h1:IQBEleZr+h6O/UjnymY875ve9kY0yokLK8YJ/JUPPBg=
 cogentcore.org/lab v0.1.5 h1:aOkT7/4bVQtl8XjDBmSqMe/mzVOY10k/Ob4UJK78u1A=
 cogentcore.org/lab v0.1.5/go.mod h1:hzgSHiKVTcuZ1WbFlIKw47pWaP23ec6ocrbdRXpWRDs=
 git.sr.ht/~sbinet/cmpimg v0.1.0 h1:E0zPRk2muWuCqSKSVZIWsgtU9pjsw3eKHi8VmQeScxo=
@@ -40,8 +40,8 @@ github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZQ=
 github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
-github.com/emer/axon/v2 v2.0.0-dev0.2.90.0.20260212081111-6fbda48e179e h1:D8jhA0SlUsUPDDeK87qsrj/TtuxrOniiMnCY5cqilrM=
-github.com/emer/axon/v2 v2.0.0-dev0.2.90.0.20260212081111-6fbda48e179e/go.mod h1:CGQ+bbl/CxDyUsA0/eQoVmEyDSf6/78vrZXfLReWJeE=
+github.com/emer/axon/v2 v2.0.0-dev0.2.92 h1:u2IUDyuFHK0GP4Vau8FOinb/eOzVjADeHD5k/0b0ihw=
+github.com/emer/axon/v2 v2.0.0-dev0.2.92/go.mod h1:x8RbKUIuYoXIq3ls79r6JgTMJ7xNOY3SUReUFm1Eda0=
 github.com/emer/emergent/v2 v2.0.0-dev0.1.8.0.20260212080745-e269cbd2efb0 h1:iVqvWjTq1kT/i4Lrp0Djez92x3vnDCmdRhtVSBEXVYc=
 github.com/emer/emergent/v2 v2.0.0-dev0.1.8.0.20260212080745-e269cbd2efb0/go.mod h1:JjVrk0gaYFVdw+NPWUQ1XazyBGwaCTKG951ovAtlaSY=
 github.com/ericchiang/css v1.4.0 h1:OlkWiPGHZpWIthKa2YBSAh00XwOT1PUtaoye9bKkTqw=
