@@ -33,7 +33,9 @@ The transduction of head movements into neural firing signals occurs via the ves
 
 The vestibular nuclei in the VNC can be subdivided into the descending, lateral, medial and superior nuclei (DVN, LVN, MVN, SVN), along with the parasolitary nucleus (Psol), which differ more in their projection targets than in their afferent inputs from primary vestibular signals ([[@Barmack23]]). These primary afferent inputs are exclusively _ipsilateral_ (e.g., left ear to left hemisphere), but the output pathways from the nucleus neurons can project ipsilaterally or contralaterally.
 
-There is extensive cross-hemisphere connectivity between the different nuclei, which in general establishes an [[opponent process]] relationship between these neurons: any excitation of one side will lead to a proportional inhibition on the other side. This is specific to neurons that process horizontally-oriented signals (semicircular canals and utricle otoliths).
+There is extensive cross-hemisphere connectivity between the different nuclei, which in general establishes an [[opponent]] relationship between these neurons: any excitation of one side will lead to a proportional inhibition on the other side. This is specific to neurons that process horizontally-oriented signals (semicircular canals and utricle otoliths).
 
 In addition to primary vestibular inputs, these VNC neurons receive visual motion signals from the accessory optic system (AOS) and neck proprioceptive signals. 
+
+The different subnuclei within the VNC are not strongly functionally organized, with neurons in multiple different subnuclei projecting to the various target areas, including the cerebellar vermis and paraflocculus, extraocular muscles for eye control (e.g., for the [[cerebellum#vestibulo-ocular reflex]]), various areas within the MDJ (e.g., nucleus interstitialis of Cajal, subparafasicular complex, nucleus of Darkschewitsch), and the [[thalamus]] (VP).
 
