@@ -9,7 +9,7 @@ bibfile = "ccnlab.json"
 
 * _Planning_ is search through _action space_ to accomplish a desired outcome, which is the focus of many approaches in [[reinforcement learning#model-based]] reinforcement learning.
 
-* _Learning_ is search through _representation space_, to find the best [[linear algebra|basis]] for representing inputs, that supports the desired computational processes and behavioral outputs.
+* _Learning_ is search through _representation space_, to find the best [[linear algebra#basis space]] for representing inputs, that supports the desired computational processes and behavioral outputs.
 
 * _Inference_ is search through learned representations to find the best _interpretation_ of a given input stimulus relative to the stable semantics of the environment.
 

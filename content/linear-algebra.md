@@ -35,7 +35,11 @@ The dot product operation (also known as the _inner product_ or _scalar product_
 
 [[#figure_face-dim-prjn]] illustrates this projection operation in the context of the [[faces simulation]], as discussed in [[categorization]]. This projection operation organizes and systematizes the inputs along dimensions of behavioral importance, for example projecting a face input along dimensions of emotion and gender in the case shown in the figure, which you can explore in the [[faces simulation]].
 
-Another linear algebra framing of this operation is in terms of the synaptic weight matrix being composed of **basis vectors**, where each row of the matrix defines a different _basis_ or _axis_ of a new, _rotated_ version of the space defined by the the input activity vector. Thus, the hidden layer neurons are creating a _transformation_ of the input space into this new rotated space, which amplifies certain things while filtering out others. 
+## Basis space
+
+Another linear algebra framing of this operation is in terms of the synaptic weight matrix being composed of **basis vectors**, where each row of the matrix defines a different _basis_ or _axis_ of a new, _rotated_ version of the **space** defined by the the input activity vector. Thus, the hidden layer neurons are creating a _transformation_ of the input space into this new rotated space, which amplifies certain things while filtering out others.
+
+Furthermore, this basis space can help with the [[curse of dimensionality]] by using fewer basis vectors to capture most of the important dimensions of variance, relative to the high dimensionality of the original space. For example, original dimensions that are largely redundant (e.g., the shapes of the eyes and the mouth used in expressing different emotions) can be combined together into one basis vector.
 
 ## Eigenvectors and singular value decomposition
 
