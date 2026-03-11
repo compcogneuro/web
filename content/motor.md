@@ -5,8 +5,6 @@ bibfile = "ccnlab.json"
 
 The **motor** system in the brain involves many different areas, and in many ways, the entire brain exists in service of producing motor output. For example, Daniel Wolpert has made the point that the sea squirt eats its own brain once it no longer needs to move around. More specific discussion of various aspects of motor control can be found in [[reinforcement learning]], [[basal ganglia]], [[cerebellum]], and the [[Rubicon]] framework. This page provides a high-level overview of the challenges and solutions for motor control, and some details about the underlying physiology of muscles and how the spinal cord and brainstem provide a systematic basis for motor control.
 
-<!--- For a more detailed treatment from experts in this area, see [[@^ArberCosta22]]. -->
-
 ## Dimensionality reduction, coordination, and muscle synergies
 
 As in all aspects of neural function, the central problem in motor control is managing the [[curse of dimensionality]]: there are exponentially many possible combinations of muscle activations over time. How does the brain reduce this huge space down to the relatively small subset of muscle activations necessary for an animal's survival?
@@ -15,7 +13,7 @@ This is another instance of the fundamental [[search]] problem, and in the case 
 
 Another critical problem that is solved by these muscle synergies is the **coordination** across many different muscles that is required to accomplish any given motor action. The contraction of any given muscle creates a variety of physical consequences for other muscles, including altering the basic center of gravity of the entire organism. Thus, any given action must take all of these consequences into account, and ensure that all of the individual muscle contractions are indeed synergistic, and not working at cross purposes.
 
-A variety of different terms have been used in the literature to refer to these synergies, including **reflexes** ([[@Sherrington10]]), **central pattern generators** ([[@GrillnerElManira20]]; [[@GrillnerZangger79]]), and _force fields_ ([[@GiszterMussa-IvaldiBizzi93]]).
+A variety of different terms have been used in the literature to refer to these synergies, including **reflexes** ([[@Sherrington10]]), **central pattern generators** (CPGs, [[@GrillnerElManira20]]; [[@GrillnerZangger79]]), and _force fields_ ([[@GiszterMussa-IvaldiBizzi93]]). There are somewhat different connotations of these terms, especially for the CPGs, which apply for example to the complex circuits that drive locomotor behavior, involving sustained, rhythmic, patterned behavior that can extend over long periods of time.
 
 {id="figure_synergies" style="height:30em"}
 ![Three muscle synergies extracted from frog kicking behavior. a) Activation of different muscles (vertical axis) over time (horizontal axis), accomplishing given overall motor action (moment arms, aligned by corresponding column order of the synergies): _HE_ hip extension; _HF_ hip flexion; _KE_ knee extension; _KF_ knee flexion; _AE_ ankle extension; _AF_ ankle flexion. b) Activation strengths over time for each synergy component ($C_{1-3}$) needed to reconstruct 6 different overall motor actions. These patterns differ primarily in magnitude, not temporal pattern. From d'Avella et al., 2003](media/fig_muscle_synergies_davella_etal_03.png)
@@ -26,26 +24,79 @@ Thus, the final motor behavior pattern depends on the integrated contributions o
 
 ## Feedback control across levels
 
-The other critical element of dimensionality reduction in the motor system arises from the interactions with the environment, which is also highly variable and thus represents a major additional source of variance and combinatorial explosion. There is considerable evidence that the muscle synergies implemented by spinal cord interneurons incorporate direct feedback control mechanisms, that automatically compensate for environmental perturbations ([[@WimalasenaPandarinathAuYong25]]; [[@ConwayHultbornKiehn87]]; [[@AngelGuertinJimenezEtAl96]]; [[@AlvarezFyffe07]]). 
+The other critical element of dimensionality reduction in the motor system arises from the interactions with the environment, which is also highly variable and thus represents a major additional source of variance and combinatorial explosion. There is considerable evidence that the muscle synergies implemented by spinal cord interneurons incorporate direct feedback control mechanisms, that automatically compensate for environmental perturbations ([[@WimalasenaPandarinathAuYong25]]; [[@ShinoharaAmbeKimEtAl25]]; [[@ConwayHultbornKiehn87]]; [[@AngelGuertinJimenezEtAl96]]; [[@AlvarezFyffe07]]). 
 
-Unfortunately, the ability to understand these feedback control mechanisms has been impaired by the difficulty in categorizing and mapping the connectivity of the spinal interneurons ([[@SenguptaBagnall23]]). Thus, extant circuit-based models tend to exclude such mechanisms ([[@RybakDoughertyShevtsova15]]; [[@McCreaRybak08]]). Nevertheless, more abstract state-space analyses of large populations of spinal interneurons have the potential to reveal the presence and dynamical implications of these feedback control mechanisms ([[@WimalasenaPandarinathAuYong25]]).
+Unfortunately, the ability to understand these feedback control mechanisms has been impaired by the difficulty in categorizing and mapping the connectivity of the spinal interneurons ([[@SenguptaBagnall23]]). Furthermore, extant circuit-based models only relatively recently began to include such mechanisms ([[@ShinoharaAmbeKimEtAl25]]; [[@DannerShevtsovaFrigonEtAl17]]). Nevertheless, more abstract state-space analyses of large populations of spinal interneurons have the potential to reveal the presence and dynamical implications of these feedback control mechanisms ([[@WimalasenaPandarinathAuYong25]]).
 
-The rather underdeveloped understanding of feedback control in motor systems contrasts with the theoretical clarity of the mathematically-based hierarchical control known as **perceptual control theory (PCT)** ([[@Powers73]]; [[@Powers73a]]; [[@Cools85]]; [[@Yin14a]]; [[@BarterYin21]]). This framework is consistent with the principle of **equilibrium-point** motor control, which postulates that motor control signals specify a target length for each muscle, rather than dynamical variables such as force ([[@FeldmanLevin09]]; [[@GribbleOstrySanguinetiEtAl98]]).
+The rather underdeveloped understanding of feedback control in motor systems contrasts with the theoretical clarity of the mathematically-based hierarchical control known as **perceptual control theory (PCT)** ([[@Powers73]]; [[@Powers73a]]; [[@Cools85]]; [[@Yin14a]]; [[@BarterYin21]]). A central premise of this framework is that motor control takes place in perceptual (i.e., largely visual) space, not in some kind of direct motor coordinate space (e.g., joint angles, etc).
 
-While the simplest form of the equilibrium-point hypothesis is likely incorrect, the available evidence strongly suggests that muscle synergies incorporate their own internal feedback control dynamics that make them intrinsically robust, and adaptive, in the face of environmental perturbations.
+Demonstrations of this point involve the complete lack of awareness that people have about the actual motor actions they are performing when the motor system is perturbed. Given the presence of motor synergies at the spinal level, it is already the case that motor control is divorced from individual muscle or joint-based signals. We return to this point in considering the contributions of the neocortex, below.
 
-## Frontal cortex learning via subcortical efferent copy signals
+The PCT framework is consistent with the principle of **equilibrium-point** motor control, which postulates that motor control signals specify a _target length_ for each muscle, rather than dynamical variables such as force ([[@Feldman86]]; [[@FeldmanLevin09]]; [[@GribbleOstrySanguinetiEtAl98]]).
 
-Unlike most of the rest of the brain, the [[neocortex]] is thought to gain almost all of its functionality through learning taking place during an animal's lifetime. This poses an important challenge for the motor system: how can the motor cortical areas learn to "speak the language" of the spinal cord, to provide meaningful motor control signals?
+One of the compelling advantages of the equilibrium-point model is that it provides a unified framework for understanding the relationship between **posture** (sitting, standing, etc) and active motor actions. Posture in this context is just a fixed configuration of muscle lengths and joint angles, and action is just the updating of these postural parameters: once the target length is changed, automatic feedback muscle forces would be engaged to transition the system to the new target length.
 
-Our hypothesis is that the same mechanisms used in [[predictive learning]] of sensory and other representations in the cortex, supported by the pulvinar and MD nuclei in the [[thalamus]], could also be at work on the motor side in frontal cortex areas. As reviewed in the thalamus page, the VL (ventrolateral) nucleus receives strong focal driver inputs from the deep cerebellar nuclei (DCN), which in turn receives extensive ascending projections from the spinal motor pathways.
+Maintaining a given posture requires active, ongoing muscle activation. According to the equilibrium-point model, instead of descending control systems having to maintain corresponding active control inputs, it would make more sense for such systems to establish a desired postural configuration, and allow spinal-level circuits driven by relevant feedback mechanisms to maintain this target configuration.
 
-There are natural delays between the time when the frontal cortex drives a descending motor command and the time when the efferent copy signals from these ascending pathways reflect the actual low-level motor commands that were actually generated (with significant contributions and shaping by a number of subcortical areas including the BG, cerebellum, and midbrain & brainstem lower motor areas). This delay provides the [[temporal derivative]] dynamics needed to drive predictive learning, where the motor cortex is effectively learning to predict what the motor system will do in response to the commands it sends down.
+However, once we appreciate that the muscle synergies present in the spinal cord actually do incorporate sensory feedback mechanisms, then the boundaries between this framework and the equilibrium-point model start to dissolve. Indeed, it appears that multiple different postural control "reflexes" (synergies) are present in the spinal cord, which are responsive to proprioceptive feedback signals ([[@DeliaginaZeleninBeloozerovaEtAl07]]).
 
-{id="figure_big-loop" style="height:30em"}
-![The "big loop" of motor processing, which could support a form of predictive learning to train frontal cortex. The thalamus (VL = ventrolateral specifically) receives strong driver inputs from the DCN, and standard non-driver inputs from motor cortex. The difference over time between these two inputs can drive the temporal derivative error-driven learning mechanism. From Arber & Costa, 2022](media/fig_motor_big_loop_arber_costa_22.png)
+As for the potential conflict between maintaining a given posture and activating a given motor action, this can be seen as an instance of the broader challenge of selecting among all the possible muscle synergy factors to activate at a given point in time, with some of these synergies associated with maintaining postural stability, and others associated with activating phasic or ongoing motor actions (e.g., locomotion). 
 
-This hypothesis is consistent with the "big loop" of descending and ascending motor signals shown in [[#figure_big-loop]] from [[@ArberCosta22]].
+Presumably these synergies already have the ability to perform at least basic coordination across the potential conflicts between them, and higher-level control systems, especially perhaps the cerebellum, can learn to optimize these cases of possible conflict.
+
+In the remaining sections, we cover the basic properties of the skeletal motor system, starting with muscles and moving up the levels of control from there, from the spinal cord to the brainstem, cerebellum, basal ganglia, and neocortex.
+
+## Muscles
+
+{id="figure_muscle" style="height:20em"}
+![Muscles are organized in opponent pairs, where the contraction of the _extensor_ causes the extension of the limb (e.g., the triceps), while the contraction of the _flexor_ causes the flexion (compaction) of the limb.](media/fig_muscle_extension_flexion.png)
+
+Skeletal muscles are organized into [[opponent]] pairs ([[#figure_muscle]]), with the contraction of the **extensor** extending the limb outward (_extension_), while the contraction of the **flexor** contracts the limb inward (_flexion_).
+
+Muscles only exert force through contraction, which is driven by the release of [[acetylcholine]] from motor neurons, causing _actin_ and _myosin_ fibers to contract. Thus, to actually move a limb, the opponent muscles on each side must be coordinated so that one side contracts and the other side relaxes (which occurs naturally if the muscle is not activated). Furthermore, each overall muscle (e.g., the bicep) is composed of individual **motor units** that vary in size, each of which has its own motor neuron.
+
+These different motor units are generally activated according to the _size principle_ ([[@Henneman85]]), where the descending motor control signals first recruit small units, which exert less force, followed by increasingly larger units as the firing rate and number of afferent inputs activated increases ([[@LucaErim94]]). This is because smaller units have a lower threshold, and they also fire at higher rates than larger units. This size principle also optimizes fatigue effects.
+
+The size principle enables a single _common-drive_ unidimensional command input to project to all motor units for a given overall muscle, such that this one input can naturally drive increasing contraction force with increasing neural activity. This is another way in which the motor system reduces the effective dimensionality of the control problem.
+
+## Spinal cord
+
+{id="figure_spinal-pathways" style="height:40em"}
+![Major pathways in the spinal cord. The ascending sensory pathways originate from neurons in the dorsal horn grey matter (spindle fiber muscle length and golgi tendon stretch proprioception, touch, pain), while the ventral horn contains motor neurons that receive descending motor inputs, and also send ascending efferent copy signals. The intermediate grey matter contains viceral sensory and motor neurons, and throughout there are interneurons that are actually the primary targets of most of the descending control inputs. Adapted from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg)](media/fig_spinal_cord_pathways.png)
+
+{id="figure_spinal-interneurons" style="height:45em"}
+![Identified categories of spinal interneurons. From Bikoff, 2019](media/fig_spinal_cord_interneurons.png)
+
+The spinal cord is far from a passive motor output system, as discussed above with respect to the _muscle synergies_ that are implemented at the lowest level directly by the extensive neural networks of the spinal cord. These neural networks involve primary sensory and motor neurons and many different subtypes of interneurons with different patterns of connectivity and neurotransmitters ([[#figure_spinal-interneurons]] from [[@Bikoff19]] (see also [[@SenguptaBagnall23]]). 
+
+The inputs and outputs of this system are organized into different tracts of long-range axonal fibers as shown in [[#figure_spinal-pathways]] (see also [[@TanFaullCurtis23]]; [[@WatsonKayalioglu09]]), with the **dorsal horn** grey matter having the cell bodies of sensory neurons that respond to a range of somatic inputs, which are conveyed through the ascending pathways up into many areas of the brain, including finally the thalamus and somatosensory [[neocortex]]. These somatosensory signals include:
+
+* Touch, vibration, pressure, and tension signals from _mechanoreceptors_ in the skin and subcutaneous areas.
+* Pain and temperature from _nociception_ receptors.
+* Proprioception signals via _muscle spindle_ fibers that respond to changes in the length of a muscle (via type Ia sensory neurons) and overall muscle length (type II neurons), and _Golgi tendon receptors_ that respond to the stretch or load on a limb (type Ib neurons).
+
+The **ventral horn** grey matter contains primary motor neurons that directly drive contraction of muscles, while the **intermediate** grey matter area (at certain levels of the spinal cord) contains sensory and motor viceral neurons.
+
+The extensive networks of interneurons directly receive descending motor command inputs and local (and more distal) sensory inputs, to implement the muscle synergies that produce the low-dimensional vocabulary of motor actions. The direct incorporation of the sensory signals (especially the muscle spindle length signals) allows these muscle synergy components to be robust and adaptive, simplifying the job of the descending motor control inputs.
+
+Whereas these interneurons were previously categorized into a few specific classes ([[@Hultborn06]]), a more modern strategy based on developmental neuron birth order and genetic labeling has allowed a more reliable understanding of the complex nature of these spinal networks, as shown in [[#figure_spinal-interneurons]] ([[@Bikoff19]]; [[@SenguptaBagnall23]]). Critically, sensory inputs project to multiple different such interneurons, and each interneuron can receive multiple different types of inputs, so unlike the historical accounts, everything is much more complex and difficult to categorize ([[@Jankowska22]]). 
+
+{id="figure_spinal-cpg" style="height:45em"}
+![Detailed circuit-based model of spinal central pattern generator (CPG) circuitry that can accurately simulate many aspects of hind-limb locomotion in the spinal cat. From Shinohara et al., 2025](media/fig_spinal_cord_cpg_shinohara_etal_25.png)
+
+A recent example of the sophistication and complexity of these spinal circuits is shown in [[#figure_spinal-cpg]] from [[@^ShinoharaAmbeKimEtAl25]] (see [[@DannerShevtsovaFrigonEtAl17]] for a review of related models), which can simulate many aspects of hindlimb locomotion behavior, including when the foot lands in a "hole" where there is no support. This robust adaptive behavior results from the direct incorporation of proprioceptive length and velocity signals from muscle spindle fibers, along with cutaneous touch inputs, into the overall circuit. The connectivity was optimized to minimize overall energy consumption and to adapt to uneven surfaces, and then automatically generalized from there to this lack-of-support situation. 
+
+Critically, these robust adaptive behaviors require bilateral coordination across hemispheres, because if one foot goes unsupported, the load must be taken up by the other foot, until a secure footing is obtained. This model can predict detailed patterns of movement and neural firing signals in corresponding experimental preparations, providing strongly validated understanding of how these circuits function.
+
+Interestingly, these circuits also have the property that they modulate the speed of locomotion as a function of the firing rate of descending input control signals, making the job of the higher brain areas much simpler compared to the prospect of having to learn how to perform all of this complex coordinated motor behavior.
+
+A more abstract analytic approach to understanding these CPG dynamics used state-space methods to characterize the dynamics across the entire population of spinal interneurons involved in locomotion ([[@WimalasenaPandarinathAuYong25]]). This approach forgoes the ability to account for the detailed behavior of individual identified interneurons, but allows the full population dynamics to be incorporated.
+
+### Primates and humans have more control
+
+There is considerable evidence that primates, and especially humans, have a much greater ability to directly control individual muscles, beyond what is exposed by the muscle synergies and CPG circuits implemented by the spinal cord and brainstem networks ([[@GrillnerElManira20]]; [[@Grillner81]]). For example, [[@^MarshallGlaserTrautmannEtAl22]] showed evidence of more flexible recruitment of motor units that goes beyond the rigid constraints of the size principle as discussed above. There are also a larger number of secondary motor areas in primates that have more focal, specialized projections to specific limbs ([[@StrickDumRathelot21]]).
+
+Interestingly, despite the idea that the extra degrees of freedom associated with this increased level of fine-grained control, there is a reliable relationship between brain size and age of first locomotion that humans and other primates still obey ([[@GarwiczChristenssonPsouni09]]).
 
 ## Hierarchical cascades of predictive controllers
 
@@ -59,16 +110,34 @@ Key Powers et al point: you can do all of motor control in sensory space!
 
 What does cerebellum need to handle this?
 
-## Descending muscle control signals
+## Midbrain (diencephalic) motor control
 
-_Size principle_ [[@Henneman85]]; [[@LucaErim94]]: orderly activation of small to large according to total force as signalled by increasingly "strong" descending activity -- otherwise too high-dimensional. Smaller units have lower threshold, and fire at higher rates than larger units. This also optimizes fatigue effects. The size principle entails the _common-drive_ hypothesis, which is that a single unidimensional  descending control signal projects to all motor units for a given overall muscle, with the specific units activated according to the strength of the drive signal.
+## Cerebellum
 
-This characterizes general story, but in primates, there is more flexible control [[@MarshallGlaserTrautmannEtAl22]], associated also with a larger number of secondary motor areas in primates that have more focal, specialized projections to specific limbs etc [[@StrickDumRathelot21]].
+## Basal ganglia 
+
+## Frontal cortex
+
+### learning via subcortical efferent copy signals
+
+Unlike most of the rest of the brain, the [[neocortex]] is thought to gain almost all of its functionality through learning taking place during an animal's lifetime. This poses an important challenge for the motor system: how can the motor cortical areas learn to "speak the language" of the spinal cord, to provide meaningful motor control signals?
+
+Our hypothesis is that the same mechanisms used in [[predictive learning]] of sensory and other representations in the cortex, supported by the pulvinar and MD nuclei in the [[thalamus]], could also be at work on the motor side in frontal cortex areas. As reviewed in the thalamus page, the VL (ventrolateral) nucleus receives strong focal driver inputs from the deep cerebellar nuclei (DCN), which in turn receives extensive ascending projections from the spinal motor pathways.
+
+There are natural delays between the time when the frontal cortex drives a descending motor command and the time when the efferent copy signals from these ascending pathways reflect the actual low-level motor commands that were actually generated (with significant contributions and shaping by a number of subcortical areas including the BG, cerebellum, and midbrain & brainstem lower motor areas). This delay provides the [[temporal derivative]] dynamics needed to drive predictive learning, where the motor cortex is effectively learning to predict what the motor system will do in response to the commands it sends down.
+
+{id="figure_big-loop" style="height:30em"}
+![The "big loop" of motor processing, which could support a form of predictive learning to train frontal cortex. The thalamus (VL = ventrolateral specifically) receives strong driver inputs from the DCN, and standard non-driver inputs from motor cortex. The difference over time between these two inputs can drive the temporal derivative error-driven learning mechanism. From Arber & Costa, 2022](media/fig_motor_big_loop_arber_costa_22.png)
+
+This hypothesis is consistent with the "big loop" of descending and ascending motor signals shown in [[#figure_big-loop]] from [[@ArberCosta22]].
+
+### Motor cortex coding
 
 Population coding of cortical neurons: [[@AflaloGraziano06a]] show that final hand posture accounts for most of the variance, but other factors such as speed, curvature of space, distance and force were also coded. This postural aspect, otherwise known as a _spatial synergy_ ([[@OverduindAvellaRohEtAl15]]), provides a simple model of muscle control where, regardless of the starting muscle configuration, the control signal specifies a _final configuration_ (i.e., pattern of total contraction) across all of the relevant muscles.
 
-Where more complex sequences of motor actions are required, a temporal sequence of postural configurations is specified -- a sequence of "poses" -- otherwise known as a _spatiotemporal synergy ([[@OverduindAvellaRohEtAl15]])
+Where more complex sequences of motor actions are required, a temporal sequence of postural configurations is specified -- a sequence of "poses" -- otherwise known as a _spatiotemporal synergy_ ([[@OverduindAvellaRohEtAl15]])
 
 [[@^MeyerSmithWright82]] synthesize psychophysical literature on speed and accuracy of motor movements, to develop a symmetric impulse control model that specifies the force and duration parameters as curves with an initial acceleration phase for the first half, followed by a symmetric deceleration phase in the second half. Both the force and time parameters of these curves can be controlled by people. There is evidence that ballistic movements are made below around 260 ms, with multiple iterations of visually-corrected movement updates happening after that, time permitting. See also [[@MeyerSmithKornblumEtAl90]].
+
 
 

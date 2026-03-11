@@ -154,6 +154,8 @@
 
 <p id="BienenstockCooperMunro82">Bienenstock, E.L., Cooper, L.N., & Munro, P.W. (1982). Theory for the development of neuron selectivity: Orientation specificity and binocular interaction in visual cortex. <i>The Journal of Neuroscience, 2</i>, 32–48. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7054394">http://www.ncbi.nlm.nih.gov/pubmed/7054394</a></p>
 
+<p id="Bikoff19">Bikoff, J.B. (2019). Interneuron diversity and function in the spinal motor system. <i>Current Opinion in Physiology, 8</i>, 36–43. <a href="https://www.sciencedirect.com/science/article/pii/S2468867318301676">https://www.sciencedirect.com/science/article/pii/S2468867318301676</a><a href="http://doi.org/10.1016/j.cophys.2018.12.013"> http://doi.org/10.1016/j.cophys.2018.12.013</a></p>
+
 <p id="BiPoo98">Bi, G., & Poo, M. (1998). Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type. <i>The Journal of Neuroscience, 18</i>, 10464–10472. <a href="http://www.jneurosci.org/content/18/24/10464">http://www.jneurosci.org/content/18/24/10464</a></p>
 
 <p id="BiswasLuoSarpongEtAl19">Biswas, M.S., Luo, Y., Sarpong, G.A., & Sugihara, I. (2019). Divergent projections of single pontocerebellar axons to multiple cerebellar lobules in the mouse. <i>Journal of Comparative Neurology, 527</i>, 1966–1985. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24662">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24662</a><a href="http://doi.org/10.1002/cne.24662"> http://doi.org/10.1002/cne.24662</a></p>
@@ -324,6 +326,8 @@
 
 <p id="DacreColliganClarkeEtAl21">Dacre, J., Colligan, M., Clarke, T., Ammer, J.J., Schiemann, J., Chamosa-Pino, V., Claudi, F., Harston, J.A., Eleftheriou, C., Pakan, J.M.P., Huang, C., Hantman, A.W., Rochefort, N.L., & Duguid, I. (2021). A cerebellar-thalamocortical pathway drives behavioral context-dependent movement initiation. <i>Neuron, 109</i>, 2326-2338.e8. <a href="https://www.sciencedirect.com/science/article/pii/S0896627321003561">https://www.sciencedirect.com/science/article/pii/S0896627321003561</a><a href="http://doi.org/10.1016/j.neuron.2021.05.016"> http://doi.org/10.1016/j.neuron.2021.05.016</a></p>
 
+<p id="DannerShevtsovaFrigonEtAl17">Danner, S.M., Shevtsova, N.A., Frigon, A., & Rybak, I.A. (2017). Computational modeling of spinal circuits controlling limb coordination and gaits in quadrupeds. <i>eLife, 6</i>, e31050. <a href="https://doi.org/10.7554/eLife.31050">https://doi.org/10.7554/eLife.31050</a><a href="http://doi.org/10.7554/eLife.31050"> http://doi.org/10.7554/eLife.31050</a></p>
+
 <p id="dAvellaSaltielBizzi03">Avella, A., Saltiel, P., & Bizzi, E. (2003). Combinations of muscle synergies in the construction of a natural motor behavior. <i>Nature Neuroscience, 6</i>, 300–308. <a href="https://www.nature.com/articles/nn1010">https://www.nature.com/articles/nn1010</a><a href="http://doi.org/10.1038/nn1010"> http://doi.org/10.1038/nn1010</a></p>
 
 <p id="DawNivDayan05">Daw, N.D., Niv, Y., & Dayan, P. (2005). Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control. <i>Nature Neuroscience, 8</i>, 1704–1711. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16286932">http://www.ncbi.nlm.nih.gov/pubmed/16286932</a></p>
@@ -341,6 +345,8 @@
 <p id="DehaeneKerszbergChangeux98">Dehaene, S., Kerszberg, M., & Changeux, J.P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. <i>Proceedings of the National Academy of Sciences of the United States of America, 95</i>, 14529. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9826734">http://www.ncbi.nlm.nih.gov/pubmed/9826734</a></p>
 
 <p id="DehaeneLauKouider17">Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? <i>Science, 358</i>, 486–492. <a href="https://www.science.org/doi/abs/10.1126/science.aan8871">https://www.science.org/doi/abs/10.1126/science.aan8871</a><a href="http://doi.org/10.1126/science.aan8871"> http://doi.org/10.1126/science.aan8871</a></p>
+
+<p id="DeliaginaZeleninBeloozerovaEtAl07">Deliagina, T.G., Zelenin, P.V., Beloozerova, I.N., & Orlovsky, G.N. (2007). Nervous mechanisms controlling body posture. <i>Physiology & Behavior, 92</i>, 148–154. <a href="https://www.sciencedirect.com/science/article/pii/S0031938407002107">https://www.sciencedirect.com/science/article/pii/S0031938407002107</a><a href="http://doi.org/10.1016/j.physbeh.2007.05.023"> http://doi.org/10.1016/j.physbeh.2007.05.023</a></p>
 
 <p id="DengDongSocherEtAl09">Deng, J., Dong, W., Socher, R., Li, L., Li, K., & Fei-Fei, L. (2009). <i>ImageNet: A large-scale hierarchical image database. </i>In 2009 IEEE Conference on Computer Vision and Pattern Recognition (pp. 248–255). <a href="https://ieeexplore.ieee.org/abstract/document/5206848">https://ieeexplore.ieee.org/abstract/document/5206848</a><a href="http://doi.org/10.1109/CVPR.2009.5206848"> http://doi.org/10.1109/CVPR.2009.5206848</a></p>
 
@@ -452,6 +458,8 @@
 
 <p id="Farah90">Farah, M.J. (1990). <i>Visual Agnosia. </i> MIT Press. </p>
 
+<p id="Feldman86">Feldman, A.G. (1986). Once More on the Equilibrium-Point Hypothesis (λ Model) for Motor Control. <i>Journal of Motor Behavior, 18</i>, 17–54. <a href="https://doi.org/10.1080/00222895.1986.10735369">https://doi.org/10.1080/00222895.1986.10735369</a><a href="http://doi.org/10.1080/00222895.1986.10735369"> http://doi.org/10.1080/00222895.1986.10735369</a></p>
+
 <p id="FeldmanLevin09">Feldman, A.G., & Levin, M.F. (2009). The Equilibrium-Point Hypothesis – Past, Present and Future. In D. Sternad (Ed.), <i>Progress in Motor Control: A Multidisciplinary Perspective</i> (pp. 699–726). Springer US. <a href="https://doi.org/10.1007/978-0-387-77064-2_38">https://doi.org/10.1007/978-0-387-77064-2_38</a><a href="http://doi.org/10.1007/978-0-387-77064-2_38"> http://doi.org/10.1007/978-0-387-77064-2_38</a></p>
 
 <p id="FengSteinhardt24">Feng, J., & Steinhardt, J. (2024). How do Language Models Bind Entities in Context? <a href="http://arxiv.org/abs/2310.17191">http://arxiv.org/abs/2310.17191</a><a href="http://doi.org/10.48550/arXiv.2310.17191"> http://doi.org/10.48550/arXiv.2310.17191</a></p>
@@ -515,6 +523,8 @@
 <p id="GaovanBeugenDeZeeuw12">Gao, Z., Beugen, B.J., & De Zeeuw, C.I. (2012). Distributed synergistic plasticity and cerebellar learning. <i>Nature Reviews Neuroscience, 13</i>, 619–635. <a href="https://www.nature.com/articles/nrn3312">https://www.nature.com/articles/nrn3312</a><a href="http://doi.org/10.1038/nrn3312"> http://doi.org/10.1038/nrn3312</a></p>
 
 <p id="GarciaSteeleMauk99">Garcia, K.S., Steele, P.M., & Mauk, M.D. (1999). Cerebellar Cortex Lesions Prevent Acquisition of Conditioned Eyelid Responses. <i>Journal of Neuroscience, 19</i>, 10940–10947. <a href="https://www.jneurosci.org/content/19/24/10940">https://www.jneurosci.org/content/19/24/10940</a><a href="http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999"> http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999</a></p>
+
+<p id="GarwiczChristenssonPsouni09">Garwicz, M., Christensson, M., & Psouni, E. (2009). A unifying model for timing of walking onset in humans and other mammals. <i>Proceedings of the National Academy of Sciences, 106</i>, 21889–21893. <a href="https://www.pnas.org/doi/full/10.1073/pnas.0905777106">https://www.pnas.org/doi/full/10.1073/pnas.0905777106</a><a href="http://doi.org/10.1073/pnas.0905777106"> http://doi.org/10.1073/pnas.0905777106</a></p>
 
 <p id="Gegenfurtner03">Gegenfurtner, K.R. (2003). Cortical mechanisms of colour vision. <i>Nature Reviews Neuroscience, 4</i>, 563–572. <a href="http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html">http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html</a><a href="http://doi.org/10.1038/nrn1138"> http://doi.org/10.1038/nrn1138</a></p>
 
@@ -581,6 +591,8 @@
 <p id="GribbleOstrySanguinetiEtAl98">Gribble, P.L., Ostry, D.J., Sanguineti, V., & Laboissière, R. (1998). Are complex control signals required for human arm movement? <i>Journal of neurophysiology, 79</i>, 1409–1424. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9497421">http://www.ncbi.nlm.nih.gov/pubmed/9497421</a></p>
 
 <p id="GrievesJeffery17">Grieves, R.M., & Jeffery, K.J. (2017). The representation of space in the brain. <i>Behavioural Processes, 135</i>, 113–131. <a href="http://doi.org/10.1016/j.beproc.2016.12.012"> http://doi.org/10.1016/j.beproc.2016.12.012</a></p>
+
+<p id="Grillner81">Grillner, S. (1981). Control of Locomotion in Bipeds, Tetrapods, and Fish. <i>Comprehensive Physiology, 1981</i>, 1179–1236. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2040-4603.1981.tb00864.x">https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2040-4603.1981.tb00864.x</a><a href="http://doi.org/10.1002/j.2040-4603.1981.tb00864.x"> http://doi.org/10.1002/j.2040-4603.1981.tb00864.x</a></p>
 
 <p id="GrillnerElManira20">Grillner, S., & El Manira, A. (2020). Current Principles of Motor Control, with Special Reference to Vertebrate Locomotion. <i>Physiological Reviews, 100</i>, 271–320. <a href="https://journals.physiology.org/doi/full/10.1152/physrev.00015.2019">https://journals.physiology.org/doi/full/10.1152/physrev.00015.2019</a><a href="http://doi.org/10.1152/physrev.00015.2019"> http://doi.org/10.1152/physrev.00015.2019</a></p>
 
@@ -728,6 +740,8 @@
 
 <p id="Hull43">Hull, C.L. (1943). <i>Principles of Behavior. </i> Appleton. </p>
 
+<p id="Hultborn06">Hultborn, H. (2006). Spinal reflexes, mechanisms and concepts: From Eccles to Lundberg and beyond. <i>Progress in Neurobiology, 78</i>, 215–232. <a href="https://www.sciencedirect.com/science/article/pii/S0301008206000335">https://www.sciencedirect.com/science/article/pii/S0301008206000335</a><a href="http://doi.org/10.1016/j.pneurobio.2006.04.001"> http://doi.org/10.1016/j.pneurobio.2006.04.001</a></p>
+
 <p id="HumphriesGurney21">Humphries, M.D., & Gurney, K. (2021). Making decisions in the dark basement of the brain: A look back at the GPR model of action selection and the basal ganglia. <i>Biological Cybernetics, 115</i>, 323–329. <a href="https://doi.org/10.1007/s00422-021-00887-5">https://doi.org/10.1007/s00422-021-00887-5</a><a href="http://doi.org/10.1007/s00422-021-00887-5"> http://doi.org/10.1007/s00422-021-00887-5</a></p>
 
 <p id="HuntMalalasekeraBerkerEtAl17">Hunt, L.T., Malalasekera, W.M.N., Berker, A.O., Miranda, B., Farmer, S.F., Behrens, T.E.J., & Kennerley, S.W. (2017). Triple dissociation of attention and decision computations across prefrontal cortex. <i>bioRxiv, </i>171173. <a href="https://www.biorxiv.org/content/early/2017/08/01/171173">https://www.biorxiv.org/content/early/2017/08/01/171173</a><a href="http://doi.org/10.1101/171173"> http://doi.org/10.1101/171173</a></p>
@@ -767,6 +781,8 @@
 <p id="JainMurphy-BaumdeRosenrollEtAl20">Jain, V., Murphy-Baum, B.L., deRosenroll, G., Sethuramanujam, S., Delsey, M., Delaney, K.R., & Awatramani, G.B. (2020). The functional organization of excitation and inhibition in the dendrites of mouse direction-selective ganglion cells. <i>eLife, 9</i>, e52949. <a href="https://doi.org/10.7554/eLife.52949">https://doi.org/10.7554/eLife.52949</a><a href="http://doi.org/10.7554/eLife.52949"> http://doi.org/10.7554/eLife.52949</a></p>
 
 <p id="JainNakahataPancaniEtAl24">Jain, A., Nakahata, Y., Pancani, T., Watabe, T., Rusina, P., South, K., Adachi, K., Yan, L., Simorowski, N., Furukawa, H., & Yasuda, R. (2024). Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity. <i>Nature, 635</i>, 151–159. <a href="https://www.nature.com/articles/s41586-024-08021-8">https://www.nature.com/articles/s41586-024-08021-8</a><a href="http://doi.org/10.1038/s41586-024-08021-8"> http://doi.org/10.1038/s41586-024-08021-8</a></p>
+
+<p id="Jankowska22">Jankowska, E. (2022). Basic principles of processing of afferent information by spinal interneurons. <i>Journal of Neurophysiology, 128</i>, 689–695. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022">https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022</a><a href="http://doi.org/10.1152/jn.00344.2022"> http://doi.org/10.1152/jn.00344.2022</a></p>
 
 <p id="JarskyRoxinKathEtAl05">Jarsky, T., Roxin, A., Kath, W.L., & Spruston, N. (2005). Conditional dendritic spike propagation following distal synaptic activation of hippocampal CA1 pyramidal neurons. <i>Nat Neurosci, 8</i>, 1667–1676. <a href="http://dx.doi.org/10.1038/nn1599">http://dx.doi.org/10.1038/nn1599</a></p>
 
@@ -1011,8 +1027,6 @@
 <p id="McCormickThompson84">McCormick, D.A., & Thompson, R.F. (1984). Cerebellum: Essential Involvement in the Classically Conditioned Eyelid Response. <i>Science, 223</i>, 296–299. <a href="https://www.science.org/doi/abs/10.1126/science.6701513">https://www.science.org/doi/abs/10.1126/science.6701513</a><a href="http://doi.org/10.1126/science.6701513"> http://doi.org/10.1126/science.6701513</a></p>
 
 <p id="McCormickThompson84a">McCormick, D.A., & Thompson, R.F. (1984). Neuronal responses of the rabbit cerebellum during acquisition and performance of a classically conditioned nictitating membrane-eyelid response. <i>Journal of Neuroscience, 4</i>, 2811–2822. <a href="https://www.jneurosci.org/content/4/11/2811">https://www.jneurosci.org/content/4/11/2811</a><a href="http://doi.org/10.1523/JNEUROSCI.04-11-02811.1984"> http://doi.org/10.1523/JNEUROSCI.04-11-02811.1984</a></p>
-
-<p id="McCreaRybak08">McCrea, D.A., & Rybak, I.A. (2008). Organization of mammalian locomotor rhythm and pattern generation. <i>Brain Research Reviews, 57</i>, 134–146. <a href="https://www.sciencedirect.com/science/article/pii/S0165017307001798">https://www.sciencedirect.com/science/article/pii/S0165017307001798</a><a href="http://doi.org/10.1016/j.brainresrev.2007.08.006"> http://doi.org/10.1016/j.brainresrev.2007.08.006</a></p>
 
 <p id="McElvainBagnallSakatosEtAl10">McElvain, L.E., Bagnall, M.W., Sakatos, A., & Lac, S. (2010). Bidirectional Plasticity Gated by Hyperpolarization Controls the Gain of Postsynaptic Firing Responses at Central Vestibular Nerve Synapses. <i>Neuron, 68</i>, 763–775. <a href="https://www.cell.com/neuron/abstract/S0896-6273(10)00767-1">https://www.cell.com/neuron/abstract/S0896-6273(10)00767-1</a><a href="http://doi.org/10.1016/j.neuron.2010.09.025"> http://doi.org/10.1016/j.neuron.2010.09.025</a></p>
 
@@ -1332,8 +1346,6 @@
 
 <p id="RutherfordZuk-HarperGwyn89">Rutherford, J.G., Zuk-Harper, A., & Gwyn, D.G. (1989). A comparison of the distribution of the cerebellar and cortical connections of the nucleus of Darkschewitsch (ND) in the cat: a study using anterograde and retrograde HRP tracing techniques. <i>Anatomy and Embryology, 180</i>, 485–496. <a href="https://doi.org/10.1007/BF00305124">https://doi.org/10.1007/BF00305124</a><a href="http://doi.org/10.1007/BF00305124"> http://doi.org/10.1007/BF00305124</a></p>
 
-<p id="RybakDoughertyShevtsova15">Rybak, I.A., Dougherty, K.J., & Shevtsova, N.A. (2015). Organization of the Mammalian Locomotor CPG: Review of Computational Model and Circuit Architectures Based on Genetically Identified Spinal Interneurons. <i>eNeuro, 2</i>, <a href="https://www.eneuro.org/content/2/5/ENEURO.0069-15.2015">https://www.eneuro.org/content/2/5/ENEURO.0069-15.2015</a><a href="http://doi.org/10.1523/ENEURO.0069-15.2015"> http://doi.org/10.1523/ENEURO.0069-15.2015</a></p>
-
 <p id="SabatiniOertnerSvoboda02">Sabatini, B.L., Oertner, T.G., & Svoboda, K. (2002). The life cycle of Ca2+ ions in dendritic spines. <i>Neuron, 33</i>, 439–452. <a href="https://www.sciencedirect.com/science/article/pii/S0896627302005731">https://www.sciencedirect.com/science/article/pii/S0896627302005731</a><a href="http://doi.org/10.1016/S0896-6273(02)00573-1"> http://doi.org/10.1016/S0896-6273(02)00573-1</a></p>
 
 <p id="SaddorisGallagherSchoenbaum05">Saddoris, M.P., Gallagher, M., & Schoenbaum, G. (2005). Rapid associative encoding in basolateral amygdala depends on connections with orbitofrontal cortex. <i>Neuron, 46</i>, 321–331. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15848809">http://www.ncbi.nlm.nih.gov/pubmed/15848809</a></p>
@@ -1413,6 +1425,8 @@
 <p id="ShinagawaYamada25">Shinagawa, K., & Yamada, K. (2025). Extending homeostasis to thought dynamics for a comprehensive explanation of mind-wandering. <i>Scientific Reports, 15</i>, 8677. <a href="https://www.nature.com/articles/s41598-025-92561-0">https://www.nature.com/articles/s41598-025-92561-0</a><a href="http://doi.org/10.1038/s41598-025-92561-0"> http://doi.org/10.1038/s41598-025-92561-0</a></p>
 
 <p id="ShinodaSugiuchiFutamiEtAl92">Shinoda, Y., Sugiuchi, Y., Futami, T., & Izawa, R. (1992). Axon collaterals of mossy fibers from the pontine nucleus in the cerebellar dentate nucleus. <i>Journal of neurophysiology, 67</i>, 547–560. <a href="http://www.ncbi.nlm.nih.gov/pubmed/1578244">http://www.ncbi.nlm.nih.gov/pubmed/1578244</a></p>
+
+<p id="ShinoharaAmbeKimEtAl25">Shinohara, K., Ambe, Y., Kim, Y., Mano, F., Ramalingasetty, S.T., Lockhart, A.B., Markin, S.N., Ausborn, J., Rybak, I.A., Danner, S.M., & Aoi, S. (2025). Mechanisms of adaptive interlimb coordination to sudden ground loss: a neuromusculoskeletal modeling study. 2025.11.11.687930. <a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687930v1">https://www.biorxiv.org/content/10.1101/2025.11.11.687930v1</a><a href="http://doi.org/10.1101/2025.11.11.687930"> http://doi.org/10.1101/2025.11.11.687930</a></p>
 
 <p id="ShouvalWangWittenberg10">Shouval, H.Z., Wang, S.S., & Wittenberg, G.M. (2010). Spike timing dependent plasticity: A consequence of more fundamental learning rules. <i>Frontiers in Computational Neuroscience, 4</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20725599">http://www.ncbi.nlm.nih.gov/pubmed/20725599</a></p>
 
@@ -1497,6 +1511,8 @@
 <p id="TanakaIshikawaKakei19">Tanaka, H., Ishikawa, T., & Kakei, S. (2019). Neural evidence of the cerebellum as a state predictor. <i>Cerebellum (London, England), 18</i>, 349–371. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517560/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517560/</a><a href="http://doi.org/10.1007/s12311-018-0996-4"> http://doi.org/10.1007/s12311-018-0996-4</a></p>
 
 <p id="TanakaIshikawaLeeEtAl20">Tanaka, H., Ishikawa, T., Lee, J., & Kakei, S. (2020). The Cerebro-Cerebellum as a Locus of Forward Model: A Review. <i>Frontiers in Systems Neuroscience, 14</i>, <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2020.00019/full">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2020.00019/full</a><a href="http://doi.org/10.3389/fnsys.2020.00019"> http://doi.org/10.3389/fnsys.2020.00019</a></p>
+
+<p id="TanFaullCurtis23">Tan, S., Faull, R.L.M., & Curtis, M.A. (2023). The tracts, cytoarchitecture, and neurochemistry of the spinal cord. <i>The Anatomical Record, 306</i>, 777–819. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ar.25079">https://onlinelibrary.wiley.com/doi/abs/10.1002/ar.25079</a><a href="http://doi.org/10.1002/ar.25079"> http://doi.org/10.1002/ar.25079</a></p>
 
 <p id="Taube07">Taube, J.S. (2007). The Head Direction Signal: Origins and Sensory-Motor Integration. <i>Annual Review of Neuroscience, 30</i>, 181–207. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854">https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854</a><a href="http://doi.org/10.1146/annurev.neuro.29.051605.112854"> http://doi.org/10.1146/annurev.neuro.29.051605.112854</a></p>
 
@@ -1615,6 +1631,8 @@
 <p id="WangYangWangEtAl13">Wang, M., Yang, Y., Wang, C., Gamo, N.J., Jin, L.E., Mazer, J.A., Morrison, J.H., Wang, X., & Arnsten, A.F.T. (2013). NMDA receptors subserve persistent neuronal firing during working memory in dorsolateral prefrontal cortex. <i>Neuron, 77</i>, 736–749. <a href="http://www.sciencedirect.com/science/article/pii/S089662731300038X">http://www.sciencedirect.com/science/article/pii/S089662731300038X</a><a href="http://doi.org/10.1016/j.neuron.2012.12.032"> http://doi.org/10.1016/j.neuron.2012.12.032</a></p>
 
 <p id="WarstadtBowman22">Warstadt, A., & Bowman, S.R. (2022). <i>What Artificial Neural Networks Can Tell Us about Human Language Acquisition. </i>In Algebraic Structures in Natural Language. CRC Press. </p>
+
+<p id="WatsonKayalioglu09">Watson, C., & Kayalioglu, G. (2009). <i>The Organization of the Spinal Cord. </i>In The Spinal Cord (pp. 1–7). Academic Press. <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780123742476500055">https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780123742476500055</a><a href="http://doi.org/10.1016/B978-0-12-374247-6.50005-5"> http://doi.org/10.1016/B978-0-12-374247-6.50005-5</a></p>
 
 <p id="WebbFranklandAltabaaEtAl24">Webb, T.W., Frankland, S.M., Altabaa, A., Segert, S., Krishnamurthy, K., Campbell, D., Russin, J., Giallanza, T., O’Reilly, R., Lafferty, J., & Cohen, J.D. (2024). The relational bottleneck as an inductive bias for efficient abstraction. <i>Trends in Cognitive Sciences, <a href="https://www.sciencedirect.com/science/article/pii/S1364661324000809">https://www.sciencedirect.com/science/article/pii/S1364661324000809</a></i><a href="http://doi.org/10.1016/j.tics.2024.04.001"> http://doi.org/10.1016/j.tics.2024.04.001</a></p>
 

@@ -99,6 +99,8 @@ It is critical to recognize that although each thalamic nucleus has a predominan
 
 * **Secondary PFC, goal-gating** (Driver: None; Projection: Input, Maintenance, Modulatory, Multi): **MDm** (mediodorsal, medial). Based on the detailed examination of MD connectivity by [[@^KuramotoPanFurutaEtAl17]], and the white driver color of the most medial areas of MD, this subregion of MD does not have any strong drivers, and largely receives inhibitory projections from the BG output nuclei and especially from the ventral pallidum (VP). According to the [[Rubicon]] model and the extensive data reviewed in [[prefrontal cortex]], this MDm area drives disinhibitory gating of distributed goal representations across multiple PFC areas. [[@^KuramotoPanFurutaEtAl17]] report that each MDm neuron interconnects with multiple areas, and most terminate in central layers 3,4 not layer 1. This represents a distinct type of connectivity, that could be labeled C-type (multiareal).
 
+<!--- TODO: CollinsAnastasiadesMarlinEtAl18  and PhillipsKambiRedinbaughEtAl21 PhillipsAfrasiabiKambiEtAl25 LiZhengWangEtAl24 -->
+
 * **Secondary PFC, predictive learning and goal updating** (Driver: Cortical; Projection: Input, Maintenance, Single): **MDc**, **MDl** (mediodorsal central, lateral). These areas of MD are effectively like the pulvinar for higher-order sensory areas, in terms of receiving strong cortical driver inputs (red), while having M-type focal connectivity patterns. Based on the strong theoretical and empirical basis for pulvinar supporting predictive learning, this same function is likely supported for the goal-driven areas of OFC and PL PFC that these MD areas project to.
 
 <!--- TODO: do these areas receive inhibition from bg? Tom thinks so.. look in Kuramoto -->
