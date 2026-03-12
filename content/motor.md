@@ -25,7 +25,7 @@ As a concrete example, a detailed analysis of spinal-level muscle synergies in t
 
 Thus, the final motor behavior pattern depends on the integrated contributions of multiple levels of control, with the spinal muscle synergies implemented by interneurons providing the lowest level, and higher levels progressively adding their own direct synergies as well as broader coordination across the basic spinal elements ([[@GrillnerElManira20]]). For example, an analysis of correlated motor units in hand movement showed _last order_ (i.e., just upstream of the muscle activation) inputs from the pontomedullary reticular formation, the magnocellular red nucleus, and primary motor cortex (M1), in addition to the basic spinal cord interneurons ([[@XuMawaseSchieber24]]).
 
-The genetically-coded nature of these muscle synergies is evident across many studies showing that the same synergies are found in each of the individual animals studied (e.g., [[@dAvellaSaltielBizzi03]]; [[@BizziCheungdAvellaEtAl08]]) and they arise early in development and persist into adulthood ([[@YangLoganGiszter19]]). Also, although general-purpose learning mechanisms typically develop low-dimensional basis spaces that resemble muscle synergies ([[@ChaiHayashibe20]]; [[@TreschJarc09]]), the direct evidence of spinal implementation and strong genetic evidence support the evolutionary basis for these in animals.
+The genetically-coded nature of these muscle synergies is evident across many studies showing that the same synergies are found in each of the individual animals studied (e.g., [[@dAvellaSaltielBizzi03]]; [[@BizziCheungdAvellaEtAl08]]) and they arise early in development and persist into adulthood ([[@YangLoganGiszter19]]), even in humans, where the core patterns in locomotion have strong similarities to those in other species ([[@DominiciIvanenkoCappelliniEtAl11]]). Also, although general-purpose learning mechanisms typically develop low-dimensional basis spaces that resemble muscle synergies ([[@ChaiHayashibe20]]; [[@TreschJarc09]]; [[@Scott04]]; [[@TodorovJordan02]]), the direct evidence of spinal implementation and strong genetic evidence support the evolutionary basis for these in animals.
 
 ### Sensory feedback control
 
@@ -47,7 +47,7 @@ However, once we appreciate that the muscle synergies present in the spinal cord
 
 For example, [[@^BrambillaRussodAvellaEtAl23]] found evidence for a small set of tonically-active, postural synergies that were largely distinct from those involved in different phasic actions. This separation between action and posture synergies directly contradicts the central idea of the equilibrium-point framework that all action is a change in posture. Nevertheless, the idea that these synergies directly use proprioceptive feedback signals is entirely consistent with the equilibrium-point framework.
 
-As for the potential conflict between maintaining a given posture and activating a given motor action (which would disrupt the posture), this can be seen as an instance of the broader challenge of selecting among all the possible muscle synergy factors to activate at a given point in time. The role of sensory feedback allows for the low-level spinal synergies to adapt to the presence of other simultaneously-active synergies, but the more adaptive coordination of these synergies likely involves higher levels of control, as discussed next.
+As for the potential conflict between maintaining a given posture and activating a given motor action (which would disrupt the posture), this can be seen as an instance of the broader challenge of selecting among all the possible muscle synergy factors to activate at a given point in time. The direct involvement of sensory feedback in these low-level synergies allows them to adapt to the presence of other simultaneously-active synergies, but the more adaptive coordination of these synergies likely involves higher levels of control, as discussed next.
 
 ### Levels of control
 
@@ -59,14 +59,14 @@ The central role of local sensory feedback control from proprioceptive and other
 
 However, the idea that the spinal primitives have a significant temporal component is not necessarily applied in existing analyses, which have instead assumed that the primitive spinal synergies are purely spatial, while higher levels of control add a temporal component. For example, this was observed in an analysis of muscle synergies from motor cortex in macaque monkeys, where the spatiotemporal patterns could be constructed from combinations of more basic spatial patterns activated over time ([[@OverduindAvellaRohEtAl15]]). Likewise, [[@^BergerMasciulloMolinariEtAl20]] showed that the cerebellum adds temporal factors on top of basic spatial primitives.
 
-Nevertheless, it is possible to adopt both of these principles at the same time (i.e., temporal dynamics within the primitives, and additional temporal structure imposed by higher levels of control), although it introduces confounds for the standard analytic approaches of extracting the muscle synergies from high-dimensional EMG (electromyography signals recorded from the muscles) or other such data.
+Nevertheless, it is possible to adopt both of these principles at the same time (i.e., temporal dynamics within the primitives, and additional temporal structure imposed by higher levels of control), although doing so introduces confounds for the standard analytic approaches of extracting the muscle synergies from high-dimensional EMG (electromyography signals recorded from the muscles) or other such data.
 
 {id="figure_brainstem" style="height:40em"}
 ![Brainstem levels of control over spinal muscle synergies, across multiple levels from the midbrain to the medulla. MLR = mesencephalic locomotor region; SC = superior colliculus; CnF = cuneform nucleus; PPN = pedunculopontine nucleus; mRT = mesencephalic reticular formation; LPGi = lateral paragigantocellular nucleus; IC = inferior colliculus; 5N = trigeminal motor nucleus; Gi = gigantocellular nucleus; 7N = facial motor nucleus; From Arber & Costa, 2022.](media/fig_motor_brainstem_arber_costa_22.png)
 
 At a broad level, the contributions of each additional level of control are as follows ([[@GrillnerElManira20]]; [[@ArberCosta22]]; [[@ZaaimiDeanBaker18]]):
 
-* Brainstem nuclei integrate broader sensory inputs to drive more complex, survival-relevant behaviors as combinations of spinal synergies, for example control of locomotor activity ([[#figure_brainstem]]) and reaching for food ([[@EspositoCapelliArber14]]; [[@CapelliPivettaSoledadEspositoEtAl17]]; [[@ZeleninOrlovskyDeliagina07]]).
+* Brainstem nuclei integrate broader sensory inputs to drive more complex, survival-relevant behaviors as combinations of spinal synergies, for example control of locomotor activity ([[#figure_brainstem]]) and reaching for food ([[@EspositoCapelliArber14]]; [[@CapelliPivettaSoledadEspositoEtAl17]]; [[@ZeleninOrlovskyDeliagina07]]; [[@ZaaimiDeanBaker18]]).
 
 * The [[cerebellum]] provides direct tuning of the spinal synergies themselves ([[@UdoMatsukawaKameiEtAl80]]; [[@GrillnerElManira20]]; [[#figure_cerebellum-tuning]]), as well as the ability to learn different coordinated spatiotemporal patterns across multiple spinal synergies ([[@BergerGentnerEdmundsEtAl13]]), with these functions taking place in different pathways through the cerebellum (vestibulospinal, rubrospinal, and reticulospinal).
 
@@ -91,7 +91,7 @@ The size principle enables a single _common-drive_ unidimensional command input 
 
 ### Hill-type muscle model
 
-TODO
+[[@Hill38]], [[@RitchieWilkie58]]; [[@Zajac89]]
 
 ## Spinal cord
 
@@ -118,7 +118,7 @@ Whereas these interneurons were previously categorized into a few specific class
 {id="figure_spinal-cpg" style="height:45em"}
 ![Detailed circuit-based model of spinal central pattern generator (CPG) circuitry that can accurately simulate many aspects of hind-limb locomotion in the spinal cat. From Shinohara et al., 2025](media/fig_spinal_cord_cpg_shinohara_etal_25.png)
 
-A recent example of the sophistication and complexity of these spinal circuits is shown in [[#figure_spinal-cpg]] from [[@^ShinoharaAmbeKimEtAl25]] (see [[@DannerShevtsovaFrigonEtAl17]] for a review of related models), which can simulate many aspects of hindlimb locomotion behavior, including when the foot lands in a "hole" where there is no support. This robust adaptive behavior results from the direct incorporation of proprioceptive length and velocity signals from muscle spindle fibers, along with cutaneous touch inputs, into the overall circuit. The connectivity was optimized to minimize overall energy consumption and to adapt to uneven surfaces, and then automatically generalized from there to this lack-of-support situation. 
+A recent example of the sophistication and complexity of these spinal circuits is shown in [[#figure_spinal-cpg]] from [[@^ShinoharaAmbeKimEtAl25]] (see [[@DannerShevtsovaFrigonEtAl17]] for a review of related models and [[@AoiOhashiBambaEtAl19]] for a human bipedal example), which can simulate many aspects of hindlimb locomotion behavior, including when the foot lands in a "hole" where there is no support. This robust adaptive behavior results from the direct incorporation of proprioceptive length and velocity signals from muscle spindle fibers, along with cutaneous touch inputs, into the overall circuit. The connectivity was optimized to minimize overall energy consumption and to adapt to uneven surfaces, and then automatically generalized from there to this lack-of-support situation. 
 
 Critically, these robust adaptive behaviors require bilateral coordination across hemispheres, because if one foot goes unsupported, the load must be taken up by the other foot, until a secure footing is obtained. This model can predict detailed patterns of movement and neural firing signals in corresponding experimental preparations, providing strongly validated understanding of how these circuits function.
 
@@ -132,7 +132,7 @@ There is considerable evidence that primates, and especially humans, have a much
 
 Interestingly, despite the idea that the extra degrees of freedom associated with this increased level of fine-grained control, there is a reliable relationship between brain size and age of first locomotion that humans and other primates still obey ([[@GarwiczChristenssonPsouni09]]).
 
-The development of motor control in humans was hypothesized by [[@^Bernstein96]] to follow a trajectory from relying on more rigid, evolutionarily-encoded motor programs, to gradually allowing more flexible, higher-dimensional control from the neocortex to be learned. Evidence is consistent with this hypothesis ([[@HinnekensBarbu-RothDoEtAl23]]).
+The development of motor control in humans was hypothesized by [[@^Bernstein96]] to follow a trajectory from relying on more rigid, evolutionarily-encoded motor programs, to gradually allowing more flexible, higher-dimensional control from the neocortex to be learned. Evidence is consistent with this hypothesis ([[@HinnekensBarbu-RothDoEtAl23]]; [[@DominiciIvanenkoCappelliniEtAl11]]).
 
 ## Higher level details
 
