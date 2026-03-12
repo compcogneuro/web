@@ -10,6 +10,8 @@
 
 <p id="AdelmanMaylieSah12">Adelman, J.P., Maylie, J., & Sah, P. (2012). Small-conductance Ca2+-activated K+ channels: form and function. <i>Annual Review of Physiology, 74</i>, 245–269. <a href="http://doi.org/10.1146/annurev-physiol-020911-153336"> http://doi.org/10.1146/annurev-physiol-020911-153336</a></p>
 
+<p id="AflaloGraziano06">Aflalo, T.N., & Graziano, M.S.A. (2006). Possible origins of the complex topographic organization of motor cortex: reduction of a multidimensional space onto a two-dimensional array. <i>Journal of Neuroscience, 26</i>, 6288–6297. <a href="www.jneurosci.org">www.jneurosci.org</a><a href="http://doi.org/10.1523/JNEUROSCI.0768-06.2006"> http://doi.org/10.1523/JNEUROSCI.0768-06.2006</a></p>
+
 <p id="AflaloGraziano06a">Aflalo, T.N., & Graziano, M.S.A. (2006). Partial tuning of motor cortex neurons to final posture in a free-moving paradigm. <i>Proceedings of the National Academy of Sciences, 103</i>, 2909–2914. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.0511139103">https://www.pnas.org/doi/abs/10.1073/pnas.0511139103</a><a href="http://doi.org/10.1073/pnas.0511139103"> http://doi.org/10.1073/pnas.0511139103</a></p>
 
 <p id="AgrochaoTanakaSalazar-GatzimasEtAl20">Agrochao, M., Tanaka, R., Salazar-Gatzimas, E., & Clark, D.A. (2020). Mechanism for analogous illusory motion perception in flies and humans. <i>Proceedings of the National Academy of Sciences, 117</i>, 23044–23053. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2002937117">https://www.pnas.org/doi/abs/10.1073/pnas.2002937117</a><a href="http://doi.org/10.1073/pnas.2002937117"> http://doi.org/10.1073/pnas.2002937117</a></p>
@@ -67,6 +69,8 @@
 <p id="Aston-JonesCohen05">Aston-Jones, G., & Cohen, J.D. (2005). An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. <i>Annual Review of Neuroscience, 28</i>, 403–450. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16022602">http://www.ncbi.nlm.nih.gov/pubmed/16022602</a></p>
 
 <p id="AtallahMcCoolHoweEtAl14">Atallah, H.E., McCool, A.D., Howe, M.W., & Graybiel, A.M. (2014). Neurons in the ventral striatum exhibit cell-type specific representations of outcome during learning. <i>Neuron, </i></p>
+
+<p id="AthalyeKhannaGowdaEtAl23">Athalye, V.R., Khanna, P., Gowda, S., Orsborn, A.L., Costa, R.M., & Carmena, J.M. (2023). Invariant neural dynamics drive commands to control different movements. <i>Current Biology, 33</i>, 2962-2976.e15. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(23)00778-9">https://www.cell.com/current-biology/abstract/S0960-9822(23)00778-9</a><a href="http://doi.org/10.1016/j.cub.2023.06.027"> http://doi.org/10.1016/j.cub.2023.06.027</a></p>
 
 <p id="Baars02">Baars, B.J. (2002). The conscious access hypothesis: origins and recent evidence. <i>Trends in cognitive sciences, 6</i>, 47–52. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11849615">http://www.ncbi.nlm.nih.gov/pubmed/11849615</a></p>
 
@@ -136,6 +140,10 @@
 
 <p id="BerendseGalis-DeGraafGroenewegen92">Berendse, H., Galis-De Graaf, Y., & Groenewegen, H. (1992). Topographical organization and relationship with ventral striatal compartments of prefrontal corticostriatal projections in the rat. <i>The Journal of Comparative Neurology, 316</i>, 314–347. <a href="http://dx.doi.org/10.1002/cne.903160305">http://dx.doi.org/10.1002/cne.903160305</a></p>
 
+<p id="BergerGentnerEdmundsEtAl13">Berger, D.J., Gentner, R., Edmunds, T., Pai, D.K., & Avella, A. (2013). Differences in Adaptation Rates after Virtual Surgeries Provide Direct Evidence for Modularity. <i>Journal of Neuroscience, 33</i>, 12384–12394. <a href="https://www.jneurosci.org/content/33/30/12384">https://www.jneurosci.org/content/33/30/12384</a><a href="http://doi.org/10.1523/JNEUROSCI.0122-13.2013"> http://doi.org/10.1523/JNEUROSCI.0122-13.2013</a></p>
+
+<p id="BergerMasciulloMolinariEtAl20">Berger, D.J., Masciullo, M., Molinari, M., Lacquaniti, F., & Avella, A. (2020). Does the cerebellum shape the spatiotemporal organization of muscle patterns? Insights from subjects with cerebellar ataxias. <i>Journal of Neurophysiology, 123</i>, 1691–1710. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00657.2018">https://journals.physiology.org/doi/full/10.1152/jn.00657.2018</a><a href="http://doi.org/10.1152/jn.00657.2018"> http://doi.org/10.1152/jn.00657.2018</a></p>
+
 <p id="BerkleyHand78">Berkley, K.J., & Hand, P.J. (1978). Projections to the inferior olive of the cat II. Comparisons of input from the gracile, cuneate and the spinal trigeminal nuclel. <i>Journal of Comparative Neurology, 180</i>, 253–264. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901800205">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.901800205</a><a href="http://doi.org/10.1002/cne.901800205"> http://doi.org/10.1002/cne.901800205</a></p>
 
 <p id="Bernstein67">Bernstein, N. (1967). <i>The Coordination and Regulation of Movements. </i> Pergamon Press. </p>
@@ -156,6 +164,8 @@
 
 <p id="Bikoff19">Bikoff, J.B. (2019). Interneuron diversity and function in the spinal motor system. <i>Current Opinion in Physiology, 8</i>, 36–43. <a href="https://www.sciencedirect.com/science/article/pii/S2468867318301676">https://www.sciencedirect.com/science/article/pii/S2468867318301676</a><a href="http://doi.org/10.1016/j.cophys.2018.12.013"> http://doi.org/10.1016/j.cophys.2018.12.013</a></p>
 
+<p id="BinghamChoiTing11">Bingham, J.T., Choi, J.T., & Ting, L.H. (2011). Stability in a frontal plane model of balance requires coupled changes to postural configuration and neural feedback control. <i>Journal of Neurophysiology, 106</i>, 437–448. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00010.2011">https://journals.physiology.org/doi/full/10.1152/jn.00010.2011</a><a href="http://doi.org/10.1152/jn.00010.2011"> http://doi.org/10.1152/jn.00010.2011</a></p>
+
 <p id="BiPoo98">Bi, G., & Poo, M. (1998). Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type. <i>The Journal of Neuroscience, 18</i>, 10464–10472. <a href="http://www.jneurosci.org/content/18/24/10464">http://www.jneurosci.org/content/18/24/10464</a></p>
 
 <p id="BiswasLuoSarpongEtAl19">Biswas, M.S., Luo, Y., Sarpong, G.A., & Sugihara, I. (2019). Divergent projections of single pontocerebellar axons to multiple cerebellar lobules in the mouse. <i>Journal of Comparative Neurology, 527</i>, 1966–1985. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24662">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24662</a><a href="http://doi.org/10.1002/cne.24662"> http://doi.org/10.1002/cne.24662</a></p>
@@ -163,6 +173,8 @@
 <p id="BittnerGrienbergerVaidyaEtAl15">Bittner, K.C., Grienberger, C., Vaidya, S.P., Milstein, A.D., Macklin, J.J., Suh, J., Tonegawa, S., & Magee, J.C. (2015). Conjunctive input processing drives feature selectivity in hippocampal CA1 neurons. <i>Nature Neuroscience, 18</i>(8), 1133–1142. <a href="https://www.nature.com/articles/nn.4062">https://www.nature.com/articles/nn.4062</a><a href="http://doi.org/10.1038/nn.4062"> http://doi.org/10.1038/nn.4062</a></p>
 
 <p id="BittnerMilsteinGrienbergerEtAl17">Bittner, K.C., Milstein, A.D., Grienberger, C., Romani, S., & Magee, J.C. (2017). Behavioral time scale synaptic plasticity underlies CA1 place fields. <i>Science, 357</i>, 1033–1036. <a href="http://science.sciencemag.org/content/357/6355/1033">http://science.sciencemag.org/content/357/6355/1033</a><a href="http://doi.org/10.1126/science.aan3846"> http://doi.org/10.1126/science.aan3846</a></p>
+
+<p id="BizziCheungdAvellaEtAl08">Bizzi, E., Cheung, V.C.K., Avella, A., Saltiel, P., & Tresch, M. (2008). Combining modules for movement. <i>Brain Research Reviews, 57</i>, 125–133. <a href="https://www.sciencedirect.com/science/article/pii/S0165017307001774">https://www.sciencedirect.com/science/article/pii/S0165017307001774</a><a href="http://doi.org/10.1016/j.brainresrev.2007.08.004"> http://doi.org/10.1016/j.brainresrev.2007.08.004</a></p>
 
 <p id="BlazquezHirataHeineyEtAl03">Blazquez, P.M., Hirata, Y., Heiney, S.A., Green, A.M., & Highstein, S.M. (2003). Cerebellar Signatures of Vestibulo-Ocular Reflex Motor Learning. <i>Journal of Neuroscience, 23</i>, 9742–9751. <a href="https://www.jneurosci.org/content/23/30/9742">https://www.jneurosci.org/content/23/30/9742</a><a href="http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003"> http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003</a></p>
 
@@ -197,6 +209,8 @@
 <p id="BowmakerDartnall80">Bowmaker, J.K., & Dartnall, H.J. (1980). Visual pigments of rods and cones in a human retina. <i>The Journal of Physiology, 298</i>, 501–511. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1980.sp013097">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1980.sp013097</a><a href="http://doi.org/10.1113/jphysiol.1980.sp013097"> http://doi.org/10.1113/jphysiol.1980.sp013097</a></p>
 
 <p id="BoydenKatohRaymond04">Boyden, E.S., Katoh, A., & Raymond, J.L. (2004). Cerebellum-dependent learning: the role of multiple plasticity mechanisms. <i>Annual review of neuroscience, 27</i>, 581–610. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15217344">http://www.ncbi.nlm.nih.gov/pubmed/15217344</a></p>
+
+<p id="BrambillaRussodAvellaEtAl23">Brambilla, C., Russo, M., Avella, A., & Scano, A. (2023). Phasic and tonic muscle synergies are different in number, structure and sparseness. <i>Human Movement Science, 92</i>, 103148. <a href="https://www.sciencedirect.com/science/article/pii/S0167945723000945">https://www.sciencedirect.com/science/article/pii/S0167945723000945</a><a href="http://doi.org/10.1016/j.humov.2023.103148"> http://doi.org/10.1016/j.humov.2023.103148</a></p>
 
 <p id="Brette15">Brette, R. (2015). Philosophy of the Spike: Rate-Based vs. Spike-Based Theories of the Brain. <i>Frontiers in Systems Neuroscience, 9</i>, 151. <a href="https://www.frontiersin.org/article/10.3389/fnsys.2015.00151">https://www.frontiersin.org/article/10.3389/fnsys.2015.00151</a><a href="http://doi.org/10.3389/fnsys.2015.00151"> http://doi.org/10.3389/fnsys.2015.00151</a></p>
 
@@ -234,6 +248,8 @@
 
 <p id="CampbellRaneGiallanzaEtAl24">Campbell, D., Rane, S., Giallanza, T., De Sabbata, N., Ghods, K., Joshi, A., Ku, A., Frankland, S.M., Griffiths, T.L., Cohen, J.D., & Webb, T. (2024). Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem. <i>Advances in Neural Information Processing Systems, 37</i>, 113436–113460. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/cdcc6d47c1627350014a3076112ab824-Abstract-Conference.html">https://proceedings.neurips.cc/paper_files/paper/2024/hash/cdcc6d47c1627350014a3076112ab824-Abstract-Conference.html</a></p>
 
+<p id="CapelliPivettaSoledadEspositoEtAl17">Capelli, P., Pivetta, C., Soledad Esposito, M., & Arber, S. (2017). Locomotor speed control circuits in the caudal brainstem. <i>Nature, 551</i>, 373–377. <a href="https://www.nature.com/articles/nature24064">https://www.nature.com/articles/nature24064</a><a href="http://doi.org/10.1038/nature24064"> http://doi.org/10.1038/nature24064</a></p>
+
 <p id="Cardin18">Cardin, J.A. (2018). Inhibitory interneurons regulate temporal precision and correlations in cortical circuits. <i>Trends in Neurosciences, 41</i>, 689–700. <a href="https://www.sciencedirect.com/science/article/pii/S0166223618302078">https://www.sciencedirect.com/science/article/pii/S0166223618302078</a><a href="http://doi.org/10.1016/j.tins.2018.07.015"> http://doi.org/10.1016/j.tins.2018.07.015</a></p>
 
 <p id="Carey11">Carey, M.R. (2011). Synaptic mechanisms of sensorimotor learning in the cerebellum. <i>Current Opinion in Neurobiology, 21</i>, 609–615. <a href="https://www.sciencedirect.com/science/article/pii/S0959438811001206">https://www.sciencedirect.com/science/article/pii/S0959438811001206</a><a href="http://doi.org/10.1016/j.conb.2011.06.011"> http://doi.org/10.1016/j.conb.2011.06.011</a></p>
@@ -241,6 +257,8 @@
 <p id="CaseyGetzGalvan08">Casey, B.J., Getz, S., & Galvan, A. (2008). The adolescent brain. <i>Developmental Review, 28</i>, 62–77. <a href="https://www.sciencedirect.com/science/article/pii/S0273229707000494">https://www.sciencedirect.com/science/article/pii/S0273229707000494</a><a href="http://doi.org/10.1016/j.dr.2007.08.003"> http://doi.org/10.1016/j.dr.2007.08.003</a></p>
 
 <p id="CataneseJaeger21">Catanese, J., & Jaeger, D. (2021). Premotor ramping of thalamic neuronal activity is modulated by nigral inputs and contributes to control the timing of action release. <i>Journal of Neuroscience, 41</i>, 1878–1891. <a href="https://www.jneurosci.org/content/41/9/1878">https://www.jneurosci.org/content/41/9/1878</a><a href="http://doi.org/10.1523/JNEUROSCI.1204-20.2020"> http://doi.org/10.1523/JNEUROSCI.1204-20.2020</a></p>
+
+<p id="ChaiHayashibe20">Chai, J., & Hayashibe, M. (2020). Motor Synergy Development in High-Performing Deep Reinforcement Learning Algorithms. <i>IEEE Robotics and Automation Letters, 5</i>, 1271–1278. <a href="https://ieeexplore.ieee.org/abstract/document/8966298">https://ieeexplore.ieee.org/abstract/document/8966298</a><a href="http://doi.org/10.1109/LRA.2020.2968067"> http://doi.org/10.1109/LRA.2020.2968067</a></p>
 
 <p id="ChaterOaksfordHahnEtAl10">Chater, N., Oaksford, M., Hahn, U., & Heit, E. (2010). Bayesian models of cognition. <i>WIREs Cognitive Science, 1</i>, 811–823. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.79">https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.79</a><a href="http://doi.org/10.1002/wcs.79"> http://doi.org/10.1002/wcs.79</a></p>
 
@@ -430,6 +448,8 @@
 
 <p id="ElhageNandaOlssonEtAl21">Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., Askell, A., Bai, Y., Chen, A., & Conerly, T. (2021). A mathematical framework for transformer circuits. <i>Transformer Circuits Thread, 1</i>, 12. <a href="https://transformer-circuits.pub/2021/framework/index.html">https://transformer-circuits.pub/2021/framework/index.html</a></p>
 
+<p id="EliasWatanabeKohn14">Elias, L.A., Watanabe, R.N., & Kohn, A.F. (2014). Spinal Mechanisms May Provide a Combination of Intermittent and Continuous Control of Human Posture: Predictions from a Biologically Based Neuromusculoskeletal Model. <i>PLOS Computational Biology, 10</i>, e1003944. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003944">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003944</a><a href="http://doi.org/10.1371/journal.pcbi.1003944"> http://doi.org/10.1371/journal.pcbi.1003944</a></p>
+
 <p id="EllenderHarwoodKosilloEtAl13">Ellender, T.J., Harwood, J., Kosillo, P., Capogna, M., & Bolam, J.P. (2013). Heterogeneous properties of central lateral and parafascicular thalamic synapses in the striatum. <i>The Journal of Physiology, 591</i>, 257–272. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23109111">http://www.ncbi.nlm.nih.gov/pubmed/23109111</a></p>
 
 <p id="Elman90">Elman, J.L. (1990). Finding structure in time. <i>Cognitive Science, 14</i>, 179–211. </p>
@@ -441,6 +461,8 @@
 <p id="Elston03">Elston, G.N. (2003). Cortex, cognition and the cell: new insights into the pyramidal neuron and prefrontal function. <i>Cerebral Cortex, 13</i>, 1124–1138. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14576205">http://www.ncbi.nlm.nih.gov/pubmed/14576205</a></p>
 
 <p id="EncisoRempeDmitrievEtAl10">Enciso, G.A., Rempe, M., Dmitriev, A.V., Gavrikov, K.E., Terman, D., & Mangel, S.C. (2010). A model of direction selectivity in the starburst amacrine cell network. <i>Journal of Computational Neuroscience, 28</i>, 567–578. <a href="https://doi.org/10.1007/s10827-010-0238-3">https://doi.org/10.1007/s10827-010-0238-3</a><a href="http://doi.org/10.1007/s10827-010-0238-3"> http://doi.org/10.1007/s10827-010-0238-3</a></p>
+
+<p id="EspositoCapelliArber14">Esposito, M.S., Capelli, P., & Arber, S. (2014). Brainstem nucleus MdV mediates skilled forelimb motor tasks. <i>Nature, 508</i>, 351–356. <a href="https://www.nature.com/articles/nature13023">https://www.nature.com/articles/nature13023</a><a href="http://doi.org/10.1038/nature13023"> http://doi.org/10.1038/nature13023</a></p>
 
 <p id="EvansTwedellZhuEtAl20">Evans, R.C., Twedell, E.L., Zhu, M., Ascencio, J., Zhang, R., & Khaliq, Z.M. (2020). Functional dissection of basal ganglia inhibitory inputs onto substantia nigra dopaminergic neurons. <i>Cell Reports, 32</i>, 108156. <a href="https://www.sciencedirect.com/science/article/pii/S2211124720311451">https://www.sciencedirect.com/science/article/pii/S2211124720311451</a><a href="http://doi.org/10.1016/j.celrep.2020.108156"> http://doi.org/10.1016/j.celrep.2020.108156</a></p>
 
@@ -686,6 +708,8 @@
 
 <p id="HeZhangRenEtAl15">He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. <i>arXiv:1512.03385 [cs], <a href="http://arxiv.org/abs/1512.03385">http://arxiv.org/abs/1512.03385</a></i></p>
 
+<p id="HinnekensBarbu-RothDoEtAl23">Hinnekens, E., Barbu-Roth, M., Do, M., Berret, B., & Teulier, C. (2023). Generating variability from motor primitives during infant locomotor development. <i>eLife, 12</i>, e87463. <a href="https://doi.org/10.7554/eLife.87463">https://doi.org/10.7554/eLife.87463</a><a href="http://doi.org/10.7554/eLife.87463"> http://doi.org/10.7554/eLife.87463</a></p>
+
 <p id="HintonSejnowski83">Hinton, G.E., & Sejnowski, T.J. (1983). <i>Optimal perceptual inference. </i>In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. </p>
 
 <p id="HintonSejnowski86">Hinton, G.E., & Sejnowski, T.J. (1986). Learning and Relearning in Boltzmann Machines. In D.E. Rumelhart, J.L. McClelland, & P.R. Group (Eds.), <i>Parallel Distributed Processing. Volume 1: Foundations</i> (pp. 282–317). MIT Press. </p>
@@ -914,7 +938,7 @@
 
 <p id="LaszlovszkySchlingloffHegedusEtAl20">Laszlovszky, T., Schlingloff, D., Hegedüs, P., Freund, T.F., Gulyás, A., Kepecs, A., & Hangya, B. (2020). Distinct synchronization, cortical coupling and behavioral function of two basal forebrain cholinergic neuron types. <i>Nature Neuroscience, 23</i>, 992–1003. <a href="https://www.nature.com/articles/s41593-020-0648-0">https://www.nature.com/articles/s41593-020-0648-0</a><a href="http://doi.org/10.1038/s41593-020-0648-0"> http://doi.org/10.1038/s41593-020-0648-0</a></p>
 
-<p id="Latash18">Latash, M.L. (2018). Muscle coactivation: definitions, mechanisms, and functions. <i>Journal of Neurophysiology, 120</i>, 88–104. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00084.2018">https://journals.physiology.org/doi/full/10.1152/jn.00084.2018</a><a href="http://doi.org/10.1152/jn.00084.2018"> http://doi.org/10.1152/jn.00084.2018</a></p>
+<p id="Latash20">Latash, M.L. (2020). On Primitives in Motor Control. <i>Motor Control, 24</i>, 318–346. <a href="https://journals.humankinetics.com/view/journals/mcj/24/2/article-p318.xml">https://journals.humankinetics.com/view/journals/mcj/24/2/article-p318.xml</a><a href="http://doi.org/10.1123/mc.2019-0099"> http://doi.org/10.1123/mc.2019-0099</a></p>
 
 <p id="LatashLevinScholzEtAl10">Latash, M.L., Levin, M.F., Scholz, J.P., & Schöner, G. (2010). Motor control theories and their applications. <i>Medicina, 46</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20944446">http://www.ncbi.nlm.nih.gov/pubmed/20944446</a></p>
 
@@ -1216,6 +1240,8 @@
 
 <p id="ParkCoddingtonDudman20">Park, J., Coddington, L.T., & Dudman, J.T. (2020). Basal ganglia circuits for action specification. <i>Annual Review of Neuroscience, 43</i>, 485–507. <a href="http://doi.org/10.1146/annurev-neuro-070918-050452"> http://doi.org/10.1146/annurev-neuro-070918-050452</a></p>
 
+<p id="ParkerWillettTysonEtAl20">Parker, M.G., Willett, A.B.S., Tyson, S.F., Weightman, A.P., & Mansell, W. (2020). A systematic evaluation of the evidence for perceptual control theory in tracking studies. <i>Neuroscience & Biobehavioral Reviews, 112</i>, 616–633. <a href="https://www.sciencedirect.com/science/article/pii/S0149763419306220">https://www.sciencedirect.com/science/article/pii/S0149763419306220</a><a href="http://doi.org/10.1016/j.neubiorev.2020.02.030"> http://doi.org/10.1016/j.neubiorev.2020.02.030</a></p>
+
 <p id="ParnaudeauBolkanKellendonk18">Parnaudeau, S., Bolkan, S.S., & Kellendonk, C. (2018). The mediodorsal thalamus: An essential partner of the prefrontal cortex for cognition. <i>Biological Psychiatry, 83</i>, 648–656. <a href="http://www.sciencedirect.com/science/article/pii/S0006322317321935">http://www.sciencedirect.com/science/article/pii/S0006322317321935</a><a href="http://doi.org/10.1016/j.biopsych.2017.11.008"> http://doi.org/10.1016/j.biopsych.2017.11.008</a></p>
 
 <p id="Pashler94">Pashler, H. (1994). Dual-task interference in simple tasks: data and theory. <i>Psychological bulletin, 116</i>, 220–244. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7972591">http://www.ncbi.nlm.nih.gov/pubmed/7972591</a></p>
@@ -1364,6 +1390,8 @@
 
 <p id="Sanger89">Sanger, T.D. (1989). Optimal unsupervised learning in a single-layer linear feedforward neural network. <i>Neural Networks, 2</i>, 459–473. </p>
 
+<p id="SantuzAkayMayerEtAl19">Santuz, A., Akay, T., Mayer, W.P., Wells, T.L., Schroll, A., & Arampatzis, A. (2019). Modular organization of murine locomotor pattern in the presence and absence of sensory feedback from muscle spindles. <i>Journal of Physiology, 597</i>, 3147–3165. <a href="https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP277515">https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP277515</a><a href="http://doi.org/10.1113/JP277515"> http://doi.org/10.1113/JP277515</a></p>
+
 <p id="SatoParentLevesqueEtAl00">Sato, F., Parent, M., Levesque, M., & Parent, A. (2000). Axonal branching pattern of neurons of the subthalamic nucleus in primates. <i>Journal of Comparative Neurology, 424</i>, 142–152. <a href="http://onlinelibrary.wiley.com/doi/abs/10.1002/1096-9861%2820000814%29424%3A1%3C142%3A%3AAID-CNE10%3E3.0.CO%3B2-8">http://onlinelibrary.wiley.com/doi/abs/10.1002/1096-9861%2820000814%29424%3A1%3C142%3A%3AAID-CNE10%3E3.0.CO%3B2-8</a><a href="http://doi.org/https://doi.org/10.1002/1096-9861(20000814)424:1<142::AID-CNE10>3.0.CO;2-8"> http://doi.org/https://doi.org/10.1002/1096-9861(20000814)424:1<142::AID-CNE10>3.0.CO;2-8</a></p>
 
 <p id="SaundersMacoskoWysokerEtAl18">Saunders, A., Macosko, E.Z., Wysoker, A., Goldman, M., Krienen, F.M., Rivera, H., Bien, E., Baum, M., Bortolin, L., Wang, S., Goeva, A., Nemesh, J., Kamitaki, N., Brumbaugh, S., Kulp, D., & McCarroll, S.A. (2018). Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain. <i>Cell, 174</i>, 1015-1030.e16. <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30955-3">https://www.cell.com/cell/abstract/S0092-8674(18)30955-3</a><a href="http://doi.org/10.1016/j.cell.2018.07.028"> http://doi.org/10.1016/j.cell.2018.07.028</a></p>
@@ -1506,6 +1534,8 @@
 
 <p id="TachibanaKitaChikenEtAl08">Tachibana, Y., Kita, H., Chiken, S., Takada, M., & Nambu, A. (2008). Motor cortical control of internal pallidal activity through glutamatergic and GABAergic inputs in awake monkeys. <i>European Journal of Neuroscience, 27</i>, 238–253. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x</a><a href="http://doi.org/10.1111/j.1460-9568.2007.05990.x"> http://doi.org/10.1111/j.1460-9568.2007.05990.x</a></p>
 
+<p id="TakeiConfaisTomatsuEtAl17">Takei, T., Confais, J., Tomatsu, S., Oya, T., & Seki, K. (2017). Neural basis for hand muscle synergies in the primate spinal cord. <i>Proceedings of the National Academy of Sciences, 114</i>, 8643–8648. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1704328114">https://www.pnas.org/doi/abs/10.1073/pnas.1704328114</a><a href="http://doi.org/10.1073/pnas.1704328114"> http://doi.org/10.1073/pnas.1704328114</a></p>
+
 <p id="TanakaHoriikeMatsuzakiEtAl08">Tanaka, J., Horiike, Y., Matsuzaki, M., Miyazaki, T., Ellis-Davies, G.C.R., & Kasai, H. (2008). Protein Synthesis and Neurotrophin-Dependent Structural Plasticity of Single Dendritic Spines. <i>Science, 319</i>, 1683–1687. <a href="https://www.science.org/doi/full/10.1126/science.1152864">https://www.science.org/doi/full/10.1126/science.1152864</a><a href="http://doi.org/10.1126/science.1152864"> http://doi.org/10.1126/science.1152864</a></p>
 
 <p id="TanakaIshikawaKakei19">Tanaka, H., Ishikawa, T., & Kakei, S. (2019). Neural evidence of the cerebellum as a state predictor. <i>Cerebellum (London, England), 18</i>, 349–371. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517560/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517560/</a><a href="http://doi.org/10.1007/s12311-018-0996-4"> http://doi.org/10.1007/s12311-018-0996-4</a></p>
@@ -1538,6 +1568,8 @@
 
 <p id="ThorpeDelormeVanRullen01">Thorpe, S., Delorme, A., & Van Rullen, R. (2001). Spike-based strategies for rapid processing. <i>Neural networks, 14</i>, 715–725. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11665765">http://www.ncbi.nlm.nih.gov/pubmed/11665765</a></p>
 
+<p id="TingChielTrumbowerEtAl15">Ting, L.H., Chiel, H.J., Trumbower, R.D., Allen, J.L., McKay, J.L., Hackney, M.E., & Kesar, T.M. (2015). Neuromechanical Principles Underlying Movement Modularity and Their Implications for Rehabilitation. <i>Neuron, 86</i>, 38–54. <a href="https://www.cell.com/neuron/abstract/S0896-6273(15)00157-9">https://www.cell.com/neuron/abstract/S0896-6273(15)00157-9</a><a href="http://doi.org/10.1016/j.neuron.2015.02.042"> http://doi.org/10.1016/j.neuron.2015.02.042</a></p>
+
 <p id="TingMcKay07">Ting, L.H., & McKay, J.L. (2007). Neuromechanics of muscle synergies for posture and movement. <i>Current Opinion in Neurobiology, 17</i>, 622–628. <a href="https://www.sciencedirect.com/science/article/pii/S0959438808000044">https://www.sciencedirect.com/science/article/pii/S0959438808000044</a><a href="http://doi.org/10.1016/j.conb.2008.01.002"> http://doi.org/10.1016/j.conb.2008.01.002</a></p>
 
 <p id="TitleyKislinSimmonsEtAl19">Titley, H.K., Kislin, M., Simmons, D.H., Wang, S.S., & Hansel, C. (2019). Complex spike clusters and false-positive rejection in a cerebellar supervised learning rule. <i>The Journal of Physiology, 597</i>, 4387–4406. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/JP278502">https://onlinelibrary.wiley.com/doi/abs/10.1113/JP278502</a><a href="http://doi.org/10.1113/JP278502"> http://doi.org/10.1113/JP278502</a></p>
@@ -1554,6 +1586,8 @@
 
 <p id="TreismanGelade80">Treisman, A.M., & Gelade, G. (1980). A Feature-Integration Theory of Attention. <i>Cognitive Psychology, 12</i>, 97–136. </p>
 
+<p id="TreschJarc09">Tresch, M.C., & Jarc, A. (2009). The case for and against muscle synergies. <i>Current Opinion in Neurobiology, 19</i>, 601–607. <a href="http://www.sciencedirect.com/science/article/pii/S095943880900124X">http://www.sciencedirect.com/science/article/pii/S095943880900124X</a><a href="http://doi.org/10.1016/j.conb.2009.09.002"> http://doi.org/10.1016/j.conb.2009.09.002</a></p>
+
 <p id="TreschSaltielBizzi99">Tresch, M.C., Saltiel, P., & Bizzi, E. (1999). The construction of movement by the spinal cord. <i>Nat Neurosci, 2</i>, 162–167. <a href="http://dx.doi.org/10.1038/5721">http://dx.doi.org/10.1038/5721</a></p>
 
 <p id="Tsang14">Tsang, E. (2014). <i>Foundations of Constraint Satisfaction: Computation in Cognitive Science. </i> Academic Press. </p>
@@ -1569,6 +1603,8 @@
 <p id="TurnerDesmurget10">Turner, R.S., & Desmurget, M. (2010). Basal ganglia contributions to motor control: a vigorous tutor. <i>Current Opinion in Neurobiology, 20</i>, 704–716. <a href="http://www.sciencedirect.com/science/article/pii/S095943881000142X">http://www.sciencedirect.com/science/article/pii/S095943881000142X</a><a href="http://doi.org/10.1016/j.conb.2010.08.022"> http://doi.org/10.1016/j.conb.2010.08.022</a></p>
 
 <p id="Turrigiano08">Turrigiano, G.G. (2008). The self-tuning neuron: synaptic scaling of excitatory synapses. <i>Cell, 135</i>, 422–435. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18984155">http://www.ncbi.nlm.nih.gov/pubmed/18984155</a></p>
+
+<p id="UdoMatsukawaKameiEtAl80">Udo, M., Matsukawa, K., Kamei, H., & Oda, Y. (1980). Cerebellar control of locomotion: effects of cooling cerebellar intermediate cortex in high decerebrate and awake walking cats. <i>Journal of Neurophysiology, 44</i>, 119–134. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1980.44.1.119">https://journals.physiology.org/doi/abs/10.1152/jn.1980.44.1.119</a><a href="http://doi.org/10.1152/jn.1980.44.1.119"> http://doi.org/10.1152/jn.1980.44.1.119</a></p>
 
 <p id="UngerleiderMishkin82">Ungerleider, L.G., & Mishkin, M. (1982). Two Cortical Visual Systems. In D.J. Ingle, M.A. Goodale, & R.J.W. Mansfield (Eds.), <i>The Analysis of Visual Behavior</i> (pp. 549–586). MIT Press. </p>
 
@@ -1684,11 +1720,15 @@
 
 <p id="YangLiu22">Yang, Y., & Liu, J. (2022). Structural LTP: Signal transduction, actin cytoskeleton reorganization, and membrane remodeling of dendritic spines. <i>Current Opinion in Neurobiology, 74</i>, 102534. <a href="https://www.sciencedirect.com/science/article/pii/S0959438822000289">https://www.sciencedirect.com/science/article/pii/S0959438822000289</a><a href="http://doi.org/10.1016/j.conb.2022.102534"> http://doi.org/10.1016/j.conb.2022.102534</a></p>
 
+<p id="YangLoganGiszter19">Yang, Q., Logan, D., & Giszter, S.F. (2019). Motor primitives are determined in early development and are then robustly conserved into adulthood. <i>Proceedings of the National Academy of Sciences, 116</i>, 12025–12034. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1821455116">https://www.pnas.org/doi/abs/10.1073/pnas.1821455116</a><a href="http://doi.org/10.1073/pnas.1821455116"> http://doi.org/10.1073/pnas.1821455116</a></p>
+
 <p id="YartsevHanksYoonEtAl18">Yartsev, M.M., Hanks, T.D., Yoon, A.M., & Brody, C.D. (2018). Causal contribution and dynamical encoding in the striatum during evidence accumulation. <i>eLife, 7</i>, e34929. <a href="https://doi.org/10.7554/eLife.34929">https://doi.org/10.7554/eLife.34929</a><a href="http://doi.org/10.7554/eLife.34929"> http://doi.org/10.7554/eLife.34929</a></p>
 
 <p id="YasudaHayashiHell22">Yasuda, R., Hayashi, Y., & Hell, J.W. (2022). CaMKII: a central molecular organizer of synaptic plasticity, learning and memory. <i>Nature Reviews Neuroscience, 23</i>, 666–682. <a href="https://www.nature.com/articles/s41583-022-00624-2">https://www.nature.com/articles/s41583-022-00624-2</a><a href="http://doi.org/10.1038/s41583-022-00624-2"> http://doi.org/10.1038/s41583-022-00624-2</a></p>
 
 <p id="YeoHardimanGlickstein85">Yeo, C.H., Hardiman, M.J., & Glickstein, M. (1985). Classical conditioning of the nictitating membrane response of the rabbit. <i>Experimental Brain Research, 60</i>, 114–126. <a href="https://doi.org/10.1007/BF00237024">https://doi.org/10.1007/BF00237024</a><a href="http://doi.org/10.1007/BF00237024"> http://doi.org/10.1007/BF00237024</a></p>
+
+<p id="YewbreyMantziaraKornysheva23">Yewbrey, R., Mantziara, M., & Kornysheva, K. (2023). Cortical Patterns Shift from Sequence Feature Separation during Planning to Integration during Motor Execution. <i>Journal of Neuroscience, 43</i>, 1742–1756. <a href="https://www.jneurosci.org/content/43/10/1742">https://www.jneurosci.org/content/43/10/1742</a><a href="http://doi.org/10.1523/JNEUROSCI.1628-22.2023"> http://doi.org/10.1523/JNEUROSCI.1628-22.2023</a></p>
 
 <p id="Yin14a">Yin, H.H. (2014). How Basal Ganglia Outputs Generate Behavior. <i>Advances in Neuroscience, 2014</i>, 768313. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1155/2014/768313">https://onlinelibrary.wiley.com/doi/abs/10.1155/2014/768313</a><a href="http://doi.org/10.1155/2014/768313"> http://doi.org/10.1155/2014/768313</a></p>
 
@@ -1702,9 +1742,13 @@
 
 <p id="YuSmithChristensenEtAl07">Yu, C., Smith, L.B., Christensen, M., & Pereira, A. (2007). <i>Two views of the world: Active vision in real-world interaction. </i>In Proceedings of the Annual Meeting of the Cognitive Science Society. <a href="https://escholarship.org/content/qt7ms4z979/qt7ms4z979.pdf">https://escholarship.org/content/qt7ms4z979/qt7ms4z979.pdf</a></p>
 
+<p id="ZaaimiDeanBaker18">Zaaimi, B., Dean, L.R., & Baker, S.N. (2018). Different contributions of primary motor cortex, reticular formation, and spinal cord to fractionated muscle activation. <i>Journal of Neurophysiology, 119</i>, 235–250. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00672.2017">https://journals.physiology.org/doi/full/10.1152/jn.00672.2017</a><a href="http://doi.org/10.1152/jn.00672.2017"> http://doi.org/10.1152/jn.00672.2017</a></p>
+
 <p id="ZangDeSchutter19">Zang, Y., & De Schutter, E. (2019). Climbing Fibers Provide Graded Error Signals in Cerebellar Learning. <i>Frontiers in Systems Neuroscience, 13</i>, <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00046/full">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00046/full</a><a href="http://doi.org/10.3389/fnsys.2019.00046"> http://doi.org/10.3389/fnsys.2019.00046</a></p>
 
 <p id="ZeeuwHanselBianEtAl98">Zeeuw, C.I.D., Hansel, C., Bian, F., Koekkoek, S.K.E., Alphen, A.M., Linden, D.J., & Oberdick, J. (1998). Expression of a Protein Kinase C Inhibitor in Purkinje Cells Blocks Cerebellar LTD and Adaptation of the Vestibulo-Ocular Reflex. <i>Neuron, 20</i>, 495–508. <a href="https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3">https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3</a><a href="http://doi.org/10.1016/S0896-6273(00)80990-3"> http://doi.org/10.1016/S0896-6273(00)80990-3</a></p>
+
+<p id="ZeleninOrlovskyDeliagina07">Zelenin, P.V., Orlovsky, G.N., & Deliagina, T.G. (2007). Sensory-Motor Transformation by Individual Command Neurons. <i>Journal of Neuroscience, 27</i>, 1024–1032. <a href="https://www.jneurosci.org/content/27/5/1024">https://www.jneurosci.org/content/27/5/1024</a><a href="http://doi.org/10.1523/JNEUROSCI.4925-06.2007"> http://doi.org/10.1523/JNEUROSCI.4925-06.2007</a></p>
 
 <p id="Zhang96">Zhang, K. (1996). Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: a theory. <i>The Journal of neuroscience : the official journal of the Society for Neuroscience, 16</i>, 2112. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8604055">http://www.ncbi.nlm.nih.gov/pubmed/8604055</a></p>
 
