@@ -7,7 +7,7 @@ The **transformer** architecture, developed by researchers at Google ([[@Vaswani
 
 Despite the fact that the transformer mechanisms have no plausible direct connections to neuroscience, it is of great importance to the [[Axon]] project, and any attempt to understand [[computational cognitive neuroscience]] more broadly, because it provides the only known working example of an artificial system based on neuron-like processing mechanisms that accomplishes significant levels of systematic, generative [[generalization]] at a human-like level ([[@YangCampbellHuangEtAl25]]; [[@McGrathRussinPavlickEtAl24]]; [[@McClellandHillRudolphEtAl20]]). After describing the basic mechanisms, we consider what can be learned by understanding how these mechanisms accomplish this impressive feat.
 
-At an overview level, it emerges through a combination of structure-sensitive processing enabled by self-attention and the ResNet architecture, and a powerful memory system that combines features of both the [[neocortex]] and [[hippocampus]] in the feedforward network. Thus, the transform is more than just the sum of its parts: these components work together synergistically to support complex emergent dynamics ([[@ElhageNandaOlssonEtAl21]]).
+At an overview level, it emerges through a combination of structure-sensitive processing enabled by self-attention and the ResNet architecture, and a powerful memory system that combines features of both the [[neocortex]] and [[hippocampus]] in the feedforward network. Thus, the transform is more than just the sum of its parts: these components work together synergistically to support complex [[emergent]] dynamics ([[@ElhageNandaOlssonEtAl21]]).
 
 ## Self-attention
 

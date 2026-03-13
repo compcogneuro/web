@@ -326,6 +326,8 @@
 
 <p id="CoslettSaffran91">Coslett, H.B., & Saffran, E. (1991). Simultanagnosia. To see but not two see. <i>Brain, 114</i>, 1523–1545. </p>
 
+<p id="CoteMurrayKnikou18">Côté, M., Murray, L.M., & Knikou, M. (2018). Spinal Control of Locomotion: Individual Neurons, Their Circuits and Functions. <i>Frontiers in Physiology, 9</i>, <a href="https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00784/full">https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00784/full</a><a href="http://doi.org/10.3389/fphys.2018.00784"> http://doi.org/10.3389/fphys.2018.00784</a></p>
+
 <p id="CoultrapFreundOLearyEtAl14">Coultrap, S.J., Freund, R.K., O’Leary, H., Sanderson, J.L., Roche, K.W., Dell’Acqua, M.L., & Bayer, K.U. (2014). Autonomous CaMKII mediates both LTP and LTD using a mechanism for differential substrate site selection. <i>Cell Reports, 6</i>, 431–437. <a href="http://www.sciencedirect.com/science/article/pii/S2211124714000060">http://www.sciencedirect.com/science/article/pii/S2211124714000060</a><a href="http://doi.org/10.1016/j.celrep.2014.01.005"> http://doi.org/10.1016/j.celrep.2014.01.005</a></p>
 
 <p id="CourtneyPamukcuChan23">Courtney, C.D., Pamukcu, A., & Chan, C.S. (2023). Cell and circuit complexity of the external globus pallidus. <i>Nature Neuroscience, 26</i>(7), 1147–1159. <a href="https://www.nature.com/articles/s41593-023-01368-7">https://www.nature.com/articles/s41593-023-01368-7</a><a href="http://doi.org/10.1038/s41593-023-01368-7"> http://doi.org/10.1038/s41593-023-01368-7</a></p>
@@ -659,6 +661,8 @@
 <p id="Haber03">Haber, S.N. (2003). The primate basal ganglia: parallel and integrative networks. <i>Journal of Chemical Neuroanatomy, 26</i>, 317–330. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14729134">http://www.ncbi.nlm.nih.gov/pubmed/14729134</a></p>
 
 <p id="HaberFudgeMcFarland00">Haber, S.N., Fudge, J.L., & McFarland, N.R. (2000). Striatonigrostriatal pathways in primates form an ascending spiral from the shell to the dorsolateral striatum. <i>The Journal of Neuroscience, 20</i>, 2369–2382. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10704511">http://www.ncbi.nlm.nih.gov/pubmed/10704511</a></p>
+
+<p id="HafnerLillicrapFischerEtAl18">Hafner, D., Lillicrap, T., Fischer, I., Villegas, R., Ha, D., Lee, H., & Davidson, J. (2018). Learning latent dynamics for planning from pixels. <a href="https://arxiv.org/abs/1811.04551v5">https://arxiv.org/abs/1811.04551v5</a></p>
 
 <p id="HafnerLillicrapNorouziEtAl22">Hafner, D., Lillicrap, T., Norouzi, M., & Ba, J. (2022). Mastering Atari with Discrete World Models. <a href="http://arxiv.org/abs/2010.02193">http://arxiv.org/abs/2010.02193</a><a href="http://doi.org/10.48550/arXiv.2010.02193"> http://doi.org/10.48550/arXiv.2010.02193</a></p>
 
@@ -1057,6 +1061,8 @@
 <p id="McCormickThompson84">McCormick, D.A., & Thompson, R.F. (1984). Cerebellum: Essential Involvement in the Classically Conditioned Eyelid Response. <i>Science, 223</i>, 296–299. <a href="https://www.science.org/doi/abs/10.1126/science.6701513">https://www.science.org/doi/abs/10.1126/science.6701513</a><a href="http://doi.org/10.1126/science.6701513"> http://doi.org/10.1126/science.6701513</a></p>
 
 <p id="McCormickThompson84a">McCormick, D.A., & Thompson, R.F. (1984). Neuronal responses of the rabbit cerebellum during acquisition and performance of a classically conditioned nictitating membrane-eyelid response. <i>Journal of Neuroscience, 4</i>, 2811–2822. <a href="https://www.jneurosci.org/content/4/11/2811">https://www.jneurosci.org/content/4/11/2811</a><a href="http://doi.org/10.1523/JNEUROSCI.04-11-02811.1984"> http://doi.org/10.1523/JNEUROSCI.04-11-02811.1984</a></p>
+
+<p id="McCrea92">McCrea, D.A. (1992). Can sense be made of spinal interneuron circuits? <i>Behavioral and Brain Sciences, 15</i>, 633–643. <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/can-sense-be-made-of-spinal-interneuron-circuits/263F3672F63CCCB50529F06CC6C73889">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/can-sense-be-made-of-spinal-interneuron-circuits/263F3672F63CCCB50529F06CC6C73889</a><a href="http://doi.org/10.1017/S0140525X00072551"> http://doi.org/10.1017/S0140525X00072551</a></p>
 
 <p id="McElvainBagnallSakatosEtAl10">McElvain, L.E., Bagnall, M.W., Sakatos, A., & Lac, S. (2010). Bidirectional Plasticity Gated by Hyperpolarization Controls the Gain of Postsynaptic Firing Responses at Central Vestibular Nerve Synapses. <i>Neuron, 68</i>, 763–775. <a href="https://www.cell.com/neuron/abstract/S0896-6273(10)00767-1">https://www.cell.com/neuron/abstract/S0896-6273(10)00767-1</a><a href="http://doi.org/10.1016/j.neuron.2010.09.025"> http://doi.org/10.1016/j.neuron.2010.09.025</a></p>
 
@@ -1503,6 +1509,8 @@
 <p id="SpellmanRigottiAhmariEtAl15">Spellman, T., Rigotti, M., Ahmari, S.E., Fusi, S., Gogos, J.A., & Gordon, J.A. (2015). Hippocampal–prefrontal input supports spatial encoding in working memory. <i>Nature, 522</i>(7556), 309–314. <a href="https://www.nature.com/articles/nature14445">https://www.nature.com/articles/nature14445</a><a href="http://doi.org/10.1038/nature14445"> http://doi.org/10.1038/nature14445</a></p>
 
 <p id="Spruston08">Spruston, N. (2008). Pyramidal neurons: dendritic structure and synaptic integration. <i>Nature Reviews. Neuroscience, 9</i>, 201–221. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18270515">http://www.ncbi.nlm.nih.gov/pubmed/18270515</a></p>
+
+<p id="SteinMisiaszekPearson00">Stein, R.B., Misiaszek, J.E., & Pearson, K.G. (2000). Functional role of muscle reflexes for force generation in the decerebrate walking cat. <i>The Journal of Physiology, 525</i>, 781–791. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.2000.00781.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.2000.00781.x</a><a href="http://doi.org/10.1111/j.1469-7793.2000.00781.x"> http://doi.org/10.1111/j.1469-7793.2000.00781.x</a></p>
 
 <p id="Stephenson-JonesKardamakisRobertsonEtAl13">Stephenson-Jones, M., Kardamakis, A.A., Robertson, B., & Grillner, S. (2013). Independent circuits in the basal ganglia for the evaluation and selection of actions. <i>Proceedings of the National Academy of Sciences of the USA, Early edition</i>, 1–10. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24003130">http://www.ncbi.nlm.nih.gov/pubmed/24003130</a></p>
 
