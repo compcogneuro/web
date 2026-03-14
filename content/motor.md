@@ -74,7 +74,7 @@ At a broad level, the contributions of each additional level of control are as f
 
 * Brainstem nuclei integrate broader sensory inputs to drive more complex, survival-relevant behaviors as combinations of spinal synergies, for example control of locomotor activity ([[#figure_brainstem]]) and reaching for food ([[@EspositoCapelliArber14]]; [[@CapelliPivettaSoledadEspositoEtAl17]]; [[@ZeleninOrlovskyDeliagina07]]; [[@ZaaimiDeanBaker18]]).
 
-* The [[cerebellum]] provides direct tuning of the spinal synergies themselves ([[@UdoMatsukawaKameiEtAl80]]; [[@GrillnerElManira20]]; [[#figure_cerebellum-tuning]]), as well as the ability to learn different coordinated spatiotemporal patterns across multiple spinal synergies ([[@BergerGentnerEdmundsEtAl13]]), with these functions taking place in different pathways through the cerebellum (vestibulospinal, rubrospinal, and reticulospinal).
+* The [[cerebellum]] performs two different types of predictive learning, which can drive direct tuning of the spinal synergies themselves ([[@UdoMatsukawaKameiEtAl80]]; [[@GrillnerElManira20]]; [[#figure_cerebellum-tuning]]), as well as the ability to learn different coordinated spatiotemporal patterns across multiple spinal synergies ([[@BergerGentnerEdmundsEtAl13]]), with these functions taking place in different pathways through the cerebellum (vestibulospinal, rubrospinal, and reticulospinal).
 
 * The _dorsolateral_ (motor) region of the [[basal ganglia]] provides dynamic modulation of ongoing motor actions based on [[dopamine]]-driven [[reinforcement learning]] mechanisms, to optimize the shaping and selection of actions that lead to reward and avoid negative outcomes ([[@GrillnerRobertsonKotaleski20]]; [[@ParkCoddingtonDudman20]]; [[@ArberCosta22]]; [[@MarkowitzGillisBeronEtAl18]]).
 
@@ -146,22 +146,27 @@ The development of motor control in humans was hypothesized by [[@^Bernstein96]]
 
 ## Higher level details
 
-The residual signals provide control knobs for higher levels of control! Key example of VOR vs. saccades etc!  Saccade is an error signal from perspective of VOR. Subsumption / override and neural mechanisms supporting that [[@Brooks86]].
-
-output of lower level is input to next higher level -- higher level learns to predict the residuals in lower level, using broader / higher-level context that explains the perturbations.
-
-Actual motor control signals come from BG and cortex, using sensory signals from cerebellum.
-
-Key Powers et al point: you can do all of motor control in sensory space!
-
-What does cerebellum need to handle this?
+In the remaining sections, we explore in more depth some of the issues associated with higher levels of control.
 
 ### Cerebellum
 
 {id="figure_cerebellum-tuning" style="height:30em"}
-![Pathways by which the cerebellum can control the tuning of spinal muscle synergies (CPGs: central pattern generators).](media/fig_cerebellum_cpg_tuning_grillner_20.png)
+![Pathways by which the cerebellum can control the tuning of spinal muscle synergies (CPGs: central pattern generators). DSCT = dorsal spinocerebellar tract; VSCT = ventral spinocerebellar tract; MLR = mesencephalic locomotor region; LGCI = lateral paragigantocellular nucleus. From Grillner & El Manira, 2020.](media/fig_cerebellum_cpg_tuning_grillner_20.png)
+
+The [[cerebellum]] learns by predicting specific sensory signals using a broad range of other ongoing sensorimotor signals. It can uses this predictive learning to adaptively filter expected signals, and also provide earlier active predictions of these signals, as a forward model. These learning abilities can be used to drive the fine tuning of the spinal CPGs / muscle synergies, as shown in [[#figure_cerebellum-tuning]] from [[@^GrillnerElManira20]].
+
+The cerebellum can also use predictive learning to activate muscle synergies and other higher-level motor programs, to accomplish more well-coordinated motor actions. One well-studied example is in the case of the [[cerebellum#Vestibulo-ocular reflex]] (VOR), where the anticipated effects of head rotation can drive anticipatory and compensatory eye movements in the opposite direction, to maintain a stable visual percept. 
+
+However, some times the goal is instead to generate a saccade to fixate on a particular point in space, using a combination of head and eye movements. In this case, the VOR reflex must be inhibited, and a different saccadic eye movement programmed, which takes into account the anticipated head movement so that the two actions together end up with the eyes fixating on the target location. Thus, this flexible action space of VOR vs fixation represents a good well-studied example of how higher-level control works in the cerebellum.
+
+It is important to understand that the cerebellum _manages_ a set of control "knobs" for different motor programs, but it does not itself _decide_ what to do with these knobs. That is the job of the basal ganglia, which has the relevant reward-based learning mechanisms to make such decisions. The cerebellum learning is instead optimized for smooth coordination across different programs, by leveraging its ability to anticipate the effects of motor actions, and drive everything according to these predictions.
 
 ### Basal ganglia 
+
+{id="figure_bg-outs" style="height:30em"}
+![Motor output pathways of the basal ganglia, via the SNr (substantia nigra pars reticulata). These extensive outputs allow the basal ganglia to sculpt appropriate sequences of muscle synergy programs in these areas, using powerful dopamine-based reinforcement learning mechanisms. From Arber & Costa, 2022.](media/fig_bg_motor_outputs_arber_costa_22.png)
+
+The dorsolateral [[basal ganglia]] drives learning of a broad range of output neurons (in the SNr and GPi) that project down into all of the relevant lower-level motor control areas ([[#figure_bg-outs]], from [[@ArberCosta22]]).
 
 ### Frontal cortex
 
