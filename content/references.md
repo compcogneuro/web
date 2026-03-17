@@ -522,6 +522,8 @@
 
 <p id="FroemkeTsayRaadEtAl06">Froemke, R.C., Tsay, I.A., Raad, M., Long, J.D., & Dan, Y. (2006). Contribution of individual spikes in burst-induced long-term synaptic modification. <i>Journal of Neurophysiology, 95</i>, 1620–1629. </p>
 
+<p id="FuchsScudderKaneko88">Fuchs, A.F., Scudder, C.A., & Kaneko, C.R. (1988). Discharge patterns and recruitment order of identified motoneurons and internuclear neurons in the monkey abducens nucleus. <i>Journal of Neurophysiology, 60</i>, 1874–1895. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1988.60.6.1874">https://journals.physiology.org/doi/abs/10.1152/jn.1988.60.6.1874</a><a href="http://doi.org/10.1152/jn.1988.60.6.1874"> http://doi.org/10.1152/jn.1988.60.6.1874</a></p>
+
 <p id="FujimotoHoriNagaiEtAl19">Fujimoto, A., Hori, Y., Nagai, Y., Kikuchi, E., Oyama, K., Suhara, T., & Minamimoto, T. (2019). Signaling Incentive and Drive in the Primate Ventral Pallidum for Motivational Control of Goal-Directed Action. <i>Journal of Neuroscience, 39</i>, 1793–1804. <a href="https://www.jneurosci.org/content/39/10/1793">https://www.jneurosci.org/content/39/10/1793</a><a href="http://doi.org/10.1523/JNEUROSCI.2399-18.2018"> http://doi.org/10.1523/JNEUROSCI.2399-18.2018</a></p>
 
 <p id="FujimotoKita93">Fujimoto, K., & Kita, H. (1993). Response characteristics of subthalamic neurons to the stimulation of the sensorimotor cortex in the rat. <i>Brain Research, 609</i>, 185–192. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8508302">http://www.ncbi.nlm.nih.gov/pubmed/8508302</a></p>
@@ -555,6 +557,8 @@
 <p id="GarwiczChristenssonPsouni09">Garwicz, M., Christensson, M., & Psouni, E. (2009). A unifying model for timing of walking onset in humans and other mammals. <i>Proceedings of the National Academy of Sciences, 106</i>, 21889–21893. <a href="https://www.pnas.org/doi/full/10.1073/pnas.0905777106">https://www.pnas.org/doi/full/10.1073/pnas.0905777106</a><a href="http://doi.org/10.1073/pnas.0905777106"> http://doi.org/10.1073/pnas.0905777106</a></p>
 
 <p id="Gegenfurtner03">Gegenfurtner, K.R. (2003). Cortical mechanisms of colour vision. <i>Nature Reviews Neuroscience, 4</i>, 563–572. <a href="http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html">http://www.nature.com/nrn/journal/v4/n7/abs/nrn1138.html</a><a href="http://doi.org/10.1038/nrn1138"> http://doi.org/10.1038/nrn1138</a></p>
+
+<p id="GelfandLatash98">Gelfand, I.M., & Latash, M.L. (1998). On the Problem of Adequate Language in Motor Control. <i>Motor Control, 2</i>, 306–313. <a href="https://journals.humankinetics.com/view/journals/mcj/2/4/article-p306.xml">https://journals.humankinetics.com/view/journals/mcj/2/4/article-p306.xml</a><a href="http://doi.org/10.1123/mcj.2.4.306"> http://doi.org/10.1123/mcj.2.4.306</a></p>
 
 <p id="GemanGeman84">Geman, S., & Geman, D. (1984). Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-6</i>, 721–741. </p>
 
@@ -603,6 +607,8 @@
 <p id="GoodellTullisBayer21">Goodell, D.J., Tullis, J.E., & Bayer, K.U. (2021). Young DAPK1 knockout mice have altered presynaptic function. <i>Journal of Neurophysiology, 125</i>, 1973–1981. <a href="http://journals.physiology.org/doi/full/10.1152/jn.00055.2021">http://journals.physiology.org/doi/full/10.1152/jn.00055.2021</a><a href="http://doi.org/10.1152/jn.00055.2021"> http://doi.org/10.1152/jn.00055.2021</a></p>
 
 <p id="GoodellZaegelCoultrapEtAl17">Goodell, D.J., Zaegel, V., Coultrap, S.J., Hell, J.W., & Bayer, K.U. (2017). DAPK1 mediates LTD by making CaMKII/GluN2B binding LTP specific. <i>Cell Reports, 19</i>, 2231–2243. <a href="http://www.sciencedirect.com/science/article/pii/S2211124717307258">http://www.sciencedirect.com/science/article/pii/S2211124717307258</a><a href="http://doi.org/10.1016/j.celrep.2017.05.068"> http://doi.org/10.1016/j.celrep.2017.05.068</a></p>
+
+<p id="GorkoSiwanowiczCloseEtAl24">Gorko, B., Siwanowicz, I., Close, K., Christoforou, C., Hibbard, K.L., Kabra, M., Lee, A., Park, J., Li, S.Y., Chen, A.B., Namiki, S., Chen, C., Tuthill, J.C., Bock, D.D., Rouault, H., Branson, K., Ihrke, G., & Huston, S.J. (2024). Motor neurons generate pose-targeted movements via proprioceptive sculpting. <i>Nature, 628</i>, 596–603. <a href="https://www.nature.com/articles/s41586-024-07222-5">https://www.nature.com/articles/s41586-024-07222-5</a><a href="http://doi.org/10.1038/s41586-024-07222-5"> http://doi.org/10.1038/s41586-024-07222-5</a></p>
 
 <p id="Gould77">Gould, S.J. (1977). <i>Ontogeny and phylogeny. </i> Harvard U Press. </p>
 
@@ -950,7 +956,11 @@
 
 <p id="Latash20">Latash, M.L. (2020). On Primitives in Motor Control. <i>Motor Control, 24</i>, 318–346. <a href="https://journals.humankinetics.com/view/journals/mcj/24/2/article-p318.xml">https://journals.humankinetics.com/view/journals/mcj/24/2/article-p318.xml</a><a href="http://doi.org/10.1123/mc.2019-0099"> http://doi.org/10.1123/mc.2019-0099</a></p>
 
+<p id="Latash24">Latash, M.L. (2024). Terra incognita of the uncontrolled manifold. <i>Journal of Neurophysiology, 132</i>, 1729–1743. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00394.2024">https://journals.physiology.org/doi/full/10.1152/jn.00394.2024</a><a href="http://doi.org/10.1152/jn.00394.2024"> http://doi.org/10.1152/jn.00394.2024</a></p>
+
 <p id="LatashLevinScholzEtAl10">Latash, M.L., Levin, M.F., Scholz, J.P., & Schöner, G. (2010). Motor control theories and their applications. <i>Medicina, 46</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20944446">http://www.ncbi.nlm.nih.gov/pubmed/20944446</a></p>
+
+<p id="LatashScholzSchoner07">Latash, M.L., Scholz, J.P., & Schöner, G. (2007). Toward a New Theory of Motor Synergies. <i>Motor Control, 11</i>, 276–308. <a href="https://journals.humankinetics.com/view/journals/mcj/11/3/article-p276.xml">https://journals.humankinetics.com/view/journals/mcj/11/3/article-p276.xml</a><a href="http://doi.org/10.1123/mcj.11.3.276"> http://doi.org/10.1123/mcj.11.3.276</a></p>
 
 <p id="LeCunBengioHinton15">LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>, 436–444. <a href="http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html">http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html</a><a href="http://doi.org/10.1038/nature14539"> http://doi.org/10.1038/nature14539</a></p>
 
@@ -1392,6 +1402,8 @@
 
 <p id="SagaRichardSgambato-FaureEtAl16">Saga, Y., Richard, A., Sgambato-Faure, V., Hoshi, E., Tobler, P.N., & Tremblay, L. (2016). Ventral Pallidum Encodes Contextual Information and Controls Aversive Behaviors. <i>Cerebral Cortex, </i>bhw107. <a href="http://cercor.oxfordjournals.org/content/early/2016/04/22/cercor.bhw107">http://cercor.oxfordjournals.org/content/early/2016/04/22/cercor.bhw107</a><a href="http://doi.org/10.1093/cercor/bhw107"> http://doi.org/10.1093/cercor/bhw107</a></p>
 
+<p id="Sainburg15">Sainburg, R.L. (2015). Should the Equilibrium Point Hypothesis (EPH) Be Considered a Scientific Theory? <i>Motor Control, 19</i>, 142–148. <a href="https://journals.humankinetics.com/view/journals/mcj/19/2/article-p142.xml">https://journals.humankinetics.com/view/journals/mcj/19/2/article-p142.xml</a><a href="http://doi.org/10.1123/mc.2014-0056"> http://doi.org/10.1123/mc.2014-0056</a></p>
+
 <p id="SakataHarris09">Sakata, S., & Harris, K.D. (2009). Laminar structure of spontaneous and sensory-evoked population activity in auditory cortex. <i>Neuron, 64</i>, 404–418. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19914188">http://www.ncbi.nlm.nih.gov/pubmed/19914188</a></p>
 
 <p id="Samuel59">Samuel, A.L. (1959). Some Studies in Machine Learning Using the Game of Checkers. <i>IBM Journal of Research and Development, 3</i>, 210–229. <a href="https://ieeexplore.ieee.org/abstract/document/5392560">https://ieeexplore.ieee.org/abstract/document/5392560</a><a href="http://doi.org/10.1147/rd.33.0210"> http://doi.org/10.1147/rd.33.0210</a></p>
@@ -1426,6 +1438,8 @@
 
 <p id="SchoenbaumRoeschStalnakerEtAl09">Schoenbaum, G., Roesch, M.R., Stalnaker, T.A., & Takahashi, Y.K. (2009). A new perspective on the role of the orbitofrontal cortex in adaptive behaviour. <i>Nature Reviews Neuroscience, 10</i>, 885–892. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19904278">http://www.ncbi.nlm.nih.gov/pubmed/19904278</a></p>
 
+<p id="ScholzSchoner99">Scholz, J.P., & Schöner, G. (1999). The uncontrolled manifold concept: identifying control variables for a functional task. <i>Experimental Brain Research. Experimentelle Hirnforschung. Expérimentation Cérébrale, 126</i>, 289–306. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10382616">http://www.ncbi.nlm.nih.gov/pubmed/10382616</a></p>
+
 <p id="Schraudolph98">Schraudolph, N.N. (1998). Centering Neural Network Gradient Factors. In G.B. Orr, & K. Müller (Eds.), <i>Neural Networks: Tricks of the Trade</i> (pp. 207–226). Springer. <a href="https://doi.org/10.1007/3-540-49430-8_11">https://doi.org/10.1007/3-540-49430-8_11</a><a href="http://doi.org/10.1007/3-540-49430-8_11"> http://doi.org/10.1007/3-540-49430-8_11</a></p>
 
 <p id="SchultzDayanMontague97">Schultz, W., Dayan, P., & Montague, P.R. (1997). A neural substrate of prediction and reward. <i>Science, 275</i>, 1593–1599. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9054347">http://www.ncbi.nlm.nih.gov/pubmed/9054347</a></p>
@@ -1443,6 +1457,8 @@
 <p id="ShadlenNewsome94">Shadlen, M.N., & Newsome, W.T. (1994). Noise, neural codes and cortical organization. <i>Current opinion in neurobiology, 4</i>, 569–579. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7812147">http://www.ncbi.nlm.nih.gov/pubmed/7812147</a></p>
 
 <p id="ShadlenNewsome98">Shadlen, M.N., & Newsome, W.T. (1998). The variable discharge of cortical neurons: implications for connectivity, computation, and information coding. <i>The Journal of neuroscience : the official journal of the Society for Neuroscience, 18</i>, 3870. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9570816">http://www.ncbi.nlm.nih.gov/pubmed/9570816</a></p>
+
+<p id="Shadmehr10">Shadmehr, R. (2010). From Equilibrium Point to Optimal Control. <i>Motor Control, 14</i>, e25-e30. <a href="https://journals.humankinetics.com/view/journals/mcj/14/3/article-pe25.xml">https://journals.humankinetics.com/view/journals/mcj/14/3/article-pe25.xml</a><a href="http://doi.org/10.1123/mcj.14.3.e25"> http://doi.org/10.1123/mcj.14.3.e25</a></p>
 
 <p id="Shadmehr20">Shadmehr, R. (2020). Population coding in the cerebellum: a machine learning perspective. <i>Journal of Neurophysiology, 124</i>, 2022–2051. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00449.2020">https://journals.physiology.org/doi/full/10.1152/jn.00449.2020</a><a href="http://doi.org/10.1152/jn.00449.2020"> http://doi.org/10.1152/jn.00449.2020</a></p>
 
@@ -1504,6 +1520,8 @@
 
 <p id="SommerWurtz00">Sommer, M.A., & Wurtz, R.H. (2000). Composition and topographic organization of signals sent from the frontal eye field to the superior colliculus. <i>Journal of Neurophysiology, 83</i>, 1979–2001. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10758109">http://www.ncbi.nlm.nih.gov/pubmed/10758109</a></p>
 
+<p id="Sparks02">Sparks, D.L. (2002). The brainstem control of saccadic eye movements. <i>Nature Reviews Neuroscience, 3</i>, 952–964. </p>
+
 <p id="Spear00">Spear, L.P. (2000). The adolescent brain and age-related behavioral manifestations. <i>Neuroscience & Biobehavioral Reviews, 24</i>, 417–463. <a href="https://www.sciencedirect.com/science/article/pii/S0149763400000142">https://www.sciencedirect.com/science/article/pii/S0149763400000142</a><a href="http://doi.org/10.1016/S0149-7634(00)00014-2"> http://doi.org/10.1016/S0149-7634(00)00014-2</a></p>
 
 <p id="SpellmanRigottiAhmariEtAl15">Spellman, T., Rigotti, M., Ahmari, S.E., Fusi, S., Gogos, J.A., & Gordon, J.A. (2015). Hippocampal–prefrontal input supports spatial encoding in working memory. <i>Nature, 522</i>(7556), 309–314. <a href="https://www.nature.com/articles/nature14445">https://www.nature.com/articles/nature14445</a><a href="http://doi.org/10.1038/nature14445"> http://doi.org/10.1038/nature14445</a></p>
@@ -1547,6 +1565,8 @@
 <p id="Swadlow90">Swadlow, H.A. (1990). Efferent neurons and suspected interneurons in S-1 forelimb representation of the awake rabbit: receptive fields and axonal properties. <i>Journal of Neurophysiology, 63</i>, 1477–1498. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477">https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477</a><a href="http://doi.org/10.1152/jn.1990.63.6.1477"> http://doi.org/10.1152/jn.1990.63.6.1477</a></p>
 
 <p id="SwensonCastro83">Swenson, R.S., & Castro, A.J. (1983). The afferent connections of the inferior olivary complex in rats. An anterograde study using autoradiographic and axonal degeneration techniques. <i>Neuroscience, 8</i>, 259–275. <a href="https://www.sciencedirect.com/science/article/pii/0306452283900647">https://www.sciencedirect.com/science/article/pii/0306452283900647</a><a href="http://doi.org/10.1016/0306-4522(83)90064-7"> http://doi.org/10.1016/0306-4522(83)90064-7</a></p>
+
+<p id="SylvestreCullen99">Sylvestre, P.A., & Cullen, K.E. (1999). Quantitative Analysis of Abducens Neuron Discharge Dynamics During Saccadic and Slow Eye Movements. <i>Journal of Neurophysiology, 82</i>, 2612–2632. <a href="https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2612">https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2612</a><a href="http://doi.org/10.1152/jn.1999.82.5.2612"> http://doi.org/10.1152/jn.1999.82.5.2612</a></p>
 
 <p id="TachibanaHikosaka12">Tachibana, Y., & Hikosaka, O. (2012). The primate ventral pallidum encodes expected reward value and regulates motor action. <i>Neuron, 76</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23177966">http://www.ncbi.nlm.nih.gov/pubmed/23177966</a></p>
 
@@ -1653,6 +1673,8 @@
 <p id="VapnikChervonenkis71">Vapnik, V.N., & Chervonenkis, A. (1971). On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities. <i>Theory of Probability and Its Applications, 16</i>, 264–280. </p>
 
 <p id="VaswaniShazeerParmarEtAl17">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, �., & Polosukhin, I. (2017). Attention is all you need. In I. Guyon, U.V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Eds.), <i>Advances in Neural Information Processing Systems 30</i> (pp. 5998–6008). Curran Associates, Inc. <a href="http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a></p>
+
+<p id="VazPintoJuniorEtAl19">Vaz, D.V., Pinto, V.A., Junior, R.R.S., Mattos, D.J.S., & Mitra, S. (2019). Coordination in adults with neurological impairment – A systematic review of uncontrolled manifold studies. <i>Gait & Posture, 69</i>, 66–78. <a href="https://www.sciencedirect.com/science/article/pii/S0966636219300013">https://www.sciencedirect.com/science/article/pii/S0966636219300013</a><a href="http://doi.org/10.1016/j.gaitpost.2019.01.003"> http://doi.org/10.1016/j.gaitpost.2019.01.003</a></p>
 
 <p id="VeceraFarah94">Vecera, S.P., & Farah, M.J. (1994). Does visual attention select objects or locations? <i>Journal of Experimental Psychology: General, 123</i>, 146–160. </p>
 
