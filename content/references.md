@@ -176,6 +176,8 @@
 
 <p id="BittnerMilsteinGrienbergerEtAl17">Bittner, K.C., Milstein, A.D., Grienberger, C., Romani, S., & Magee, J.C. (2017). Behavioral time scale synaptic plasticity underlies CA1 place fields. <i>Science, 357</i>, 1033–1036. <a href="http://science.sciencemag.org/content/357/6355/1033">http://science.sciencemag.org/content/357/6355/1033</a><a href="http://doi.org/10.1126/science.aan3846"> http://doi.org/10.1126/science.aan3846</a></p>
 
+<p id="BizziAjemian20">Bizzi, E., & Ajemian, R. (2020). From motor planning to execution: a sensorimotor loop perspective. <i>Journal of Neurophysiology, 124</i>, 1815–1823. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00715.2019">https://journals.physiology.org/doi/full/10.1152/jn.00715.2019</a><a href="http://doi.org/10.1152/jn.00715.2019"> http://doi.org/10.1152/jn.00715.2019</a></p>
+
 <p id="BizziCheungdAvellaEtAl08">Bizzi, E., Cheung, V.C.K., Avella, A., Saltiel, P., & Tresch, M. (2008). Combining modules for movement. <i>Brain Research Reviews, 57</i>, 125–133. <a href="https://www.sciencedirect.com/science/article/pii/S0165017307001774">https://www.sciencedirect.com/science/article/pii/S0165017307001774</a><a href="http://doi.org/10.1016/j.brainresrev.2007.08.004"> http://doi.org/10.1016/j.brainresrev.2007.08.004</a></p>
 
 <p id="BlazquezHirataHeineyEtAl03">Blazquez, P.M., Hirata, Y., Heiney, S.A., Green, A.M., & Highstein, S.M. (2003). Cerebellar Signatures of Vestibulo-Ocular Reflex Motor Learning. <i>Journal of Neuroscience, 23</i>, 9742–9751. <a href="https://www.jneurosci.org/content/23/30/9742">https://www.jneurosci.org/content/23/30/9742</a><a href="http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003"> http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003</a></p>
@@ -277,6 +279,8 @@
 <p id="Chomsky65">Chomsky, N. (1965). <i>Aspects of the Theory of Syntax. </i> MIT Press. </p>
 
 <p id="ChopekHultbornBrownstone19">Chopek, J.W., Hultborn, H., & Brownstone, R.M. (2019). Multistable properties of human subthalamic nucleus neurons in Parkinson’s disease. <i>Proceedings of the National Academy of Sciences, 116</i>, 24326–24333. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1912128116">https://www.pnas.org/doi/abs/10.1073/pnas.1912128116</a><a href="http://doi.org/10.1073/pnas.1912128116"> http://doi.org/10.1073/pnas.1912128116</a></p>
+
+<p id="ChurchlandShenoy24">Churchland, M.M., & Shenoy, K.V. (2024). Preparatory activity and the expansive null-space. <i>Nature Reviews Neuroscience, 25</i>, 213–236. <a href="https://www.nature.com/articles/s41583-024-00796-z">https://www.nature.com/articles/s41583-024-00796-z</a><a href="http://doi.org/10.1038/s41583-024-00796-z"> http://doi.org/10.1038/s41583-024-00796-z</a></p>
 
 <p id="Cisek21">Cisek, P. (2021). Evolution of behavioural control from chordates to primates. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 377</i>, 20200522. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0522">https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0522</a><a href="http://doi.org/10.1098/rstb.2020.0522"> http://doi.org/10.1098/rstb.2020.0522</a></p>
 
@@ -564,6 +568,8 @@
 
 <p id="Gentner83">Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. <i>Cognitive Science, 7</i>, 155–170. <a href="https://www.sciencedirect.com/science/article/pii/S0364021383800093">https://www.sciencedirect.com/science/article/pii/S0364021383800093</a><a href="http://doi.org/10.1016/S0364-0213(83)80009-3"> http://doi.org/10.1016/S0364-0213(83)80009-3</a></p>
 
+<p id="GeorgopoulosCarpenter15">Georgopoulos, A.P., & Carpenter, A.F. (2015). Coding of movements in the motor cortex. <i>Current Opinion in Neurobiology, 33</i>, 34–39. <a href="http://www.sciencedirect.com/science/article/pii/S0959438815000215">http://www.sciencedirect.com/science/article/pii/S0959438815000215</a><a href="http://doi.org/10.1016/j.conb.2015.01.012"> http://doi.org/10.1016/j.conb.2015.01.012</a></p>
+
 <p id="Gerfen89">Gerfen, C.R. (1989). The neostriatal mosaic: Striatal patch-matrix organization is related to cortical lamination. <i>Science, 246</i>, 385–358. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2799392">http://www.ncbi.nlm.nih.gov/pubmed/2799392</a></p>
 
 <p id="Gerfen92">Gerfen, C.R. (1992). The neostriatal mosaic: Multiple levels of compartmental organization in the basal ganglia. <i>Annual Review of Neuroscience, 15</i>, 285–320. <a href="http://www.ncbi.nlm.nih.gov/pubmed/1575444">http://www.ncbi.nlm.nih.gov/pubmed/1575444</a></p>
@@ -801,6 +807,8 @@
 <p id="InglebertAljadeffBrunelEtAl20">Inglebert, Y., Aljadeff, J., Brunel, N., & Debanne, D. (2020). Synaptic plasticity rules with physiological calcium levels. <i>Proceedings of the National Academy of Sciences, 117</i>, 33639–33648. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2013663117">https://www.pnas.org/doi/abs/10.1073/pnas.2013663117</a><a href="http://doi.org/10.1073/pnas.2013663117"> http://doi.org/10.1073/pnas.2013663117</a></p>
 
 <p id="IsaacsonScanziani11">Isaacson, J.S., & Scanziani, M. (2011). How inhibition shapes cortical activity. <i>Neuron, 72</i>, 231–243. <a href="https://www.sciencedirect.com/science/article/pii/S0896627311008798">https://www.sciencedirect.com/science/article/pii/S0896627311008798</a><a href="http://doi.org/10.1016/j.neuron.2011.09.027"> http://doi.org/10.1016/j.neuron.2011.09.027</a></p>
+
+<p id="IsaMarquez-LegorretaGrillnerEtAl21">Isa, T., Marquez-Legorreta, E., Grillner, S., & Scott, E.K. (2021). The tectum/superior colliculus as the vertebrate solution for spatial sensory integration and action. <i>Current Biology, 31</i>, R741-R762. <a href="https://www.sciencedirect.com/science/article/pii/S0960982221004796">https://www.sciencedirect.com/science/article/pii/S0960982221004796</a><a href="http://doi.org/10.1016/j.cub.2021.04.001"> http://doi.org/10.1016/j.cub.2021.04.001</a></p>
 
 <p id="IshikawaTomatsuIzawaEtAl16">Ishikawa, T., Tomatsu, S., Izawa, J., & Kakei, S. (2016). The cerebro-cerebellum: Could it be loci of forward models? <i>Neuroscience Research, 104</i>, 72–79. <a href="http://www.sciencedirect.com/science/article/pii/S016801021500293X">http://www.sciencedirect.com/science/article/pii/S016801021500293X</a><a href="http://doi.org/10.1016/j.neures.2015.12.003"> http://doi.org/10.1016/j.neures.2015.12.003</a></p>
 
@@ -1094,6 +1102,8 @@
 
 <p id="MiglioreHoffmanMageeEtAl99">Migliore, M., Hoffman, D., Magee, J., & Johnston, D. (1999). Role of an A-Type K+ Conductance in the Back-Propagation of Action Potentials in the Dendrites of Hippocampal Pyramidal Neurons. <i>Journal of Computational Neuroscience, 7</i>, 5–15. <a href="https://doi.org/10.1023/A:1008906225285">https://doi.org/10.1023/A:1008906225285</a><a href="http://doi.org/10.1023/A:1008906225285"> http://doi.org/10.1023/A:1008906225285</a></p>
 
+<p id="MillardUchidaSethEtAl13">Millard, M., Uchida, T., Seth, A., & Delp, S.L. (2013). Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics. <i>Journal of Biomechanical Engineering, 135</i>, <a href="https://doi.org/10.1115/1.4023390">https://doi.org/10.1115/1.4023390</a><a href="http://doi.org/10.1115/1.4023390"> http://doi.org/10.1115/1.4023390</a></p>
+
 <p id="MillerCohen01">Miller, E.K., & Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. <i>Annual Review of Neuroscience, 24</i>, 167–202. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11283309">http://www.ncbi.nlm.nih.gov/pubmed/11283309</a></p>
 
 <p id="MilsteinLiBittnerEtAl21">Milstein, A.D., Li, Y., Bittner, K.C., Grienberger, C., Soltesz, I., Magee, J.C., & Romani, S. (2021). Bidirectional synaptic plasticity rapidly modifies hippocampal representations. <i>eLife, 10</i>, e73046. <a href="https://doi.org/10.7554/eLife.73046">https://doi.org/10.7554/eLife.73046</a><a href="http://doi.org/10.7554/eLife.73046"> http://doi.org/10.7554/eLife.73046</a></p>
@@ -1125,6 +1135,8 @@
 <p id="MorrisFrey97">Morris, R.G.M., & Frey, U. (1997). Hippocampal synaptic plasticity: role in spatial learning or the automatic recording of attended experience? <i>Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 352</i>, 1489–1503. <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1997.0136">https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1997.0136</a><a href="http://doi.org/10.1098/rstb.1997.0136"> http://doi.org/10.1098/rstb.1997.0136</a></p>
 
 <p id="MortonJohnson91">Morton, J., & Johnson, M.H. (1991). CONSPEC and CONLERN: a two-process theory of infant face recognition. <i>Psychological Review, 98</i>, 164–181. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2047512">http://www.ncbi.nlm.nih.gov/pubmed/2047512</a></p>
+
+<p id="MoSherman19">Mo, C., & Sherman, S.M. (2019). A Sensorimotor Pathway via Higher-Order Thalamus. <i>Journal of Neuroscience, 39</i>, 692–704. <a href="https://www.jneurosci.org/content/39/4/692">https://www.jneurosci.org/content/39/4/692</a><a href="http://doi.org/10.1523/JNEUROSCI.1467-18.2018"> http://doi.org/10.1523/JNEUROSCI.1467-18.2018</a></p>
 
 <p id="MovellanMcClelland93">Movellan, J.R., & McClelland, J.L. (1993). Learning Continuous Probability Distributions with Symmetric Diffusion Networks. <i>Cognitive Science, 17</i>, 463–496. </p>
 
@@ -1273,6 +1285,8 @@
 <p id="PauliHazyOReilly12">Pauli, W.M., Hazy, T.E., & O'Reilly, R.C. (2012). Expectancy, ambiguity, and behavioral flexibility: separable and complementary roles of the orbital frontal cortex and amygdala in processing reward expectancies. <i>Journal of Cognitive Neuroscience, 24</i>, 351–366. <a href="http://www.ncbi.nlm.nih.gov/pubmed/22004047">http://www.ncbi.nlm.nih.gov/pubmed/22004047</a></p>
 
 <p id="PauliOReillyYarkoniEtAl16">Pauli, W.M., O’Reilly, R.C., Yarkoni, T., & Wager, T.D. (2016). Regional specialization within the human striatum for diverse psychological functions. <i>Proceedings of the National Academy of Sciences, 113</i>, 1907–1912. <a href="http://www.pnas.org/content/113/7/1907">http://www.pnas.org/content/113/7/1907</a><a href="http://doi.org/10.1073/pnas.1507610113"> http://doi.org/10.1073/pnas.1507610113</a></p>
+
+<p id="PetrofViaeneSherman15">Petrof, I., Viaene, A.N., & Sherman, S.M. (2015). Properties of the primary somatosensory cortex projection to the primary motor cortex in the mouse. <i>Journal of Neurophysiology, 113</i>, 2400–2407. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00949.2014">https://journals.physiology.org/doi/full/10.1152/jn.00949.2014</a><a href="http://doi.org/10.1152/jn.00949.2014"> http://doi.org/10.1152/jn.00949.2014</a></p>
 
 <p id="PezzuloRigoliFriston18">Pezzulo, G., Rigoli, F., & Friston, K.J. (2018). Hierarchical active inference: A theory of motivated control. <i>Trends in Cognitive Sciences, 22</i>, 294–306. <a href="http://www.sciencedirect.com/science/article/pii/S1364661318300226">http://www.sciencedirect.com/science/article/pii/S1364661318300226</a><a href="http://doi.org/10.1016/j.tics.2018.01.009"> http://doi.org/10.1016/j.tics.2018.01.009</a></p>
 
@@ -1451,6 +1465,8 @@
 <p id="SenguptaBagnall23">Sengupta, M., & Bagnall, M.W. (2023). Spinal Interneurons: Diversity and Connectivity in Motor Control. <i>Annual Review of Neuroscience, 46</i>, 79–99. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-083122-025325">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-083122-025325</a><a href="http://doi.org/10.1146/annurev-neuro-083122-025325"> http://doi.org/10.1146/annurev-neuro-083122-025325</a></p>
 
 <p id="SethBayne22">Seth, A.K., & Bayne, T. (2022). Theories of consciousness. <i>Nature Reviews Neuroscience, 23</i>(7), 439–452. <a href="https://www.nature.com/articles/s41583-022-00587-4">https://www.nature.com/articles/s41583-022-00587-4</a><a href="http://doi.org/10.1038/s41583-022-00587-4"> http://doi.org/10.1038/s41583-022-00587-4</a></p>
+
+<p id="SethHicksUchidaEtAl18">Seth, A., Hicks, J.L., Uchida, T.K., Habib, A., Dembia, C.L., Dunne, J.J., Ong, C.F., DeMers, M.S., Rajagopal, A., Millard, M., Hamner, S.R., Arnold, E.M., Yong, J.R., Lakshmikanth, S.K., Sherman, M.A., Ku, J.P., & Delp, S.L. (2018). OpenSim: Simulating musculoskeletal dynamics and neuromuscular control to study human and animal movement. <i>PLOS Computational Biology, 14</i>, e1006223. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006223">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006223</a><a href="http://doi.org/10.1371/journal.pcbi.1006223"> http://doi.org/10.1371/journal.pcbi.1006223</a></p>
 
 <p id="ShadlenNewsome01">Shadlen, M.N., & Newsome, W.T. (2001). Neural Basis of a Perceptual Decision in the Parietal Cortex (Area LIP) of the Rhesus Monkey. <i>Journal of Neurophysiology, 86</i>, 1916–1936. <a href="https://journals.physiology.org/doi/full/10.1152/jn.2001.86.4.1916">https://journals.physiology.org/doi/full/10.1152/jn.2001.86.4.1916</a><a href="http://doi.org/10.1152/jn.2001.86.4.1916"> http://doi.org/10.1152/jn.2001.86.4.1916</a></p>
 

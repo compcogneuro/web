@@ -107,7 +107,7 @@ In the remaining sections, we cover the basic properties of the skeletal motor s
 {id="figure_muscle" style="height:30em"}
 ![Muscles are organized in opponent pairs, where the contraction of the _extensor_ causes the extension of the limb (e.g., the triceps), while the contraction of the _flexor_ causes the flexion (compaction) of the limb.](media/fig_muscle_extension_flexion.png)
 
-Skeletal muscles are organized into [[opponent]] pairs ([[#figure_muscle]]), with the contraction of the **extensor** extending the limb outward (_extension_), while the contraction of the **flexor** contracts the limb inward (_flexion_).
+Skeletal muscles are organized into [[opponent]] pairs ([[#figure_muscle]]), with the contraction of the **extensor** extending the limb outward (_extension_), while the contraction of the **flexor** contracts the limb inward (_flexion_). Muscles connect to the bones via **tendons**, which are strong, slightly elastic rope-like tissues made of collagen. Tendons typically wrap around the joints and transmit forces by connecting further down the bone to obtain greater leverage.
 
 Muscles only exert force through contraction, which is driven by the release of [[acetylcholine]] from motor neurons, causing _actin_ and _myosin_ fibers to contract. Thus, to actually move a limb, the opponent muscles on each side must be coordinated so that one side contracts and the other side relaxes (which occurs naturally if the muscle is not activated). Furthermore, each overall muscle (e.g., the bicep) is composed of individual **motor units** that vary in size, each of which has its own motor neuron.
 
@@ -129,11 +129,35 @@ Figure [[#figure_ocular-brainstem]] shows some of the main brainstem areas invol
 
 These networks are the equivalent of the spinal muscle synergies, but they are located directly in the brainstem due to the eyes being in the head and not the trunk. The particularly simple nature of the eye motor outputs makes this system relatively easy to understand, compared to the more complex, high-dimensional patterns of motor neuron firing required in the locomotor, reaching, and other skeletal muscle domains. Nevertheless, the same kinds of principles presumably apply, in terms of the diversities of neuron firing patterns required to generate the necessary temporal patterns.
 
-The [[superior colliculus]] (SC) provides the main input to these brainstem oculomotor areas. It has a topographic, retinotopic map of neurons in the most superficial layers, that integrates sensory signals from auditory and other modalities, and drives the spatial targeting of visual eye movements (saccades). Consistent with the hierarchical, [[subsumption]] nature of motor control, the frontal eye field (FEF) neurons in primary motor cortex typically act through their inputs to the SC to drive more flexible targeting of visual saccades, although they can also drive midbrain circuits directly as well ([[@Sparks02]]).
+The [[superior colliculus]] (SC) provides the main input to these brainstem oculomotor areas ([[@IsaMarquez-LegorretaGrillnerEtAl21]]). It has a topographic, retinotopic map of neurons that integrate sensory signals from auditory and other modalities, and drive the spatial targeting of visual eye movements (saccades). Consistent with the hierarchical, [[subsumption]] nature of motor control, the frontal eye field (FEF) neurons in primary motor cortex typically act through their inputs to the SC to drive more flexible targeting of visual saccades, although they can also drive midbrain circuits directly as well ([[@Sparks02]]).
 
 ### Hill-type muscle model
 
-[[@Hill38]], [[@RitchieWilkie58]]; [[@Zajac89]]
+{id="figure_hill-muscle" style="height:25em"}
+![Hill-type muscle model, with a contractile element (CE) representing the muscle itself, a parallel passive element (PE) that represents the spring-like properties of the muscle soft tissue, and a serial spring-like element (SE) representing the tendon. Adapted from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hill_muscle_model.svg).](media/fig_motor_hill_muscle.png)
+
+The standard equations used for simulating muscles are based on the simplified approximation originally developed by [[@^Hill38]], and are thus known as Hill-type muscles ([[@RitchieWilkie58]]; [[@Zajac89]]; [[@MillardUchidaSethEtAl13]]; see OpenSim for an implementation of the Millard (2013) version: [[@SethHicksUchidaEtAl18]]; [github](https://github.com/opensim-org/opensim-core/blob/main/OpenSim/Actuators/Millard2012EquilibriumMuscle.cpp)). This muscle model has two elements working in parallel ([[#figure_hill-muscle]]): a _contractile_ element (CE) that represents the actual muscle that contracts, and a _passive_ element (PE) that runs parallel to the CE, and represents the spring-like properties of the soft tissue of the muscle. The tendon is represented via a spring-like element in series (SE) with the muscle CE.
+
+[[@^MillardUchidaSethEtAl13]] provides a detailed comparison of different variants on this basic muscle model, showing that a damped version of the full model with a spring-like tendon (SE) provides the best compromise between accuracy and computational efficiency. They also analyzed a version with a rigid tendon, which is simpler and faster to compute, but is also significantly more inaccurate.
+
+{id="eq_hill" title="Damped Hill-type model"}
+$$
+F_0 (a f_L(l) f_V(v) + f_{PE}(l) + \beta v) cos \alpha - F_0 f_T(l_T) = 0
+$$
+
+where $F_0$ is the peak isometric force, $a$ is the normalized activation level, $l$ is the current normalized muscle length, $v$ is the velocity, $f_L$ is force-length function, $f_V$ is the force-velocity function, $f_{PE}$ is the passive force-length curve, $\beta$ is the damping factor (.1 default), $f_T$ is the tendon force-length function, and $\alpha$ is the pennation angle of the muscle relative to the tendon. These parameters and functions can all be derived anatomically, but do vary for different muscles, so modeling at this level is typically done in a more biologically-informed manner. 
+
+The equation [[#eq_hill]] can be solved for the velocity $v$ using a derivative-based root-finding method such as Newton's method, to iteratively update the muscle length in a discrete-time simulation, but this is somewhat computationally intensive. 
+
+An alternative solution is to use a piecewise-linear approximation for $f_V(v)$ (which changes slope significantly at $v=0$, but is otherwise relatively linear) to allow an analytic solution to solving for $v$:
+
+{id="eq_hill-approx" title="Damped Hill-type model"}
+$$
+v = \frac{f_T(l_T) sec(\alpha) - f_{PE}(l)}{a f_L(l) f_V + \beta}
+$$
+where $f_V$ represents the relevant slope for the given value of $v$ (2 iterations are required to converge on that, depending on whether $v > 0$ or not).
+
+An even simpler and less accurate way to simulate muscles is by manipulating the stiffness and damping parameters on standard physics simulator joints, while updating the joint position values, as we do with the [cogent core lab physics](https://www.cogentcore.org/lab/physics) models. This requires knowing a target joint position (as in equilibrium-point control), but the stiffness parameter is proportional to the velocity of joint movement, and damping provides the damped spring dynamic.
 
 ## Spinal cord
 
@@ -178,7 +202,7 @@ The development of motor control in humans was hypothesized by [[@^Bernstein96]]
 
 ## Higher level details
 
-In the remaining sections, we explore in more depth some of the issues associated with higher levels of control.
+In the remaining sections, we explore in more depth some of the issues associated with higher levels of control. See [[@^BizziAjemian20]] for a recent broad commentary on these systems.
 
 ### Cerebellum
 
@@ -198,31 +222,40 @@ It is important to understand that the cerebellum _manages_ a set of control "kn
 {id="figure_bg-outs" style="height:30em"}
 ![Motor output pathways of the basal ganglia, via the SNr (substantia nigra pars reticulata). These extensive outputs allow the basal ganglia to sculpt appropriate sequences of muscle synergy programs in these areas, using powerful dopamine-based reinforcement learning mechanisms. From Arber & Costa, 2022.](media/fig_bg_motor_outputs_arber_costa_22.png)
 
-The dorsolateral [[basal ganglia]] drives learning of a broad range of output neurons (in the SNr and GPi) that project down into all of the relevant lower-level motor control areas ([[#figure_bg-outs]], from [[@ArberCosta22]]).
+The dorsolateral (DL) [[basal ganglia]] (BG) drives learning of a broad range of output neurons (in the SNr and GPi) that project down into all of the relevant lower-level motor control areas ([[#figure_bg-outs]], from [[@ArberCosta22]]). As discussed in [[basal-ganglia#Motor activity in DL]], the BG provides dynamic, continuous modulation of descending motor signals, which enables powerful gradient-based [[search]] to drive learning, which is much more efficient than any form of discrete Go vs. NoGo motor selection logic.
+
+The BG also sends ascending input into the frontal cortex, via various [[thalamus|thalamic]] pathways, but the diffuse nature of these pathways (relative to the much more specialized and focal output from the SNr as shown in [[#figure_bg-outs]]) makes it unclear what the functions of these ascending signals are. We discuss some possibilities in the next section.
 
 ### Frontal cortex
 
-Unlike most of the rest of the brain, the [[neocortex]] is thought to gain almost all of its functionality through learning taking place during an animal's lifetime. This poses an important challenge for the motor system: how can the motor cortical areas learn to "speak the language" of the spinal cord, to provide meaningful motor control signals?
+{id="figure_homunculus" style="height:35em"}
+![The _homunculus_ ("little person") organization of the primary sensory (S1) and primary motor (M1) cortical areas, which sit across the central sulcus from each other, and are densely interconnected. S1 provides strong driver inputs to M1, both directly via corticocortical pathways, and indirectly via projections going through the posterior medial nucleus of the thalamus (POm).](media/fig_sensory_motor_homunculus.jpg)
 
-TODO: S1 is driver for M1 predictive learning via "pulvinar"!
+The [[neocortex]] is the highest level of motor control (in mammals), with an extensive mapping of all motor and somatosensory signals organized in a _somatotopic_ map that is described as a kind of _homunculus_ ("little person") inside the brain ([[#figure_homunculus]]). Consistent with the increasing importance of the neocortex in primates and especially humans, the large amount of neural tissue devoted to these somatosensory and motor representations enables people to exhibit the most flexible and varied forms of motor behavior, for example everything on display at the olympics every couple of years.
 
-Our hypothesis is that the same mechanisms used in [[predictive learning]] of sensory and other representations in the cortex, supported by the pulvinar and MD nuclei in the [[thalamus]], could also be at work on the motor side in frontal cortex areas. As reviewed in the thalamus page, the VL (ventrolateral) nucleus receives strong focal driver inputs from the deep cerebellar nuclei (DCN), which in turn receives extensive ascending projections from the spinal motor pathways.
+Unlike most of the rest of the brain, the neocortex is thought to gain almost all of its functionality through learning taking place during an animal's lifetime. This poses an important challenge for the motor system: how can the motor cortical areas learn to "speak the language" of the spinal cord, to provide meaningful motor control signals?
 
-There are natural delays between the time when the frontal cortex drives a descending motor command and the time when the efferent copy signals from these ascending pathways reflect the actual low-level motor commands that were actually generated (with significant contributions and shaping by a number of subcortical areas including the BG, cerebellum, and midbrain & brainstem lower motor areas). This delay provides the [[temporal derivative]] dynamics needed to drive predictive learning, where the motor cortex is effectively learning to predict what the motor system will do in response to the commands it sends down.
+Our hypothesis is that the same mechanisms used in [[predictive learning]] of sensory and other representations in the cortex, supported by the pulvinar and MD nuclei in the [[thalamus]], could also be at work on the motor side in frontal cortex areas. As reviewed in the thalamus page, the VL (ventrolateral) nucleus receives strong focal driver inputs from the cerebellar nuclei (CN), which in turn receive extensive ascending projections from the spinal motor pathways.
+
+There are natural delays between the time when the frontal cortex drives a descending motor command and the time when the efferent copy signals from these ascending pathways reflect the actual low-level motor commands that were actually generated (with significant contributions and shaping by all of the above areas). This delay provides the [[temporal derivative]] dynamics needed to drive predictive learning, where the motor cortex is effectively learning to predict what the motor system will do in response to the commands it sends down.
 
 {id="figure_big-loop" style="height:30em"}
-![The "big loop" of motor processing, which could support a form of predictive learning to train frontal cortex. The thalamus (VL = ventrolateral specifically) receives strong driver inputs from the DCN, and standard non-driver inputs from motor cortex. The difference over time between these two inputs can drive the temporal derivative error-driven learning mechanism. From Arber & Costa, 2022](media/fig_motor_big_loop_arber_costa_22.png)
+![The "big loop" of motor processing, which could support a form of predictive learning to train frontal cortex. The thalamus (VL = ventrolateral specifically) receives strong driver inputs from the DCN (deep cerebellar nuclei), and standard non-driver inputs from motor cortex, and projects focal ("core-like") inputs into motor cortex, that would be capable of providing specific motor training signals. The difference over time between these two inputs can drive the temporal derivative error-driven learning mechanism. The small loop involves distinct areas of thalamus (VA, VM) with broad ("matrix-like") connectivity that would not likely provide useful specific training signals. Instead, it may be important for driving the transition from preparatory to driving motor activity states in cortex. From Arber & Costa, 2022.](media/fig_motor_big_loop_arber_costa_22.png)
 
-This hypothesis is consistent with the "big loop" of descending and ascending motor signals shown in [[#figure_big-loop]] from [[@ArberCosta22]].
+This hypothesis is consistent with the "big loop" of descending and ascending motor signals shown in [[#figure_big-loop]] (from [[@ArberCosta22]]). As discussed in [[thalamus#motor thalamus]], area VL (ventrolateral) receives driver inputs from the cerebellar nuclei, and sends more focal core-like inputs into the middle layers of motor cortex. These inputs should be sufficiently specific as to drive the learning of appropriate motor commands reflecting the temporal difference between the original command over the motor cortex, and the subsequent efferent copy reflecting what the motor system actually did with the command.
 
-### Motor cortex coding
+Furthermore, there are important driver-like pathways from the somatosensory cortex (S1) to motor cortex (M1), both directly via corticocortical pathways ([[@PetrofViaeneSherman15]]) and through thalamic pathways via the posterior medial thalamus (POm) ([[@MoSherman19]]). Given that S1 also receives extensive ongoing inputs reflecting the sensory consequences of motor actions, including efferent copy signals, and all of the proprioceptive signals involved in providing feedback control over spinal and brainstem motor synergies, this provides the opportunity for cortex to both leverage such signals for online feedback control itself, and to use these signals for driving learning of motor representations as well, via the same kind of predictive learning mechanisms that obtain in the VL-based big-loop pathway.
 
-Population coding of cortical neurons: [[@AflaloGraziano06a]] show that final hand posture accounts for most of the variance, but other factors such as speed, curvature of space, distance and force were also coded. This postural aspect, otherwise known as a _spatial synergy_ ([[@OverduindAvellaRohEtAl15]]), provides a simple model of muscle control where, regardless of the starting muscle configuration, the control signal specifies a _final configuration_ (i.e., pattern of total contraction) across all of the relevant muscles.
+The "small loop" in [[#figure_big-loop]] involves different thalamic neurons and areas, specifically ventral-anterior and medial (VA, VM), which are matrix-like and send broad, diffuse connectivity to the most superficial layer of motor cortex. Thus, these areas are not suitable for driving learning (and do not get excitatory driver inputs), but they may play a critical role in driving the transition from a preparatory state of activity to the activity patterns that actually drive motor activity ([[@EconomoViswanathanTasicEtAl18]]; [[@GuoYamawakiSvobodaEtAl18]]; see [[prefrontal cortex|systems-level dynamics]] in the prefrontal cortex page for more discussion).
 
-Where more complex sequences of motor actions are required, a temporal sequence of postural configurations is specified -- a sequence of "poses" -- otherwise known as a _spatiotemporal synergy_ ([[@OverduindAvellaRohEtAl15]])
+More abstract state-space analyses of motor activity have consistently shown that preparatory motor activity lives in a _null space_ relative to the activity states that actually drive lower-level motor output pathways ([[@ChurchlandShenoy24]]). These output pathways are driven by layer 5b PT (pyramidal tract) neurons, which are selectively targeted (in their apical tufts) by the matrix-like projections from the VA, VM thalamic areas that receive disinhibitory basal ganglia inputs. Therefore, although it is not as simple as the exclusive activity of these PT neurons by BG inputs, it is likely that the transition from the preparatory null space to the motor output space is facilitated by these BG signals.
 
-[[@^MeyerSmithWright82]] synthesize psychophysical literature on speed and accuracy of motor movements, to develop a symmetric impulse control model that specifies the force and duration parameters as curves with an initial acceleration phase for the first half, followed by a symmetric deceleration phase in the second half. Both the force and time parameters of these curves can be controlled by people. There is evidence that ballistic movements are made below around 260 ms, with multiple iterations of visually-corrected movement updates happening after that, time permitting. See also [[@MeyerSmithKornblumEtAl90]].
+There are many studies on the nature of motor cortical representations in relation to final motor output parameters. All manner of relevant signals have been decoded from individual neurons, but as usual, the overall [[distributed representations]] are more relevant ([[@GeorgopoulosCarpenter15]). [[@^AflaloGraziano06a]] showed that final hand posture accounts for most of the variance, consistent with the general nature of muscle synergies as discussed above. However, other factors such as speed, curvature of space, distance and force were also coded.
 
-Different neural populations execute same command in motor cortex ([[@AthalyeKhannaGowdaEtAl23]]; [[@YewbreyMantziaraKornysheva23]]) -- more task-specific encoding that might enable multi-task learning..
+Another study explored cases where more complex sequences of motor actions were required, and showed that a temporal sequence of postural configurations is specified (i.e., a _spatiotemporal synergy_;  [[@OverduindAvellaRohEtAl15]]). 
 
+At a more abstract level of analysis, [[@^MeyerSmithWright82]] synthesized extensive psychophysical literature on speed and accuracy of motor movements in humans, to develop a symmetric impulse control model that specifies the force and duration parameters as curves with an initial acceleration phase for the first half, followed by a symmetric deceleration phase in the second half. Both the force and time parameters of these curves can be controlled by people. There is evidence that ballistic movements are made below around 260 ms, with multiple iterations of visually-corrected movement updates happening after that, time permitting (see also [[@MeyerSmithKornblumEtAl90]]).
+
+<!--- Different neural populations execute same command in motor cortex ([[@AthalyeKhannaGowdaEtAl23]]; [[@YewbreyMantziaraKornysheva23]]) -- more task-specific encoding that might enable multi-task learning.. -->
+<!---  -->
 
