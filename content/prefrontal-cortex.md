@@ -100,9 +100,12 @@ The LSTM model demonstrates the computational power of a system with dynamic mul
 Recent experimental data has provided strong support for this gating-like influence of the thalamus over PFC active maintenance. In terms of anatomy, [[@^GuoYamawakiSvobodaEtAl18]] used multiple advanced neuroscience tools to determine the precise nature of the thalamocortical loops between layer 5b PT (pyramidal tract) neurons in area ALM (rodent dlPFC) and the VM (ventromedial) thalamic nucleus, as shown in [[#figure_alm-thal-loop]]. VM also projects to primary motor cortex (M1), but the specific neurons that receive inputs from the PFC PT neurons also send back up to ALM, not M1, forming a closed excitatory loop that is likely important for sustaining active neural firing.
 
 {id="figure_economo-18" style="height:30em"}
-![Evidence for two different types of layer 5 pyramidal-track (PT) neurons, from Economo et al., 2018. The PT-upper neurons participate in the thalamic loops as shown in the prior figure, while the PT-lower neurons project to the motor control areas in the medulla oblongata. Panel d shows this distribution in terms of retrogradely labeled neurons projecting to the thalamus vs medulla.](media/fig_pfc_economo_etal_18_pt_types.png)
+![Evidence for two different types of layer 5b pyramidal-track (PT) neurons, from Economo et al., 2018. The PT-upper neurons participate in the thalamic loops as shown in the prior figure, while the PT-lower neurons project to the motor control areas in the medulla oblongata. Panel d shows this distribution in terms of retrogradely labeled neurons projecting to the thalamus vs medulla.](media/fig_pfc_economo_etal_18_pt_types.png)
 
-Further refinement of the organization of the deep layer 5 PT neurons is provided by [[@^EconomoViswanathanTasicEtAl18]], who found evidence for two distinct types of these neurons as shown in [[#figure_economo-18]]. The PT-upper neurons are the ones involved in the thalamocortical loops shown in [[#figure_alm-thal-loop]], while the PT-lower neurons project down to brainstem motor areas such as the medulla oblongata.
+Further refinement of the organization of the deep layer 5 PT neurons is provided by [[@^EconomoViswanathanTasicEtAl18]], who found evidence for two distinct types of these neurons as shown in [[#figure_economo-18]]. The PT-upper neurons (in layer 5b upper) are the ones involved in the thalamocortical loops shown in [[#figure_alm-thal-loop]], while the PT-lower neurons (5b lower) project down to brainstem [[motor]] areas such as the medulla oblongata.
+
+TODO: figure this out: L5a IT -> thal, str (?), L5bU PT -> thal, str (PTp?), L5bL PT -> subcort
+
 
 The presence of these two neuron types provides a mechanism for distinguishing between preparatory motor planning versus actual motor execution, to prevent premature execution during the planning stage ([[@ChurchlandShenoy24]]). However, [[@^EconomoViswanathanTasicEtAl18]] found that there was not a simple clean dissociation between these two neural populations, with both types of neurons exhibiting activity during delay and response phases. Nevertheless, there was an increased likelihood of PT-lower neurons firing immediately prior and during the response, while PT-upper neurons were more likely to exhibit sustained firing during the preparatory delay period. Thus, as discussed in [[distributed representations]] and shown in [[#figure_hunt-rsa]], population-level patterns shaped by learning are always the most relevant for driving behavior.
 
@@ -159,8 +162,6 @@ TODO:
 
 Several neuroimaging studies in humans have investigated potential gating relationships between basal ganglia and PFC. For example, [[@^vanSchouwenburgdenOudenCools10]] showed using [[dynamic causal modeling]] under [[fMRI]] that ventral striatum activity led to task switching as reflected in dlPFC areas (specifically the IFG, which has often been implicated in human task representation maintenance), which then drove activity in stimulus-specific posterior cortical areas (for faces and scenes). While it is difficult to precisely exclude the involvement of the DMS which presumably is what drives the VAmc, the VS-specific activity implies that these areas, which project to MD thalamus, may be driving more of a larger-scale goal-state updating in the task switching case, versus a more focal, purely cognitive level update. A subsequent study also found ventral striatum as the locus of attentional switching ([[@vanSchouwenburgdenOudenCools15]]), and [[@vandenBoschLambregtsMaattaEtAl22]] show differences in dopamine levels in ventral putamen are associated with individual differences and phamacological manipulations in reversal learning.
 
-* 
-
 ## Computational implementation of PFC
 
-* PT, PTp
+* PT, PTp rename to IT [[@ShepherdYamawaki21]].

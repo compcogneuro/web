@@ -14,6 +14,8 @@
 
 <p id="AflaloGraziano06a">Aflalo, T.N., & Graziano, M.S.A. (2006). Partial tuning of motor cortex neurons to final posture in a free-moving paradigm. <i>Proceedings of the National Academy of Sciences, 103</i>, 2909–2914. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.0511139103">https://www.pnas.org/doi/abs/10.1073/pnas.0511139103</a><a href="http://doi.org/10.1073/pnas.0511139103"> http://doi.org/10.1073/pnas.0511139103</a></p>
 
+<p id="AggletonOMara22">Aggleton, J.P., & O’Mara, S.M. (2022). The anterior thalamic nuclei: core components of a tripartite episodic memory system. <i>Nature Reviews Neuroscience, </i>1–12. <a href="http://www.nature.com/articles/s41583-022-00591-8">http://www.nature.com/articles/s41583-022-00591-8</a><a href="http://doi.org/10.1038/s41583-022-00591-8"> http://doi.org/10.1038/s41583-022-00591-8</a></p>
+
 <p id="AgrochaoTanakaSalazar-GatzimasEtAl20">Agrochao, M., Tanaka, R., Salazar-Gatzimas, E., & Clark, D.A. (2020). Mechanism for analogous illusory motion perception in flies and humans. <i>Proceedings of the National Academy of Sciences, 117</i>, 23044–23053. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2002937117">https://www.pnas.org/doi/abs/10.1073/pnas.2002937117</a><a href="http://doi.org/10.1073/pnas.2002937117"> http://doi.org/10.1073/pnas.2002937117</a></p>
 
 <p id="AhrensMeyerFergusonEtAl16">Ahrens, A.M., Meyer, P.J., Ferguson, L.M., Robinson, T.E., & Aldridge, J.W. (2016). Neural activity in the ventral pallidum encodes variation in the incentive value of a reward cue. <i>The Journal of Neuroscience, 36</i>, 7957–7970. <a href="http://www.jneurosci.org/content/36/30/7957">http://www.jneurosci.org/content/36/30/7957</a><a href="http://doi.org/10.1523/JNEUROSCI.0736-16.2016"> http://doi.org/10.1523/JNEUROSCI.0736-16.2016</a></p>
@@ -310,6 +312,8 @@
 
 <p id="CollingridgeKehlMcLennan83">Collingridge, G.L., Kehl, S.J., & McLennan, H. (1983). Excitatory amino acids in synaptic transmission in the Schaffer collateral-commissural pathway of the rat hippocampus. <i>The Journal of physiology, 334</i>, 33–46. <a href="http://www.ncbi.nlm.nih.gov/pubmed/6306230">http://www.ncbi.nlm.nih.gov/pubmed/6306230</a></p>
 
+<p id="CollinsAnastasiadesMarlinEtAl18">Collins, D.P., Anastasiades, P.G., Marlin, J.J., & Carter, A.G. (2018). Reciprocal circuits linking the prefrontal cortex with dorsal and ventral thalamic nuclei. <i>Neuron, 98</i>, 366-379.e4. <a href="http://www.sciencedirect.com/science/article/pii/S0896627318302307">http://www.sciencedirect.com/science/article/pii/S0896627318302307</a><a href="http://doi.org/10.1016/j.neuron.2018.03.024"> http://doi.org/10.1016/j.neuron.2018.03.024</a></p>
+
 <p id="CollinsFrank13">Collins, A.G.E., & Frank, M.J. (2013). Cognitive control over learning: creating, clustering, and generalizing task-set structure. <i>Psychological Review, 120</i>, 190–229. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23356780">http://www.ncbi.nlm.nih.gov/pubmed/23356780</a></p>
 
 <p id="CollinsFrank14">Collins, A.G.E., & Frank, M.J. (2014). Opponent actor learning (OpAL): modeling interactive effects of striatal dopamine on reinforcement learning and choice incentive. <i>Psychological Review, 121</i>, 337–366. <a href="http://www.ncbi.nlm.nih.gov/pubmed/25090423">http://www.ncbi.nlm.nih.gov/pubmed/25090423</a></p>
@@ -549,6 +553,8 @@
 <p id="FusiMillerRigotti16">Fusi, S., Miller, E.K., & Rigotti, M. (2016). Why neurons mix: high dimensionality for higher cognition. <i>Current Opinion in Neurobiology, 37</i>, 66–74. <a href="http://www.sciencedirect.com/science/article/pii/S0959438816000118">http://www.sciencedirect.com/science/article/pii/S0959438816000118</a><a href="http://doi.org/10.1016/j.conb.2016.01.010"> http://doi.org/10.1016/j.conb.2016.01.010</a></p>
 
 <p id="FusterAlexander71">Fuster, J.M., & Alexander, G.E. (1971). Neuron activity related to short-term memory. <i>Science, 173</i>, 652–654. </p>
+
+<p id="FusterAlexander73">Fuster, J.M., & Alexander, G.E. (1973). Firing changes in cells of the nucleus medialis dorsaalis associated with delayed response behavior. <i>Brain Research, 61</i>, 79–91. </p>
 
 <p id="GalarretaHestrin99">Galarreta, M., & Hestrin, S. (1999). A network of fast-spiking cells in the neocortex connected by electrical synapses. <i>Nature, 402</i>, 72–75. <a href="https://www.nature.com/articles/47029">https://www.nature.com/articles/47029</a><a href="http://doi.org/10.1038/47029"> http://doi.org/10.1038/47029</a></p>
 
@@ -948,8 +954,6 @@
 
 <p id="KupchikPrasad21">Kupchik, Y.M., & Prasad, A.A. (2021). Ventral pallidum cellular and pathway specificity in drug seeking. <i>Neuroscience & Biobehavioral Reviews, 131</i>, 373–386. <a href="https://www.sciencedirect.com/science/article/pii/S0149763421003894">https://www.sciencedirect.com/science/article/pii/S0149763421003894</a><a href="http://doi.org/10.1016/j.neubiorev.2021.09.007"> http://doi.org/10.1016/j.neubiorev.2021.09.007</a></p>
 
-<p id="KuramotoIwaiYamanakaEtAl17">Kuramoto, E., Iwai, H., Yamanaka, A., Ohno, S., Seki, H., Tanaka, Y.R., Furuta, T., Hioki, H., & Goto, T. (2017). Dorsal and ventral parts of thalamic nucleus submedius project to different areas of rat orbitofrontal cortex: A single neuron-tracing study using virus vectors. <i>Journal of Comparative Neurology, 525</i>, 3821–3839. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24306">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24306</a><a href="http://doi.org/10.1002/cne.24306"> http://doi.org/10.1002/cne.24306</a></p>
-
 <p id="KuramotoOhnoFurutaEtAl15">Kuramoto, E., Ohno, S., Furuta, T., Unzai, T., Tanaka, Y.R., Hioki, H., & Kaneko, T. (2015). Ventral medial nucleus neurons send thalamocortical afferents more widely and more preferentially to layer 1 than neurons of the ventral anterior–ventral lateral nuclear complex in the rat. <i>Cerebral Cortex, 25</i>, 221–235. <a href="https://academic.oup.com/cercor/article/25/1/221/369709">https://academic.oup.com/cercor/article/25/1/221/369709</a><a href="http://doi.org/10.1093/cercor/bht216"> http://doi.org/10.1093/cercor/bht216</a></p>
 
 <p id="KuramotoPanFurutaEtAl17">Kuramoto, E., Pan, S., Furuta, T., Tanaka, Y.R., Iwai, H., Yamanaka, A., Ohno, S., Kaneko, T., Goto, T., & Hioki, H. (2017). Individual mediodorsal thalamic neurons project to multiple areas of the rat prefrontal cortex: A single neuron-tracing study using virus vectors. <i>Journal of Comparative Neurology, 525</i>, 166–185. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24054">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24054</a><a href="http://doi.org/10.1002/cne.24054"> http://doi.org/10.1002/cne.24054</a></p>
@@ -1298,6 +1302,8 @@
 
 <p id="PezzuloRigoliFriston18">Pezzulo, G., Rigoli, F., & Friston, K.J. (2018). Hierarchical active inference: A theory of motivated control. <i>Trends in Cognitive Sciences, 22</i>, 294–306. <a href="http://www.sciencedirect.com/science/article/pii/S1364661318300226">http://www.sciencedirect.com/science/article/pii/S1364661318300226</a><a href="http://doi.org/10.1016/j.tics.2018.01.009"> http://doi.org/10.1016/j.tics.2018.01.009</a></p>
 
+<p id="PhillipsFishKambiEtAl19">Phillips, J.M., Fish, L.R., Kambi, N.A., Redinbaugh, M.J., Mohanta, S., Kecskemeti, S.R., & Saalmann, Y.B. (2019). Topographic organization of connections between prefrontal cortex and mediodorsal thalamus: Evidence for a general principle of indirect thalamic pathways between directly connected cortical areas. <i>NeuroImage, 189</i>, 832–846. <a href="http://www.sciencedirect.com/science/article/pii/S1053811919300849">http://www.sciencedirect.com/science/article/pii/S1053811919300849</a><a href="http://doi.org/10.1016/j.neuroimage.2019.01.078"> http://doi.org/10.1016/j.neuroimage.2019.01.078</a></p>
+
 <p id="PhillipsKambiRedinbaughEtAl21">Phillips, J.M., Kambi, N.A., Redinbaugh, M.J., Mohanta, S., & Saalmann, Y.B. (2021). Disentangling the influences of multiple thalamic nuclei on prefrontal cortex and cognitive control. <i>Neuroscience & Biobehavioral Reviews, 128</i>, 487–510. <a href="https://www.sciencedirect.com/science/article/pii/S0149763421002955">https://www.sciencedirect.com/science/article/pii/S0149763421002955</a><a href="http://doi.org/10.1016/j.neubiorev.2021.06.042"> http://doi.org/10.1016/j.neubiorev.2021.06.042</a></p>
 
 <p id="Piaget41">Piaget, J. (1941). Le m'echanisme du d'eveloppement mental et les lois du groupement des op'eration. <i>Arch. Psych., Gen`eve, 28</i>, 215–285. </p>
@@ -1504,6 +1510,8 @@
 
 <p id="ShenhavBotvinickCohen13">Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2013). The expected value of control: an integrative theory of anterior cingulate cortex function. <i>Neuron, 79</i>, 217–240. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23889930">http://www.ncbi.nlm.nih.gov/pubmed/23889930</a></p>
 
+<p id="ShepherdYamawaki21">Shepherd, G.M.G., & Yamawaki, N. (2021). Untangling the cortico-thalamo-cortical loop: cellular pieces of a knotty circuit puzzle. <i>Nature Reviews Neuroscience, 22</i>(7), 389–406. <a href="https://www.nature.com/articles/s41583-021-00459-3">https://www.nature.com/articles/s41583-021-00459-3</a><a href="http://doi.org/10.1038/s41583-021-00459-3"> http://doi.org/10.1038/s41583-021-00459-3</a></p>
+
 <p id="ShermanGuillery06">Sherman, S.M., & Guillery, R.W. (2006). <i>Exploring the Thalamus and Its Role in Cortical Function. </i> MIT Press. <a href="http://www.scholarpedia.org/article/Thalamus">http://www.scholarpedia.org/article/Thalamus</a></p>
 
 <p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A reconsideration of the core and matrix classification of thalamocortical projections. <i>Journal of Neuroscience, 44</i>, <a href="https://www.jneurosci.org/content/44/24/e0163242024">https://www.jneurosci.org/content/44/24/e0163242024</a><a href="http://doi.org/10.1523/JNEUROSCI.0163-24.2024"> http://doi.org/10.1523/JNEUROSCI.0163-24.2024</a></p>
@@ -1601,6 +1609,8 @@
 <p id="TachibanaHikosaka12">Tachibana, Y., & Hikosaka, O. (2012). The primate ventral pallidum encodes expected reward value and regulates motor action. <i>Neuron, 76</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/23177966">http://www.ncbi.nlm.nih.gov/pubmed/23177966</a></p>
 
 <p id="TachibanaKitaChikenEtAl08">Tachibana, Y., Kita, H., Chiken, S., Takada, M., & Nambu, A. (2008). Motor cortical control of internal pallidal activity through glutamatergic and GABAergic inputs in awake monkeys. <i>European Journal of Neuroscience, 27</i>, 238–253. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05990.x</a><a href="http://doi.org/10.1111/j.1460-9568.2007.05990.x"> http://doi.org/10.1111/j.1460-9568.2007.05990.x</a></p>
+
+<p id="TakedaFunahashi02">Takeda, K., & Funahashi, S. (2002). Prefrontal task-related activity representing visual cue location or saccade direction in spatial working memory tasks. <i>Journal of Neurophysiology, 87</i>, 567–588. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11784772">http://www.ncbi.nlm.nih.gov/pubmed/11784772</a></p>
 
 <p id="TakeiConfaisTomatsuEtAl17">Takei, T., Confais, J., Tomatsu, S., Oya, T., & Seki, K. (2017). Neural basis for hand muscle synergies in the primate spinal cord. <i>Proceedings of the National Academy of Sciences, 114</i>, 8643–8648. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1704328114">https://www.pnas.org/doi/abs/10.1073/pnas.1704328114</a><a href="http://doi.org/10.1073/pnas.1704328114"> http://doi.org/10.1073/pnas.1704328114</a></p>
 
