@@ -140,9 +140,6 @@ The Rubicon goal-driven framework posits that there are two qualitatively-distin
 
 * Working memory and motor gating: Within the context of an engaged goal, motor areas can be modulated by thalamic projections and sustain active maintenance to support anticipatory motor planning and other forms of active working memory. There are several other thalamic nuclei in the ventral region (e.g., VM, VA, VL) that support this functionality. Interestingly, the dlPFC areas, including ALM in rodents, are "dual ported" in that they belong to both the goal gating network, to engage an overall motor plan for accomplishing a goal, while also having more dynamic updates as the motor plan unfolds over time.
 
-{id="figure_md-pfc" style="height:20em"}
-![Thalamocortical connectivity for different regions of the MD thalamus in rats. From Kuramoto et al., 2017.](media/fig_md_pfc_conns_kuramoto_etal_17.png)
-
 {id="figure_motor-thal" style="height:30em"}
 ![Motor area thalamocortical connectivity organized along the motor hierarchy from primary to higher, associative areas (i.e., dlPFC / ALM). From Bosch-Bouju et al., 2013.](media/fig_pfc_thalamus_loops_bosch-bouju_etal_13.png)
 

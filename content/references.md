@@ -38,6 +38,8 @@
 
 <p id="AlexanderDeLongStrick86">Alexander, G., DeLong, M., & Strick, P. (1986). Parallel organization of functionally segregated circuits linking basal ganglia and cortex. <i>Annual Review of Neuroscience, 9</i>, 357–381. <a href="http://www.ncbi.nlm.nih.gov/pubmed/3085570">http://www.ncbi.nlm.nih.gov/pubmed/3085570</a></p>
 
+<p id="AlittoJohnsonUsrey25">Alitto, H.J., Johnson, J.S., & Usrey, W.M. (2025). Spatial Attention Weakly Modulates Visual Responses in the Lateral Geniculate Nucleus. <i>eNeuro, 12</i>, <a href="https://www.eneuro.org/content/12/9/ENEURO.0153-25.2025">https://www.eneuro.org/content/12/9/ENEURO.0153-25.2025</a><a href="http://doi.org/10.1523/ENEURO.0153-25.2025"> http://doi.org/10.1523/ENEURO.0153-25.2025</a></p>
+
 <p id="AllowaySmithWatson14">Alloway, K.D., Smith, J.B., & Watson, G.D.R. (2014). Thalamostriatal projections from the medial posterior and parafascicular nuclei have distinct topographic and physiologic properties. <i>Journal of Neurophysiology, 111</i>, 36–50. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00399.2013">https://journals.physiology.org/doi/full/10.1152/jn.00399.2013</a><a href="http://doi.org/10.1152/jn.00399.2013"> http://doi.org/10.1152/jn.00399.2013</a></p>
 
 <p id="Almeida87">Almeida, L.B. (1987). A Learning Rule for Asynchronous Perceptrons with Feedback in a Combinatorial Environment. In M. Caudil, & C. Butler (Eds.), <i>Proceedings of the IEEE First International Conference on Neural Networks San Diego, CA</i> (pp. 609–618). </p>
@@ -221,6 +223,8 @@
 <p id="BretteGerstner05">Brette, R., & Gerstner, W. (2005). Adaptive exponential integrate-and-fire model as an effective description of neuronal activity. <i>Journal of Neurophysiology, 94</i>, 3637–3642. <a href="http://jn.physiology.org/content/94/5/3637">http://jn.physiology.org/content/94/5/3637</a><a href="http://doi.org/10.1152/jn.00686.2005"> http://doi.org/10.1152/jn.00686.2005</a></p>
 
 <p id="BretteRudolphCarnevaleEtAl07">Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris, F.C., & Others (2007). Simulation of networks of spiking neurons: A review of tools and strategies. <i>Journal of Computational Neuroscience, 23</i>, 349–398. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17629781">http://www.ncbi.nlm.nih.gov/pubmed/17629781</a></p>
+
+<p id="Briggs20">Briggs, F. (2020). Role of Feedback Connections in Central Visual Processing. <i>Annual Review of Vision Science, 6</i>, 313–334. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-121219-081716">https://www.annualreviews.org/content/journals/10.1146/annurev-vision-121219-081716</a><a href="http://doi.org/10.1146/annurev-vision-121219-081716"> http://doi.org/10.1146/annurev-vision-121219-081716</a></p>
 
 <p id="BrodyRomoKepecs03">Brody, C.D., Romo, R., & Kepecs, A. (2003). Basic mechanisms for graded persistent activity: discrete attractors, continuous attractors, and dynamic representations. <i>Current Opinion in Neurobiology, 13</i>, 204–211. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12744975">http://www.ncbi.nlm.nih.gov/pubmed/12744975</a></p>
 
@@ -798,6 +802,8 @@
 
 <p id="IacobucciPopescu24">Iacobucci, G.J., & Popescu, G.K. (2024). Calcium- and calmodulin-dependent inhibition of NMDA receptor currents. <i>Biophysical Journal, 123</i>, 277–293. <a href="https://www.cell.com/biophysj/abstract/S0006-3495(23)04156-5">https://www.cell.com/biophysj/abstract/S0006-3495(23)04156-5</a><a href="http://doi.org/10.1016/j.bpj.2023.12.018"> http://doi.org/10.1016/j.bpj.2023.12.018</a></p>
 
+<p id="IlinskyKultas-Ilinsky87">Ilinsky, I.A., & Kultas‐Ilinsky, K. (1987). Sagittal cytoarchitectonic maps of the Macaca mulatta thalamus with a revised nomenclature of the motor-related nuclei validated by observations on their connectivity. <i>Journal of Comparative Neurology, 262</i>, 331–364. <a href="http://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902620303">http://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902620303</a><a href="http://doi.org/10.1002/cne.902620303"> http://doi.org/10.1002/cne.902620303</a></p>
+
 <p id="InagakiChenRidderEtAl22">Inagaki, H.K., Chen, S., Ridder, M.C., Sah, P., Li, N., Yang, Z., Hasanbegovic, H., Gao, Z., Gerfen, C.R., & Svoboda, K. (2022). A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement. <i>Cell, 185</i>, 1065-1081.e23. <a href="https://www.sciencedirect.com/science/article/pii/S0092867422001465">https://www.sciencedirect.com/science/article/pii/S0092867422001465</a><a href="http://doi.org/10.1016/j.cell.2022.02.006"> http://doi.org/10.1016/j.cell.2022.02.006</a></p>
 
 <p id="InagakiHirata17">Inagaki, K., & Hirata, Y. (2017). Computational Theory Underlying Acute Vestibulo-ocular Reflex Motor Learning with Cerebellar Long-Term Depression and Long-Term Potentiation. <i>The Cerebellum, 16</i>, 827–839. <a href="https://doi.org/10.1007/s12311-017-0857-6">https://doi.org/10.1007/s12311-017-0857-6</a><a href="http://doi.org/10.1007/s12311-017-0857-6"> http://doi.org/10.1007/s12311-017-0857-6</a></p>
@@ -941,6 +947,8 @@
 <p id="KupchikKalivas17">Kupchik, Y.M., & Kalivas, P.W. (2017). The Direct and Indirect Pathways of the Nucleus Accumbens are not What You Think. <i>Neuropsychopharmacology, 42</i>, 369–370. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143491/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143491/</a><a href="http://doi.org/10.1038/npp.2016.160"> http://doi.org/10.1038/npp.2016.160</a></p>
 
 <p id="KupchikPrasad21">Kupchik, Y.M., & Prasad, A.A. (2021). Ventral pallidum cellular and pathway specificity in drug seeking. <i>Neuroscience & Biobehavioral Reviews, 131</i>, 373–386. <a href="https://www.sciencedirect.com/science/article/pii/S0149763421003894">https://www.sciencedirect.com/science/article/pii/S0149763421003894</a><a href="http://doi.org/10.1016/j.neubiorev.2021.09.007"> http://doi.org/10.1016/j.neubiorev.2021.09.007</a></p>
+
+<p id="KuramotoIwaiYamanakaEtAl17">Kuramoto, E., Iwai, H., Yamanaka, A., Ohno, S., Seki, H., Tanaka, Y.R., Furuta, T., Hioki, H., & Goto, T. (2017). Dorsal and ventral parts of thalamic nucleus submedius project to different areas of rat orbitofrontal cortex: A single neuron-tracing study using virus vectors. <i>Journal of Comparative Neurology, 525</i>, 3821–3839. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24306">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24306</a><a href="http://doi.org/10.1002/cne.24306"> http://doi.org/10.1002/cne.24306</a></p>
 
 <p id="KuramotoOhnoFurutaEtAl15">Kuramoto, E., Ohno, S., Furuta, T., Unzai, T., Tanaka, Y.R., Hioki, H., & Kaneko, T. (2015). Ventral medial nucleus neurons send thalamocortical afferents more widely and more preferentially to layer 1 than neurons of the ventral anterior–ventral lateral nuclear complex in the rat. <i>Cerebral Cortex, 25</i>, 221–235. <a href="https://academic.oup.com/cercor/article/25/1/221/369709">https://academic.oup.com/cercor/article/25/1/221/369709</a><a href="http://doi.org/10.1093/cercor/bht216"> http://doi.org/10.1093/cercor/bht216</a></p>
 
@@ -1290,6 +1298,8 @@
 
 <p id="PezzuloRigoliFriston18">Pezzulo, G., Rigoli, F., & Friston, K.J. (2018). Hierarchical active inference: A theory of motivated control. <i>Trends in Cognitive Sciences, 22</i>, 294–306. <a href="http://www.sciencedirect.com/science/article/pii/S1364661318300226">http://www.sciencedirect.com/science/article/pii/S1364661318300226</a><a href="http://doi.org/10.1016/j.tics.2018.01.009"> http://doi.org/10.1016/j.tics.2018.01.009</a></p>
 
+<p id="PhillipsKambiRedinbaughEtAl21">Phillips, J.M., Kambi, N.A., Redinbaugh, M.J., Mohanta, S., & Saalmann, Y.B. (2021). Disentangling the influences of multiple thalamic nuclei on prefrontal cortex and cognitive control. <i>Neuroscience & Biobehavioral Reviews, 128</i>, 487–510. <a href="https://www.sciencedirect.com/science/article/pii/S0149763421002955">https://www.sciencedirect.com/science/article/pii/S0149763421002955</a><a href="http://doi.org/10.1016/j.neubiorev.2021.06.042"> http://doi.org/10.1016/j.neubiorev.2021.06.042</a></p>
+
 <p id="Piaget41">Piaget, J. (1941). Le m'echanisme du d'eveloppement mental et les lois du groupement des op'eration. <i>Arch. Psych., Gen`eve, 28</i>, 215–285. </p>
 
 <p id="Piantadosi23">Piantadosi, S.T. (2023). Modern language models refute Chomsky’s approach to language. <i>From fieldwork to linguistic theory: A tribute to Dan Everett, </i>353–414. <a href="https://books.google.com/books?hl=en&lr=&id=BrcpEQAAQBAJ&oi=fnd&pg=PA353&ots=hQR6BV-AUL&sig=YWna5wy_SeF8i_NhGuav6_D_6xs">https://books.google.com/books?hl=en&lr=&id=BrcpEQAAQBAJ&oi=fnd&pg=PA353&ots=hQR6BV-AUL&sig=YWna5wy_SeF8i_NhGuav6_D_6xs</a></p>
@@ -1305,6 +1315,8 @@
 <p id="PoiraziBrannonMel03">Poirazi, P., Brannon, T., & Mel, B.W. (2003). Arithmetic of Subthreshold Synaptic Summation in a Model CA1 Pyramidal Cell. <i>Neuron, 37</i>, 977–987. <a href="https://www.sciencedirect.com/science/article/pii/S089662730300148X">https://www.sciencedirect.com/science/article/pii/S089662730300148X</a><a href="http://doi.org/10.1016/S0896-6273(03)00148-X"> http://doi.org/10.1016/S0896-6273(03)00148-X</a></p>
 
 <p id="PoiraziPapoutsi20">Poirazi, P., & Papoutsi, A. (2020). Illuminating dendritic function with computational models. <i>Nature Reviews Neuroscience, 21</i>(6), 303–321. <a href="http://www.nature.com/articles/s41583-020-0301-7">http://www.nature.com/articles/s41583-020-0301-7</a><a href="http://doi.org/10.1038/s41583-020-0301-7"> http://doi.org/10.1038/s41583-020-0301-7</a></p>
+
+<p id="PoltoratskiMaierNewtonEtAl19">Poltoratski, S., Maier, A., Newton, A.T., & Tong, F. (2019). Figure-Ground Modulation in the Human Lateral Geniculate Nucleus Is Distinguishable from Top-Down Attention. <i>Current Biology, 29</i>, 2051-2057.e3. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(19)30497-X">https://www.cell.com/current-biology/abstract/S0960-9822(19)30497-X</a><a href="http://doi.org/10.1016/j.cub.2019.04.068"> http://doi.org/10.1016/j.cub.2019.04.068</a></p>
 
 <p id="Posner80">Posner, M.I. (1980). Orienting of Attention. <i>Quarterly Journal of Experimental Psychology, 32</i>, 3–25. </p>
 
@@ -1459,6 +1471,8 @@
 <p id="SchultzDayanMontague97">Schultz, W., Dayan, P., & Montague, P.R. (1997). A neural substrate of prediction and reward. <i>Science, 275</i>, 1593–1599. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9054347">http://www.ncbi.nlm.nih.gov/pubmed/9054347</a></p>
 
 <p id="SchwabKaseZimnikEtAl20">Schwab, B.C., Kase, D., Zimnik, A., Rosenbaum, R., Codianni, M.G., Rubin, J.E., & Turner, R.S. (2020). Neural activity during a simple reaching task in macaques is counter to gating and rebound in basal ganglia–thalamic communication. <i>PLOS Biology, 18</i>, e3000829. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000829">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000829</a><a href="http://doi.org/10.1371/journal.pbio.3000829"> http://doi.org/10.1371/journal.pbio.3000829</a></p>
+
+<p id="SchwetlickHerzog25">Schwetlick, L., & Herzog, M.H. (2025). Visual Crowding. <i>Annual Review of Vision Science, 11</i>, 359–383. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110423-024409">https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110423-024409</a><a href="http://doi.org/10.1146/annurev-vision-110423-024409"> http://doi.org/10.1146/annurev-vision-110423-024409</a></p>
 
 <p id="Scott04">Scott, S.H. (2004). Optimal feedback control and the neural basis of volitional motor control. <i>Nat Rev Neurosci, 5</i>, 532–546. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15208695">http://www.ncbi.nlm.nih.gov/pubmed/15208695</a></p>
 
@@ -1622,6 +1636,8 @@
 
 <p id="ThorpeDelormeVanRullen01">Thorpe, S., Delorme, A., & Van Rullen, R. (2001). Spike-based strategies for rapid processing. <i>Neural networks, 14</i>, 715–725. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11665765">http://www.ncbi.nlm.nih.gov/pubmed/11665765</a></p>
 
+<p id="TimbieBarbas15">Timbie, C., & Barbas, H. (2015). Pathways for Emotions: Specializations in the Amygdalar, Mediodorsal Thalamic, and Posterior Orbitofrontal Network. <i>Journal of Neuroscience, 35</i>, 11976–11987. <a href="https://www.jneurosci.org/content/35/34/11976">https://www.jneurosci.org/content/35/34/11976</a><a href="http://doi.org/10.1523/JNEUROSCI.2157-15.2015"> http://doi.org/10.1523/JNEUROSCI.2157-15.2015</a></p>
+
 <p id="TingChielTrumbowerEtAl15">Ting, L.H., Chiel, H.J., Trumbower, R.D., Allen, J.L., McKay, J.L., Hackney, M.E., & Kesar, T.M. (2015). Neuromechanical Principles Underlying Movement Modularity and Their Implications for Rehabilitation. <i>Neuron, 86</i>, 38–54. <a href="https://www.cell.com/neuron/abstract/S0896-6273(15)00157-9">https://www.cell.com/neuron/abstract/S0896-6273(15)00157-9</a><a href="http://doi.org/10.1016/j.neuron.2015.02.042"> http://doi.org/10.1016/j.neuron.2015.02.042</a></p>
 
 <p id="TingMcKay07">Ting, L.H., & McKay, J.L. (2007). Neuromechanics of muscle synergies for posture and movement. <i>Current Opinion in Neurobiology, 17</i>, 622–628. <a href="https://www.sciencedirect.com/science/article/pii/S0959438808000044">https://www.sciencedirect.com/science/article/pii/S0959438808000044</a><a href="http://doi.org/10.1016/j.conb.2008.01.002"> http://doi.org/10.1016/j.conb.2008.01.002</a></p>
@@ -1759,6 +1775,8 @@
 <p id="XiangHuguenardPrince98">Xiang, Z., Huguenard, J.R., & Prince, D.A. (1998). Cholinergic switching within neocortical inhibitory networks. <i>Science (New York, N.Y.), 281</i>, 985–988. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9703513">http://www.ncbi.nlm.nih.gov/pubmed/9703513</a></p>
 
 <p id="XiaoLiChitwoodEtAl23">Xiao, K., Li, Y., Chitwood, R.A., & Magee, J.C. (2023). A critical role for CaMKII in behavioral timescale synaptic plasticity in hippocampal CA1 pyramidal neurons. <i>Science Advances, 9</i>, eadi3088. <a href="https://www.science.org/doi/full/10.1126/sciadv.adi3088">https://www.science.org/doi/full/10.1126/sciadv.adi3088</a><a href="http://doi.org/10.1126/sciadv.adi3088"> http://doi.org/10.1126/sciadv.adi3088</a></p>
+
+<p id="XiaoZikopoulosBarbas09">Xiao, D., Zikopoulos, B., & Barbas, H. (2009). Laminar and modular organization of prefrontal projections to multiple thalamic nuclei. <i>Neuroscience, 161</i>, 1067–1081. <a href="http://www.sciencedirect.com/science/article/pii/S0306452209006411">http://www.sciencedirect.com/science/article/pii/S0306452209006411</a><a href="http://doi.org/10.1016/j.neuroscience.2009.04.034"> http://doi.org/10.1016/j.neuroscience.2009.04.034</a></p>
 
 <p id="XieSeung03">Xie, X., & Seung, H.S. (2003). Equivalence of backpropagation and Contrastive Hebbian Learning in a layered network. <i>Neural Computation, 15</i>, 441–454. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12590814">http://www.ncbi.nlm.nih.gov/pubmed/12590814</a></p>
 

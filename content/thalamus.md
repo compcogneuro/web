@@ -7,9 +7,11 @@ The **thalamus** plays essential roles in multiple different brain circuits, and
 
 From an [[evolution|evolutionary]], comparative perspective, the thalamus consistently provides interconnectivity between primary sensory areas and the _pallium_, which is the outer-most region of the brain, i.e., the _telecephelon_. In mammals, the [[neocortex]] is a major component of the pallium, while other vertibrates have smaller, simpler cortex-like structures in their pallium that play the same functional role as the neocortex ([[@Butler08]]). The functions highlighted below are specific to mammals.
 
-* In posterior [[neocortex]], the _pulvinar_ nucleus of the thalamus supports [[predictive learning]] by alternatively representing a top-down prediction and a bottom-up outcome. Similar connectivity is present in the _mediodorsal (MD)_ nucleus that interconnects with [[prefrontal cortex]], suggesting a similar predictive learning role. Likewise, areas of [[motor]] thalamus and anterior thalamic areas connected to the systems processing [[space]] can support this form of learning.
+* Relaying with attentional modulation the primary sensory and motor inputs to the neocortex, such as the LGN (lateral geniculate nucleus) for vision. There are extensive top-down projections from sensory cortical areas back to these primary sensory thalamic areas, supporting attentional modulation of these sensory inputs ([[@PoltoratskiMaierNewtonEtAl19]]; [[@Briggs20]]). Primary motor cortex receives both a direct primary motor input from the [[cerebellum]] and inputs from somatosensory thalamus, which play an analogous role on the motor side, teaching motor cortex how to "speak in the language of the spinal cord".
 
-* There are multiple different thalamic nuclei including the MD that are interconnected with frontal [[neocortex]], particularly [[prefrontal cortex]] (PFC) and the [[basal ganglia]] (BG), which play critical roles in goal-driven behavior and [[motor]] control as captured in the [[Rubicon]] model.
+* In posterior [[neocortex]], the _pulvinar_ nucleus of the thalamus supports [[predictive learning]] by alternatively representing a top-down prediction and a bottom-up outcome. Similar connectivity is present in the _mediodorsal (MD)_ nucleus that interconnects with [[prefrontal cortex]] and lower [[motor]] cortex areas, suggesting a similar predictive learning role. Likewise, anterior thalamic areas connected to the systems processing [[space]] can support this form of learning.
+
+* There are multiple different thalamic nuclei including the MD, VA and VM that are interconnected with frontal [[neocortex]], particularly [[prefrontal cortex]] (PFC) and the [[basal ganglia]] (BG), which play critical roles in goal-driven behavior and [[motor]] control as captured in the [[Rubicon]] model.
 
 * The intralaminar (IL) nuclei provide an extensive feedback pathway for the basal ganglia.
 
@@ -112,18 +114,77 @@ It is critical to recognize that although each thalamic nucleus has a predominan
 [[@GiguereGoldman-Rakic88]] is primate study showing patchy organization in primates.
 
 
-## Motor thalamus
+## Frontal thalamus
 
-{id="figure_prjn-kuramoto" style="height:30em"}
-![Summary of projections from the different ventral motor thalamic areas. From Kuramoto et al., 2015.](media/fig_thalamus_prjn_vm_vl_kuramoto_etal_15.png)
+There are three major functions for thalamic areas interconnected with frontal areas:
 
-{id="figure_nrn3-kuramoto" style="height:30em"}
-![Summary of projections from the different ventral motor thalamic areas. From Kuramoto et al., 2015.](media/fig_thalamus_prjn_vm_vl_nrn3_kuramoto_etal_15.png)
+* Training of primary motor cortex to speak the language of the spinal cord (VL, POm / PULm). These receive strong driver input from spinal motor signals (VL) or somatosensory signals (POm / PULm), and project strong driver inputs into the middle lamina of motor areas.
 
-[[#figure_prjn-kuramoto]] from [[@KuramotoOhnoFurutaEtAl15]]..
+* Corticocortical [[predictive learning]], analogous to that supported by the pulvinar for posterior cortex, so higher layers can learn to predict the motor-related activity of lower layers. This is supported by subsets of neurons within the MD and AM nuclei. This helps learning of longer sequences of motor actions, for example.
 
-## MD thalamus
+* [[Basal ganglia]] gating signals across multiple timescales, to trigger dynamic updating of frontal representations, for goal engagement, motor plan, and motor action updating. This is supported by other subsets of neurons within MD and AM, and the VA (which corresponds with VM in rodent; [[@IlinskyKultas-Ilinsky87]]) nucleus, including the special VAmc nucleus that is specific to primates.
 
+### Rodent
+
+{id="figure_prjn-kuramoto" style="height:25em"}
+![Summary of projections from the different ventral motor thalamic areas in rodents, where VM is the rodent version of VA, and VAmc does not exist. VL can be defined as the specific subset of neurons receiving cerebellar nucleus (CN) driver inputs (inluding caudodorsal VA), which have focal core-like projections as shown on the right. The VM neurons (which include rostroventral VA), consistent with VA and VAmc in macaque, receive extensive BG output (SNr, GPi) and project in a more diffuse matrix-like pattern to superficial layers. From Kuramoto et al., 2015.](media/fig_thalamus_prjn_vm_vl_kuramoto_etal_15.png)
+
+We begin with the simpler case of the rodent, which has each of these different functions clearly represented by different thalamic nuclei. The primate case then adds more complexity that can be understood as building upon this same basic foundation.
+
+[[#figure_prjn-kuramoto]] (from [[@KuramotoOhnoFurutaEtAl15]]) shows the simpler situation in rodents, where one can define two ventral thalamic areas according to their driver inputs, that then correspond roughly to corresponding areas in the macaque monkey: VL, and VM. VL (which also includes caudodorsal VA) receives strong drivers from the cerebellar nuclei, and projects focally to middle lamina in motor areas (i.e., core-like), enabling motor areas to learn the language of the spinal cord. VM (which also includes rostroventral VA) receives BG disinhibitory outputs (SNr, GPi), and projects to superficial lamina in a widely-branching manner (i.e., matrix-like), and allows BG to send a broad gating signal to all of motor cortex. 
+
+{id="figure_md-pfc" style="height:20em"}
+![Thalamocortical connectivity for different regions of the MD thalamus in rats. MDm (medial) is the main goal-driven gating area, which receives disinhibitory input from ventral pallidum (VP), and projects to the core goal areas (IL, PL, and OFC areas). MDc (central) projects to more OFC areas and may be important for updating during goal approach. MDl (lateral) targets the complementary ACC and PL goal areas, along with motor plan areas in (FrA = frontal association higher level motor, M2 = secondary motor). From Kuramoto et al., 2017.](media/fig_md_pfc_conns_kuramoto_etal_17.png)
+
+[[#figure_md-pfc]] shows the different regions of the MD thalamus interconnecting with areas of the PFC in rats (from [[@KuramotoPanFurutaEtAl17]]), with the primary goal-gating functionality supported by MDm (medial), which projects to all of the goal areas (IL, PL, OFC, and FrA) and receives disinhibition from VP (ventral pallidum), which is the output pathway from ventral striatum goal gating areas as described in [[basal ganglia]]. The other two areas of MD (c = central, l = lateral) provide complementary, more specific gating pathways for OFC (central) and motor, ACC, and PL (lateral), potentially allowing each of these coordinated components of the goal representation to be updated separately.
+
+{id="figure_frontal-areas" style="height:40em"}
+![Thalamic nuclei in macaque monkeys showing the projections received from SNr (BG) as a function of the frontal areas that these cortical areas project to (inset below legend), with A = PSv, ventral of the principal sulcus (e.g., IFG in human PFC); B = dlPFC (areas 9, 46); C = motor areas (M1, SMA, PMd). VAmc projects widely to all PFC areas, and has significant SNr input, while MDpc and MDmf mainly interconect with the PSv area associated with caudal SNr inputs. AM = anteromedial. Note that MD has a mix of neurons with no SNr input (typically with cortical drivers, like pulvinar), and those with SNr or VP (ventral pallidum, for MDmc) inputs. From Tanibuchi et al., 2009.](media/fig_thalamus_frontal_tanibuchi_etal_09.png)
+
+### Primate
+
+{id="figure_phillips-cons" style="height:40em"}
+![Similarity of patterns of thalamic connectivity with prefrontal cortex (PFC) in the macaque, which typically also reflects direct interconnectivity strength. Red and orange areas are ventral and medial PFC goal-driven areas (i.e, the core of the [[Rubicon]] model), including OFC (13, 14, 11; specific outcomes), IL (25; abstract outcomes), and PL (32; integrated reward-cost utility: note broader interconnectivity, especially with 24, 25 and 9); Yellow (10) is polar frontal cortex, unique to primates, important for episodic memory and outer loops of processing; Green (47,12) is vlPFC (ventrolateral) for control over the temporal lobe (language, objects etc); Cyan (9, 46d, 45a) is dlPFC (dorsolateral) for control over parietal lobe for spatial and temporal organization of action (broad plans); Blue (8) is FEF (frontal eye fields) which has similar connectivity to PM (premotor), SMA (supplementary motor area) and primary motor cortex (M1). Area 24 is ACC (anterior cingulate cortex) which represents the value (mostly costs) of actions, and has very broad interconnectivity with motor areas, but also goal areas, especially 32 (PL). Adapted from Phillips et al., 2019.](media/fig_thalamus_pfc_simat_phillips_etal_19.png)
+
+{id="table_motor-thal" title="Motor thalamus areas"}
+| Area      | Function     | Drivers          | Modulators        | BG   | Strong outs    | Weak outs | Lamina   | Other ins            | Other outs |
+|-----------|--------------|------------------|-------------------|------|----------------|-----------|----------|----------------------|------------|
+| **Learning** |           |                  |                   |      |                |           |          |                      |            |
+| PULm / POm | S1->M1 Learn | S1, Spinal      | M1, M2            | --   | M1, M2, SMA..  |           | Mid?     | ?                    | ?          |
+| VL        | CN->M1,M2 Learn | CN            | M1,M2             | --   | M1, M2         |           | Mid      |                      |            | 
+| MD        | Predictive learning | (see below) |                 | --   |                |           |          |                      |            |
+| **Gating** |  **(focal)** |                 |                   |      |                |           |          |                      |            |
+| AM        | MTL <-> goal | ACC, OFC, IL, PL | d/vlPFC, lOFC     | mGPi | 10, 11, 12, 46 | PL, ACC   | Mid      | CA3, aSub, BLA, mGPi | hippo?     |
+| MDm/mc    | goal engage  | OFC, IL, PL      | vlPFC, ACC        | VP   | OFC            | PL, IL    | S/D, Mid | IT polar, EC, PRh, Sub, BLA |     |
+| MDc/pc    | dl/plan WM   | 10, dlPFC        | ACC, PL, PM, SMA  | SNr  | dlPFC (WM)     | PM, SMA   | Mid      | parietal             | parietal   |
+| MDl/mf/dc | eye/act motor| 8 (FEF), PM, SMA |                   | SNr  | 8, PM, SMA     |           | Mid      | SC, parietal attn    |            |
+| **Gating** | **(diffuse)** |                |                   |      |                |           |          |                      |            |
+| VA        | BG->motor    |                  |                   | GPi  | M1, M2, SMA, DM|           |          |                      |            |
+| VAmc / VM | BG->dl/motor | dl, PL, ACC      |                   | SNr  | dlPFC, M2, M1  |           | Mid + S/D| parietal, temp pole  | parietal   |
+
+[[#table_motor-thal]] describes motor thalamus areas in primate using brodmann area numbers, from [[@PhillipsKambiRedinbaughEtAl21]] and [[@TimbieBarbas15]]
+
+* MD has both BG-gated cells for BG-gated updating, and also intermixed neurons that do not receive BG inputs (SNr or GPi) and can play a predictive learning function. MD mostly targets middle layers ("core style"), although with largely non-standard calretinin marker neurons, instead of standard PV core-style (CB = matrix style, only found in MDm). Cortical driver source inputs are PT layer 5b (deep) ([[@XiaoZikopoulosBarbas09]]). For the BG gating, the following types appear to be separately supported. 
+    + MDm: Goal representations in goal areas (PL, ACC, IL, OFC).
+    + MDc: Working memory / plan representations in dlPFC.
+    + MDl: Motor plans at finer time scales.
+* AM also has BG gating of goal areas, but appears to be more interconnected with MTL / hippocampal systems. TODO: find paper just on AM. Driving 10 and 46, and getting direct CA3, aSub inputs. Cortical driver source inputs are PT layer 5b (deep) ([[@XiaoZikopoulosBarbas09]]).
+
+    + MDm (MDmc) is the principal goal engage system, triggered by VP gating signals, updating OFC, PL, IL, also with other hippocampal and BLA inputs (todo: explore those in [[Rubicon]] model.)
+    + MDc (MDpc) is heavily SNr innervated (refs) and drives working memory updating in dlPFC and frontopolar (10). This is a core-style projection. It absolutely has all the properties needed for BG-mediated WM updating ala PBWM, right? todo: read primary refs on this. [[@KuramotoIwaiYamanakaEtAl17]] on MD only shows rats, and thus misses the critical PFC nature of this in primates.
+    + MDl (MDmf/MDdc) has strong FEF 8a driver inputs, and in primates is likely drive broader motor gating (updating motor plans based on new eye position?) triggered by new saccade. In rodents it is more strongly PL interconnected.
+
+TODO: good summary on VL, VA, POm -- not in [[@PhillipsKambiRedinbaughEtAl21]]
+    
+* VA: "Its thalamocortical neurons are under the control of the inhibitory projection from the GPi (Ilinsky and Kultas-Ilinsky, 1987; Ilinsky et al., 1993; Jones, 2007)."  
+
+* VAmc has highly overlapping inputs and very broad outputs. is main pathway for SNr/BG gating in primates; rodents have that through MD; unclear why that is not true also in primates given above connectivity. Matrix-like layer I outputs, inputs from goal and dlPFC areas -- update motor cortex when new plans are activated basically. Thalamic prjns arise from 5a (superficial, IT) not PT.
+    + 6 CT targets PV -> Mid layers (core) = classic CT predictive learning; 5a targets CB -> S/D (matrix) = BG gating?? So also a mix of different types.
+    + VAmc vs. MDc: very broad inputs, but targets lamina 3,4!? lamina looks like core, but projection *inputs* are very broad. outputs??
+    
+
+* AM, MD get significant CT layer 6 inputs (only 20% layer 5 drivers), whereas VL,VA,VAmc all have nearly 50% layer 5 inputs ([[@XiaoZikopoulosBarbas09]]).  PT layer 5b (deep) ([[@XiaoZikopoulosBarbas09]]) are more focal, whereas 5b (superficial, IT) are broader
+    
 ## Anterior thalamic areas
 
 

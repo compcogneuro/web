@@ -57,4 +57,7 @@ According to Posner's disengage model, bilateral damage should result in difficu
 
 See the [[attention simulation]] to explore a model with spatial and object pathways interacting in the context of multiple spatial attention tasks, including perceiving multiple objects, and the Posner spatial cueing task. It reproduces the behavioral data shown above, and correctly demonstrates the observed pattern of reduced attentional effects for Balint's patients.
 
+## Thalamic role in attention
+
+Relevant papers: [[@PoltoratskiMaierNewtonEtAl19]]; [[@Briggs20]]; but see: [[@AlittoJohnsonUsrey25]] for a direct test, which unfortunately did not explore the effects of crowding, which are _essential_ to reveal attentional effects at low levels ([[@SchwetlickHerzog25]]).
 
