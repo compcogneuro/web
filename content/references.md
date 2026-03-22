@@ -46,6 +46,8 @@
 
 <p id="Almeida87">Almeida, L.B. (1987). A Learning Rule for Asynchronous Perceptrons with Feedback in a Combinatorial Environment. In M. Caudil, & C. Butler (Eds.), <i>Proceedings of the IEEE First International Conference on Neural Networks San Diego, CA</i> (pp. 609–618). </p>
 
+<p id="Alonso-MartinezRubio-TevesCasas-TorremochaEtAl23">Alonso-Martínez, C., Rubio-Teves, M., Casas-Torremocha, D., Porrero, C., & Clascá, F. (2023). Cerebellar and basal ganglia inputs define three main nuclei in the mouse ventral motor thalamus. <i>Frontiers in Neuroanatomy, 17</i>, <a href="https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2023.1242839/full">https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2023.1242839/full</a><a href="http://doi.org/10.3389/fnana.2023.1242839"> http://doi.org/10.3389/fnana.2023.1242839</a></p>
+
 <p id="AlvarezFyffe07">Alvarez, F.J., & Fyffe, R.E.W. (2007). The continuing case for the Renshaw cell. <i>The Journal of Physiology, 584</i>, 31–45. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2007.136200">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2007.136200</a><a href="http://doi.org/10.1113/jphysiol.2007.136200"> http://doi.org/10.1113/jphysiol.2007.136200</a></p>
 
 <p id="AnanthRajebhosaleKimEtAl23">Ananth, M.R., Rajebhosale, P., Kim, R., Talmage, D.A., & Role, L.W. (2023). Basal forebrain cholinergic signalling: development, connectivity and roles in cognition. <i>Nature Reviews Neuroscience, </i>1–19. <a href="https://www.nature.com/articles/s41583-023-00677-x">https://www.nature.com/articles/s41583-023-00677-x</a><a href="http://doi.org/10.1038/s41583-023-00677-x"> http://doi.org/10.1038/s41583-023-00677-x</a></p>
