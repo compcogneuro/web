@@ -1624,6 +1624,8 @@
 
 <p id="TanFaullCurtis23">Tan, S., Faull, R.L.M., & Curtis, M.A. (2023). The tracts, cytoarchitecture, and neurochemistry of the spinal cord. <i>The Anatomical Record, 306</i>, 777–819. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ar.25079">https://onlinelibrary.wiley.com/doi/abs/10.1002/ar.25079</a><a href="http://doi.org/10.1002/ar.25079"> http://doi.org/10.1002/ar.25079</a></p>
 
+<p id="TanibuchiKitanoJinnai09">Tanibuchi, I., Kitano, H., & Jinnai, K. (2009). Substantia nigra output to prefrontal cortex via thalamus in monkeys. I. Electrophysiological identification of thalamic relay neurons. <i>Journal of Neurophysiology, 102</i>, 2933–2945. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19692504">http://www.ncbi.nlm.nih.gov/pubmed/19692504</a></p>
+
 <p id="Taube07">Taube, J.S. (2007). The Head Direction Signal: Origins and Sensory-Motor Integration. <i>Annual Review of Neuroscience, 30</i>, 181–207. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854">https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854</a><a href="http://doi.org/10.1146/annurev.neuro.29.051605.112854"> http://doi.org/10.1146/annurev.neuro.29.051605.112854</a></p>
 
 <p id="TavernaIlijicSurmeier08">Taverna, S., Ilijic, E., & Surmeier, D.J. (2008). Recurrent collateral connections of striatal medium spiny neurons are disrupted in models of Parkinson's disease. <i>Journal of Neuroscience, 28</i>, 5504–5512. <a href="http://www.jneurosci.org/cgi/content/abstract/28/21/5504">http://www.jneurosci.org/cgi/content/abstract/28/21/5504</a></p>
