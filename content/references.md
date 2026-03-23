@@ -724,6 +724,8 @@
 
 <p id="HeilbronnerRodriguez-RomagueraQuirkEtAl16">Heilbronner, S.R., Rodriguez-Romaguera, J., Quirk, G.J., Groenewegen, H.J., & Haber, S.N. (2016). Circuit-based corticostriatal homologies between rat and primate. <i>Biological Psychiatry, 80</i>, 509–521. <a href="http://www.sciencedirect.com/science/article/pii/S0006322316323885">http://www.sciencedirect.com/science/article/pii/S0006322316323885</a><a href="http://doi.org/10.1016/j.biopsych.2016.05.012"> http://doi.org/10.1016/j.biopsych.2016.05.012</a></p>
 
+<p id="HelfrichKnight19">Helfrich, R.F., & Knight, R.T. (2019). <i>Cognitive neurophysiology: Event-related potentials. </i>In Handbook of Clinical Neurology (pp. 543–558). Elsevier. <a href="https://www.sciencedirect.com/science/chapter/handbook/pii/B9780444640321000369">https://www.sciencedirect.com/science/chapter/handbook/pii/B9780444640321000369</a><a href="http://doi.org/10.1016/B978-0-444-64032-1.00036-9"> http://doi.org/10.1016/B978-0-444-64032-1.00036-9</a></p>
+
 <p id="Helmholtz67">Helmholtz, H. (1867). <i>Treatise on Physiological Optics, Vol III. </i> Courier Corporation. </p>
 
 <p id="Henneman85">Henneman, E. (1985). The size-principle: a deterministic output emerges from a set of probabilistic connections. <i>Journal of Experimental Biology, 115</i>, 105–112. <a href="https://doi.org/10.1242/jeb.115.1.105">https://doi.org/10.1242/jeb.115.1.105</a><a href="http://doi.org/10.1242/jeb.115.1.105"> http://doi.org/10.1242/jeb.115.1.105</a></p>
@@ -961,6 +963,8 @@
 <p id="KuramotoPanFurutaEtAl17">Kuramoto, E., Pan, S., Furuta, T., Tanaka, Y.R., Iwai, H., Yamanaka, A., Ohno, S., Kaneko, T., Goto, T., & Hioki, H. (2017). Individual mediodorsal thalamic neurons project to multiple areas of the rat prefrontal cortex: A single neuron-tracing study using virus vectors. <i>Journal of Comparative Neurology, 525</i>, 166–185. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24054">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24054</a><a href="http://doi.org/10.1002/cne.24054"> http://doi.org/10.1002/cne.24054</a></p>
 
 <p id="KurodaSchweighoferKawato01">Kuroda, S., Schweighofer, N., & Kawato, M. (2001). Exploration of signal transduction pathways in cerebellar long-term depression by kinetic simulation. <i>Journal of Neuroscience, 21</i>, 5693–5702. <a href="https://www.jneurosci.org/content/21/15/5693">https://www.jneurosci.org/content/21/15/5693</a><a href="http://doi.org/10.1523/JNEUROSCI.21-15-05693.2001"> http://doi.org/10.1523/JNEUROSCI.21-15-05693.2001</a></p>
+
+<p id="LaCameraFontaniniMazzucato19">La Camera, G., Fontanini, A., & Mazzucato, L. (2019). Cortical computations via metastable activity. <i>Current Opinion in Neurobiology, 58</i>, 37–45. <a href="http://www.sciencedirect.com/science/article/pii/S0959438818302198">http://www.sciencedirect.com/science/article/pii/S0959438818302198</a><a href="http://doi.org/10.1016/j.conb.2019.06.007"> http://doi.org/10.1016/j.conb.2019.06.007</a></p>
 
 <p id="LakeBaroni17">Lake, B.M., & Baroni, M. (2017). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. <i>arXiv:1711.00350 [cs], <a href="http://arxiv.org/abs/1711.00350">http://arxiv.org/abs/1711.00350</a></i></p>
 
@@ -1370,6 +1374,8 @@
 
 <p id="Reber67">Reber, A.S. (1967). Implicit Learning of Artificial Grammars. <i>Journal of Verbal Learning and Verbal Behavior, 6</i>, 855–863. </p>
 
+<p id="RecanatesiPereira-ObilinovicMurakamiEtAl22">Recanatesi, S., Pereira-Obilinovic, U., Murakami, M., Mainen, Z., & Mazzucato, L. (2022). Metastable attractors explain the variable timing of stable behavioral action sequences. <i>Neuron, 110</i>, 139-153.e9. <a href="https://www.cell.com/neuron/abstract/S0896-6273(21)00779-0">https://www.cell.com/neuron/abstract/S0896-6273(21)00779-0</a><a href="http://doi.org/10.1016/j.neuron.2021.10.011"> http://doi.org/10.1016/j.neuron.2021.10.011</a></p>
+
 <p id="RedgravePrescottGurney99">Redgrave, P., Prescott, T.J., & Gurney, K. (1999). Is the short-latency dopamine response too short to signal reward error? <i>Trends in neurosciences, 22</i>, 146–151. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10203849">http://www.ncbi.nlm.nih.gov/pubmed/10203849</a></p>
 
 <p id="RedishElgaTouretzky96">Redish, A.D., Elga, A.N., & Touretzky, D.S. (1996). A coupled attractor model of the rodent head direction system. <i>Network: computation in neural systems, 7</i>, 671. <a href="https://iopscience.iop.org/article/10.1088/0954-898X/7/4/004/meta">https://iopscience.iop.org/article/10.1088/0954-898X/7/4/004/meta</a></p>
@@ -1453,6 +1459,8 @@
 <p id="SantuzAkayMayerEtAl19">Santuz, A., Akay, T., Mayer, W.P., Wells, T.L., Schroll, A., & Arampatzis, A. (2019). Modular organization of murine locomotor pattern in the presence and absence of sensory feedback from muscle spindles. <i>Journal of Physiology, 597</i>, 3147–3165. <a href="https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP277515">https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP277515</a><a href="http://doi.org/10.1113/JP277515"> http://doi.org/10.1113/JP277515</a></p>
 
 <p id="SatoParentLevesqueEtAl00">Sato, F., Parent, M., Levesque, M., & Parent, A. (2000). Axonal branching pattern of neurons of the subthalamic nucleus in primates. <i>Journal of Comparative Neurology, 424</i>, 142–152. <a href="http://onlinelibrary.wiley.com/doi/abs/10.1002/1096-9861%2820000814%29424%3A1%3C142%3A%3AAID-CNE10%3E3.0.CO%3B2-8">http://onlinelibrary.wiley.com/doi/abs/10.1002/1096-9861%2820000814%29424%3A1%3C142%3A%3AAID-CNE10%3E3.0.CO%3B2-8</a><a href="http://doi.org/https://doi.org/10.1002/1096-9861(20000814)424:1<142::AID-CNE10>3.0.CO;2-8"> http://doi.org/https://doi.org/10.1002/1096-9861(20000814)424:1<142::AID-CNE10>3.0.CO;2-8</a></p>
+
+<p id="SattlerWehr25">Sattler, N.J., & Wehr, M. (2025). Cortex-wide spatiotemporal motifs of theta oscillations are coupled to freely moving behavior. <i>Frontiers in Systems Neuroscience, 19</i>, <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1557096/full">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1557096/full</a><a href="http://doi.org/10.3389/fnsys.2025.1557096"> http://doi.org/10.3389/fnsys.2025.1557096</a></p>
 
 <p id="SaundersMacoskoWysokerEtAl18">Saunders, A., Macosko, E.Z., Wysoker, A., Goldman, M., Krienen, F.M., Rivera, H., Bien, E., Baum, M., Bortolin, L., Wang, S., Goeva, A., Nemesh, J., Kamitaki, N., Brumbaugh, S., Kulp, D., & McCarroll, S.A. (2018). Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain. <i>Cell, 174</i>, 1015-1030.e16. <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30955-3">https://www.cell.com/cell/abstract/S0092-8674(18)30955-3</a><a href="http://doi.org/10.1016/j.cell.2018.07.028"> http://doi.org/10.1016/j.cell.2018.07.028</a></p>
 
