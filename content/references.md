@@ -20,6 +20,8 @@
 
 <p id="AhrensMeyerFergusonEtAl16">Ahrens, A.M., Meyer, P.J., Ferguson, L.M., Robinson, T.E., & Aldridge, J.W. (2016). Neural activity in the ventral pallidum encodes variation in the incentive value of a reward cue. <i>The Journal of Neuroscience, 36</i>, 7957–7970. <a href="http://www.jneurosci.org/content/36/30/7957">http://www.jneurosci.org/content/36/30/7957</a><a href="http://doi.org/10.1523/JNEUROSCI.0736-16.2016"> http://doi.org/10.1523/JNEUROSCI.0736-16.2016</a></p>
 
+<p id="Ahrlund-RichterXuanvanLunterenEtAl19">Ährlund-Richter, S., Xuan, Y., Lunteren, J.A., Kim, H., Ortiz, C., Pollak Dorocic, I., Meletis, K., & Carlén, M. (2019). A whole-brain atlas of monosynaptic input targeting four different cell types in the medial prefrontal cortex of the mouse. <i>Nature Neuroscience, 22</i>, 657–668. <a href="https://www.nature.com/articles/s41593-019-0354-y">https://www.nature.com/articles/s41593-019-0354-y</a><a href="http://doi.org/10.1038/s41593-019-0354-y"> http://doi.org/10.1038/s41593-019-0354-y</a></p>
+
 <p id="AizenmanHuangManisEtAl00">Aizenman, C.D., Huang, E.J., Manis, P.B., & Linden, D.J. (2000). <i>Use-dependent changes in synaptic strength at the Purkinje cell to deep nuclear synapse. </i>In Progress in Brain Research (pp. 257–273). Elsevier. <a href="https://www.sciencedirect.com/science/article/pii/S0079612300240223">https://www.sciencedirect.com/science/article/pii/S0079612300240223</a><a href="http://doi.org/10.1016/S0079-6123(00)24022-3"> http://doi.org/10.1016/S0079-6123(00)24022-3</a></p>
 
 <p id="Aizi23">Aizi, R. (2023). How does GPT-3 spend its 175B parameters? <a href="https://www.lesswrong.com/posts/3duR8CrvcHywrnhLo/how-does-gpt-3-spend-its-175b-parameters">https://www.lesswrong.com/posts/3duR8CrvcHywrnhLo/how-does-gpt-3-spend-its-175b-parameters</a></p>
@@ -89,6 +91,8 @@
 <p id="BalleineDickinson98">Balleine, B.W., & Dickinson, A. (1998). Goal-directed instrumental action: contingency and incentive learning and their cortical substrates. <i>Neuropharmacology, 37</i>, 407–419. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9704982">http://www.ncbi.nlm.nih.gov/pubmed/9704982</a></p>
 
 <p id="BarakTsodyks14">Barak, O., & Tsodyks, M. (2014). Working models of working memory. <i>Current Opinion in Neurobiology, 25</i>, 20–24. <a href="http://www.sciencedirect.com/science/article/pii/S0959438813002158">http://www.sciencedirect.com/science/article/pii/S0959438813002158</a><a href="http://doi.org/10.1016/j.conb.2013.10.008"> http://doi.org/10.1016/j.conb.2013.10.008</a></p>
+
+<p id="BarbasZikopoulos25">Barbas, H., & Zikopoulos, B. (2025). The cortical structural model extends to thalamocortical connections. <i>European Journal of Neuroscience, 61</i>, e70167. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70167">https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70167</a><a href="http://doi.org/10.1111/ejn.70167"> http://doi.org/10.1111/ejn.70167</a></p>
 
 <p id="BarKassamGhumanEtAl06">Bar, M., Kassam, K., Ghuman, A., Boshyan, J., & Schmidt, A. (2006). Top-down facilitation of visual recognition. <i>Proceedings of the National Academy of Sciences, 103</i>, 449–454. <a href="http://www.pnas.org/cgi/content/abstract/103/2/449">http://www.pnas.org/cgi/content/abstract/103/2/449</a></p>
 
@@ -205,6 +209,8 @@
 <p id="BolkanStujenskeParnaudeauEtAl17">Bolkan, S.S., Stujenske, J.M., Parnaudeau, S., Spellman, T.J., Rauffenbart, C., Abbas, A.I., Harris, A.Z., Gordon, J.A., & Kellendonk, C. (2017). Thalamic projections sustain prefrontal activity during working memory maintenance. <i>Nature Neuroscience, 20</i>, 987–996. <a href="https://www.nature.com/articles/nn.4568">https://www.nature.com/articles/nn.4568</a><a href="http://doi.org/10.1038/nn.4568"> http://doi.org/10.1038/nn.4568</a></p>
 
 <p id="BonnanZhangGaffieldEtAl23">Bonnan, A., Zhang, K., Gaffield, M.A., & Christie, J.M. (2023). Expression of a Form of Cerebellar Motor Memory Requires Learned Alterations to the Activity of Inhibitory Molecular Layer Interneurons. <i>Journal of Neuroscience, 43</i>, 601–612. <a href="https://www.jneurosci.org/content/43/4/601">https://www.jneurosci.org/content/43/4/601</a><a href="http://doi.org/10.1523/JNEUROSCI.0731-22.2022"> http://doi.org/10.1523/JNEUROSCI.0731-22.2022</a></p>
+
+<p id="BorraRizzoLuppino23">Borra, E., Rizzo, M., & Luppino, G. (2023). Gradients of thalamic connectivity in the macaque lateral prefrontal cortex. <i>Frontiers in Integrative Neuroscience, 17</i>, <a href="https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2023.1239426/full">https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2023.1239426/full</a><a href="http://doi.org/10.3389/fnint.2023.1239426"> http://doi.org/10.3389/fnint.2023.1239426</a></p>
 
 <p id="Borst10">Borst, J.G.G. (2010). The low synaptic release probability in vivo. <i>Trends in Neurosciences, 33</i>, 259–266. <a href="http://www.sciencedirect.com/science/article/pii/S0166223610000457">http://www.sciencedirect.com/science/article/pii/S0166223610000457</a><a href="http://doi.org/10.1016/j.tins.2010.03.003"> http://doi.org/10.1016/j.tins.2010.03.003</a></p>
 
@@ -788,6 +794,8 @@
 
 <p id="HowardLiGeddesEtAl17">Howard, C.D., Li, H., Geddes, C.E., & Jin, X. (2017). Dynamic nigrostriatal dopamine biases action selection. <i>Neuron, 93</i>, 1436-1450.e8. <a href="https://www.sciencedirect.com/science/article/pii/S089662731730137X">https://www.sciencedirect.com/science/article/pii/S089662731730137X</a><a href="http://doi.org/10.1016/j.neuron.2017.02.029"> http://doi.org/10.1016/j.neuron.2017.02.029</a></p>
 
+<p id="HowellWarringtonFonteneauEtAl25">Howell, A.M., Warrington, S., Fonteneau, C., Cho, Y.T., Sotiropoulos, S.N., Murray, J.D., & Anticevic, A. (2025). The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques. 2023.07.22.550168. <a href="https://www.biorxiv.org/content/10.1101/2023.07.22.550168v5">https://www.biorxiv.org/content/10.1101/2023.07.22.550168v5</a><a href="http://doi.org/10.1101/2023.07.22.550168"> http://doi.org/10.1101/2023.07.22.550168</a></p>
+
 <p id="HoyFarrow25">Hoy, J.L., & Farrow, K. (2025). The superior colliculus. <i>Current Biology, 35</i>, R164-R168. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(25)00052-1">https://www.cell.com/current-biology/abstract/S0960-9822(25)00052-1</a><a href="http://doi.org/10.1016/j.cub.2025.01.022"> http://doi.org/10.1016/j.cub.2025.01.022</a></p>
 
 <p id="HuangYangPotts24">Huang, J., Yang, D., & Potts, C. (2024). Demystifying Verbatim Memorization in Large Language Models. <a href="http://arxiv.org/abs/2407.17817">http://arxiv.org/abs/2407.17817</a><a href="http://doi.org/10.48550/arXiv.2407.17817"> http://doi.org/10.48550/arXiv.2407.17817</a></p>
@@ -974,6 +982,8 @@
 
 <p id="LanChemlaKatzir24">Lan, N., Chemla, E., & Katzir, R. (2024). Large Language Models and the Argument from the Poverty of the Stimulus. <i>Linguistic Inquiry, </i>1–28. <a href="https://doi.org/10.1162/ling_a_00533">https://doi.org/10.1162/ling_a_00533</a><a href="http://doi.org/10.1162/ling_a_00533"> http://doi.org/10.1162/ling_a_00533</a></p>
 
+<p id="LandismanConnors07">Landisman, C.E., & Connors, B.W. (2007). VPM and PoM Nuclei of the Rat Somatosensory Thalamus: Intrinsic Neuronal Properties and Corticothalamic Feedback. <i>Cerebral Cortex, 17</i>, 2853–2865. <a href="https://doi.org/10.1093/cercor/bhm025">https://doi.org/10.1093/cercor/bhm025</a><a href="http://doi.org/10.1093/cercor/bhm025"> http://doi.org/10.1093/cercor/bhm025</a></p>
+
 <p id="LarkumZhuSakmann99">Larkum, M.E., Zhu, J.J., & Sakmann, B. (1999). A new cellular mechanism for coupling inputs arriving at different cortical layers. <i>Nature, 398</i>, 338–341. <a href="https://www.nature.com/articles/18686">https://www.nature.com/articles/18686</a><a href="http://doi.org/10.1038/18686"> http://doi.org/10.1038/18686</a></p>
 
 <p id="Larsson13">Larsson, H.P. (2013). What Determines the Kinetics of the Slow Afterhyperpolarization (sAHP) in Neurons? <i>Biophysical Journal, 104</i>, 281–283. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552283/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552283/</a><a href="http://doi.org/10.1016/j.bpj.2012.11.3832"> http://doi.org/10.1016/j.bpj.2012.11.3832</a></p>
@@ -1145,6 +1155,8 @@
 <p id="MontagueDayanSejnowski96">Montague, P.R., Dayan, P., & Sejnowski, T.J. (1996). A framework for mesencephalic dopamine systems based on predictive Hebbian learning. <i>Journal of Neuroscience, 16</i>, 1936–1947. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8774460">http://www.ncbi.nlm.nih.gov/pubmed/8774460</a></p>
 
 <p id="MontgomeryPerks19">Montgomery, J., & Perks, K. (2019). Understanding cerebellum in vertebrate neuroethology: From sensing in sharks and electric fish to motor sequences in movement and birdsong. <i>Behavioral Neuroscience, 133</i>, 267–281. <a href="http://doi.org/10.1037/bne0000317"> http://doi.org/10.1037/bne0000317</a></p>
+
+<p id="MoPetrofViaeneEtAl17">Mo, C., Petrof, I., Viaene, A.N., & Sherman, S.M. (2017). Synaptic properties of the lemniscal and paralemniscal pathways to the mouse somatosensory thalamus. <i>Proceedings of the National Academy of Sciences, 114</i>, E6212-E6221. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1703222114">https://www.pnas.org/doi/abs/10.1073/pnas.1703222114</a><a href="http://doi.org/10.1073/pnas.1703222114"> http://doi.org/10.1073/pnas.1703222114</a></p>
 
 <p id="MoroneyFairchildHuntEtAl02">Moroney, N., Fairchild, M.D., Hunt, R.W., Li, C., Luo, M.R., & Newman, T. (2002). The CIECAM02 Color Appearance Model. <i>Color and Imaging Conference, 2002</i>, 23–27. </p>
 
@@ -1341,6 +1353,8 @@
 <p id="Powers73a">Powers, W.T. (1973). Feedback: Beyond Behaviorism: Stimulus-response laws are wholly predictable within a control-system model of behavioral organization. <i>Science, 179</i>, 351–356. <a href="http://science.sciencemag.org/content/179/4071/351">http://science.sciencemag.org/content/179/4071/351</a><a href="http://doi.org/10.1126/science.179.4071.351"> http://doi.org/10.1126/science.179.4071.351</a></p>
 
 <p id="PragerPlotkin19">Prager, E.M., & Plotkin, J.L. (2019). Compartmental function and modulation of the striatum. <i>Journal of Neuroscience Research, </i>jnr.24522. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jnr.24522">https://onlinelibrary.wiley.com/doi/10.1002/jnr.24522</a><a href="http://doi.org/10.1002/jnr.24522"> http://doi.org/10.1002/jnr.24522</a></p>
+
+<p id="PrasadCarrollSherman20">Prasad, J.A., Carroll, B.J., & Sherman, S.M. (2020). Layer 5 corticofugal projections from diverse cortical areas: Variations on a pattern of thalamic and extrathalamic targets. <i>Journal of Neuroscience, 40</i>, 5785–5796. <a href="https://www.jneurosci.org/content/40/30/5785">https://www.jneurosci.org/content/40/30/5785</a><a href="http://doi.org/10.1523/JNEUROSCI.0529-20.2020"> http://doi.org/10.1523/JNEUROSCI.0529-20.2020</a></p>
 
 <p id="PressFlanneryTeukolskyEtAl88">Press, W.H., Flannery, B.P., Teukolsky, S.A., & Vetterling, W.T. (1988). <i>Numerical Recipies In C: The Art of Scientific Computing. </i> Cambridge University Press. </p>
 
@@ -1545,6 +1559,8 @@
 <p id="Shwartz-ZivTishby17">Shwartz-Ziv, R., & Tishby, N. (2017). Opening the Black Box of Deep Neural Networks via Information. <a href="http://arxiv.org/abs/1703.00810">http://arxiv.org/abs/1703.00810</a><a href="http://doi.org/10.48550/arXiv.1703.00810"> http://doi.org/10.48550/arXiv.1703.00810</a></p>
 
 <p id="SidibeSmith96">Sidibé, M., & Smith, Y. (1996). Differential synaptic innervation of striatofugal neurones projecting to the internal or external segments of the globus pallidus by thalamic afferents in the squirrel monkey. <i>The Journal of Comparative Neurology, 365</i>, 445–465. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8822181">http://www.ncbi.nlm.nih.gov/pubmed/8822181</a></p>
+
+<p id="SieveritzKiani24">Sieveritz, B., & Kiani, R. (2024). Anatomical Connections of Primate Mediodorsal and Motor Thalamic Nuclei with the Cortex. <a href="http://arxiv.org/abs/2409.02065">http://arxiv.org/abs/2409.02065</a><a href="http://doi.org/10.48550/arXiv.2409.02065"> http://doi.org/10.48550/arXiv.2409.02065</a></p>
 
 <p id="SilvaRamirez-BuriticaPritchettEtAl24">Silva, N.T., Ramírez-Buriticá, J., Pritchett, D.L., & Carey, M.R. (2024). Climbing fibers provide essential instructive signals for associative learning. <i>Nature Neuroscience, 27</i>, 940–951. <a href="https://www.nature.com/articles/s41593-024-01594-7">https://www.nature.com/articles/s41593-024-01594-7</a><a href="http://doi.org/10.1038/s41593-024-01594-7"> http://doi.org/10.1038/s41593-024-01594-7</a></p>
 

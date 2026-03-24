@@ -164,4 +164,8 @@ Several neuroimaging studies in humans have investigated potential gating relati
 
 ## Computational implementation of PFC
 
-* PT, PTp rename to IT [[@ShepherdYamawaki21]].
+* PT, PTp rename based on [[@EconomoViswanathanTasicEtAl18]] ? relation to IT?
+
+<!--- [[@Ahrlund-RichterXuanvanLunterenEtAl19]] -- projections into mPFC in mouse -->
+
+
