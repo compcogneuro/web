@@ -44,15 +44,6 @@ type RunConfig struct {
 
 	// Use 500 sec pre-compiled baseline for initialization
 	InitBaseline bool `default:"true"`
-
-	// Trials is the total number of trials of different random patterns to generate.
-	Trials int `default:"10"`
-
-	// Cycles is the total number of cycles per trial: at least 200.
-	Cycles int `default:"200"`
-
-	// PlusCycles is the total number of plus-phase cycles per trial. For Cycles=300, use 100.
-	PlusCycles int `default:"50"`
 }
 
 // LogConfig has config parameters related to logging data.

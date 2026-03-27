@@ -251,7 +251,8 @@ func (uk *Urakubo) ClampCaFun() {
 }
 
 func (uk *Urakubo) OneSpikeFun() {
-	for msec := 0; msec < 100; msec++ {
+	ncyc := uk.DurMsec
+	for msec := 0; msec < ncyc; msec++ {
 		ge := float32(0)
 		if msec == 50 {
 			ge = uk.GeStim
