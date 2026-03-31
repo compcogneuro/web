@@ -1172,6 +1172,8 @@
 
 <p id="MozerZemelBehrmannEtAl92">Mozer, M.C., Zemel, R.S., Behrmann, M., & Williams, C.K.I. (1992). Learning to segment images using dynamic feature binding. <i>Neural Computation, 4</i>, 650–665. </p>
 
+<p id="MukherjeeLamWimmerEtAl21">Mukherjee, A., Lam, N.H., Wimmer, R.D., & Halassa, M.M. (2021). Thalamic circuits for independent control of prefrontal signal and noise. <i>Nature, 600</i>(7887), 100–104. <a href="https://www.nature.com/articles/s41586-021-04056-3">https://www.nature.com/articles/s41586-021-04056-3</a><a href="http://doi.org/10.1038/s41586-021-04056-3"> http://doi.org/10.1038/s41586-021-04056-3</a></p>
+
 <p id="Mumford91">Mumford, D. (1991). On the computational architecture of the neocortex. <i>Biological Cybernetics, 65</i>, 135–145. <a href="https://link.springer.com/article/10.1007/BF00202389">https://link.springer.com/article/10.1007/BF00202389</a><a href="http://doi.org/10.1007/BF00202389"> http://doi.org/10.1007/BF00202389</a></p>
 
 <p id="Mumford92">Mumford, D. (1992). On the computational architecture of the neocortex. II. The role of cortico-cortical loops. <i>Biological Cybernetics, 66</i>, 241–251. <a href="http://www.ncbi.nlm.nih.gov/pubmed/1540675">http://www.ncbi.nlm.nih.gov/pubmed/1540675</a></p>
