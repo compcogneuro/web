@@ -471,6 +471,10 @@ This contribution of the cerebellum is summarized by its contributions to the _V
 
 The VOR gain is a _multiplicative_ factor, and yet neurons generally can not directly drive multiplicative effects on other neurons. Instead, the way this is accomplished in these circuits is through an [[opponent]] organization, so that the modulatory neuron excites _both_ a _pull towards_ and a _push away_ from the target action. As the level of excitatory drive is modulated, the overall range of firing of these opponent neurons will vary as well, and it is this overall range that corresponds to the effective gain factor.
 
+TODO: key point: eye motor commands must _anticipate_ the actual head movement, based on efferent copy, so this requires the forward model prediction -- not just a simple gain learning function, but actual anticipatory learning in the vestib -> motor pathways. Cerebellar cortex can be thought of modulating gain, by affecting learning in vestib cells.
+
+TODO: key question of how zero visual motion as error signal translates into learning -- this zeroing out is probably true for many other cases..
+
 Some of the relevant phenomena that a biologically-based model should account for includes:
 
 * The asymmetry in VOR gain increases vs. decreases, in terms of rate of learning and duration of retention ([[@BoydenKatohRaymond04]]; [[@KukiHirataBlazquezEtAl04]]; [[@KimpoRinaldiKimEtAl14]]). We can understand these differences in terms of the rapid contribution of downbound cerebellar cortex LTD learning for gain increases, which decays relatively rapidly, versus slower, longer-lasting changes in the effective cerebellar nucleus neurons ([[@LisbergerPavelkoBroussard94]]).
