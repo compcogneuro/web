@@ -61,3 +61,37 @@ A similar kind of process took place for bird feathers, initially developed for 
 
 The remarkable fact is that there really is a _great chain of being_ tracing from you all the way back through billions of years, with each generation fighting for survival and innovating in mostly very small ways, with occasional dramatic breakthroughs. And if you look again at [[#figure_cells]], you can see that, at this level, not that much has really changed in all those years!
 
+## Evolution of neocortex
+
+The _bauplan_ shown in [[#figure_tube]] provides a big-picture understanding of how the many different components of the entire vertebrate brain fit together. How does the [[neocortex]], which is so essential to the powerful cognitive abilities in mammals, fit into this bigger picture, from an evolutionary perspective?
+
+First, there is broad agreement that the unique contribution of the neocortex is the ability to learn novel higher-order sensory-motor representations that provide a "smarter", more abstract, and systematic basis for driving behavior (e.g., [[categorization]]).
+
+{id="figure_pallium" style="height:30em"}
+![Progressive differentiation of the pallium between _amniotes_ in (b) (i.e., mammals, birts, reptiles) vs the other non-amniotic vertebrates (fishes, amphibians) in (a). There is an initial, basic distinction between representations of more proximal stimuli (approach vs avoid) in the VLPall versus more distal navigationally-relevant stimuli in the MPall. This is further differentiated into ventral, lateral, and dorsal pallium, according to  Cisek (2021).](media/fig_evolution_pallium_cisek_21.png)
+
+[[@^Cisek21]] argues that this function is consistent with the evolutionary differentiation of the pallium, from which the neocortex emerges ([[#figure_pallium]]). For example, he argues that there is a more evolutionarily ancient distinction between representations of the more proximal world that governs approach and avoid behavior (in the ventral-lateral pallium), versus representations of the more distal world that is important for navigation, in the medial pallium. He further argues that this broad distinction becomes more complex and differentiated on the way to mammals, birds and reptiles.
+
+In particular, as vertebrates moved on land in these species, vision became more capable of driving long-range navigational processing, which supported elaboration of the medial pallium into the structures of the hippocampus and related areas. The ventral-lateral pallium areas also became differentiated, and he argues that neocortex in particular grew out of a dorsal region of the pallium that was important for learning more complex sensory-motor affordances.
+
+This general story can be anchored in developmental and anatomical data that provides some important clues to the evolutionary history. Specifically, there is a ring of more evolutionarily and developmentally ancient _mesocortex_ that surrounds the truly "new" _neocortex_, and the nature and organization of these mesocortical areas provides a compelling account of the evolutionary trajectory of the mammalian neocortex ([[@PuellesAlonsoGarcia-CaleroEtAl19]]; [[@Cisek21]]; [[@NordPattabiramanViselEtAl15]]; [[@BarbasZikopoulos25]]).
+
+{id="figure_ring1" style="height:35em"}
+![Components of the mesocortical ring of more evolutionarily ancient cortical systems, that anchor the learning of more abstract representations within the _island_ of the neocortex that developes within this ring. The anterior "limbic" areas at the top provide the core goal-driven functionality to approach desired outcomes and avoid negative ones (OC = OFC = orbital frontal cortex; CG = ACC = anterior cingulate cortex; IL = infralimbic; DP = PL = prelimbic; AIV, AID, AIP = anterior insula ventral, dorsal, posterior). On the posterior side, the archicortex comprises the hippocampus (HP) which interconnects with the entorhinal cortex (ECL, ECM for lateral and medial), which in turn interconnect with the retrosplenial cortex (RS), which has the core spatial representations used in navigation. The olfactory piriform cortex (PPO, APO) represents an outer ring that connects into the hippocampal system, but also with the insula and associated consumatory representations. From Puelles et al., 2019.](media/fig_evolution_neocortex_ring_puelles_etal_19_fig3.png)
+
+[[#figure_ring1]] shows a simple version of the mesocortical ring structure, based on earlier proposals ([[@^Swanson87]]; [[@BayerAltman91]]). Consistent with the core distinction from [[@Cisek21]], we can identify two major functional components, by dividing the ring into _anterior_ vs _posterior_ systems. We interpret the anterior system in terms of the [[Rubicon]] goal-driven framework as supporting all of the higher-level representations needed to organize approach vs. avoid behavior to obtain desired outcomes and avoid negative threats.
+
+Specifically, the orbital frontal cortex (OFC, OC in the figure) represents the value of specific possible outcomes, which are represented more specifically in the lateral limbic cortex areas in the [[insula]] (AIV, AID) and gustatory cortex (GU). The anterior cingulate cortex (ACC, CG in the figure), infralimbic (IL), and prelimbic (PL, DP in the figure) cortex represent the costs of actions, value at a more abstract level, and the overall integrated benefit - cost utility, respectively. 
+
+These anterior mesocortical areas constitute the entire [[prefrontal cortex]] (PFC) in the rodent brain (see [[prefrontal cortex#figure_pfc-comp]] on that page), and it is likely that the unique thalamocortical circuitry in these areas provided the unique ability to sustain active goal-driven plans for longer than in the non-mammalian brains lacking these critical PFC areas.
+
+As discussed extensively in [[@^BarbasZikopoulos25]], these PFC areas are _agranular_ (lacking a distinct layer 4), and in general are less differentiated and more strongly populated by deep layer output-projecting neurons. Thus, in addition to providing longer active maintenance abilities to develop and sustain coherent behavioral plans over longer time frames, these PFC areas are directly interconnected with relevant subcortical areas, represent relevant motivational information and drive output behavior.
+
+For example, there are extensive bidirectional connections between the OFC and the [[amygdala]], such that the OFC can maintain an anticipation of the value-laden outcomes represented in the amygdala. Thus, consistent with other mesocortical areas around the ring, the OFC provides the gateway between the rest of the neocortex and the relevant subcortical systems.
+
+The posterior half of this mesocortical ring comprises the hippocampus and associated networks, including entorhinal cortex and retrosplenial cortex, which are essential for spatial navigation..
+
+{id="figure_ring2" style="height:35em"}
+![The more elaborated version of the mesocortical ring structure. From Puelles et al., 2019.](media/fig_evolution_neocortex_ring_puelles_etal_19_fig10.png)
+
+

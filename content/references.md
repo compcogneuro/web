@@ -708,6 +708,8 @@
 
 <p id="HarrisShepherd15">Harris, K.D., & Shepherd, G.M.G. (2015). The neocortical circuit: themes and variations. <i>Nature Neuroscience, 18</i>(2), 170–181. <a href="http://www.nature.com/articles/nn.3917">http://www.nature.com/articles/nn.3917</a><a href="http://doi.org/10.1038/nn.3917"> http://doi.org/10.1038/nn.3917</a></p>
 
+<p id="HattoxNelson07">Hattox, A.M., & Nelson, S.B. (2007). Layer V neurons in mouse cortex projecting to different targets have distinct physiological properties. <i>Journal of Neurophysiology, 98</i>, 3330–3340. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17898147">http://www.ncbi.nlm.nih.gov/pubmed/17898147</a></p>
+
 <p id="HausserMel03">Hausser, M., & Mel, B. (2003). Dendrites: bug or feature? <i>Current Opinion in Neurobiology, 13</i>, 372–383. </p>
 
 <p id="HawkesLeclerc87">Hawkes, R., & Leclerc, N. (1987). Antigenic map of the rat cerebellar cortex: The distribution of parasagittal bands as revealed by monoclonal anti-purkinje cell antibody mabQ113. <i>Journal of Comparative Neurology, 256</i>, 29–41. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902560104">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902560104</a><a href="http://doi.org/10.1002/cne.902560104"> http://doi.org/10.1002/cne.902560104</a></p>
@@ -1224,6 +1226,8 @@
 
 <p id="NieuwenhuysPuelles15">Nieuwenhuys, R., & Puelles, L. (2015). <i>Towards a New Neuromorphology. </i> Springer. </p>
 
+<p id="NordPattabiramanViselEtAl15">Nord, A.S., Pattabiraman, K., Visel, A., & Rubenstein, J.L.R. (2015). Genomic Perspectives of Transcriptional Regulation in Forebrain Development. <i>Neuron, 85</i>, 27–47. <a href="https://www.cell.com/neuron/abstract/S0896-6273(14)01011-3">https://www.cell.com/neuron/abstract/S0896-6273(14)01011-3</a><a href="http://doi.org/10.1016/j.neuron.2014.11.011"> http://doi.org/10.1016/j.neuron.2014.11.011</a></p>
+
 <p id="NormanOReilly03">Norman, K.A., & O'Reilly, R.C. (2003). Modeling hippocampal and neocortical contributions to recognition memory: a complementary-learning-systems approach. <i>Psychological Review, 110</i>, 611–646. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14599236">http://www.ncbi.nlm.nih.gov/pubmed/14599236</a></p>
 
 <p id="Nowlan90">Nowlan, S.J. (1990). Maximum Likelihood Competitive Learning. In D.S. Touretzky (Ed.), <i>Advances in Neural Information Processing Systems, 2</i> (pp. 574–582). Morgan Kaufmann. </p>
@@ -1361,6 +1365,8 @@
 <p id="PressFlanneryTeukolskyEtAl88">Press, W.H., Flannery, B.P., Teukolsky, S.A., & Vetterling, W.T. (1988). <i>Numerical Recipies In C: The Art of Scientific Computing. </i> Cambridge University Press. </p>
 
 <p id="Pribram60">Pribram, K.H. (1960). A Review of Theory in Physiological Psychology. <i>Annual Review of Psychology, 11</i>, 1–40. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.ps.11.020160.000245">https://www.annualreviews.org/content/journals/10.1146/annurev.ps.11.020160.000245</a><a href="http://doi.org/10.1146/annurev.ps.11.020160.000245"> http://doi.org/10.1146/annurev.ps.11.020160.000245</a></p>
+
+<p id="PuellesAlonsoGarcia-CaleroEtAl19">Puelles, L., Alonso, A., García-Calero, E., & Martínez-de-la-Torre, M. (2019). Concentric ring topology of mammalian cortical sectors and relevance for patterning studies. <i>Journal of Comparative Neurology, 527</i>, 1731–1752. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24650">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24650</a><a href="http://doi.org/10.1002/cne.24650"> http://doi.org/10.1002/cne.24650</a></p>
 
 <p id="PughRaman06">Pugh, J.R., & Raman, I.M. (2006). Potentiation of Mossy Fiber EPSCs in the Cerebellar Nuclei by NMDA Receptor Activation followed by Postinhibitory Rebound Current. <i>Neuron, 51</i>, 113–123. <a href="https://www.cell.com/neuron/abstract/S0896-6273(06)00413-2">https://www.cell.com/neuron/abstract/S0896-6273(06)00413-2</a><a href="http://doi.org/10.1016/j.neuron.2006.05.021"> http://doi.org/10.1016/j.neuron.2006.05.021</a></p>
 
@@ -1629,6 +1635,8 @@
 <p id="Swadlow00">Swadlow, H.A. (2000). <i>Information Flow along Neocortical Axons. </i>In Time and the Brain. CRC Press. </p>
 
 <p id="Swadlow90">Swadlow, H.A. (1990). Efferent neurons and suspected interneurons in S-1 forelimb representation of the awake rabbit: receptive fields and axonal properties. <i>Journal of Neurophysiology, 63</i>, 1477–1498. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477">https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477</a><a href="http://doi.org/10.1152/jn.1990.63.6.1477"> http://doi.org/10.1152/jn.1990.63.6.1477</a></p>
+
+<p id="Swanson87">Swanson, L.W. (1987). The limbic region. I: The septohippocampal system. <i>Handbook ofchemical neuroanatomy, 5</i>, 125–279. <a href="https://cir.nii.ac.jp/crid/1573668924489461888">https://cir.nii.ac.jp/crid/1573668924489461888</a></p>
 
 <p id="SwensonCastro83">Swenson, R.S., & Castro, A.J. (1983). The afferent connections of the inferior olivary complex in rats. An anterograde study using autoradiographic and axonal degeneration techniques. <i>Neuroscience, 8</i>, 259–275. <a href="https://www.sciencedirect.com/science/article/pii/0306452283900647">https://www.sciencedirect.com/science/article/pii/0306452283900647</a><a href="http://doi.org/10.1016/0306-4522(83)90064-7"> http://doi.org/10.1016/0306-4522(83)90064-7</a></p>
 
