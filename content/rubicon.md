@@ -35,7 +35,7 @@ The active goal selected at any point in time is more like the single step in a 
 
 The widely-cited SMART goal-setting framework (specific, measurable, achievable, relevant, and time-bound ([[@Doran81]]) provides a good rule-of-thumb for what an active engaged goal should be, with specificity being critical for actually facilitating the transition to the active goal state, so there is an actual concrete action plan to guide behavior. This is consistent with the implementation intention if-then plans described by [[@^GollwitzerSheeran06]].
 
-Thus, the core goal-driven system governs the _inner-loop_ of behavior, operating over relatively short time intervals of seconds to minutes, to actively guide behavior. Because this core goal system is [[evolution|evolutionarily]] ancient and supported by a number of subcortical brain areas working in concert with the neocortex, it tends to fly below the level of [[conscious awareness]].
+Thus, the core goal-driven system governs the _inner-loop_ of behavior, operating over relatively short time intervals of seconds to minutes, to actively guide behavior. Because this core goal system is [[evolution|evolutionarily]] ancient and supported by a number of subcortical brain areas working in concert with the neocortex, it tends to fly below the level of [[conscious awareness]] (interestingly, this goal system appears to be a primary driver of the [[evolution#evolution of neocortex]]).
 
 The more conscious, deliberative aspects of goal selection constitute a more diffuse _outer-loop_ of context and constraints that also get activated and updated in the course of the inner-loop goal selection and engagement process, but are not directly guiding online behavioral choices in the way that the active goal does ([[@HerdKruegerNairEtAl21]]).
 
@@ -43,12 +43,12 @@ Therefore, when you are sitting around thinking about what to do, you may engage
 
 From a neuroscience perspective, these goal-related principles require neural mechanisms to somehow organize the overall dynamic of goal selection and engagement, and provide the goal selection process with good estimates of the cost / benefit tradeoffs for different options, etc. The [[emotion]]al / motivational system is central, because what we experience subjectively as the emotional outcomes of goal success or failure are driven by brainstem circuits that have evolved to keep us oriented toward survival-relevant behaviors.
 
-Based on extensive research, these brain systems involve multiple layers of interconnected areas overlapping with the [[limbic system]], including the ventral and medial [[prefrontal cortex]], [[basal ganglia]], [[amygdala]], and neuromodulatory systems including [[dopamine]] and [[acetycholine]].
+Based on extensive research, these brain systems involve multiple layers of interconnected areas including the ventral and medial [[prefrontal cortex]], [[basal ganglia]], [[amygdala]], and neuromodulatory systems including [[dopamine]] and [[acetycholine]]. Classically, these areas have been grouped together as the [[limbic system]], but this terminology perhaps introduces more confusion than clarity.
 
 The subsequent sections provide a more detailed overview of the relevant computational, cognitive, and neuroscience issues underlying the Rubicon framework. Further elaboration is then provided in the following pages:
 
-* [[Limbic system]] provides a more detailed biological overview of the relevant brain areas, including the [[basal ganglia]] and [[prefrontal cortex]].
 * [[PVLV]] is the biologically-based core of [[reinforcement learning]] mechanisms based on these brain areas, which accounts for a wide range of data on phasic [[dopamine]] firing and the animal conditioning literature.
+
 * [[Arm maze simulation]] puts everything together in an integrated model of basic instrumental choice in a multi-arm decision making paradigm, with a simulated rodent-like agent.
 
 ## Computational overview
@@ -57,7 +57,7 @@ From the perspective of existing [[reinforcement learning]] models (this page is
 
 The process of trial-and-error [[search]] through the space of actions in different environments, which defines the [[reinforcement learning]] problem, is plagued by this curse of dimensionality as the action and state spaces get more complex. Thus, as discussed extensively in the RL page, successful learning requires various ways of compressing the environmental state representations, and employing dedicated-parallel search strategies at multiple levels, including constraint-satisfaction and [[optimized representations]] that are supported by the Axon mechanisms.
 
-Furthermore, Rubicon represents an attempt to [[computational-cognitive-neuroscience#reverse engineer]] millions of years of evolution, by building in critical neural circuits that support the goal selection and maintenance process, based on learning that is focused on acquiring the information needed to make well-informed choices about which goals to pursue in a given context. This evolutionary foundation represents a significant departure from existing RL models, but we believe it is necessary to mitigate the curse of dimensionality problem as environments and actions become more complex.
+Furthermore, Rubicon represents an attempt to [[computational-cognitive-neuroscience#reverse engineer]] millions of years of [[evolution]], by building in critical neural circuits that support the goal selection and maintenance process, based on learning that is focused on acquiring the information needed to make well-informed choices about which goals to pursue in a given context. This evolutionary foundation represents a significant departure from existing RL models, but we believe it is necessary to mitigate the curse of dimensionality problem as environments and actions become more complex.
 
 {id="figure_rubicon-rl" style="height:20em"}
 ![Functional elements of the Rubicon computational model. Prior to having an engaged goal, exploration of possible goals occurs. A CS (conditioned stimulus) can signal the possibility of a desired outcome (US, unconditioned stimulus), and constraint satisfaction planning activates potential model and plan representations to achieve the outcome. If this overall plan / goal is above threshold, the entire distributed goal representation is gated and maintained in prefrontal cortex, to guide subsequent action selection and provide expectations for monitoring progress toward the goal.](media/fig_rl_state_action_reward_plan_rat.png)

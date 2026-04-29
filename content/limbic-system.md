@@ -15,3 +15,5 @@ One notable aspect of the classical limbic system is the central role of the [[h
 
 Furthermore,the mammillary bodies and associated pathways including the fornix are central players in the classical limbic system, but they are much more involved in processing [[space]] and [[time]] than emotion, although there may be some aspects of this functionality also embedded in these evolutionarily ancient pathways.
 
+From an evolutionary and developmental perspective, the _mesocortical ring_ provides a more concrete anatomical substrate that corresponds to many aspects of the original limbic lobe construct, as discussed in [[evolution#evolution of neocortex]].
+
