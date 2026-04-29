@@ -50,6 +50,8 @@
 
 <p id="Alonso-MartinezRubio-TevesCasas-TorremochaEtAl23">Alonso-Martínez, C., Rubio-Teves, M., Casas-Torremocha, D., Porrero, C., & Clascá, F. (2023). Cerebellar and basal ganglia inputs define three main nuclei in the mouse ventral motor thalamus. <i>Frontiers in Neuroanatomy, 17</i>, <a href="https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2023.1242839/full">https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2023.1242839/full</a><a href="http://doi.org/10.3389/fnana.2023.1242839"> http://doi.org/10.3389/fnana.2023.1242839</a></p>
 
+<p id="AltmanBayer15">Altman, J., & Bayer, S.A. (2015). Development of the Human Neocortex. <a href="https://neurondevelopment.org/wp-content/uploads/2015/11/human-neocortical-development-complete.pdf">https://neurondevelopment.org/wp-content/uploads/2015/11/human-neocortical-development-complete.pdf</a></p>
+
 <p id="AlvarezFyffe07">Alvarez, F.J., & Fyffe, R.E.W. (2007). The continuing case for the Renshaw cell. <i>The Journal of Physiology, 584</i>, 31–45. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2007.136200">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2007.136200</a><a href="http://doi.org/10.1113/jphysiol.2007.136200"> http://doi.org/10.1113/jphysiol.2007.136200</a></p>
 
 <p id="AnanthRajebhosaleKimEtAl23">Ananth, M.R., Rajebhosale, P., Kim, R., Talmage, D.A., & Role, L.W. (2023). Basal forebrain cholinergic signalling: development, connectivity and roles in cognition. <i>Nature Reviews Neuroscience, </i>1–19. <a href="https://www.nature.com/articles/s41583-023-00677-x">https://www.nature.com/articles/s41583-023-00677-x</a><a href="http://doi.org/10.1038/s41583-023-00677-x"> http://doi.org/10.1038/s41583-023-00677-x</a></p>
@@ -119,6 +121,8 @@
 <p id="BatistaBuneoSnyderEtAl99">Batista, A.P., Buneo, C.A., Snyder, L.H., & Andersen, R.A. (1999). Reach plans in eye-centered coordinates. <i>Science (New York, N.Y.), 285</i>, 257. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10398603">http://www.ncbi.nlm.nih.gov/pubmed/10398603</a></p>
 
 <p id="BaumelJacobsonCohen09">Baumel, Y., Jacobson, G.A., & Cohen, D. (2009). Implications of functional anatomy on information processing in the deep cerebellar nuclei. <i>Frontiers in Cellular Neuroscience, 3</i>, <a href="https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/neuro.03.014.2009/full">https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/neuro.03.014.2009/full</a><a href="http://doi.org/10.3389/neuro.03.014.2009"> http://doi.org/10.3389/neuro.03.014.2009</a></p>
+
+<p id="BayerAltman91">Bayer, S.A., & Altman, J. (1991). <i>Neocortical development. </i> Raven Press New York. <a href="https://neurondevelopment.org/wp-content/uploads/2023/10/1-NCD-front.pdf">https://neurondevelopment.org/wp-content/uploads/2023/10/1-NCD-front.pdf</a></p>
 
 <p id="BayerGiese25">Bayer, K.U., & Giese, K.P. (2025). A revised view of the role of CaMKII in learning and memory. <i>Nature Neuroscience, 28</i>, 24–34. <a href="https://www.nature.com/articles/s41593-024-01809-x">https://www.nature.com/articles/s41593-024-01809-x</a><a href="http://doi.org/10.1038/s41593-024-01809-x"> http://doi.org/10.1038/s41593-024-01809-x</a></p>
 
