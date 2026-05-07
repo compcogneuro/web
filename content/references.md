@@ -542,6 +542,8 @@
 
 <p id="Friston05">Friston, K. (2005). A theory of cortical responses. <i>Philosophical Transactions of the Royal Society B, 360</i>, 815–836. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15937014">http://www.ncbi.nlm.nih.gov/pubmed/15937014</a></p>
 
+<p id="Friston09">Friston, K. (2009). The free-energy principle: a rough guide to the brain? <i>Trends in cognitive sciences, 13</i>, 293–301. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19559644">http://www.ncbi.nlm.nih.gov/pubmed/19559644</a></p>
+
 <p id="FroemkeDan02">Froemke, R.C., & Dan, Y. (2002). Spike-timing-dependent synaptic modification induced by natural spike trains. <i>Nature, 416</i>, 433–437. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11919633">http://www.ncbi.nlm.nih.gov/pubmed/11919633</a></p>
 
 <p id="FroemkeTsayRaadEtAl06">Froemke, R.C., Tsay, I.A., Raad, M., Long, J.D., & Dan, Y. (2006). Contribution of individual spikes in burst-induced long-term synaptic modification. <i>Journal of Neurophysiology, 95</i>, 1620–1629. </p>
@@ -1068,6 +1070,8 @@
 
 <p id="MariniPiancaTredici99">Marini, G., Pianca, L., & Tredici, G. (1999). Descending projections arising from the parafascicular nucleus in rats: trajectory of fibers, projection pattern and mapping of terminations. <i>Somatosensory & Motor Research, 16</i>, 207–222. <a href="https://doi.org/10.1080/08990229970465">https://doi.org/10.1080/08990229970465</a><a href="http://doi.org/10.1080/08990229970465"> http://doi.org/10.1080/08990229970465</a></p>
 
+<p id="MarkovErcsey-RavaszGomesEtAl14">Markov, N.T., Ercsey-Ravasz, M.M., Gomes, R., R, A., Lamy, C., Magrou, L., Vezoli, J., Misery, P., Falchier, A., Quilodran, R., Gariel, M.A., Sallet, J., Gamanut, R., Huissoud, C., Clavagnier, S., Giroud, P., Sappey-Marinier, D., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2014). A weighted and directed interareal connectivity matrix for macaque cerebral cortex. <i>Cerebral Cortex, 24</i>, 17–36. <a href="https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity">https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity</a><a href="http://doi.org/10.1093/cercor/bhs270"> http://doi.org/10.1093/cercor/bhs270</a></p>
+
 <p id="MarkowitzGillisBeronEtAl18">Markowitz, J.E., Gillis, W.F., Beron, C.C., Neufeld, S.Q., Robertson, K., Bhagat, N.D., Peterson, R.E., Peterson, E., Hyun, M., Linderman, S.W., Sabatini, B.L., & Datta, S.R. (2018). The striatum organizes 3D behavior via moment-to-moment action selection. <i>Cell, 174</i>, 44-58.e17. <a href="http://www.sciencedirect.com/science/article/pii/S0092867418305129">http://www.sciencedirect.com/science/article/pii/S0092867418305129</a><a href="http://doi.org/10.1016/j.cell.2018.04.019"> http://doi.org/10.1016/j.cell.2018.04.019</a></p>
 
 <p id="MarkowitzGillisJayEtAl23">Markowitz, J.E., Gillis, W.F., Jay, M., Wood, J., Harris, R.W., Cieszkowski, R., Scott, R., Brann, D., Koveal, D., Kula, T., Weinreb, C., Osman, M.A.M., Pinto, S.R., Uchida, N., Linderman, S.W., Sabatini, B.L., & Datta, S.R. (2023). Spontaneous behaviour is structured by reinforcement without explicit reward. <i>Nature, 614</i>(7946), 108–117. <a href="https://www.nature.com/articles/s41586-022-05611-2">https://www.nature.com/articles/s41586-022-05611-2</a><a href="http://doi.org/10.1038/s41586-022-05611-2"> http://doi.org/10.1038/s41586-022-05611-2</a></p>
@@ -1079,6 +1083,8 @@
 <p id="Marr71">Marr, D. (1971). Simple Memory: A Theory for Archicortex. <i>Philosophical Transactions of the Royal Society of London B: Biological Sciences, 262</i>, 23–81. <a href="http://rstb.royalsocietypublishing.org/content/262/841/23">http://rstb.royalsocietypublishing.org/content/262/841/23</a><a href="http://doi.org/10.1098/rstb.1971.0078"> http://doi.org/10.1098/rstb.1971.0078</a></p>
 
 <p id="Marr77">Marr, D. (1977). Artificial Intelligence—A Personal View. <i>Artificial Intelligence, </i>37–48. </p>
+
+<p id="Marr82">Marr, D. (1982). <i>Vision. </i> Freeman. </p>
 
 <p id="MarshallGlaserTrautmannEtAl22">Marshall, N.J., Glaser, J.I., Trautmann, E.M., Amematsro, E.A., Perkins, S.M., Shadlen, M.N., Abbott, L.F., Cunningham, J.P., & Churchland, M.M. (2022). Flexible neural control of motor units. <i>Nature Neuroscience, 25</i>, 1492–1504. <a href="https://www.nature.com/articles/s41593-022-01165-8">https://www.nature.com/articles/s41593-022-01165-8</a><a href="http://doi.org/10.1038/s41593-022-01165-8"> http://doi.org/10.1038/s41593-022-01165-8</a></p>
 
@@ -1734,6 +1740,8 @@
 
 <p id="UrakuboHondaFroemkeEtAl08">Urakubo, H., Honda, M., Froemke, R.C., & Kuroda, S. (2008). Requirement of an allosteric kinetics of NMDA receptors for spike timing-dependent plasticity. <i>The Journal of Neuroscience, 28</i>, 3310–3323. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18367598">http://www.ncbi.nlm.nih.gov/pubmed/18367598</a></p>
 
+<p id="UsreySherman18">Usrey, W.M., & Sherman, S.M. (2018). Corticofugal circuits: Communication lines from the cortex to the rest of the brain. <i>Journal of Comparative Neurology, 0</i>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24423">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24423</a><a href="http://doi.org/10.1002/cne.24423"> http://doi.org/10.1002/cne.24423</a></p>
+
 <p id="UusisaariKnopfel08">Uusisaari, M., & Knöpfel, T. (2008). GABAergic synaptic communication in the GABAergic and non-GABAergic cells in the deep cerebellar nuclei. <i>Neuroscience, 156</i>, 537–549. <a href="https://www.sciencedirect.com/science/article/pii/S0306452208011287">https://www.sciencedirect.com/science/article/pii/S0306452208011287</a><a href="http://doi.org/10.1016/j.neuroscience.2008.07.060"> http://doi.org/10.1016/j.neuroscience.2008.07.060</a></p>
 
 <p id="UusisaariKnopfel10">Uusisaari, M., & Knöpfel, T. (2010). GlyT2+ Neurons in the Lateral Cerebellar Nucleus. <i>The Cerebellum, 9</i>, 42–55. <a href="https://doi.org/10.1007/s12311-009-0137-1">https://doi.org/10.1007/s12311-009-0137-1</a><a href="http://doi.org/10.1007/s12311-009-0137-1"> http://doi.org/10.1007/s12311-009-0137-1</a></p>
@@ -1743,6 +1751,8 @@
 <p id="vandenBoschLambregtsMaattaEtAl22">Bosch, R., Lambregts, B., Määttä, J., Hofmans, L., Papadopetraki, D., Westbrook, A., Verkes, R., Booij, J., & Cools, R. (2022). Striatal dopamine dissociates methylphenidate effects on value-based versus surprise-based reversal learning. <i>Nature Communications, 13</i>, 4962. <a href="https://www.nature.com/articles/s41467-022-32679-1">https://www.nature.com/articles/s41467-022-32679-1</a><a href="http://doi.org/10.1038/s41467-022-32679-1"> http://doi.org/10.1038/s41467-022-32679-1</a></p>
 
 <p id="vanderWantVoogd87">Want, J.J.L., & Voogd, J. (1987). Ultrastructural identification and localization of climbing fiber terminals in the fastigial nucleus of the cat. <i>Journal of Comparative Neurology, 258</i>, 81–90. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902580106">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902580106</a><a href="http://doi.org/10.1002/cne.902580106"> http://doi.org/10.1002/cne.902580106</a></p>
+
+<p id="VanEssenMaunsell83">Van Essen, D.C., & Maunsell, J.H.R. (1983). Hierarchical organization and functional streams in the visual cortex. <i>Trends in Neurosciences, 6</i>, 370–375. </p>
 
 <p id="VanHarreveldFifkova75">Van Harreveld, A., & Fifkova, E. (1975). Swelling of dendritic spines in the fascia dentata after stimulation of the perforant fibers as a mechanism of post-tetanic potentiation. <i>Experimental Neurology, 49</i>, 736–749. <a href="https://www.sciencedirect.com/science/article/pii/0014488675900552">https://www.sciencedirect.com/science/article/pii/0014488675900552</a><a href="http://doi.org/10.1016/0014-4886(75)90055-2"> http://doi.org/10.1016/0014-4886(75)90055-2</a></p>
 
