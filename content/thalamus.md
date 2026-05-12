@@ -211,3 +211,21 @@ The role of the AM in interconnecting the medial temporal lobe including the [[h
 
 * AM: anteromedial, is the bridge between MTL and goal areas in PFC, see [[#table_frontal-thal]]
 
+## Burst firing
+
+Thalamic relay cells have slow T-type calcium channels that can produce burst firing after periods of hyperpolarization ([[@LlinasJahnsen82]]; [[@DestexheNeubigUlrichEtAl98]]), which inspired a hypothesis from Francis Crick that these bursts are critical for attentional modulation (i.e., as a kind of "searchlight") in cortex ([[@Crick84]]). However, these T-type calcium channels require a period of hyperpolarization to activate them, after which the burst arises as a _rebound_ firing phenomenon. This hyperpolarization is typically present during sleep, not during wakefulness, and bursting is far more prevalent during sleep and inactive states.
+
+Thus, a simple account is that bursting is only present during sleep or similar inactive states, as a way of driving strong synchronous activity waves ("slow waves") that characterize most phases of sleep. This synchronous activity largely prevents information processing by disrupting the ability to activate sparse [[distributed representations]] with [[stable activation]] states, which are essential for meaningful computation.
+
+Nevertheless, relatively low rates of thalamic bursting do occur in the awake, behaving state ([[@GuidoWeyand95]]; [[@RamcharanGnadtSherman05]]; [[@BoshraHarrisDoughertyEtAl25]]), raising the question as to whether they may be functionally relevant (e.g., [[@ZeldenrustWadmanEnglitz18]]). One hypothesis is that they may provide a kind of "wake up" effect, exciting the cortex more when it previously was inactive or new information is activating different thalamic neurons (e.g., [[@Sherman01a]]; [[@Sherman01]]). However, [[@^Steriade00]] observed that:
+
+> If the "wake-up" call hypothesis were functioning, the bursts should wake us more efficiently as we progressively fall into deeper stages of sleep. This would indeed be inconvenient.
+
+The counter-point here is that the broad levels of synchrony in this bursting and overall population activity are really the critical drivers of sleep-state processing, and that bursting during awake behavior is much sparser and more distributed in time and across neurons, and therefore would not drive these levels of synchronous firing.
+
+From studies that manipulated burst activity and measured the effects on cortical targets, it is clear that bursting does indeed have the kind of excitatory impact on cortex that one might otherwise expect from a rapid sequence of excitatory inputs ([[@AlittoRathbunVandeleestEtAl19]]; [[@SwadlowGusev01]]; [[@BoshraHarrisDoughertyEtAl25]]).
+
+Therefore, putting together the properties of the T-type calcium channels and this greater downstream impact of bursting excitation, it does make sense that there would be some amount of augmented attention from bursting driven by novel inputs.
+
+The importance of baseline activity level in determining burst probability is illustrated by studies that compared primary sensory thalamus versus higher-order thalamic areas. One early report ([[@GuidoWeyand95]]) showed a burst probability of just under 1% in the primary visual cortex of awake, behaving cats. Interestingly, they also report that most of these occurred at the onset of visual stimulation. [[@^RamcharanGnadtSherman05]] report higher levels of bursting (10-20%) for neurons in higher-order thalamus (pulvinar and MD) than first-order sensory thalamus (LGN, VP, MGNv), in awake but barely behaving monkeys (head fixed, either sitting idle or holding a simple fixation). [[@^BoshraHarrisDoughertyEtAl25]] showed that bursting in the pulvinar in awake behaving monkeys was more likely for idle periods, but showed a small increase for attended locations.
+

@@ -17,7 +17,7 @@ In general, as [[@^Borst10]] notes, the behavior of the awake brain tends to be 
 
 * [[adaptation|Synaptic depression]].
 * [[synaptic plasticity#Spike timing dependent plasticity]] (STDP).
-* Burst firing in the thalamus.
+* [[thalamus#Burst firing]] in the thalamus.
 * Burst firing in the neocortex.
 * Up and down states in the striatum.
 

@@ -44,6 +44,8 @@
 
 <p id="AlittoJohnsonUsrey25">Alitto, H.J., Johnson, J.S., & Usrey, W.M. (2025). Spatial Attention Weakly Modulates Visual Responses in the Lateral Geniculate Nucleus. <i>eNeuro, 12</i>, <a href="https://www.eneuro.org/content/12/9/ENEURO.0153-25.2025">https://www.eneuro.org/content/12/9/ENEURO.0153-25.2025</a><a href="http://doi.org/10.1523/ENEURO.0153-25.2025"> http://doi.org/10.1523/ENEURO.0153-25.2025</a></p>
 
+<p id="AlittoRathbunVandeleestEtAl19">Alitto, H., Rathbun, D.L., Vandeleest, J.J., Alexander, P.C., & Usrey, W.M. (2019). The Augmentation of Retinogeniculate Communication during Thalamic Burst Mode. <i>Journal of Neuroscience, 39</i>, 5697–5710. <a href="https://www.jneurosci.org/content/39/29/5697">https://www.jneurosci.org/content/39/29/5697</a><a href="http://doi.org/10.1523/JNEUROSCI.2320-18.2019"> http://doi.org/10.1523/JNEUROSCI.2320-18.2019</a></p>
+
 <p id="AllowaySmithWatson14">Alloway, K.D., Smith, J.B., & Watson, G.D.R. (2014). Thalamostriatal projections from the medial posterior and parafascicular nuclei have distinct topographic and physiologic properties. <i>Journal of Neurophysiology, 111</i>, 36–50. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00399.2013">https://journals.physiology.org/doi/full/10.1152/jn.00399.2013</a><a href="http://doi.org/10.1152/jn.00399.2013"> http://doi.org/10.1152/jn.00399.2013</a></p>
 
 <p id="Almeida87">Almeida, L.B. (1987). A Learning Rule for Asynchronous Perceptrons with Feedback in a Combinatorial Environment. In M. Caudil, & C. Butler (Eds.), <i>Proceedings of the IEEE First International Conference on Neural Networks San Diego, CA</i> (pp. 609–618). </p>
@@ -222,6 +224,8 @@
 
 <p id="BoschCastroSaneyoshiEtAl14">Bosch, M., Castro, J., Saneyoshi, T., Matsuno, H., Sur, M., & Hayashi, Y. (2014). Structural and Molecular Remodeling of Dendritic Spine Substructures during Long-Term Potentiation. <i>Neuron, 82</i>, 444–459. <a href="https://www.cell.com/neuron/abstract/S0896-6273(14)00251-7">https://www.cell.com/neuron/abstract/S0896-6273(14)00251-7</a><a href="http://doi.org/10.1016/j.neuron.2014.03.021"> http://doi.org/10.1016/j.neuron.2014.03.021</a></p>
 
+<p id="BoshraHarrisDoughertyEtAl25">Boshra, R., Harris, M., Dougherty, K., Berg, M., Morea, B.M., Alitto, H.J., Rodriguez, M.C., Usrey, W.M., & Kastner, S. (2025). Causal role for pulvinar burst firing in thalamo-cortical attention control. <i>bioRxiv, </i>2025.09.16.676591. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12458463/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12458463/</a><a href="http://doi.org/10.1101/2025.09.16.676591"> http://doi.org/10.1101/2025.09.16.676591</a></p>
+
 <p id="BostanDumStrick10">Bostan, A.C., Dum, R.P., & Strick, P.L. (2010). The basal ganglia communicate with the cerebellum. <i>Proceedings of the National Academy of Sciences, 107</i>, 8452–8456. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1000496107">https://www.pnas.org/doi/abs/10.1073/pnas.1000496107</a><a href="http://doi.org/10.1073/pnas.1000496107"> http://doi.org/10.1073/pnas.1000496107</a></p>
 
 <p id="BoudreauFerster05">Boudreau, C.E., & Ferster, D. (2005). Short-Term Depression in Thalamocortical Synapses of Cat Primary Visual Cortex. <i>Journal of Neuroscience, 25</i>, 7179–7190. <a href="https://www.jneurosci.org/content/25/31/7179">https://www.jneurosci.org/content/25/31/7179</a><a href="http://doi.org/10.1523/JNEUROSCI.1445-05.2005"> http://doi.org/10.1523/JNEUROSCI.1445-05.2005</a></p>
@@ -356,6 +360,8 @@
 
 <p id="CourtneyPamukcuChan23">Courtney, C.D., Pamukcu, A., & Chan, C.S. (2023). Cell and circuit complexity of the external globus pallidus. <i>Nature Neuroscience, 26</i>(7), 1147–1159. <a href="https://www.nature.com/articles/s41593-023-01368-7">https://www.nature.com/articles/s41593-023-01368-7</a><a href="http://doi.org/10.1038/s41593-023-01368-7"> http://doi.org/10.1038/s41593-023-01368-7</a></p>
 
+<p id="Crick84">Crick, F. (1984). Function of the thalamic reticular complex: the searchlight hypothesis. <i>Proceedings of the National Academy of Sciences of the United States of America, 81</i>, 4586–4590. <a href="http://www.ncbi.nlm.nih.gov/pubmed/6589612">http://www.ncbi.nlm.nih.gov/pubmed/6589612</a></p>
+
 <p id="Crick89">Crick, F. (1989). The recent excitement about neural networks. <i>Nature, 337</i>, 129–132. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2911347">http://www.ncbi.nlm.nih.gov/pubmed/2911347</a></p>
 
 <p id="CritcherHuberHoEtAl09">Critcher, C.R., Huber, M., Ho, A.K., & Koleva, S.P. (2009). Political Orientation and Ideological Inconsistencies: (Dis)comfort with Value Tradeoffs. <i>Social Justice Research, 22</i>, 181–205. <a href="https://doi.org/10.1007/s11211-009-0096-1">https://doi.org/10.1007/s11211-009-0096-1</a><a href="http://doi.org/10.1007/s11211-009-0096-1"> http://doi.org/10.1007/s11211-009-0096-1</a></p>
@@ -401,6 +407,8 @@
 <p id="DesmurgetTurner10">Desmurget, M., & Turner, R.S. (2010). Motor sequences and the basal ganglia: Kinematics, not habits. <i>Journal of Neuroscience, 30</i>, 7685–7690. <a href="https://www.jneurosci.org/content/30/22/7685">https://www.jneurosci.org/content/30/22/7685</a><a href="http://doi.org/10.1523/JNEUROSCI.0163-10.2010"> http://doi.org/10.1523/JNEUROSCI.0163-10.2010</a></p>
 
 <p id="DestexheMainenSejnowski98">Destexhe, A., Mainen, Z.F., & Sejnowski, T.J. (1998). Kinetic models of synaptic transmission. <i>Methods in neuronal modeling, 2</i>, 1–25. <a href="https://www.csc.kth.se/utbildning/kth/kurser/DD2435/biomod12/kursbunt/f9/KochCh1Destexhe.pdf">https://www.csc.kth.se/utbildning/kth/kurser/DD2435/biomod12/kursbunt/f9/KochCh1Destexhe.pdf</a></p>
+
+<p id="DestexheNeubigUlrichEtAl98">Destexhe, A., Neubig, M., Ulrich, D., & Huguenard, J. (1998). Dendritic Low-Threshold Calcium Currents in Thalamic Relay Cells. <i>Journal of Neuroscience, 18</i>, 3574–3588. <a href="https://www.jneurosci.org/content/18/10/3574">https://www.jneurosci.org/content/18/10/3574</a><a href="http://doi.org/10.1523/JNEUROSCI.18-10-03574.1998"> http://doi.org/10.1523/JNEUROSCI.18-10-03574.1998</a></p>
 
 <p id="DevillezGuyaderCurranEtAl20">Devillez, H., Guyader, N., Curran, T., & O’Reilly, R.C. (2020). The bimodality of saccade duration during the exploration of visual scenes. <i>Visual Cognition, 28</i>, 484–512. <a href="https://doi.org/10.1080/13506285.2020.1830325">https://doi.org/10.1080/13506285.2020.1830325</a><a href="http://doi.org/10.1080/13506285.2020.1830325"> http://doi.org/10.1080/13506285.2020.1830325</a></p>
 
@@ -669,6 +677,8 @@
 <p id="GroenewegenBerendseWoltersEtAl90">Groenewegen, H.J., Berendse, H.W., Wolters, J.G., & Lohman, A.H. (1990). The anatomical relationship of the prefrontal cortex with the striatopallidal system, the thalamus and the amygdala: Evidence for a parallel organization. In H. Uylings, C. Van Eden, J. De Bruin, .. Corner, & M. Feenstra (Eds.), <i>Progress in Brain Research</i> (1st ed., pp. 95-116; discussion 116-118). <a href="http://www.ncbi.nlm.nih.gov/pubmed/2094917">http://www.ncbi.nlm.nih.gov/pubmed/2094917</a></p>
 
 <p id="GruartBlazquezPastorEtAl94">Gruart, A., Blázquez, P., Pastor, A.M., & Delgado-García, J.M. (1994). Very short-term potentiation of climbing fiber effects on deep cerebellar nuclei neurons by conditioning stimulation of mossy fiber afferents. <i>Experimental Brain Research, 101</i>, 173–177. <a href="https://doi.org/10.1007/BF00243229">https://doi.org/10.1007/BF00243229</a><a href="http://doi.org/10.1007/BF00243229"> http://doi.org/10.1007/BF00243229</a></p>
+
+<p id="GuidoWeyand95">Guido, W., & Weyand, T. (1995). Burst responses in thalamic relay cells of the awake behaving cat. <i>Journal of Neurophysiology, 74</i>, 1782–1786. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8989413">http://www.ncbi.nlm.nih.gov/pubmed/8989413</a></p>
 
 <p id="GuilhemsangMallet24">Guilhemsang, L., & Mallet, N.P. (2024). Arkypallidal neurons in basal ganglia circuits: Unveiling novel pallidostriatal loops? <i>Current Opinion in Neurobiology, 84</i>, 102814. <a href="https://www.sciencedirect.com/science/article/pii/S0959438823001393">https://www.sciencedirect.com/science/article/pii/S0959438823001393</a><a href="http://doi.org/10.1016/j.conb.2023.102814"> http://doi.org/10.1016/j.conb.2023.102814</a></p>
 
@@ -1046,6 +1056,8 @@
 
 <p id="Llinas09">Llinás, R.R. (2009). Inferior olive oscillation as the temporal basis for motricity and oscillatory reset as the basis for motor error correction. <i>Neuroscience, 162</i>, 797–804. <a href="https://www.sciencedirect.com/science/article/pii/S0306452209006526">https://www.sciencedirect.com/science/article/pii/S0306452209006526</a><a href="http://doi.org/10.1016/j.neuroscience.2009.04.045"> http://doi.org/10.1016/j.neuroscience.2009.04.045</a></p>
 
+<p id="LlinasJahnsen82">Llinas, R., & Jahnsen, H. (1982). Electrophysiology of mammalian thalamic neurones in vitro. <i>Nature, 297</i>, 406–8. </p>
+
 <p id="LlinasLangWelsh97">Llinás, R., Lang, E.J., & Welsh, J.P. (1997). The cerebellum, LTD, and memory: Alternative views. <i>Learning & Memory, 3</i>, 445–455. <a href="http://doi.org/10.1101/lm.3.6.445"> http://doi.org/10.1101/lm.3.6.445</a></p>
 
 <p id="LoyolaHooglandHoedemakerEtAl23">Loyola, S., Hoogland, T.M., Hoedemaker, H., Romano, V., Negrello, M., & De Zeeuw, C.I. (2023). How inhibitory and excitatory inputs gate output of the inferior olive. <i>eLife, 12</i>, e83239. <a href="https://doi.org/10.7554/eLife.83239">https://doi.org/10.7554/eLife.83239</a><a href="http://doi.org/10.7554/eLife.83239"> http://doi.org/10.7554/eLife.83239</a></p>
@@ -1388,6 +1400,8 @@
 
 <p id="Rall67">Rall, W. (1967). Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input. <i>Journal of Neurophysiology, 30</i>, 1138–1168. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138">https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138</a><a href="http://doi.org/10.1152/jn.1967.30.5.1138"> http://doi.org/10.1152/jn.1967.30.5.1138</a></p>
 
+<p id="RamcharanGnadtSherman05">Ramcharan, E.J., Gnadt, J.W., & Sherman, S.M. (2005). Higher-order thalamic relays burst more than first-order relays. <i>Proceedings of the National Academy of Sciences USA, 102</i>, 12236–12241. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16099832">http://www.ncbi.nlm.nih.gov/pubmed/16099832</a></p>
+
 <p id="Ramnani06">Ramnani, N. (2006). The primate cortico-cerebellar system: anatomy and function. <i>Nature reviews. Neuroscience, 7</i>, 511–522. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16791141">http://www.ncbi.nlm.nih.gov/pubmed/16791141</a></p>
 
 <p id="RamsauerSchaflLehnerEtAl21">Ramsauer, H., Schäfl, B., Lehner, J., Seidl, P., Widrich, M., Adler, T., Gruber, L., Holzleitner, M., Pavlović, M., Sandve, G.K., Greiff, V., Kreil, D., Kopp, M., Klambauer, G., Brandstetter, J., & Hochreiter, S. (2021). Hopfield Networks is All You Need. <a href="http://arxiv.org/abs/2008.02217">http://arxiv.org/abs/2008.02217</a><a href="http://doi.org/10.48550/arXiv.2008.02217"> http://doi.org/10.48550/arXiv.2008.02217</a></p>
@@ -1554,6 +1568,10 @@
 
 <p id="ShepherdYamawaki21">Shepherd, G.M.G., & Yamawaki, N. (2021). Untangling the cortico-thalamo-cortical loop: cellular pieces of a knotty circuit puzzle. <i>Nature Reviews Neuroscience, 22</i>(7), 389–406. <a href="https://www.nature.com/articles/s41583-021-00459-3">https://www.nature.com/articles/s41583-021-00459-3</a><a href="http://doi.org/10.1038/s41583-021-00459-3"> http://doi.org/10.1038/s41583-021-00459-3</a></p>
 
+<p id="Sherman01">Sherman, S.M. (2001). Tonic and burst firing: dual modes of thalamocortical relay. <i>Trends in Neurosciences, 24</i>, 122–126. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11164943">http://www.ncbi.nlm.nih.gov/pubmed/11164943</a></p>
+
+<p id="Sherman01a">Sherman, S.M. (2001). A wake-up call from the thalamus. <i>Nature Neuroscience, 4</i>, 344–346. <a href="https://www.nature.com/articles/nn0401_344">https://www.nature.com/articles/nn0401_344</a><a href="http://doi.org/10.1038/85973"> http://doi.org/10.1038/85973</a></p>
+
 <p id="ShermanGuillery06">Sherman, S.M., & Guillery, R.W. (2006). <i>Exploring the Thalamus and Its Role in Cortical Function. </i> MIT Press. <a href="http://www.scholarpedia.org/article/Thalamus">http://www.scholarpedia.org/article/Thalamus</a></p>
 
 <p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A reconsideration of the core and matrix classification of thalamocortical projections. <i>Journal of Neuroscience, 44</i>, <a href="https://www.jneurosci.org/content/44/24/e0163242024">https://www.jneurosci.org/content/44/24/e0163242024</a><a href="http://doi.org/10.1523/JNEUROSCI.0163-24.2024"> http://doi.org/10.1523/JNEUROSCI.0163-24.2024</a></p>
@@ -1614,6 +1632,8 @@
 
 <p id="Stephenson-JonesKardamakisRobertsonEtAl13">Stephenson-Jones, M., Kardamakis, A.A., Robertson, B., & Grillner, S. (2013). Independent circuits in the basal ganglia for the evaluation and selection of actions. <i>Proceedings of the National Academy of Sciences of the USA, Early edition</i>, 1–10. <a href="http://www.ncbi.nlm.nih.gov/pubmed/24003130">http://www.ncbi.nlm.nih.gov/pubmed/24003130</a></p>
 
+<p id="Steriade00">Steriade, M. (2000). Corticothalamic resonance, states of vigilance and mentation. <i>Neuroscience, 101</i>, 243–276. <a href="https://www.sciencedirect.com/science/article/pii/S0306452200003535">https://www.sciencedirect.com/science/article/pii/S0306452200003535</a><a href="http://doi.org/10.1016/S0306-4522(00)00353-5"> http://doi.org/10.1016/S0306-4522(00)00353-5</a></p>
+
 <p id="StokesBest90">Stokes, K.A., & Best, P.J. (1990). Mediodorsal thalamic lesions impair “Reference” and “working” memory in rats. <i>Physiology & Behavior, 47</i>, 471–476. <a href="https://www.sciencedirect.com/science/article/pii/003193849090111G">https://www.sciencedirect.com/science/article/pii/003193849090111G</a><a href="http://doi.org/10.1016/0031-9384(90)90111-G"> http://doi.org/10.1016/0031-9384(90)90111-G</a></p>
 
 <p id="Stone60">Stone, M. (1960). Models for Choice-Reaction Time. <i>Psychometrika, 25</i>, 251–260. <a href="https://www.cambridge.org/core/journals/psychometrika/article/abs/models-for-choicereaction-time/4BA8E902DBAD412CCF9B193F80FECF0E">https://www.cambridge.org/core/journals/psychometrika/article/abs/models-for-choicereaction-time/4BA8E902DBAD412CCF9B193F80FECF0E</a><a href="http://doi.org/10.1007/BF02289729"> http://doi.org/10.1007/BF02289729</a></p>
@@ -1645,6 +1665,8 @@
 <p id="Swadlow00">Swadlow, H.A. (2000). <i>Information Flow along Neocortical Axons. </i>In Time and the Brain. CRC Press. </p>
 
 <p id="Swadlow90">Swadlow, H.A. (1990). Efferent neurons and suspected interneurons in S-1 forelimb representation of the awake rabbit: receptive fields and axonal properties. <i>Journal of Neurophysiology, 63</i>, 1477–1498. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477">https://journals.physiology.org/doi/abs/10.1152/jn.1990.63.6.1477</a><a href="http://doi.org/10.1152/jn.1990.63.6.1477"> http://doi.org/10.1152/jn.1990.63.6.1477</a></p>
+
+<p id="SwadlowGusev01">Swadlow, H.A., & Gusev, A.G. (2001). The impact of 'bursting' thalamic impulses at a neocortical synapse. <i>Nature Neuroscience, 4</i>, 402–408. <a href="https://www.nature.com/articles/nn0401_402">https://www.nature.com/articles/nn0401_402</a><a href="http://doi.org/10.1038/86054"> http://doi.org/10.1038/86054</a></p>
 
 <p id="Swanson87">Swanson, L.W. (1987). The limbic region. I: The septohippocampal system. <i>Handbook ofchemical neuroanatomy, 5</i>, 125–279. <a href="https://cir.nii.ac.jp/crid/1573668924489461888">https://cir.nii.ac.jp/crid/1573668924489461888</a></p>
 
@@ -1887,6 +1909,8 @@
 <p id="ZangDeSchutter19">Zang, Y., & De Schutter, E. (2019). Climbing Fibers Provide Graded Error Signals in Cerebellar Learning. <i>Frontiers in Systems Neuroscience, 13</i>, <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00046/full">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00046/full</a><a href="http://doi.org/10.3389/fnsys.2019.00046"> http://doi.org/10.3389/fnsys.2019.00046</a></p>
 
 <p id="ZeeuwHanselBianEtAl98">Zeeuw, C.I.D., Hansel, C., Bian, F., Koekkoek, S.K.E., Alphen, A.M., Linden, D.J., & Oberdick, J. (1998). Expression of a Protein Kinase C Inhibitor in Purkinje Cells Blocks Cerebellar LTD and Adaptation of the Vestibulo-Ocular Reflex. <i>Neuron, 20</i>, 495–508. <a href="https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3">https://www.cell.com/neuron/abstract/S0896-6273(00)80990-3</a><a href="http://doi.org/10.1016/S0896-6273(00)80990-3"> http://doi.org/10.1016/S0896-6273(00)80990-3</a></p>
+
+<p id="ZeldenrustWadmanEnglitz18">Zeldenrust, F., Wadman, W.J., & Englitz, B. (2018). Neural coding with bursts—current state and future perspectives. <i>Frontiers in Computational Neuroscience, 12</i>, <a href="https://www.frontiersin.org/articles/10.3389/fncom.2018.00048/full">https://www.frontiersin.org/articles/10.3389/fncom.2018.00048/full</a><a href="http://doi.org/10.3389/fncom.2018.00048"> http://doi.org/10.3389/fncom.2018.00048</a></p>
 
 <p id="ZeleninOrlovskyDeliagina07">Zelenin, P.V., Orlovsky, G.N., & Deliagina, T.G. (2007). Sensory-Motor Transformation by Individual Command Neurons. <i>Journal of Neuroscience, 27</i>, 1024–1032. <a href="https://www.jneurosci.org/content/27/5/1024">https://www.jneurosci.org/content/27/5/1024</a><a href="http://doi.org/10.1523/JNEUROSCI.4925-06.2007"> http://doi.org/10.1523/JNEUROSCI.4925-06.2007</a></p>
 
