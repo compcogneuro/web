@@ -13,7 +13,7 @@ The relevant background for this algorithm is presented in the following pages:
 
 * [[GeneRec]] derives a concrete learning algorithm directly from the mathematics of [[error backpropagation]], which uses [[bidirectional connectivity]] to propagate error gradients throughout the [[neocortex]]. The kinase algorithm leverages the same principles at a computational level, while using more directly biologically based mechanisms that also have some important quantitative differences in the gradients computed.
 
-* [[Jiang et al 2026]] presents initial direct evidence showing that the direction of synaptic plasticity in neurons recorded in the mouse CA1 area is consistent with the temporal derivative hypothesis.
+* [[Jang et al 2026]] presents initial direct evidence showing that the direction of synaptic plasticity in neurons recorded in the mouse CA1 area is consistent with the temporal derivative hypothesis.
 
 Here, we build on these foundations to describe the detailed mechanisms that actually drive learning in the Axon models, which represent an attempt to satisfy constraints from neuroscience, computational efficacy, and computational cost.
 
@@ -23,7 +23,7 @@ At a big-picture level, the two central ideas behind the kinase algorithm are:
 
 * Apply a cascade of simple [[exponential integration]] steps to simulate the complex biochemical processes that follow from this Ca++ influx, with time constants optimized based on computational performance across a wide range of tasks. The final two steps in this cascade implement the [[temporal derivative]] computation where the faster penultimate step drives LTP (weight increases) while the final slower step drives LTD (weight decreases).
 
-This strategy leverages biophysically constrained mechanisms where they are well-established, while adopting a more abstracted computationally motivated approach to the complexities of the subsequent biochemical processes, which are not yet sufficiently specified to support a more bottom-up approach. The overall mechanism behind the [[temporal derivative]] is supported by the general properties of the CaMKII and DAPK1 kinases and related mechanisms, as described in [[synaptic plasticity]], and by the initial empirical results of [[Jiang et al 2026]].
+This strategy leverages biophysically constrained mechanisms where they are well-established, while adopting a more abstracted computationally motivated approach to the complexities of the subsequent biochemical processes, which are not yet sufficiently specified to support a more bottom-up approach. The overall mechanism behind the [[temporal derivative]] is supported by the general properties of the CaMKII and DAPK1 kinases and related mechanisms, as described in [[synaptic plasticity]], and by the initial empirical results of [[Jang et al 2026]].
 
 However, at a pragmatic implementational level, it would be very expensive to compute the Ca++ influx based on the NMDA and VGCC biophysical equations for each synapse individually, given that synapses greatly outnumber neurons (e.g., $N^2$ in a fully connected model), Therefore, we instead break out the computation into two subcomponents:
 
