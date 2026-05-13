@@ -231,3 +231,5 @@ The importance of baseline activity level in determining burst probability is il
 
 [[@^RamcharanGnadtSherman05]] reported higher levels of bursting (10-20%) for neurons in higher-order thalamus (pulvinar and MD) than first-order sensory thalamus (LGN, VP, MGNv), in awake but barely behaving monkeys (head fixed, either sitting idle or holding a simple fixation). [[@^BoshraHarrisDoughertyEtAl25]] showed that bursting in the pulvinar in awake behaving monkeys was more likely for idle periods, but showed a small increase for attended locations. Although they emphasized the effects of bursting driven by electrical stimulation, it was not clear that purely naturalistic bursting had clear behavioral implications.
 
+In conclusion, it seems likely that thalamic bursting is mostly relevant for sleep, and thus can be safely omitted from models, incurring a small penalty as an _error of omission_. The behavioral effects are likely to be relatively modest, because new activity from previously-inactive thalamic neurons will likely already be more impactful in driving cortical neurons.
+
