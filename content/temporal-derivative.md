@@ -40,14 +40,14 @@ The prediction error is represented by the difference between the fast and slow 
 
 {id="sim_td" title="Temporal Derivative from Fast - Slow" collapsed="true"}
 ```Goal
-fastTau := 10.0 // time constant for fast integration
-slowTau := 20.0 // time constant for slow integration
+fastTau := 20.0 // time constant for fast integration
+slowTau := 40.0 // time constant for slow integration
 pred := 50.0
 out := 80.0
 var dwtStr, fastStr, slowStr, predStr, outStr string
 
 ##
-totalTime := 100
+totalTime := 200
 driver := zeros(totalTime) // driver is what is driving the system
 fast := zeros(totalTime) // fast is a fast integrator of driver
 slow := zeros(totalTime) // slow is a slow integrator of driver
@@ -65,8 +65,8 @@ func td() {
     fTau := array(fastTau)
     sTau := array(slowTau)
     ##
-    for t := range 100 {
-        if t == 75 {
+    for t := range 200 {
+        if t == 150 {
             # d = array(out)
         }
         ##
@@ -88,7 +88,7 @@ td()
 plotStyler := func(s *plot.Style) {
     s.Range.SetMax(100).SetMin(0)
     s.Plot.XAxis.Label = "Time"
-    s.Plot.XAxis.Range.SetMax(100).SetMin(0)
+    s.Plot.XAxis.Range.SetMax(200).SetMin(0)
 	s.Plot.Legend.Position.Left = true
 }
 plot.SetStyler(driver, plotStyler) 
@@ -134,8 +134,8 @@ func addSlider(label *string, val *float64, mxVal float32) {
 
 addSlider(&predStr, &pred, 100)
 addSlider(&outStr, &out, 100)
-addSlider(&fastStr, &fastTau, 50)
-addSlider(&slowStr, &slowTau, 50)
+addSlider(&fastStr, &fastTau, 100)
+addSlider(&slowStr, &slowTau, 100)
 ```
 
 The code for this simulation updates the fast and slow variables according to a simple running-average update equation, e.g., for the $fast$ variable: 
@@ -153,7 +153,9 @@ Some things you can try:
 
 * Set both `Prediction` and `Outcome` to the same value (e.g., 50), and observe that this results in _zero_ weight change, which is consistent with there being no error in the prediction relative to the outcome. This holds even when you significantly increase or decrease the raw values, e.g., both 20 or both 80. This is a critical point of contrast with [[hebbian learning|hebbian]] forms of learning, which are typically driven by the overall levels of activity, such that you would expect (larger) weight increases with more activity.
 
-* There are important constraints on the `Tau` factors too. For example, with `Prediction` and `Outcome` both at 50, increase `Slow Tau` up to 35. You can see that the weight change is positive now, even though there is no prediction error, just because the Slow factor is too slow to catch up at the end. This means that the local chemical rate constants that produce these `Tau` factors must be properly tuned for the actual temporal dynamics of the network-level error signals. Although this might be considered biologically implausible, in fact there is strong evidence of prominent [[oscillatory rhythms]] in the brain at different characteristic frequencies, including the [[alpha cycle]] at roughly 10Hz and the [[theta rhythm|theta cycle]] at roughly 5Hz. These rhythms have been shown to strongly influence learning, in a manner consistent with this simple model and the [[kinase algorithm]] more generally.
+* There are important constraints on the `Tau` factors too. For example, with `Prediction` and `Outcome` both at 50, increase `Slow Tau` up to 70. You can see that the weight change is positive now, even though there is no prediction error, just because the Slow factor is too slow to catch up at the end. This means that the local chemical rate constants that produce these `Tau` factors must be properly tuned for the actual temporal dynamics of the network-level error signals.
+
+    Although this might be considered biologically implausible, in fact there is strong evidence of prominent [[oscillatory rhythms]] in the brain at different characteristic frequencies, including the [[alpha cycle]] at roughly 10 Hz (100 ms period) and the [[theta rhythm|theta cycle]] at roughly 5 Hz (200 ms period). These rhythms have been shown to strongly influence learning, in a manner consistent with this simple model and the [[kinase algorithm]] more generally.
 
 In summary, [[#sim_td]] based on the competition between two simple exponential integration equations ([[#eq_fast-slow]]) demonstrates that a locally computed temporal derivative can drive synaptic changes in a manner consistent with an error signal that emerges over time.
 
@@ -167,14 +169,14 @@ There is a reliable timing signal available at each individual neuron, which cou
 
 {id="sim_diff" title="Timing for learning" collapsed="true"}
 ```Goal
-fastTau := 10.0 // time constant for fast integration
-slowTau := 20.0 // time constant for slow integration
+fastTau := 20.0 // time constant for fast integration
+slowTau := 40.0 // time constant for slow integration
 pred := 50.0
 out := 80.0
 var dwtStr, fastStr, slowStr, predStr, outStr string
 
 ##
-totalTime := 100
+totalTime := 200
 driver := zeros(totalTime) // driver is what is driving the system
 fast := zeros(totalTime) // fast is a fast integrator of driver
 slow := zeros(totalTime) // slow is a slow integrator of driver
@@ -193,8 +195,8 @@ func td() {
     fTau := array(fastTau)
     sTau := array(slowTau)
     ##
-    for t := range 100 {
-        if t == 75 {
+    for t := range 200 {
+        if t == 150 {
             # d = array(out)
         }
         ##
@@ -217,7 +219,7 @@ td()
 plotStyler := func(s *plot.Style) {
     s.Range.SetMax(100).SetMin(0)
     s.Plot.XAxis.Label = "Time"
-    s.Plot.XAxis.Range.SetMax(100).SetMin(0)
+    s.Plot.XAxis.Range.SetMax(200).SetMin(0)
 	s.Plot.Legend.Position.Left = true
 }
 plot.SetStyler(driver, plotStyler) 
@@ -266,13 +268,15 @@ func addSlider(label *string, val *float64, mxVal float32) {
 
 addSlider(&predStr, &pred, 100)
 addSlider(&outStr, &out, 100)
-addSlider(&fastStr, &fastTau, 50)
-addSlider(&slowStr, &slowTau, 50)
+addSlider(&fastStr, &fastTau, 100)
+addSlider(&slowStr, &slowTau, 100)
 ```
 
 You can see that across different combinations of prediction and outcome driver states, the `diff` value exhibits two distinct peaks: one at the start when the onset of prediction-phase activity drives `fast` and `slow` to change at their different rates, and another just after onset of the outcome (plus) phase. The first peak is generally much larger and more reliable in practice, reflecting changes in the overall sensory or internal (hidden) state of the network, while the second peak is proportional to the difference in the prediction versus outcome.
 
-In primates for example, there is robust evidence for characteristic waves of neural activity following saccades, known as event-related potentials (ERPs) ([[@HelfrichKnight19]]), with the modal saccade fixation tightly centered at around 200 msec ([[@DevillezGuyaderCurranEtAl20]]). In rodents, there is evidence of brain-wide entrainment of neural activity at the theta cycle (also with a 200 msec period) ([[@SattlerWehr25]]), with strong evidence of overall cortex-wide neural activity characterized by periods of relative stability with rapid transitions between (i.e., _meta-stability_; [[@LaCameraFontaniniMazzucato19]]; [[@RecanatesiPereira-ObilinovicMurakamiEtAl22]]). These phasic transitions appear to be driven in part by motor events, consistent with the broad cortex-wide connectivity of the VA (ventral anterior) thalamus, receiving [[motor]] and [[prefrontal cortex]] inputs (see [[thalamus#frontal thalamus]]).
+In primates for example, there is robust evidence for characteristic waves of neural activity following saccades, known as event-related potentials (ERPs) ([[@HelfrichKnight19]]), with the modal saccade fixation tightly centered at around 200 ms ([[@DevillezGuyaderCurranEtAl20]]). Furthermore, higher-order [[thalamus]] areas that interconnect with the neocortex (i.e., pulvinar and mediodorsal) drive strong theta-rhythm (5 Hz, 200 ms) intrinsic oscillations that have significant impacts on attention and behavior ([[@FiebelkornKastner19]]; [[@FiebelkornKastner21]]).
+
+In rodents, there is evidence of brain-wide entrainment of neural activity at the theta cycle (also with a 200 ms period) ([[@SattlerWehr25]]), with strong evidence of overall cortex-wide neural activity characterized by periods of relative stability with rapid transitions between (i.e., _meta-stability_; [[@LaCameraFontaniniMazzucato19]]; [[@RecanatesiPereira-ObilinovicMurakamiEtAl22]]). These phasic transitions appear to be driven in part by motor events, consistent with the broad cortex-wide connectivity of the VA (ventral anterior) thalamus, receiving [[motor]] and [[prefrontal cortex]] inputs (see [[thalamus#frontal thalamus]]).
 
 <!--- It is also possible that driving learning to be a fixed number of cycles _prior_ to this transition would work even better. Yes, do this!! -->
 

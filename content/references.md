@@ -130,6 +130,8 @@
 
 <p id="BayerSchulman19">Bayer, K.U., & Schulman, H. (2019). CaM Kinase: Still Inspiring at 40. <i>Neuron, 103</i>, 380–394. <a href="https://www.sciencedirect.com/science/article/pii/S0896627319304866">https://www.sciencedirect.com/science/article/pii/S0896627319304866</a><a href="http://doi.org/10.1016/j.neuron.2019.05.033"> http://doi.org/10.1016/j.neuron.2019.05.033</a></p>
 
+<p id="BearAbraham96">Bear, M.F., & Abraham, W.C. (1996). Long-Term Depression in Hippocampus. <i>Annual Review of Neuroscience, 19</i>, 437–462. </p>
+
 <p id="BearMalenka94">Bear, M.F., & Malenka, R.C. (1994). Synaptic plasticity: LTP and LTD. <i>Current Opinion in Neurobiology, 4</i>, 389–399. <a href="https://www.sciencedirect.com/science/article/pii/0959438894901015">https://www.sciencedirect.com/science/article/pii/0959438894901015</a><a href="http://doi.org/10.1016/0959-4388(94)90101-5"> http://doi.org/10.1016/0959-4388(94)90101-5</a></p>
 
 <p id="Bednar12">Bednar, J.A. (2012). Building a mechanistic model of the development and function of the primary visual cortex. <i>Journal of physiology, Paris, 106</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22343520">http://www.ncbi.nlm.nih.gov/pubmed/22343520</a></p>
@@ -528,11 +530,15 @@
 
 <p id="FerreiraHenderson91">Ferreira, F., & Henderson, J.M. (1991). Recovery from misanalyses of garden-path sentences. <i>Journal of Memory and Language, 30</i>, 725–745. <a href="https://www.sciencedirect.com/science/article/pii/0749596X9190034H">https://www.sciencedirect.com/science/article/pii/0749596X9190034H</a><a href="http://doi.org/10.1016/0749-596X(91)90034-H"> http://doi.org/10.1016/0749-596X(91)90034-H</a></p>
 
+<p id="FiebelkornKastner19">Fiebelkorn, I.C., & Kastner, S. (2019). A rhythmic theory of attention. <i>Trends in Cognitive Sciences, 23</i>, 87–101. <a href="http://www.sciencedirect.com/science/article/pii/S136466131830281X">http://www.sciencedirect.com/science/article/pii/S136466131830281X</a><a href="http://doi.org/10.1016/j.tics.2018.11.009"> http://doi.org/10.1016/j.tics.2018.11.009</a></p>
+
+<p id="FiebelkornKastner21">Fiebelkorn, I.C., & Kastner, S. (2021). Spike timing in the attention network predicts behavioral outcome prior to target selection. <i>Neuron, 109</i>, 177-188.e4. <a href="https://www.sciencedirect.com/science/article/pii/S0896627320307637">https://www.sciencedirect.com/science/article/pii/S0896627320307637</a><a href="http://doi.org/10.1016/j.neuron.2020.09.039"> http://doi.org/10.1016/j.neuron.2020.09.039</a></p>
+
 <p id="FieldGauthierSherEtAl10">Field, G.D., Gauthier, J.L., Sher, A., Greschner, M., Machado, T.A., Jepson, L.H., Shlens, J., Gunning, D.E., Mathieson, K., Dabrowski, W., Paninski, L., Litke, A.M., & Chichilnisky, E.J. (2010). Functional connectivity in the retina at the resolution of photoreceptors. <i>Nature, 467</i>, 673–677. <a href="http://www.nature.com/nature/journal/v467/n7316/abs/nature09424.html">http://www.nature.com/nature/journal/v467/n7316/abs/nature09424.html</a><a href="http://doi.org/10.1038/nature09424"> http://doi.org/10.1038/nature09424</a></p>
 
 <p id="FodorPylyshyn88">Fodor, J.A., & Pylyshyn, Z.W. (1988). Connectionism and cognitive architecture: a critical analysis. <i>Cognition, 28</i>, 3–71. <a href="http://www.ncbi.nlm.nih.gov/pubmed/2450716">http://www.ncbi.nlm.nih.gov/pubmed/2450716</a></p>
 
-<p id="FosterBarryKorobkovaEtAl21">Foster, N.N., Barry, J., Korobkova, L., Garcia, L., Gao, L., Becerra, M., Sherafat, Y., Peng, B., Li, X., Choi, J., Gou, L., Zingg, B., Azam, S., Lo, D., Khanjani, N., Zhang, B., Stanis, J., Bowman, I., Cotter, K., Cao, C., Yamashita, S., Tugangui, A., Li, A., Jang, T., Jia, X., Feng, Z., Aquino, S., Mun, H., Zhu, M., Santarelli, A., Benavidez, N.L., Song, M., Dan, G., Fayzullina, M., Ustrell, S., Boesen, T., Johnson, D.L., Xu, H., Bienkowski, M.S., Yang, X.W., Gong, H., Levine, M.S., Wickersham, I., Luo, Q., Hahn, J.D., Lim, B.K., Zhang, L.I., Cepeda, C., Hintiryan, H., & Dong, H. (2021). The mouse cortico–basal ganglia–thalamic network. <i>Nature, 598</i>(7879), 188–194. <a href="https://www.nature.com/articles/s41586-021-03993-3">https://www.nature.com/articles/s41586-021-03993-3</a><a href="http://doi.org/10.1038/s41586-021-03993-3"> http://doi.org/10.1038/s41586-021-03993-3</a></p>
+<p id="FosterBarryKorobkovaEtAl21">Foster, N.N., Barry, J., Korobkova, L., Garcia, L., Gao, L., Becerra, M., Sherafat, Y., Peng, B., Li, X., Choi, J., Gou, L., Zingg, B., Azam, S., Lo, D., Khanjani, N., Zhang, B., Stanis, J., Bowman, I., Cotter, K., Cao, C., Yamashita, S., Tugangui, A., Li, A., Jiang, T., Jia, X., Feng, Z., Aquino, S., Mun, H., Zhu, M., Santarelli, A., Benavidez, N.L., Song, M., Dan, G., Fayzullina, M., Ustrell, S., Boesen, T., Johnson, D.L., Xu, H., Bienkowski, M.S., Yang, X.W., Gong, H., Levine, M.S., Wickersham, I., Luo, Q., Hahn, J.D., Lim, B.K., Zhang, L.I., Cepeda, C., Hintiryan, H., & Dong, H. (2021). The mouse cortico–basal ganglia–thalamic network. <i>Nature, 598</i>(7879), 188–194. <a href="https://www.nature.com/articles/s41586-021-03993-3">https://www.nature.com/articles/s41586-021-03993-3</a><a href="http://doi.org/10.1038/s41586-021-03993-3"> http://doi.org/10.1038/s41586-021-03993-3</a></p>
 
 <p id="Fourcaud-TrocmeHanselVreeswijkEtAl03">Fourcaud-Trocmé, N., Hansel, D., Vreeswijk, C., & Brunel, N. (2003). How spike generation mechanisms determine the neuronal response to fluctuating inputs. <i>Journal of Neuroscience, 23</i>, 11628–11640. <a href="https://www.jneurosci.org/content/23/37/11628">https://www.jneurosci.org/content/23/37/11628</a><a href="http://doi.org/10.1523/JNEUROSCI.23-37-11628.2003"> http://doi.org/10.1523/JNEUROSCI.23-37-11628.2003</a></p>
 
@@ -746,6 +752,8 @@
 
 <p id="HeHuertasHongEtAl15">He, K., Huertas, M., Hong, S.Z., Tie, X., Hell, J.W., Shouval, H., & Kirkwood, A. (2015). Distinct eligibility traces for LTP and LTD in cortical synapses. <i>Neuron, 88</i>, 528–538. <a href="https://www.sciencedirect.com/science/article/pii/S0896627315008260">https://www.sciencedirect.com/science/article/pii/S0896627315008260</a><a href="http://doi.org/10.1016/j.neuron.2015.09.037"> http://doi.org/10.1016/j.neuron.2015.09.037</a></p>
 
+<p id="HeilbronChait18">Heilbron, M., & Chait, M. (2018). Great expectations: is there evidence for predictive coding in auditory cortex? <i>Neuroscience, 389</i>, 54–73. <a href="http://www.sciencedirect.com/science/article/pii/S030645221730547X">http://www.sciencedirect.com/science/article/pii/S030645221730547X</a><a href="http://doi.org/10.1016/j.neuroscience.2017.07.061"> http://doi.org/10.1016/j.neuroscience.2017.07.061</a></p>
+
 <p id="HeilbronnerRodriguez-RomagueraQuirkEtAl16">Heilbronner, S.R., Rodriguez-Romaguera, J., Quirk, G.J., Groenewegen, H.J., & Haber, S.N. (2016). Circuit-based corticostriatal homologies between rat and primate. <i>Biological Psychiatry, 80</i>, 509–521. <a href="http://www.sciencedirect.com/science/article/pii/S0006322316323885">http://www.sciencedirect.com/science/article/pii/S0006322316323885</a><a href="http://doi.org/10.1016/j.biopsych.2016.05.012"> http://doi.org/10.1016/j.biopsych.2016.05.012</a></p>
 
 <p id="HelfrichKnight19">Helfrich, R.F., & Knight, R.T. (2019). <i>Cognitive neurophysiology: Event-related potentials. </i>In Handbook of Clinical Neurology (pp. 543–558). Elsevier. <a href="https://www.sciencedirect.com/science/chapter/handbook/pii/B9780444640321000369">https://www.sciencedirect.com/science/chapter/handbook/pii/B9780444640321000369</a><a href="http://doi.org/10.1016/B978-0-444-64032-1.00036-9"> http://doi.org/10.1016/B978-0-444-64032-1.00036-9</a></p>
@@ -769,6 +777,8 @@
 <p id="Hill38">Hill, A.V. (1938). The heat of shortening and the dynamic constants of muscle. <i>Proceedings of the Royal Society of London. B. Biological Sciences, 126</i>, 136–195. <a href="https://doi.org/10.1098/rspb.1938.0050">https://doi.org/10.1098/rspb.1938.0050</a><a href="http://doi.org/10.1098/rspb.1938.0050"> http://doi.org/10.1098/rspb.1938.0050</a></p>
 
 <p id="HinnekensBarbu-RothDoEtAl23">Hinnekens, E., Barbu-Roth, M., Do, M., Berret, B., & Teulier, C. (2023). Generating variability from motor primitives during infant locomotor development. <i>eLife, 12</i>, e87463. <a href="https://doi.org/10.7554/eLife.87463">https://doi.org/10.7554/eLife.87463</a><a href="http://doi.org/10.7554/eLife.87463"> http://doi.org/10.7554/eLife.87463</a></p>
+
+<p id="HintonMcClelland88">Hinton, G.E., & McClelland, J.L. (1988). Learning representations by recirculation. In D.Z. Anderson (Ed.), <i>Neural Information Processing Systems (NIPS 1987</i> (pp. 358–366)) American Institute of Physics. <a href="http://papers.nips.cc/paper/78-learning-representations-by-recirculation.pdf">http://papers.nips.cc/paper/78-learning-representations-by-recirculation.pdf</a></p>
 
 <p id="HintonSejnowski83">Hinton, G.E., & Sejnowski, T.J. (1983). <i>Optimal perceptual inference. </i>In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. </p>
 
@@ -848,6 +858,8 @@
 
 <p id="InglebertAljadeffBrunelEtAl20">Inglebert, Y., Aljadeff, J., Brunel, N., & Debanne, D. (2020). Synaptic plasticity rules with physiological calcium levels. <i>Proceedings of the National Academy of Sciences, 117</i>, 33639–33648. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2013663117">https://www.pnas.org/doi/abs/10.1073/pnas.2013663117</a><a href="http://doi.org/10.1073/pnas.2013663117"> http://doi.org/10.1073/pnas.2013663117</a></p>
 
+<p id="IntratorCooper92">Intrator, N., & Cooper, L.N. (1992). Objective function formulation of the BCM theory of visual cortical plasticity: Statistical connections, stability conditions. <i>Neural Networks, 5</i>, 3–17. <a href="https://www.sciencedirect.com/science/article/pii/S0893608005800036">https://www.sciencedirect.com/science/article/pii/S0893608005800036</a><a href="http://doi.org/10.1016/S0893-6080(05)80003-6"> http://doi.org/10.1016/S0893-6080(05)80003-6</a></p>
+
 <p id="IsaacsonScanziani11">Isaacson, J.S., & Scanziani, M. (2011). How inhibition shapes cortical activity. <i>Neuron, 72</i>, 231–243. <a href="https://www.sciencedirect.com/science/article/pii/S0896627311008798">https://www.sciencedirect.com/science/article/pii/S0896627311008798</a><a href="http://doi.org/10.1016/j.neuron.2011.09.027"> http://doi.org/10.1016/j.neuron.2011.09.027</a></p>
 
 <p id="IsaMarquez-LegorretaGrillnerEtAl21">Isa, T., Marquez-Legorreta, E., Grillner, S., & Scott, E.K. (2021). The tectum/superior colliculus as the vertebrate solution for spatial sensory integration and action. <i>Current Biology, 31</i>, R741-R762. <a href="https://www.sciencedirect.com/science/article/pii/S0960982221004796">https://www.sciencedirect.com/science/article/pii/S0960982221004796</a><a href="http://doi.org/10.1016/j.cub.2021.04.001"> http://doi.org/10.1016/j.cub.2021.04.001</a></p>
@@ -920,6 +932,8 @@
 
 <p id="KetzefSilberberg21">Ketzef, M., & Silberberg, G. (2021). Differential synaptic input to external globus pallidus neuronal subpopulations in vivo. <i>Neuron, 109</i>, 516-529.e4. <a href="https://www.sciencedirect.com/science/article/pii/S0896627320308849">https://www.sciencedirect.com/science/article/pii/S0896627320308849</a><a href="http://doi.org/10.1016/j.neuron.2020.11.006"> http://doi.org/10.1016/j.neuron.2020.11.006</a></p>
 
+<p id="KetzMorkondaOReilly13">Ketz, N., Morkonda, S.G., & O'Reilly, R.C. (2013). Theta coordinated error-driven learning in the hippocampus. <i>PLoS Computational Biology, 9</i>, e1003067. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23762019">http://www.ncbi.nlm.nih.gov/pubmed/23762019</a></p>
+
 <p id="KhalilMansvelderWitter22">Khalil, A.J., Mansvelder, H.D., & Witter, L. (2022). Mesodiencephalic junction GABAergic inputs are processed separately from motor cortical inputs in the basilar pons. <i>iScience, 25</i>, <a href="https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0">https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0</a><a href="http://doi.org/10.1016/j.isci.2022.104641"> http://doi.org/10.1016/j.isci.2022.104641</a></p>
 
 <p id="KheradmandZee11">Kheradmand, A., & Zee, D.S. (2011). Cerebellum and Ocular Motor Control. <i>Frontiers in Neurology, 2</i>, <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2011.00053/full">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2011.00053/full</a><a href="http://doi.org/10.3389/fneur.2011.00053"> http://doi.org/10.3389/fneur.2011.00053</a></p>
@@ -949,6 +963,8 @@
 <p id="Kohonen98">Kohonen, T. (1998). the Self-Organizing Map. <i>Neurocomputing, 21</i>, 1. </p>
 
 <p id="KohonenHari99">Kohonen, T., & Hari, R. (1999). Where the abstract feature maps of the brain might come from. <i>Trends in neurosciences, 22</i>, 135. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10199639">http://www.ncbi.nlm.nih.gov/pubmed/10199639</a></p>
+
+<p id="KokLange15">Kok, P., & Lange, F.P. (2015). <i>Predictive Coding in Sensory Cortex. </i>In An Introduction to Model-Based Cognitive Neuroscience (pp. 221–244). Springer, New York, NY. <a href="https://link.springer.com/chapter/10.1007/978-1-4939-2236-9_11">https://link.springer.com/chapter/10.1007/978-1-4939-2236-9_11</a><a href="http://doi.org/10.1007/978-1-4939-2236-9_11"> http://doi.org/10.1007/978-1-4939-2236-9_11</a></p>
 
 <p id="KoralekCostaCarmena13">Koralek, A.C., Costa, R.M., & Carmena, J.M. (2013). Temporally precise cell-specific coherence develops in corticostriatal networks during learning. <i>Neuron, 79</i>, 865–872. <a href="https://www.sciencedirect.com/science/article/pii/S0896627313005631">https://www.sciencedirect.com/science/article/pii/S0896627313005631</a><a href="http://doi.org/10.1016/j.neuron.2013.06.047"> http://doi.org/10.1016/j.neuron.2013.06.047</a></p>
 
@@ -1083,6 +1099,8 @@
 <p id="MariniPiancaTredici99">Marini, G., Pianca, L., & Tredici, G. (1999). Descending projections arising from the parafascicular nucleus in rats: trajectory of fibers, projection pattern and mapping of terminations. <i>Somatosensory & Motor Research, 16</i>, 207–222. <a href="https://doi.org/10.1080/08990229970465">https://doi.org/10.1080/08990229970465</a><a href="http://doi.org/10.1080/08990229970465"> http://doi.org/10.1080/08990229970465</a></p>
 
 <p id="MarkovErcsey-RavaszGomesEtAl14">Markov, N.T., Ercsey-Ravasz, M.M., Gomes, R., R, A., Lamy, C., Magrou, L., Vezoli, J., Misery, P., Falchier, A., Quilodran, R., Gariel, M.A., Sallet, J., Gamanut, R., Huissoud, C., Clavagnier, S., Giroud, P., Sappey-Marinier, D., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2014). A weighted and directed interareal connectivity matrix for macaque cerebral cortex. <i>Cerebral Cortex, 24</i>, 17–36. <a href="https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity">https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity</a><a href="http://doi.org/10.1093/cercor/bhs270"> http://doi.org/10.1093/cercor/bhs270</a></p>
+
+<p id="MarkovErcsey-RavaszLamyEtAl13">Markov, N.T., Ercsey-Ravasz, M., Lamy, C., Ribeiro Gomes, A.R., Magrou, L., Misery, P., Giroud, P., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2013). The role of long-range connections on the specificity of the macaque interareal cortical network. <i>Proceedings of the National Academy of Sciences U. S. A., 110</i>, 5187–5192. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23479610">http://www.ncbi.nlm.nih.gov/pubmed/23479610</a></p>
 
 <p id="MarkowitzGillisBeronEtAl18">Markowitz, J.E., Gillis, W.F., Beron, C.C., Neufeld, S.Q., Robertson, K., Bhagat, N.D., Peterson, R.E., Peterson, E., Hyun, M., Linderman, S.W., Sabatini, B.L., & Datta, S.R. (2018). The striatum organizes 3D behavior via moment-to-moment action selection. <i>Cell, 174</i>, 44-58.e17. <a href="http://www.sciencedirect.com/science/article/pii/S0092867418305129">http://www.sciencedirect.com/science/article/pii/S0092867418305129</a><a href="http://doi.org/10.1016/j.cell.2018.04.019"> http://doi.org/10.1016/j.cell.2018.04.019</a></p>
 
@@ -1576,6 +1594,8 @@
 
 <p id="ShermanUsrey24">Sherman, S.M., & Usrey, W.M. (2024). A reconsideration of the core and matrix classification of thalamocortical projections. <i>Journal of Neuroscience, 44</i>, <a href="https://www.jneurosci.org/content/44/24/e0163242024">https://www.jneurosci.org/content/44/24/e0163242024</a><a href="http://doi.org/10.1523/JNEUROSCI.0163-24.2024"> http://doi.org/10.1523/JNEUROSCI.0163-24.2024</a></p>
 
+<p id="ShermanUsrey24a">Sherman, S.M., & Usrey, W.M. (2024). Transthalamic Pathways for Cortical Function. <i>Journal of Neuroscience, 44</i>, <a href="https://www.jneurosci.org/content/44/35/e0909242024">https://www.jneurosci.org/content/44/35/e0909242024</a><a href="http://doi.org/10.1523/JNEUROSCI.0909-24.2024"> http://doi.org/10.1523/JNEUROSCI.0909-24.2024</a></p>
+
 <p id="Sherrington10">Sherrington, C.S. (1910). Flexion-reflex of the limb, crossed extension-reflex, and reflex stepping and standing. <i>The Journal of Physiology, 40</i>, 28–121. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1533734/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1533734/</a><a href="http://doi.org/10.1113/jphysiol.1910.sp001362"> http://doi.org/10.1113/jphysiol.1910.sp001362</a></p>
 
 <p id="ShiffrinSchneider77">Shiffrin, R.M., & Schneider, W. (1977). Controlled and automatic human information processing: II. Perceptual learning, automatic attending, and a general theory. <i>Psychological Review, 84</i>, 127–190. </p>
@@ -1810,6 +1830,8 @@
 
 <p id="Wallen-MackenzieDumasPapathanouEtAl20">Wallén-Mackenzie, �., Dumas, S., Papathanou, M., Martis Thiele, M.M., Vlcek, B., König, N., & Björklund, �.K. (2020). Spatio-molecular domains identified in the mouse subthalamic nucleus and neighboring glutamatergic and GABAergic brain structures. <i>Communications Biology, 3</i>, 338. <a href="https://www.nature.com/articles/s42003-020-1028-8">https://www.nature.com/articles/s42003-020-1028-8</a><a href="http://doi.org/10.1038/s42003-020-1028-8"> http://doi.org/10.1038/s42003-020-1028-8</a></p>
 
+<p id="WalshMcGovernClarkEtAl20">Walsh, K.S., McGovern, D.P., Clark, A., & O'Connell, R.G. (2020). Evaluating the neurophysiological evidence for predictive processing as a model of perception. <i>Annals of the New York Academy of Sciences, 1464</i>, 242–268. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187369/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187369/</a><a href="http://doi.org/10.1111/nyas.14321"> http://doi.org/10.1111/nyas.14321</a></p>
+
 <p id="WangDenkHausser00">Wang, S.S., Denk, W., & Häusser, M. (2000). Coincidence detection in single dendritic spines mediated by calcium release. <i>Nature Neuroscience, 3</i>, 1266–1273. <a href="https://www.nature.com/articles/nn1200_1266">https://www.nature.com/articles/nn1200_1266</a><a href="http://doi.org/10.1038/81792"> http://doi.org/10.1038/81792</a></p>
 
 <p id="WangLiuHaditschEtAl03">Wang, J., Liu, S.H., Haditsch, U., Tu, W.H., Cochrane, K., Ahmadian, G., Tran, L., Paw, J., Wang, Y.T., & Mansuy, I. (2003). Interaction of Calcineurin and Type-A GABA Receptor gamma2 Subunits Produces Long-Term Depression at CA1 Inhibitory Synapses. <i>Journal of Neuroscience, 23</i>, 826–836. </p>
@@ -1923,6 +1945,8 @@
 <p id="ZhangWangZhu16">Zhang, X., Wang, J., & Zhu, J. (2016). Cerebellar fastigial nucleus: from anatomic construction to physiological functions. <i>Cerebellum & Ataxias, 3</i>, 9. <a href="https://doi.org/10.1186/s40673-016-0047-1">https://doi.org/10.1186/s40673-016-0047-1</a><a href="http://doi.org/10.1186/s40673-016-0047-1"> http://doi.org/10.1186/s40673-016-0047-1</a></p>
 
 <p id="ZhangYangGaffieldEtAl23">Zhang, K., Yang, Z., Gaffield, M.A., Gross, G.G., Arnold, D.B., & Christie, J.M. (2023). Molecular layer disinhibition unlocks climbing-fiber-instructed motor learning in the cerebellum. 2023.08.04.552059. <a href="https://www.biorxiv.org/content/10.1101/2023.08.04.552059v1">https://www.biorxiv.org/content/10.1101/2023.08.04.552059v1</a><a href="http://doi.org/10.1101/2023.08.04.552059"> http://doi.org/10.1101/2023.08.04.552059</a></p>
+
+<p id="ZhengLiuNishiyamaEtAl22">Zheng, Y., Liu, X.L., Nishiyama, S., Ranganath, C., & O’Reilly, R.C. (2022). Correcting the hebbian mistake: Toward a fully error-driven hippocampus. <i>PLOS Computational Biology, 18</i>, e1010589. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010589">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010589</a><a href="http://doi.org/10.1371/journal.pcbi.1010589"> http://doi.org/10.1371/journal.pcbi.1010589</a></p>
 
 <p id="ZhengWolfRanganathEtAl25">Zheng, Y., Wolf, N., Ranganath, C., O'Reilly, R.C., & McKee, K.L. (2025). Flexible prefrontal control over hippocampal episodic memory for goal-directed generalization. <a href="http://arxiv.org/abs/2503.02303">http://arxiv.org/abs/2503.02303</a><a href="http://doi.org/10.48550/arXiv.2503.02303"> http://doi.org/10.48550/arXiv.2503.02303</a></p>
 
