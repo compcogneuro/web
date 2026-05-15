@@ -69,4 +69,25 @@ which means finding the values of the matrix **W** that minimizes the difference
 
 Thus, two major forms of neural network learning, Hebbian and error-driven, can be understood in simple, essential form using the tools of linear algebra.
 
+## Non-negative factorization
+
+There are important constraints that arise by requiring a basis space to be encoded using only positive-valued numbers (i.e., non-negative factorization; [[@LeeSeung99]]). Because neurons can generally only have positive-only weights from a given sending neuron, and they also only send positive-valued signals in terms of rates of spiking, this non-negative space is important for understanding the impact of these constraints relative to [[abstract neural network]] models lacking such constraints.
+
+Intuitively, thinking in terms of the weights shown in [[#figure_matrix-mult]], if each weight value must be non-negative _and_ the weight vectors must be _orthogonal_ to each other (i.e., to encode independent factors), then there can be no overlapping weight values in a given column. For a complete basis representation of a 3D space, i.e., 3 such weight vectors (only 2 are shown in the figure), this would mean that each weight must have a 1 in one unique column, and a 0 in each of the other two columns.
+
+Thus, the non-negatively constraint is _much_ stronger than the orthogonality constraint by itself (which is all that PCA imposes), effectively uniquely determining the basis vectors to be simple _localist_ encodings of the original input dimensions (where each row of the x input vector is a different input dimension). By contrast, infinitely many orthogonal basis vectors with negative elements can be constructed, as different rotations of the original input dimensions. Critically, a rotation _requires_ both positive and negative numbers: whatever is added to one dimension must be take from the others, and that zero-sum nature of a rotation implies the requirement for both signs.
+
+If there is a much larger space of input dimensions than basis vectors, then the non-negative constraint still tends to impose a more _sparse_ representation that has significant weighting on relatively few input dimensions, because they still cannot overlap with each other and remain orthogonal. As with the localist case, the non-negativity constraint thus forces the basis vectors to _align_ directly with the original input dimensions -- these input dimensions represent a _privileged_ basis under the non-negativity constraint, whereas they are not otherwise privileged without that constraint.
+
+There are also interesting relationships between non-negative factorization vs. sign-unconstrained factorization and standard probability vs. quantum probabilities. Standard probabilities are like non-negative factors: they can only be 0 or positive, and thus they define a purely additive set of factors, which must ultimately sum to 1 across all relevant possibilities.
+
+By contrast, quantum probabilities are always defined in a Hilbert space in terms of orthogonal basis vectors, with probability amplitudes that are _complex_ numbers (i.e., a combination of a real and an imaginary number). Complex numbers are mostly just an efficient way to represent a 2D value, with some special properties that make things like rotations and oscillations easier to represent, because when you multiply two imaginary numbers they turn back into a real number:
+
+$$
+\sqrt{-1} \sqrt{-1} = \sqrt{-1}^2 = -1
+$$
+
+The cross-products involving a real and imaginary number also suck the real part into the imaginary world. Thus, the two dimensions of a complex number really like to rotate around into each other.
+
+The key point is that these complex numbers, like rotations, effectively always must have positive and negative components ($i = \sqrt{-1}$ after all), and thus they are _not_ constrained like standard real-valued probabilities. Furthermore, the normalization constraint on quantum probabilities acts to constrain the entire Hilbert space to a unit sphere, defined in how ever many dimensions there are in the state space. Thus, you can never _create_ or _destroy_ quantum probabilities -- they just rotate around on the sphere, which changes the alignment of different outcomes according to the basis vectors being used, but it also means that the choice of such basis vectors is relatively less important: there isn't a privileged connection between a probability and each such basis vector, like there is with the non-negative standard probabilities.
 

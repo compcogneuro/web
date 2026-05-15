@@ -752,7 +752,7 @@
 
 <p id="HeHuertasHongEtAl15">He, K., Huertas, M., Hong, S.Z., Tie, X., Hell, J.W., Shouval, H., & Kirkwood, A. (2015). Distinct eligibility traces for LTP and LTD in cortical synapses. <i>Neuron, 88</i>, 528–538. <a href="https://www.sciencedirect.com/science/article/pii/S0896627315008260">https://www.sciencedirect.com/science/article/pii/S0896627315008260</a><a href="http://doi.org/10.1016/j.neuron.2015.09.037"> http://doi.org/10.1016/j.neuron.2015.09.037</a></p>
 
-<p id="HeilbronChait18">Heilbron, M., & Chait, M. (2018). Great expectations: is there evidence for predictive coding in auditory cortex? <i>Neuroscience, 389</i>, 54–73. <a href="http://www.sciencedirect.com/science/article/pii/S030645221730547X">http://www.sciencedirect.com/science/article/pii/S030645221730547X</a><a href="http://doi.org/10.1016/j.neuroscience.2017.07.061"> http://doi.org/10.1016/j.neuroscience.2017.07.061</a></p>
+<p id="HeilbronChait18">Heilbron, M., & Chait, M. (2018). Great Expectations: Is there Evidence for Predictive Coding in Auditory Cortex? <i>Neuroscience, 389</i>, 54–73. <a href="https://www.sciencedirect.com/science/article/pii/S030645221730547X">https://www.sciencedirect.com/science/article/pii/S030645221730547X</a><a href="http://doi.org/10.1016/j.neuroscience.2017.07.061"> http://doi.org/10.1016/j.neuroscience.2017.07.061</a></p>
 
 <p id="HeilbronnerRodriguez-RomagueraQuirkEtAl16">Heilbronner, S.R., Rodriguez-Romaguera, J., Quirk, G.J., Groenewegen, H.J., & Haber, S.N. (2016). Circuit-based corticostriatal homologies between rat and primate. <i>Biological Psychiatry, 80</i>, 509–521. <a href="http://www.sciencedirect.com/science/article/pii/S0006322316323885">http://www.sciencedirect.com/science/article/pii/S0006322316323885</a><a href="http://doi.org/10.1016/j.biopsych.2016.05.012"> http://doi.org/10.1016/j.biopsych.2016.05.012</a></p>
 
@@ -883,6 +883,8 @@
 <p id="JainMurphy-BaumdeRosenrollEtAl20">Jain, V., Murphy-Baum, B.L., deRosenroll, G., Sethuramanujam, S., Delsey, M., Delaney, K.R., & Awatramani, G.B. (2020). The functional organization of excitation and inhibition in the dendrites of mouse direction-selective ganglion cells. <i>eLife, 9</i>, e52949. <a href="https://doi.org/10.7554/eLife.52949">https://doi.org/10.7554/eLife.52949</a><a href="http://doi.org/10.7554/eLife.52949"> http://doi.org/10.7554/eLife.52949</a></p>
 
 <p id="JainNakahataPancaniEtAl24">Jain, A., Nakahata, Y., Pancani, T., Watabe, T., Rusina, P., South, K., Adachi, K., Yan, L., Simorowski, N., Furukawa, H., & Yasuda, R. (2024). Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity. <i>Nature, 635</i>, 151–159. <a href="https://www.nature.com/articles/s41586-024-08021-8">https://www.nature.com/articles/s41586-024-08021-8</a><a href="http://doi.org/10.1038/s41586-024-08021-8"> http://doi.org/10.1038/s41586-024-08021-8</a></p>
+
+<p id="JangFloresOReillyEtAl26">Jang, J., Flores, J., O'Reilly, R.C., & Zito, K. (2026). Synaptic Plasticity as a Function of the Temporal Derivative. <a href="https://compcogneuro.org/jang-et-al-2026">https://compcogneuro.org/jang-et-al-2026</a></p>
 
 <p id="Jankowska22">Jankowska, E. (2022). Basic principles of processing of afferent information by spinal interneurons. <i>Journal of Neurophysiology, 128</i>, 689–695. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022">https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022</a><a href="http://doi.org/10.1152/jn.00344.2022"> http://doi.org/10.1152/jn.00344.2022</a></p>
 
@@ -1036,6 +1038,8 @@
 
 <p id="LeDoux00">LeDoux, J. (2000). Cognitive-Emotional Interactions: Listen to the brain. In R.D. Lane, & L. Nadel (Eds.), <i>Cognitive neuroscience of emotion</i> (pp. 129–156). Oxford Univ. Press. </p>
 
+<p id="LeeSeung99">Lee, D.D., & Seung, H.S. (1999). Learning the parts of objects by non-negative factorization. <i>Nature, 401</i>, 788. </p>
+
 <p id="LeowZhouSullivanEtAl22">Leow, Y.N., Zhou, B., Sullivan, H.A., Barlowe, A.R., Wickersham, I.R., & Sur, M. (2022). Brain-wide mapping of inputs to the mouse lateral posterior (LP/Pulvinar) thalamus–anterior cingulate cortex network. <i>Journal of Comparative Neurology, 530</i>, 1992–2013. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25317">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25317</a><a href="http://doi.org/10.1002/cne.25317"> http://doi.org/10.1002/cne.25317</a></p>
 
 <p id="LevySteward79">Levy, W.B., & Steward, O. (1979). Synapses as associative memory elements in the hippocampal formation. <i>Brain research, 175</i>, 233–245. <a href="http://www.ncbi.nlm.nih.gov/pubmed/487154">http://www.ncbi.nlm.nih.gov/pubmed/487154</a></p>
@@ -1097,8 +1101,6 @@
 <p id="ManningClarkHewittEtAl20">Manning, C.D., Clark, K., Hewitt, J., Khandelwal, U., & Levy, O. (2020). Emergent linguistic structure in artificial neural networks trained by self-supervision. <i>Proceedings of the National Academy of Sciences, 117</i>, 30046–30054. <a href="https://www.pnas.org/doi/full/10.1073/pnas.1907367117">https://www.pnas.org/doi/full/10.1073/pnas.1907367117</a><a href="http://doi.org/10.1073/pnas.1907367117"> http://doi.org/10.1073/pnas.1907367117</a></p>
 
 <p id="MariniPiancaTredici99">Marini, G., Pianca, L., & Tredici, G. (1999). Descending projections arising from the parafascicular nucleus in rats: trajectory of fibers, projection pattern and mapping of terminations. <i>Somatosensory & Motor Research, 16</i>, 207–222. <a href="https://doi.org/10.1080/08990229970465">https://doi.org/10.1080/08990229970465</a><a href="http://doi.org/10.1080/08990229970465"> http://doi.org/10.1080/08990229970465</a></p>
-
-<p id="MarkovErcsey-RavaszGomesEtAl14">Markov, N.T., Ercsey-Ravasz, M.M., Gomes, R., R, A., Lamy, C., Magrou, L., Vezoli, J., Misery, P., Falchier, A., Quilodran, R., Gariel, M.A., Sallet, J., Gamanut, R., Huissoud, C., Clavagnier, S., Giroud, P., Sappey-Marinier, D., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2014). A weighted and directed interareal connectivity matrix for macaque cerebral cortex. <i>Cerebral Cortex, 24</i>, 17–36. <a href="https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity">https://academic.oup.com/cercor/article/24/1/17/272931/A-Weighted-and-Directed-Interareal-Connectivity</a><a href="http://doi.org/10.1093/cercor/bhs270"> http://doi.org/10.1093/cercor/bhs270</a></p>
 
 <p id="MarkovErcsey-RavaszLamyEtAl13">Markov, N.T., Ercsey-Ravasz, M., Lamy, C., Ribeiro Gomes, A.R., Magrou, L., Misery, P., Giroud, P., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2013). The role of long-range connections on the specificity of the macaque interareal cortical network. <i>Proceedings of the National Academy of Sciences U. S. A., 110</i>, 5187–5192. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23479610">http://www.ncbi.nlm.nih.gov/pubmed/23479610</a></p>
 
