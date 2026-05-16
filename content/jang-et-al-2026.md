@@ -1,11 +1,11 @@
 +++
-Name = "Jang et al. (2026)"
+Name = "Jang et al (2026)"
 Title = "Synaptic Plasticity as a Function of the Temporal Derivative"
 Authors = "Jinyoung Jang<sup>1</sup>, Juan Flores<sup>1</sup>, Randall C. O'Reilly<sup>1,2</sup>, and Karen Zito<sup>1</sup>"
 Affiliations = "<sup>1</sup>Center for Neuroscience, University of California Davis, Davis, CA; <sup>2</sup>Astera Institute"
 Abstract = "A major outstanding question in neuroscience is whether the neocortex somehow uses the same powerful learning algorithm that powers current AI models, which rely on error backpropagation. One hypothesized way this can be accomplished is as a function of the temporal derivative (i.e., differences in neural activity states over time), which can closely approximate the backpropagated error gradient. We tested this hypothesis that the direction of synaptic plasticity is a function of the temporal derivative in synaptic activity over the course of a 200 ms (5 Hz) theta cycle. Using a standard CA1 mouse slice preparation under patch clamp, we drove both pre- and postsynaptic activity across the two 100 ms halves of a 200 ms window at either 25 Hz or 50 Hz, testing all four 2x2 combinations of these firing rates, while measuring the resulting effects on synaptic efficacy (as measured by EPSP amplitude to standard test probes). Consistent with the computational hypothesis, a positive temporal derivative (25 to 50 Hz) resulted in LTP (increased synaptic strength), while a negative temporal derivative (50 to 25 Hz) resulted in LTD. Critically, both no-change conditions (25 to 25 and 50 to 50 Hz) resulted in no net synaptic change, even though the 50 Hz case had the highest overall synaptic activity levels. Possible biochemical mechanisms that could support these results are discussed."
 Date = "2026-05-15"
-Categories = ["Learning", "Papers"]
+Categories = ["Papers"]
 bibfile = "ccnlab.json"
 +++
 

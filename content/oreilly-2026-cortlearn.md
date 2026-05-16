@@ -1,11 +1,11 @@
 +++
-Name = "OReilly (2026): Cortical Learning"
+Name = "OReilly (2026) Cortical Learning"
 Title = "This is how the Neocortex Learns"
 Authors = "Randall C. O'Reilly"
 Affiliations = "Astera Institute, Department of Psychology and Center for Neuroscience, University of California Davis"
 Abstract = "A sufficient account of how the neocortex learns must meet three criteria: 1. Computationally, it must approximate a powerful, general-purpose learning algorithm known to scale to human-level intelligence; 2. Algorithmically, it must be implementable using known, well-established neural circuits within the neocortex and associated brain structures; 3. Implementationally, there must be a detailed account for how all of the algorithmic mechanisms actually function at a neurochemical level. At present, there is only one framework that meets all of these criteria: error-driven predictive learning via temporal derivatives, driven by corticothalamic circuits, based on competitive kinase synaptic plasticity induction mechanisms. This has been implemented in the Axon neural simulation framework using spiking neurons, and demonstrated to learn across a wide range of challenging cognitively-motivated tasks."
-Date = "2026-05-15"
-Categories = ["Learning", "Neuroscience", "Computation", "Cognition", "Papers"]
+Date = "2026-05-16"
+Categories = ["Papers"]
 bibfile = "ccnlab.json"
 +++
 
