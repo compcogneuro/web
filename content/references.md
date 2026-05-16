@@ -264,6 +264,8 @@
 
 <p id="BrutonODwyer18">Bruton, M., & O’Dwyer, N. (2018). Synergies in coordination: a comprehensive overview of neural, computational, and behavioral approaches. <i>Journal of Neurophysiology, 120</i>, 2761–2774. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00052.2018">https://journals.physiology.org/doi/full/10.1152/jn.00052.2018</a><a href="http://doi.org/10.1152/jn.00052.2018"> http://doi.org/10.1152/jn.00052.2018</a></p>
 
+<p id="BruzaWangBusemeyer15">Bruza, P.D., Wang, Z., & Busemeyer, J.R. (2015). Quantum cognition: a new theoretical approach to psychology. <i>Trends in Cognitive Sciences, 19</i>, 383–393. <a href="http://www.sciencedirect.com/science/article/pii/S1364661315000996">http://www.sciencedirect.com/science/article/pii/S1364661315000996</a><a href="http://doi.org/10.1016/j.tics.2015.05.001"> http://doi.org/10.1016/j.tics.2015.05.001</a></p>
+
 <p id="BuchholzGuilabertEhretEtAl23">Buchholz, M.O., Guilabert, A.G., Ehret, B., & Schuhknecht, G.F.P. (2023). How synaptic strength, short-term plasticity, and input synchrony contribute to neuronal spike output. <i>PLOS Computational Biology, 19</i>, e1011046. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011046">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011046</a><a href="http://doi.org/10.1371/journal.pcbi.1011046"> http://doi.org/10.1371/journal.pcbi.1011046</a></p>
 
 <p id="BuffaloFriesLandmanEtAl11">Buffalo, E.A., Fries, P., Landman, R., Buschman, T.J., & Desimone, R. (2011). Laminar differences in gamma and alpha coherence in the ventral stream. <i>Proceedings of the National Academy of Sciences of the United States of America, 108</i>, 11262–11267. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21690410">http://www.ncbi.nlm.nih.gov/pubmed/21690410</a></p>
@@ -281,6 +283,8 @@
 <p id="Cardin18">Cardin, J.A. (2018). Inhibitory interneurons regulate temporal precision and correlations in cortical circuits. <i>Trends in Neurosciences, 41</i>, 689–700. <a href="https://www.sciencedirect.com/science/article/pii/S0166223618302078">https://www.sciencedirect.com/science/article/pii/S0166223618302078</a><a href="http://doi.org/10.1016/j.tins.2018.07.015"> http://doi.org/10.1016/j.tins.2018.07.015</a></p>
 
 <p id="Carey11">Carey, M.R. (2011). Synaptic mechanisms of sensorimotor learning in the cerebellum. <i>Current Opinion in Neurobiology, 21</i>, 609–615. <a href="https://www.sciencedirect.com/science/article/pii/S0959438811001206">https://www.sciencedirect.com/science/article/pii/S0959438811001206</a><a href="http://doi.org/10.1016/j.conb.2011.06.011"> http://doi.org/10.1016/j.conb.2011.06.011</a></p>
+
+<p id="Carroll20">Carroll, T.L. (2020). Do reservoir computers work best at the edge of chaos? <i>Chaos: An Interdisciplinary Journal of Nonlinear Science, 30</i>, 121109. <a href="https://doi.org/10.1063/5.0038163">https://doi.org/10.1063/5.0038163</a><a href="http://doi.org/10.1063/5.0038163"> http://doi.org/10.1063/5.0038163</a></p>
 
 <p id="CaseyGetzGalvan08">Casey, B.J., Getz, S., & Galvan, A. (2008). The adolescent brain. <i>Developmental Review, 28</i>, 62–77. <a href="https://www.sciencedirect.com/science/article/pii/S0273229707000494">https://www.sciencedirect.com/science/article/pii/S0273229707000494</a><a href="http://doi.org/10.1016/j.dr.2007.08.003"> http://doi.org/10.1016/j.dr.2007.08.003</a></p>
 
@@ -1020,6 +1024,8 @@
 
 <p id="LandismanConnors07">Landisman, C.E., & Connors, B.W. (2007). VPM and PoM Nuclei of the Rat Somatosensory Thalamus: Intrinsic Neuronal Properties and Corticothalamic Feedback. <i>Cerebral Cortex, 17</i>, 2853–2865. <a href="https://doi.org/10.1093/cercor/bhm025">https://doi.org/10.1093/cercor/bhm025</a><a href="http://doi.org/10.1093/cercor/bhm025"> http://doi.org/10.1093/cercor/bhm025</a></p>
 
+<p id="Langton90">Langton, C.G. (1990). Computation at the edge of chaos: Phase transitions and emergent computation. <i>Physica D: Nonlinear Phenomena, 42</i>, 12–37. <a href="https://www.sciencedirect.com/science/article/pii/016727899090064V">https://www.sciencedirect.com/science/article/pii/016727899090064V</a><a href="http://doi.org/10.1016/0167-2789(90)90064-V"> http://doi.org/10.1016/0167-2789(90)90064-V</a></p>
+
 <p id="LarkumZhuSakmann99">Larkum, M.E., Zhu, J.J., & Sakmann, B. (1999). A new cellular mechanism for coupling inputs arriving at different cortical layers. <i>Nature, 398</i>, 338–341. <a href="https://www.nature.com/articles/18686">https://www.nature.com/articles/18686</a><a href="http://doi.org/10.1038/18686"> http://doi.org/10.1038/18686</a></p>
 
 <p id="Larsson13">Larsson, H.P. (2013). What Determines the Kinetics of the Slow Afterhyperpolarization (sAHP) in Neurons? <i>Biophysical Journal, 104</i>, 281–283. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552283/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3552283/</a><a href="http://doi.org/10.1016/j.bpj.2012.11.3832"> http://doi.org/10.1016/j.bpj.2012.11.3832</a></p>
@@ -1085,6 +1091,8 @@
 <p id="LucaErim94">Luca, C.J.D., & Erim, Z. (1994). Common drive of motor units in regulation of muscle force. <i>Trends in Neurosciences, 17</i>, 299–305. <a href="https://www.cell.com/trends/neurosciences/abstract/0166-2236(94)90064-7">https://www.cell.com/trends/neurosciences/abstract/0166-2236(94)90064-7</a><a href="http://doi.org/10.1016/0166-2236(94)90064-7"> http://doi.org/10.1016/0166-2236(94)90064-7</a></p>
 
 <p id="LuMiyachiItoEtAl07">Lu, X., Miyachi, S., Ito, Y., Nambu, A., & Takada, M. (2007). Topographic distribution of output neurons in cerebellar nuclei and cortex to somatotopic map of primary motor cortex. <i>European Journal of Neuroscience, 25</i>, 2374–2382. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05482.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2007.05482.x</a><a href="http://doi.org/10.1111/j.1460-9568.2007.05482.x"> http://doi.org/10.1111/j.1460-9568.2007.05482.x</a></p>
+
+<p id="MaassNatschlagerMarkram02">Maass, W., Natschläger, T., & Markram, H. (2002). Real-time computing without stable states: a new framework for neural computation based on perturbations. <i>Neural computation, 14</i>, 2531–2560. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12433288">http://www.ncbi.nlm.nih.gov/pubmed/12433288</a></p>
 
 <p id="MacLean52">MacLean, P.D. (1952). Some psychiatric implications of physiological studies on frontotemporal portion of limbic system (Visceral brain) <i>Electroencephalography and Clinical Neurophysiology, 4</i>, 407–418. <a href="https://www.sciencedirect.com/science/article/pii/0013469452900734">https://www.sciencedirect.com/science/article/pii/0013469452900734</a><a href="http://doi.org/10.1016/0013-4694(52)90073-4"> http://doi.org/10.1016/0013-4694(52)90073-4</a></p>
 
@@ -1818,6 +1826,8 @@
 
 <p id="VerfaellieRapcsakHeilman90">Verfaellie, M., Rapcsak, S.Z., & Heilman, K.M. (1990). Impaired shifting of attention in Balint's syndrome. <i>Brain and Cognition, 12</i>, 195–204. </p>
 
+<p id="VerstraetenSchrauwenDHaeneEtAl07">Verstraeten, D., Schrauwen, B., D'Haene, M., & Stroobandt, D. (2007). An experimental unification of reservoir computing methods. <i>Neural networks : the official journal of the International Neural Network Society, 20</i>, 391–403. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17517492">http://www.ncbi.nlm.nih.gov/pubmed/17517492</a></p>
+
 <p id="VidalBrunaGiryesEtAl17">Vidal, R., Bruna, J., Giryes, R., & Soatto, S. (2017). Mathematics of Deep Learning. <a href="http://arxiv.org/abs/1712.04741">http://arxiv.org/abs/1712.04741</a><a href="http://doi.org/10.48550/arXiv.1712.04741"> http://doi.org/10.48550/arXiv.1712.04741</a></p>
 
 <p id="VogesWuPostEtAl17">Voges, K., Wu, B., Post, L., Schonewille, M., & De Zeeuw, C.I. (2017). Mechanisms underlying vestibulo-cerebellar motor learning in mice depend on movement direction. <i>The Journal of Physiology, 595</i>, 5301–5326. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274346">https://onlinelibrary.wiley.com/doi/abs/10.1113/JP274346</a><a href="http://doi.org/10.1113/JP274346"> http://doi.org/10.1113/JP274346</a></p>
@@ -1957,4 +1967,6 @@
 <p id="ZhuMunhallShenEtAl04">Zhu, Z., Munhall, A., Shen, K., & Johnson, S.W. (2004). Calcium-dependent subthreshold oscillations determine bursting activity induced by N-methyl-d-aspartate in rat subthalamic neurons in vitro. <i>European Journal of Neuroscience, 19</i>, 1296–1304. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2004.03240.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2004.03240.x</a><a href="http://doi.org/10.1111/j.1460-9568.2004.03240.x"> http://doi.org/10.1111/j.1460-9568.2004.03240.x</a></p>
 
 <p id="ZobeiriCullen24">Zobeiri, O.A., & Cullen, K.E. (2024). Cerebellar Purkinje cells combine sensory and motor information to predict the sensory consequences of active self-motion in macaques. <i>Nature Communications, 15</i>, 4003. <a href="https://www.nature.com/articles/s41467-024-48376-0">https://www.nature.com/articles/s41467-024-48376-0</a><a href="http://doi.org/10.1038/s41467-024-48376-0"> http://doi.org/10.1038/s41467-024-48376-0</a></p>
+
+<p id="Zurek05">Zurek, W.H. (2005). Probabilities from entanglement, Born's rule ${p}_{k}={\ensuremath{\mid}{\ensuremath{\psi}}_{k}\ensuremath{\mid}}^{2}$ from envariance. <i>Physical Review A, 71</i>, 052105. <a href="https://link.aps.org/doi/10.1103/PhysRevA.71.052105">https://link.aps.org/doi/10.1103/PhysRevA.71.052105</a><a href="http://doi.org/10.1103/PhysRevA.71.052105"> http://doi.org/10.1103/PhysRevA.71.052105</a></p>
 
