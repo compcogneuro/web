@@ -13,7 +13,7 @@ bibfile = "ccnlab.json"
 
 Understanding how the neocortex learns is perhaps the single most important step in understanding human intelligence, because our cognitive functions emerge over years of experience-driven learning within this brain structure, which is unique to mammals and is most greatly expanded in primates, especially humans. Following [[@^Marr82]], there are three levels at which any theory of neocortical learning can be evaluated: _computational,_ _algorithmic,_ and _implementational._ The conclusion of this paper is that only one current theory, which we label the **temporal derivative** model ([[@JangFloresOReillyEtAl26]]), provides a sufficient account across these three levels, and thus represents the most viable working hypothesis for how the neocortex learns.
 
-Because this theory has been developed by the current author over a number of years, this evaluation is necessarily subject to confirmation bias. Therefore, constructive criticism of this conclusion, and evaluations of competing alternatives according to the same criteria, are strongly welcomed, in order to advance our understanding of this most central of scientific questions.
+Because this theory has been developed by the current author over a number of years, this deliberately provocative evaluation is necessarily subject to confirmation bias. Therefore, constructive criticism of this conclusion, and evaluations of competing alternatives according to the same criteria, are strongly welcomed, in order to advance our understanding of this most central of scientific questions.
 
 ### Computational
 
