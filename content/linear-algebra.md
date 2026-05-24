@@ -41,7 +41,7 @@ Another linear algebra framing of this operation is in terms of the synaptic wei
 
 Furthermore, this basis space can help with the [[curse of dimensionality]] by using fewer basis vectors to capture most of the important dimensions of variance, relative to the high dimensionality of the original space. For example, original dimensions that are largely redundant (e.g., the shapes of the eyes and the mouth used in expressing different emotions) can be combined together into one basis vector.
 
-## Eigenvectors and singular value decomposition
+## Eigenvectors
 
 The process of [[principal components analysis]] (PCA) provides a way of selecting a new set of basis vectors to project the input space into, based on the linear algebra process of **eigenvector** decomposition, where the eigenvector is a special vector that keeps pointing in the same direction when multiplied by the matrix that it is an eigenvector of:
 
