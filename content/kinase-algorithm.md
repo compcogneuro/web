@@ -216,7 +216,7 @@ The initial minus-phase peak is generally larger and more robust, so it dominate
 
 The peak-finding logic works robustly by recording the time and peak value whenever it exceeds the prior peak. This ratcheting-up dynamic continues until the empirical peak value is reached. When the time since the last peak exceeds the minimum minus cycle threshold, the peak baseline is reset and peak detection switches to finding the plus phase peak, using the same logic. When the cycles since that peak exceed the plus phase cycle parameter, learning occurs.
 
-Although such mechanisms have not been specifically demonstrated in neurons, these are very "biologically friendly" mechanisms involving chemical integration over time, which is the basis for the biophysically-detailed [[@^UrakuboHondaFroemkeEtAl08]] model for example. Furthermore, it is likely that various simpler single-peak and / or timing-driven dynamics could produce comparable results. When experimenting with various versions of the double-peak dynamics and earlier ideas, learning was generally robust as long as things didn't get too far off from the plus phase.
+Although such mechanisms have not been specifically demonstrated in neurons, these are very "biologically friendly" mechanisms involving chemical integration over time, which is the basis for the biophysically detailed [[@^UrakuboHondaFroemkeEtAl08]] model for example. Furthermore, it is likely that various simpler single-peak and / or timing-driven dynamics could produce comparable results. When experimenting with various versions of the double-peak dynamics and earlier ideas, learning was generally robust as long as things didn't get too far off from the plus phase.
 
 ## Stabilization and rescaling mechanisms
 

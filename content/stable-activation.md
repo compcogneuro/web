@@ -23,7 +23,7 @@ The fact that these stabilizing mechanisms were _not_ needed with the [[rate-cod
 
 The `Network` has three layers, which are functionally organized as an _Input_ layer and 2 _Hidden_ layers that represent internal [[neocortex|cortical]] processing levels. There are actually many more such layers in the cortex of most mammals, but we can see the issues already with just these two.
 
-* Click [[#sim_stability:Step]] to run one trial of 200 ms cycles for a single randomly-generated input pattern. 
+* Click [[#sim_stability:Step]] to run one trial of 200 ms cycles for a single randomly generated input pattern. 
 
 You will see a pattern of neural activity across the layers, which has a very clear differentiation between active and inactive neurons in the first, input layer, that gets more diffuse and graded in higher layers. The active neurons have progressively brighter, saturated, and more yellow colors, with the height of the neuron-level cubes set in proportion to their activity, while inactive ones are grey and flat. The synaptic connections in this network are completely random, so it is expected that the clear signal in the input is diluted as it progresses through this untrained network.
 

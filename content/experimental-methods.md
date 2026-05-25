@@ -3,12 +3,12 @@ Categories = ["Cognition", "Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 
-This page provides brief descriptions of commonly-used experimental methods in [[neuroscience]] and [[cognition]], for those unfamiliar with them.
+This page provides brief descriptions of commonly used experimental methods in [[neuroscience]] and [[cognition]], for those unfamiliar with them.
 
 ## Peristimulus time histogram (PSTH)
 
 {id="figure_psth" style="height:20em"}
-![The peristimulus time histogram (PSTH) plot like this one from Funahashi et al, 1988 is a widely-used way of plotting neural firing data, with the top portion showing individual neural spikes as a "raster" plot, with each row being a separate trial, with important experimental time points indicated with vertical lines. The bottom portion shows a histogram, often of a larger pool of data than is shown in the raster plot, with the bar height showing the relative frequency of firing within the corresponding time bin. This plot shows a PFC neuron repsonding to a cue at time C, which is maintained over the delay period D, and firing abrubly terminates right after the onset of the response R.](media/fig_psth_histogram_raster.png)
+![The peristimulus time histogram (PSTH) plot like this one from Funahashi et al, 1988 is a widely used way of plotting neural firing data, with the top portion showing individual neural spikes as a "raster" plot, with each row being a separate trial, with important experimental time points indicated with vertical lines. The bottom portion shows a histogram, often of a larger pool of data than is shown in the raster plot, with the bar height showing the relative frequency of firing within the corresponding time bin. This plot shows a PFC neuron repsonding to a cue at time C, which is maintained over the delay period D, and firing abrubly terminates right after the onset of the response R.](media/fig_psth_histogram_raster.png)
 
 [[#figure_psth]] shows an example peristimulus time histogram (PSTH) plot, which is widely used to show individual neural responding across repeated trials of a given type. This gives a good sense of the baseline firing levels before and after the condition of interest, and you can see how reliable and strongly or weakly modulated the activity as a function of the task inputs as labeled.
 

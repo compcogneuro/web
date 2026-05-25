@@ -9,7 +9,7 @@ The **LSTM** (long short-term memory) model of [[@^HochreiterSchmidhuber97]] use
 {id="figure_lstm" style="height:10em"}
 ![The LSTM memory cell (rectangle) with constant error carousel (CEC; circle with diagonal chord). Maintenance gating g (left side) multiplicatively determines when to update and encode new information, while output gating (right side) determines when to read information out of the memory cell to drive behavior. From Hochreiter & Schmidhuber, 1997, Figure 1.](media/fig_hochreiter_schmidhuber_97_lstm.png)
 
-The key insight that motivated the model was that the ability to maintain a trace of information robustly across time in the form of neural activity signals requires a precisely-balanced form of recurrent neural activity that avoids exponential increases or decay across time. This was termed the _constant error carousel_ (CEC) ([[#figure_lstm]]).
+The key insight that motivated the model was that the ability to maintain a trace of information robustly across time in the form of neural activity signals requires a precisely balanced form of recurrent neural activity that avoids exponential increases or decay across time. This was termed the _constant error carousel_ (CEC) ([[#figure_lstm]]).
 
 Once you have such a robust maintenance mechanism, it is then definitionally devoid of any internal dynamics that could determine when new information is updated vs. existing information is maintained. Thus, they introduced an _input gate_ that determines when to update new information into the CEC memory, and an _output gate_ to determine when to read information out of the memory, to drive responding or other processes.
 

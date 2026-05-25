@@ -3,7 +3,7 @@ Categories = ["Neuroscience", "Rubicon"]
 bibfile = "ccnlab.json"
 +++
 
-A **Neuromodulator** is a type of neurotransmitter that has _modulatory_ effects on the learning and activity of neurons. Neuromodulators typically have very broad effects across the brain, and thus are critical for conveying the most important, survival-relevant signals, and also for modulating overall levels of arousal across the wake-sleep cycle. The [[Rubicon]] framework provides biologically-based implementations of some of these neuromodulators, which play a central role in goal-driven motivated behavior.
+A **Neuromodulator** is a type of neurotransmitter that has _modulatory_ effects on the learning and activity of neurons. Neuromodulators typically have very broad effects across the brain, and thus are critical for conveying the most important, survival-relevant signals, and also for modulating overall levels of arousal across the wake-sleep cycle. The [[Rubicon]] framework provides biologically based implementations of some of these neuromodulators, which play a central role in goal-driven motivated behavior.
 
 There are a handful of such neuromodulators which all have overlapping yet distinguishable effects across the brain, including:
 

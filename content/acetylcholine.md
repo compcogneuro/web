@@ -17,11 +17,11 @@ In general, the ACh system is dauntingly complex at a biological level, with mul
 
 ### Volume transmission
 
-Like other neuromodulators such as [[dopamine]] ACh is typically released via volume transmission over broad neural areas, delivering the ACh signal across all neurons within volumes of neural tissue, with huge numbers of release sites per neuron. Furthermore, individual neurons project to diverse, functionally-related targets, effectively binding together distal neural areas under a common neuromodulatory signal ([[@AnanthRajebhosaleKimEtAl23]]).
+Like other neuromodulators such as [[dopamine]] ACh is typically released via volume transmission over broad neural areas, delivering the ACh signal across all neurons within volumes of neural tissue, with huge numbers of release sites per neuron. Furthermore, individual neurons project to diverse, functionally related targets, effectively binding together distal neural areas under a common neuromodulatory signal ([[@AnanthRajebhosaleKimEtAl23]]).
 
 ### Rapid phasic responding
 
-As with most neuromodulators, there are both tonic and phasic aspects of ACh release. There is clear evidence for rapid, phasic, behaviorally-correlated firing in BFCNs ([[@LaszlovszkySchlingloffHegedusEtAl20]]) consistent with the Rubicon model.
+As with most neuromodulators, there are both tonic and phasic aspects of ACh release. There is clear evidence for rapid, phasic, behaviorally correlated firing in BFCNs ([[@LaszlovszkySchlingloffHegedusEtAl20]]) consistent with the Rubicon model.
 
 ### Salience encoding
 

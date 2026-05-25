@@ -31,7 +31,7 @@ $$
 H = - p \log_2(p) - (1-p) \log_2(1-p)
 $$
 
-It turns out that the maximum value of this expression occurs when $p = 0.5$, i.e., it is equally likely to be 0 or 1, and it falls off symmetrically on either side. The numerical value of this expression at $p = 0.5$ is 1, which means there is 1 _bit_ of information, because we're using the $\log_2$ base 2 (binary) logarithm. Thus, only when a bit has equally-probable 0 and 1 states does it truly contain 1 bit of information!
+It turns out that the maximum value of this expression occurs when $p = 0.5$, i.e., it is equally likely to be 0 or 1, and it falls off symmetrically on either side. The numerical value of this expression at $p = 0.5$ is 1, which means there is 1 _bit_ of information, because we're using the $\log_2$ base 2 (binary) logarithm. Thus, only when a bit has equally probable 0 and 1 states does it truly contain 1 bit of information!
 
 The entropy measure can be usefully applied to quantifying the information content of a population of neurons in a layer. The overall information content is maximized when the probability of each neuron becoming active is at 0.5, and there are no correlations between any of the neurons. This is not at all what neural activity looks like in the [[neocortex]]: most neurons are essentially inactive most of the time, with a roughly 15% chance of being significantly activated. Furthermore, there are often strong correlations across different neurons. This tells us that these neurons are not maximizing the amount of information that can be represented, and therefore there must be other important criteria driving the nature of these representations.
 

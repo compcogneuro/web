@@ -9,7 +9,7 @@ Relative to most [[abstract neural network]] (ANN) models, [[Axon]] is unique in
 
 Learning is also much more difficult in the context of complex activation dynamics, and interestingly there are surprisingly impressive results from [[reservoir computing]] networks that eschew learning within bidirectionally connected networks entirely, using them instead as "reservoirs" of complex dynamical activity states from which signals can be decoded via simpler feedforward [[error-driven learning]] mechanisms.
 
-By contrast, the form of learning in [[Axon]] depends critically on bidirectional excitatory connectivity for propagating error signals throughout the network, and can tune large, complex bidirectional networks to develop effective [[predictive learning]] representations of the environment, leveraging the principle of learning based on a [[temporal derivative]]. There is now experimental evidence consistent with this form of learning in at least one specific, widely-studied pathway involving cortical pyramidal neurons and synaptic mechanisms that exist throughout the neocortex ([[Jang et al (2026)]]).
+By contrast, the form of learning in [[Axon]] depends critically on bidirectional excitatory connectivity for propagating error signals throughout the network, and can tune large, complex bidirectional networks to develop effective [[predictive learning]] representations of the environment, leveraging the principle of learning based on a [[temporal derivative]]. There is now experimental evidence consistent with this form of learning in at least one specific, widely studied pathway involving cortical pyramidal neurons and synaptic mechanisms that exist throughout the neocortex ([[Jang et al (2026)]]).
 
 From a computational cost perspective, bidirectional connectivity is very expensive because it doubles the number of synaptic connections, and requires roughly 200x iterations through the network to process a single input. This significantly limits the ability to scale up the models, which has been the primary driver of impressive computational performance in current feedforward ANN models. Nevertheless, as parallel compute hardware continues to improve, this limitation will hopefully be overcome (and the current version of [[Axon]] runs efficiently on any GPU, using WebGPU so it works through the browser too). For the time being, the models do focus more on capturing the principles rather than the kinds of raw performance improvements that come with scaling (see [[bias-variance tradeoff]] for more discussion).
 
@@ -27,7 +27,7 @@ There are also **lateral** excitatory connections which interconnect neurons at 
 
 ## Feedforward unrolling
 
-The same dynamics that occur in a bidirectionally-connected network can in principle be captured instead by _unrolling_ a network across a cascade of multiple layers, where each such layer represents the state of the network at a given moment in time. This is is like unrolling a `for` loop in a computer program:
+The same dynamics that occur in a bidirectionally connected network can in principle be captured instead by _unrolling_ a network across a cascade of multiple layers, where each such layer represents the state of the network at a given moment in time. This is is like unrolling a `for` loop in a computer program:
 
 ```Go
 for i := range 3 {
@@ -41,7 +41,7 @@ fmt.Println(2)
 
 However, given the small-world connectivity dynamics of the neocortex, where each individual neuron is only a few synapses away from any other, it would therefore in principle require replicating the entire neocortex at each of these levels. This is analogous to in the above programming case to the amount of code contained within the for loop. When that code is just a few statements, it isn't a problem to unroll it (and it will actually be faster). But if that code is a giant complex algorithm, then replicating all that code is impractical.
 
-Therefore, this unrolling approach cannot capture the full extent of a bidirectionally-connected neocortex. Nevertheless, it is likely that the [[transformer]] architecture that powers [[large language models]] is capturing some key elements of this bidirectional dynamic in the cortex.
+Therefore, this unrolling approach cannot capture the full extent of a bidirectionally connected neocortex. Nevertheless, it is likely that the [[transformer]] architecture that powers [[large language models]] is capturing some key elements of this bidirectional dynamic in the cortex.
 
 Another critical difference for the relevance of bidirectional connectivity in [[conscious awareness]] is that the unrolling approach operates across _different neurons_ for each iteration, whereas the biological case is "re-using" the same neurons over time. Given that our subjective conscious state is effectively what it feels like to be this big bidirectionally connected network, it would presumably be quite different if this dynamic was instead happening across a bunch of different neural populations, instead of a smaller set of mutually interacting ones.
 

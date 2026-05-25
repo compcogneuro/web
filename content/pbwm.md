@@ -4,7 +4,7 @@ Categories = ["Computation", "Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 
-The **PBWM** (prefrontal-cortex, basal-ganglia working memory) model ([[@OReillyFrank06]]) shows how **gating** mechanisms like those in the [[LSTM]] computational model can arise from the disinhibitory (modulatory, multiplicative) influence of the [[basal ganglia]] over the excitatory loops between the [[thalamus]] and [[prefrontal cortex]]. This model also demonstrated how phasic [[dopamine]] signals could train this gating functionality in a biologically-plausible manner, in contrast to the implausible [[error backpropagation]] mechanisms used in LSTM.
+The **PBWM** (prefrontal-cortex, basal-ganglia working memory) model ([[@OReillyFrank06]]) shows how **gating** mechanisms like those in the [[LSTM]] computational model can arise from the disinhibitory (modulatory, multiplicative) influence of the [[basal ganglia]] over the excitatory loops between the [[thalamus]] and [[prefrontal cortex]]. This model also demonstrated how phasic [[dopamine]] signals could train this gating functionality in a biologically plausible manner, in contrast to the implausible [[error backpropagation]] mechanisms used in LSTM.
 
 {id="figure_pbwm" style="height:25em"}
 ![Architecture of the PBWM system, where PFC provides top-down biasing to control sensory-motor processing in the rest of the brain, while the basal ganglia (BG) drives dynamic gating of PFC task / goal representations. The BG in turn is trained via phasic dopamine signals based on successful task performance.](media/fig_pbwm_architecture_bio.png)

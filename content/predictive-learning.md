@@ -51,7 +51,7 @@ This phasic bursting from 5IB neurons is hypothesized to drive both the outcome 
 
 [[@^OReillyRussinZolfagharEtAl21]] provides many more details and an implemented model that demonstrates how predictive learning in the visual system can extract structure from short movies of 3D objects tumbling through space: see [[deep vision simulation]].
 
-See the [[FSA simulation]] for a much simpler model of predictive learning of a probabilistically-generated sequence based on a _finite state automata (FSA)_, which has long been used to study learning ([[@Reber67]]; [[@CleeremansMcClelland91]]). This model provides a simple, concrete way to understand the essential computational mechanisms involved in predictive learning.
+See the [[FSA simulation]] for a much simpler model of predictive learning of a probabilistically generated sequence based on a _finite state automata (FSA)_, which has long been used to study learning ([[@Reber67]]; [[@CleeremansMcClelland91]]). This model provides a simple, concrete way to understand the essential computational mechanisms involved in predictive learning.
 
 In the context of motor control, predictive learning learns a _forward model_ that predicts along the forward arrow of time what will happen if you happen to take a particular action in a given context ([[@JordanRumelhart92]]). This is a central component of the [[Rubicon]] model, and commonly used in [[reinforcement learning]] more generally.
 
@@ -59,7 +59,7 @@ In the context of motor control, predictive learning learns a _forward model_ th
 
 Because the key neocortical elements involved are located in the deep lamina (layers 5 and 6), we refer to this predictive learning mechanism as _deep predictive learning_ (previously deep [[Leabra]] in the context of that algorithm) -- it should also hopefully extract deep structure from the environment as well.
 
-The implementation in Axon adds a specialized layer type for the layer 6CT neurons, to enable them to hold onto the prior t-1 temporal context, and a layer type for the pulvinar neurons, to simulate the effects of the driver inputs from layer 5IB neurons. For the time being, we have not needed an explicit implementation of the layer 5IB neurons themselves, because we can more easily simulate their behavior in a simplified, idealized manner, at the cost of not capturing the flexible entrainment of the alpha rhythm with external sensory events. Adding a biophysically-realistic 5IB layer is an important goal for future research, with every indication being that it will require more complex neural dynamics to do so (e.g., [[@BeniaguevSegevLondon21]]).
+The implementation in Axon adds a specialized layer type for the layer 6CT neurons, to enable them to hold onto the prior t-1 temporal context, and a layer type for the pulvinar neurons, to simulate the effects of the driver inputs from layer 5IB neurons. For the time being, we have not needed an explicit implementation of the layer 5IB neurons themselves, because we can more easily simulate their behavior in a simplified, idealized manner, at the cost of not capturing the flexible entrainment of the alpha rhythm with external sensory events. Adding a biophysically realistic 5IB layer is an important goal for future research, with every indication being that it will require more complex neural dynamics to do so (e.g., [[@BeniaguevSegevLondon21]]).
 
 ### 6CT neurons and pathways
 

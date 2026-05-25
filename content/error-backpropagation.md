@@ -5,7 +5,7 @@ bibfile = "ccnlab.json"
 
 **Error backpropagation** ("backprop") is a relatively straightforward mathematical procedure for performing [[error-driven learning]], derived directly from the _chain rule_ of basic calculus. It starts with an _objective function_ that defines how to compute the _error_. To determine how to update synaptic weights to minimize this error, the first-order _partial derivative_ of the objective function with respect to a given weight value can be computed using the chain rule, which thereby defines the **error gradient**. The synaptic weights are iteratively updated along the direction of this gradient. Many different techniques can be used to implement this error minimization procedure, including using higher-order derivatives.
 
-The current generation of software tools used in [[abstract neural network]] models have the ability to automatically compute these error gradients directly from the chain of equations used in a model, which greatly simplifies the process of constructing complex novel models, and has been a major contributor to the explosive growth of research and progress in this field. For example, the widely-used [PyTorch](https://pytorch.org/) framework has [Autograd](https://docs.pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html). Before the advent of such tools, people used to manually perform the relevant calculus and program in the resulting equations.
+The current generation of software tools used in [[abstract neural network]] models have the ability to automatically compute these error gradients directly from the chain of equations used in a model, which greatly simplifies the process of constructing complex novel models, and has been a major contributor to the explosive growth of research and progress in this field. For example, the widely used [PyTorch](https://pytorch.org/) framework has [Autograd](https://docs.pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html). Before the advent of such tools, people used to manually perform the relevant calculus and program in the resulting equations.
 
 Consistent with its basis in fundamental principles of calculus and function optimization, backprop has been "invented" by a number of people over the years, including [[@^WidrowHoff60]] and [[@^Werbos74]]. However, [[@^RumelhartHintonWilliams86]] were the _last_ to invent it, which means they were the most successful in articulating and demonstrating the important properties of this learning procedure in the context of a comprehensive overall framework for modeling neurally inspired learning ([[@RumelhartMcClelland86]]; [[@McClellandRumelhart86]]).
 
@@ -47,7 +47,7 @@ $$
 f_l(x) = \frac{1}{1 + e^{-x}} = \frac{e^{-x}}{1 + e^{-x}}
 $$
 
-This function has the biologically-realistic property of a _saturating nonlinearity_, where increasingly large net inputs produce increasingly small additional increments in activation value, consistent with a maximum sustained firing rate of neurons in the [[neocortex]] of about 100 hz.
+This function has the biologically realistic property of a _saturating nonlinearity_, where increasingly large net inputs produce increasingly small additional increments in activation value, consistent with a maximum sustained firing rate of neurons in the [[neocortex]] of about 100 hz.
 
 The derivative of this function has a nice simple form:
 
@@ -69,7 +69,7 @@ such that the activation is 0 for all net input levels below 0, and is otherwise
 
 ## Error function
 
-Once the activity reaches the Output layer, it is compared with _target_ values via an _error function_, such as the widely-used Sum Squared Error (SSE):
+Once the activity reaches the Output layer, it is compared with _target_ values via an _error function_, such as the widely used Sum Squared Error (SSE):
 
 {id="eq_sse" title="Sum squared error"}
 $$

@@ -9,7 +9,7 @@ Because individual neurons are always integrating the inputs from many other neu
 
 At a computational level, distributed representations are a key part of the overall strategy to combat the [[curse of dimensionality]] in the universal computational process of [[search]]. Also see the discussion of [[combinatorial vs conjunctive]] representations for additional dimensions along which distributed representations can vary, and the computational implications thereof.
 
-In the context of [[categorization]] to provide more abstract and efficient ways of representing behaviorally-relevant information, distributed representations can capture the amorphousness of a mental category, because it isn't just one single discrete factor that goes into it. There are many factors, each of which plays a role.
+In the context of [[categorization]] to provide more abstract and efficient ways of representing behaviorally relevant information, distributed representations can capture the amorphousness of a mental category, because it isn't just one single discrete factor that goes into it. There are many factors, each of which plays a role.
 
 In other words, categorization is highly **polymorphous**: any given input can be categorized in many different ways at the same time. There is no such thing as _the_ appropriate level of categorization for any given thing. A chair can also be _furniture,_ _art,_ _trash,_ _firewood,_ _doorstopper,_ _plastic_ and any number of other such things.
 
@@ -56,7 +56,7 @@ Mixed selectivity is a natural consequence of the extensive interconnectivity am
 
 This kind of neural responding is also ubiquitous in [[abstract neural network]] models, which start out with randomized initial weights, and retain a surprising amount of this randomness over the course of learning.
 
-For example, even though neurons in primary visual cortex are known to have strong responses to relatively simple dimensions of visual input, such as orientation of edges, you can nevertheless find neurons that respond to just about any other behaviorally-relevant factor in this area too.
+For example, even though neurons in primary visual cortex are known to have strong responses to relatively simple dimensions of visual input, such as orientation of edges, you can nevertheless find neurons that respond to just about any other behaviorally relevant factor in this area too.
 
 One critical lesson from this is that:
 

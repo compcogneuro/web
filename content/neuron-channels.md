@@ -3,9 +3,9 @@ Categories = ["Activation", "Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 
-This page provides details for the full range of channel types that are available in an [[Axon]] [[neuron]] to drive biologically-based and functionally important behavior in specific neuron types. Every neuron uses the basic excitatory, inhibitory, and leak channels discussed in detail in the [[neuron]] and [[neuron electrophysiology]] pages, and some of the following channels are used in most other neurons, while some are only used in specific neuron types where they are particularly important.
+This page provides details for the full range of channel types that are available in an [[Axon]] [[neuron]] to drive biologically based and functionally important behavior in specific neuron types. Every neuron uses the basic excitatory, inhibitory, and leak channels discussed in detail in the [[neuron]] and [[neuron electrophysiology]] pages, and some of the following channels are used in most other neurons, while some are only used in specific neuron types where they are particularly important.
 
-These biologically-grounded channels provide accurate fits to the detailed electrophysiological properties of real neurons, based on the sources listed below. Although this results in a large number of parameters relative to the units in [[abstract neural network]]s, we almost never change these parameters from their default values, unless there is a clear biological or functional motivation to do so. Furthermore, extensive testing across a wide range of models has shown that these biologically-grounded mechanisms, and parameter values, actually produce the best functional results.
+These biologically grounded channels provide accurate fits to the detailed electrophysiological properties of real neurons, based on the sources listed below. Although this results in a large number of parameters relative to the units in [[abstract neural network]]s, we almost never change these parameters from their default values, unless there is a clear biological or functional motivation to do so. Furthermore, extensive testing across a wide range of models has shown that these biologically grounded mechanisms, and parameter values, actually produce the best functional results.
 
 The source code for these channels is in the [axon chans](https://github.com/emer/axon/tree/main/chans) directory. Most of these channels use [[exponential integration]] governed by time constant parameters shown in [[#table_taus]] below. The implementation of several of these channels comes from standard biophysically detailed models such as [[@^MiglioreHoffmanMageeEtAl99]], [[@^PoiraziBrannonMel03]], and [[@^UrakuboHondaFroemkeEtAl08]]. See also [[@^BretteRudolphCarnevaleEtAl07]] and the [NEST model directory](https://nest-simulator.readthedocs.io/en/stable/models/index.html) for documented examples, including: [AdEx](https://nest-simulator.readthedocs.io/en/stable/models/aeif_cond_exp.html), [Traub HH](https://nest-simulator.readthedocs.io/en/stable/models/hh_cond_exp_traub.html).  The [Brian Examples](https://brian2.readthedocs.io/en/stable/examples/index.html) contain full easy-to-read equations for various standard models, including [Brunel & Wang, 2001](https://brian2.readthedocs.io/en/stable/examples/frompapers.Brunel_Wang_2001.html). Also see [Wikipedia: Biological neuron model](https://en.wikipedia.org/wiki/Biological_neuron_model) for a nice overview, and [ModelDB Currents](https://modeldb.science/NeuronDB/NeuronalCurrents), [ModelDB Current Search](https://modeldb.science/ModelDB/FindByCurrent), and [IonChannelGeneology](https://icg.neurotheory.ox.ac.uk) for standardized lists of currents included in biophysical models made in NEURON and related software.
 
@@ -111,7 +111,7 @@ $$
 
 ## GABA-A
 
-The GABA-A channel is the standard inhibitory synaptic input channel discussed in [[neuron]] and [[inhibition]]. It is opened by the binding of the GABA (gamma-aminobutyric acid) neurotransmitter, released by special populations of inhibitory interneurons. It primarily allows negatively-charged chloride ions $Cl^-$ to flow into the cell, which act to keep the electrical potential negative.
+The GABA-A channel is the standard inhibitory synaptic input channel discussed in [[neuron]] and [[inhibition]]. It is opened by the binding of the GABA (gamma-aminobutyric acid) neurotransmitter, released by special populations of inhibitory interneurons. It primarily allows negatively charged chloride ions $Cl^-$ to flow into the cell, which act to keep the electrical potential negative.
 
 We model GABA-A conductances in the same way as AMPA, with a single exponential decay function ([[#eq_ampa_g]], using a decay time constant $\tau_d$ of 7 ms [[@XiangHuguenardPrince98]]. The reversal potential for GABA-A ($E_{gaba_a}$) is -75 mV.
 
@@ -134,7 +134,7 @@ br.Splits.Styler(func(s *styles.Style) {
 pl.GVRun()
 ```
 
-NMDA (N-methyl-D-aspartate) channels are found throughout the brain, and play a critical role in learning as captured in the [[kinase algorithm]] used in [[Axon]]. The opening of NMDA channels is typically blocked by positively-charged magnesium ions ($Mg^{++}$) when the membrane potential is close to the resting potential. The removal of this block as a result of membrane depolarization above this resting potential (known as an _outward rectification_, because the $Mg^{++}$ ions are on the outside of the cell) is one of two key functional features of this channel. This unblocking dynamic is important both for learning and for its important contributions to the activation dynamics of the neuron.
+NMDA (N-methyl-D-aspartate) channels are found throughout the brain, and play a critical role in learning as captured in the [[kinase algorithm]] used in [[Axon]]. The opening of NMDA channels is typically blocked by positively charged magnesium ions ($Mg^{++}$) when the membrane potential is close to the resting potential. The removal of this block as a result of membrane depolarization above this resting potential (known as an _outward rectification_, because the $Mg^{++}$ ions are on the outside of the cell) is one of two key functional features of this channel. This unblocking dynamic is important both for learning and for its important contributions to the activation dynamics of the neuron.
 
 The other critical functional property of the NMDA channel is that it also requires _glutamate_ neurotransmitter binding to open, in addition to $Mg^{++}$ unblocking. Thus, unlike many other channels that just have one (or none) _gating_ factors, NMDA requires both of these factors. Furthermore, the $Mg^{++}$ factor is a function of the _postsynaptic_ activity (depolarization), while glutamate is released by the  _presynaptic_ neuron. Thus, the NMDA is in a unique position to respond to the _conjunction_ of both pre and postsynaptic activity.
 
@@ -144,7 +144,7 @@ NMDA channels mostly allow _calcium_ ions ($Ca^{++}$) to flow into the cell, and
 
 [[#plot_nmda:Time run]] shows the other critical feature of the NMDA channel, which is that the $\tau_d$ decay time constant parameter (see [[#eq_ampa_g]]) is much longer than most other channels, on the order of 100 ms or more (like AMPA, NMDA has a sufficiently fast rise time that it can be ignored). This relatively long time constant is critical for the activation contributions of the NMDA channel, because it creates a [[stable activation]] pattern over time (see that page for more discussion and a demonstration).
 
-The equation we use for the voltage-gated conductance is due to [[@JahrStevens90]], and is used in the widely-cited [[@BrunelWang01]] model:
+The equation we use for the voltage-gated conductance is due to [[@JahrStevens90]], and is used in the widely cited [[@BrunelWang01]] model:
 
 {id="eq_nmda_g" title="NMDA voltage-gated conductance"}
 $$
@@ -223,7 +223,7 @@ br.Splits.Styler(func(s *styles.Style) {
 pl.GVRun()
 ```
 
-The _Kir_ channel that GABA-B couples to is also available as a separate standalone channel, using the same form of inwardly-rectifying voltage dependence, but in a persistently active form. These channels are not used by default, but are critical for certain cell types. The inward rectification results in an additional threshold-like bistable behavior, where neurons that are not activated much above the resting potential get additional leak conductance from this Kir channel, but once they start to get activated, the Kir is inactivated and they can then fire more easily. This is critical for the behavior of medium spiny neurons (MSNs) in the striatum of the basal ganglia, which tend to be very quiet, but then fire in discrete bursts when sufficiently activated.
+The _Kir_ channel that GABA-B couples to is also available as a separate standalone channel, using the same form of inwardly rectifying voltage dependence, but in a persistently active form. These channels are not used by default, but are critical for certain cell types. The inward rectification results in an additional threshold-like bistable behavior, where neurons that are not activated much above the resting potential get additional leak conductance from this Kir channel, but once they start to get activated, the Kir is inactivated and they can then fire more easily. This is critical for the behavior of medium spiny neurons (MSNs) in the striatum of the basal ganglia, which tend to be very quiet, but then fire in discrete bursts when sufficiently activated.
 
 We use equations from [[@^LindroosDorstDuEtAl18]] parameterized for MSN neurons, with an activating factor M, which can be seen in [[#plot_kir:GV run]] and [[#plot_kir:Time run]]:
 
@@ -291,7 +291,7 @@ pl.GVRun()
 
 Our implementation of the L-type VGCC is based on [[@UrakuboHondaFroemkeEtAl08]], using source code available at this [link](http://kurodalab.bs.s.u-tokyo.ac.jp/info/STDP/Urakubo2008.tar.gz).
 
-First, there is a temporally-invariant aspect of the voltage gating defined by a sigmoidal function similar to those seen above:
+First, there is a temporally invariant aspect of the voltage gating defined by a sigmoidal function similar to those seen above:
 
 {id="eq_vgcc_gv" title="VGCC L voltage-gated conductance"}
 $$
@@ -386,7 +386,7 @@ br.Splits.Styler(func(s *styles.Style) {
 pl.GVRun()
 ```
 
-Relative to the KNA channels described below, which respond to $Na^+$ influx from spikes, the broadly-tuned voltage sensitivity of the M-type mAHP channel produces a stronger _anticipatory_ conductance prior to the spike. Thus, it will "head off" incipient spikes in a way that the KNa channels do not.
+Relative to the KNA channels described below, which respond to $Na^+$ influx from spikes, the broadly tuned voltage sensitivity of the M-type mAHP channel produces a stronger _anticipatory_ conductance prior to the spike. Thus, it will "head off" incipient spikes in a way that the KNa channels do not.
 
 The original characterization of the M-type current in most models derives from [[@^GutfreundYaromSegev95]], as implemented in NEURON by [[@^MainenSejnowski96]], see these ModelDB entries: [2488](https://modeldb.science/2488?tab=2&file=cells/km.mod), and [181967](https://modeldb.science/181967?tab=2&file=CutsuridisPoirazi2015/km.mod) from [[@CutsuridisPoirazi15]], and [ICGeneology](https://icg.neurotheory.ox.ac.uk/viewer/?family=1&channel=1706) for the widespread use of this code.
 
