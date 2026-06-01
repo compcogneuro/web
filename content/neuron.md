@@ -1,5 +1,5 @@
 +++
-Categories = ["Activation", "Neuroscience"]
+Categories = ["Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 

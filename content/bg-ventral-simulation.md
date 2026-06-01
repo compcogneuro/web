@@ -1,6 +1,6 @@
 +++
 Name = "BG ventral simulation"
-Categories = ["Rubicon", "Simulations"]
+Categories = ["Simulations"]
 bibfile = "ccnlab.json"
 +++
 

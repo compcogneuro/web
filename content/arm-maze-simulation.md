@@ -1,5 +1,5 @@
 +++
-Categories = ["Rubicon", "Simulations"]
+Categories = ["Simulations"]
 bibfile = "ccnlab.json"
 +++
 

@@ -119,7 +119,3 @@ TODO: Amygdala, VS, LHb systems, PVLV, DA, drives, etc.
 
 In many animals, this inner loop of goal engagement may be related to the universal phenomenon of bouts and pauses in behavior ([[@KramerMcLaughlin01]]; [[@Shull11]]; [[@FalligantHagopianNewland24]]), which is evident by observing squirrels in a park or your back yard, for example. Interestingly, pigeons do not show the signatures of this behavior in instrumental conditioning tasks, but rodents robustly do ([[@FalligantHagopianNewland24]]), suggesting a possible role of more developed goal-related brain systems. This same characteristic is evident in people as well: we may not quite realize how often we lapse in and out of focus while performing a task, spending chunks of time mind wandering in between whatever else we are doing ([[@ShinagawaYamada25]]).
 
-
-## Rubicon pages
-
-

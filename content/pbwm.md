@@ -1,6 +1,6 @@
 +++
 Name = "PBWM"
-Categories = ["Computation", "Neuroscience"]
+Categories = ["Neuroscience"]
 bibfile = "ccnlab.json"
 +++
 

@@ -1,6 +1,6 @@
 +++
 Name = "VOR simulation"
-Categories = ["Neuroscience", "Simulations"]
+Categories = ["Simulations"]
 bibfile = "ccnlab.json"
 +++
 
