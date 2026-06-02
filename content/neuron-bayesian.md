@@ -3,14 +3,14 @@ Categories = ["Activation"]
 bibfile = "ccnlab.json"
 +++
 
-This page shows how the [[neuron equilibrium potential]] equation, derived based on the biology of the neuron, can also be understood in terms of Bayesian hypothesis testing ([[@HintonSejnowski83]]; [[@McClelland98]]). In this framework, one is comparing different hypotheses in the face of relevant data, which is analogous to how the detector is testing whether the signal it is looking for is present ($h$), or not ($\overline{h}$).  The probability of $h$ given the current input data $d$ (which is written as $P(h|d)$) is a simple ratio function of two other functions of the relationship between the hypotheses and the data (written here as $f(h,d)$ and $f(\overline{h},d)$):
+This page shows how the [[neuron equilibrium potential]] equation, derived based on the biology of the neuron, can also be understood in terms of [[Bayes]]ian hypothesis testing ([[@HintonSejnowski83]]; [[@McClelland98]]). In this framework, one is comparing different hypotheses in the face of relevant data, which is analogous to how the detector is testing whether the signal it is looking for is present ($h$), or not ($\overline{h}$). The probability of $h$ given the current input data $d$ (which is written as $P(h|d)$) is a simple ratio function of two other functions of the relationship between the hypotheses and the data (written here as $f(h,d)$ and $f(\overline{h},d)$):
 
 {id="eq_phd"}
 $$
 P(h|d) = \frac{f(h,d)}{f(h,d) + f(\overline{h},d)}
 $$
 
-Thus, the resulting probability is just a function of how strong the support for the detection hypothesis $h$ is over the support for the _null hypothesis_ $\overline{h}$.  This ratio function may be familiar to some psychologists as the **Luce choice ratio** used in mathematical psychology models for a number of years.
+Thus, the resulting probability is just a function of how strong the support for the detection hypothesis $h$ is over the support for the _null hypothesis_ $\overline{h}$. This ratio function may be familiar to some psychologists as the **Luce choice ratio** used in mathematical psychology models for a number of years.
 
 {id="figure_detector-probs"}
 ![Simple example data to compute probabilities from, for line detecto --- just add up number of cases where a given condition is true, and divide by the total number of cases (24): **a** $P(h=1) = 12/24 = .5$.  **b** $P(d=1 1 0) = 3/24 = .125.$ $$c** $P(h=1, d=1 1 0) = 2/24 = .0833.$](media/fig_vert_line_detector_probs.png)
@@ -23,7 +23,7 @@ To have a concrete example to work with, consider a detector that receives input
 
 * The _intersection_ of the first two, known as the *joint probability* of the hypothesis _and_ the data, written $P(h=1, d=1 1 0)$ or $P(h,d)$, which is 2/24 (.083).
 
-The joint probability tells us how often two different states co-occur compared to all other possible states, but we really just want to know how often the hypothesis is true _when we receive the particular input data_ we just got.  This is the **conditional probability** of the hypothesis given the data, which is written as $P(h|d)$, and is defined as follows:
+The joint probability tells us how often two different states co-occur compared to all other possible states, but we really just want to know how often the hypothesis is true _when we receive the particular input data_ we just got. This is the **conditional probability** of the hypothesis given the data, which is written as $P(h|d)$, and is defined as follows:
 
 {id="eq_cond_p"}
 $$
@@ -37,16 +37,16 @@ $$
 P(h=1 | d=1 1 0) = \frac{P(h=1, d=1 1 0)}{P(d=1 1 0)}
 $$
 
-which is (2/24) / (3/24), or .67 according to our table.  Thus, matching our intuitions, this tells us that having 2 out of 3 inputs active indicates that it is more likely than not that the hypothesis of a vertical line being present is true.  The basic information about how well correlated this input data and the hypothesis are comes from the joint probability in the numerator, but the denominator is critical for _scoping_ this information to the appropriate context (cases where the particular input data actually occurred).
+which is (2/24) / (3/24), or .67 according to our table. Thus, matching our intuitions, this tells us that having 2 out of 3 inputs active indicates that it is more likely than not that the hypothesis of a vertical line being present is true. The basic information about how well correlated this input data and the hypothesis are comes from the joint probability in the numerator, but the denominator is critical for _scoping_ this information to the appropriate context (cases where the particular input data actually occurred).
 
-The above equation is what we want the detector to solve, and if we had a table like the one in [[#figure_detector-probs]], then we have just seen that this equation is easy to solve.  However, having such a table is nearly impossible in the real world, and that is the problem that Bayesian math helps to solve, by flipping around the conditional probability the other way, using what is called the **likelihood**:
+The above equation is what we want the detector to solve, and if we had a table like the one in [[#figure_detector-probs]], then we have just seen that this equation is easy to solve. However, having such a table is nearly impossible in the real world, and that is the problem that Bayesian math helps to solve, by flipping around the conditional probability the other way, using what is called the **likelihood**:
 
 {id="eq_pdh"}
 $$
 P(d | h) = \frac{P(h, d)}{P(h)}
 $$
 
-It is a little bit strange to think about computing the probability of the _data_, which is, after all, just what was given to you by your inputs (or your experiment), based on your hypothesis, which is the thing you aren't so sure about!  However, think of it instead as how likely you would have _predicted_ the data based on the assumptions of your hypothesis.  In other words, the likelihood computes how well the data fit with the hypothesis.
+It is a little bit strange to think about computing the probability of the _data_, which is, after all, just what was given to you by your inputs (or your experiment), based on your hypothesis, which is the thing you aren't so sure about! However, think of it instead as how likely you would have _predicted_ the data based on the assumptions of your hypothesis. In other words, the likelihood computes how well the data fit with the hypothesis.
 
 Mathematically, the likelihood depends on the same joint probability of the hypothesis and the data, we used before, but it is _scoped_ in a different way.  This time, we scope by all the cases where the hypothesis was true, and determine what fraction of this total had the particular input data state:
 
@@ -55,9 +55,9 @@ $$
 P(d=1 1 0 | h=1) = \frac{P(h=1, d=1 1 0)}{P(h=1)}
 $$
 
-which is (2/24) / (12/24) or .167.  Thus, one would expect to receive this data .167 of the time when the hypothesis is true, which tells you how likely it is you would predict getting this data knowing only that the hypothesis is true.
+which is (2/24) / (12/24) or .167. Thus, one would expect to receive this data .167 of the time when the hypothesis is true, which tells you how likely it is you would predict getting this data knowing only that the hypothesis is true.
 
-The main advantage of a likelihood function is that we can often compute it directly as a function of the way our hypothesis is specified, without requiring that we actually know the joint probability $P(h,d)$ (i.e., without requiring a table of all possible events and their frequencies).  Assuming that we have a likelihood function that can be computed directly, **Bayes formula** is just a simple bit of algebra that eliminates the need for the joint probability:
+The main advantage of a likelihood function is that we can often compute it directly as a function of the way our hypothesis is specified, without requiring that we actually know the joint probability $P(h,d)$ (i.e., without requiring a table of all possible events and their frequencies). Assuming that we have a likelihood function that can be computed directly, **Bayes formula** is just a simple bit of algebra that eliminates the need for the joint probability:
 
 {id="eq_bayes"}
 $$

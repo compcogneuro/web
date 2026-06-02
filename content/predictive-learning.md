@@ -71,3 +71,14 @@ Meanwhile, 6CT neurons also receive reciprocal input from the pulvinar layer tha
 
 Pulvinar neurons have a corresponding driver input layer with the same geometry, from which it implicitly receives a one-to-one driver projection.
 
+## Bayesian predictive coding
+
+There is a different formulation of the same computational-level goal of learning from the difference between predictions and outcomes, which uses the mathematical language of [[Bayes]] theorem, and is generally termed _predictive coding_ ([[@RaoBallard99]]; [[@Friston05]]). In this formulation, a top-down pathway generates predictions that are then subtracted from the bottom-up, feedforward input pathway, with a special population of neurons that represents this prediction error signal directly in their neural firing levels.
+
+There is increasingly widespread agreement that this mapping of predictive learning onto neural substrates is inconsistent with the available neuroscience data ([[@WalshMcGovernClarkEtAl20]]; [[@Clark13]]; [[@HeilbronChait18]]). There is no direct evidence of a distinct error-coding sub-population of neurons, for example, and the need to keep the feedforward ground-truth signals separate from the top-down prediction signals creates a complicated set of demands on the underlying neural circuitry, which is generally at odds with the fact that most neurons in any lamina in the neocortex are broadly interconnected with other lamina, both within the same area and across different such areas.
+
+A very recent attempt to salvage this idea ([[@SeignetteKrakerPapaleEtAl26]]) found that, in the mouse, there was a divergence in behavior between feedforward and feedback driven responding in responses to occluded parts of an input image. When the full image was presented, neurons tended to develop a _sharpening_ dynamic, which decreased total neural firing, but critically retained firing levels for the most selective neurons. However, when the occluded image was presented, the top-down connections drove a _distinct_ population of neurons.
+
+TODO: cleanup:
+
+This has been shown all the way back in Earl Miller’s early studies. They are *mistakenly* (IMO) interpreting this as a kind of “inhibition” of the familiar feedforward pathway. Also, they show in mice that basically the occluded stim is represented as a novel input, not actually filling in the occluded region with the same neurons that were active in the non-occluded case. This is to be expected in mice, that lack any kind of strong hierarchical object recognition pathway. Do this in monkey / human and you’ll get the opposite results (it has already been shown!) Also, in monkey you get most of the “filling in” results higher up, in V2, V4 — mice don’t have such a thing!

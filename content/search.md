@@ -62,7 +62,7 @@ To attempt to more precisely label the broader category of neural-network like a
 
 * These weighting factors are adapted (using efficient gradient-based mechanisms) to optimize the dedicated representational space so that it properly captures the relevant relationships across the state variables (i.e., learning). Once learned, the efficient propagation of information through the dedicated-parallel network automatically expresses the relevant state interactions, to support functions such as inference, problem-solving, and planning.
 
-This attempt to generalize the properties of [[abstract neural network]] models is similar to the original _parallel distributed processing (PDP)_ terminology of [[@RumelhartMcClelland86]]. It is unclear if it meaningfully expands the class of useful such algorithms beyond existing neural network algorithms, but  perhaps it is helpful in more clearly delineating the algorithmic properties of these networks relative to other systems.
+This attempt to generalize the properties of [[abstract neural network]] models is similar to the original _parallel distributed processing (PDP)_ terminology of [[@RumelhartMcClelland86]]. Interestingly, the general form of this gradient-based computation also applies to [[Bayes]]ian probabilistic models, specifically in the case of _variational inference_ that introduces simpler approximations that can be optimized using gradient descent ([[@BleiKucukelbirMcAuliffe17]]; [[@VafaiiGalorYates25]]).
 
 <!--- TODO: find better lit on this stuff. Initial google search not that promising: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22backpropagation%22+%22computational+complexity%22+%22np%22+%22nondeterministic+polynomial%22&btnG= -->
 

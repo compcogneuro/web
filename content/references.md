@@ -198,6 +198,8 @@
 
 <p id="BlazquezHirataHeineyEtAl03">Blazquez, P.M., Hirata, Y., Heiney, S.A., Green, A.M., & Highstein, S.M. (2003). Cerebellar Signatures of Vestibulo-Ocular Reflex Motor Learning. <i>Journal of Neuroscience, 23</i>, 9742–9751. <a href="https://www.jneurosci.org/content/23/30/9742">https://www.jneurosci.org/content/23/30/9742</a><a href="http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003"> http://doi.org/10.1523/JNEUROSCI.23-30-09742.2003</a></p>
 
+<p id="BleiKucukelbirMcAuliffe17">Blei, D.M., Kucukelbir, A., & McAuliffe, J.D. (2017). Variational Inference: A Review for Statisticians. <i>Journal of the American Statistical Association, 112</i>, 859–877. <a href="https://doi.org/10.1080/01621459.2017.1285773">https://doi.org/10.1080/01621459.2017.1285773</a><a href="http://doi.org/10.1080/01621459.2017.1285773"> http://doi.org/10.1080/01621459.2017.1285773</a></p>
+
 <p id="BlenkinsopLang11">Blenkinsop, T.A., & Lang, E.J. (2011). Synaptic Action of the Olivocerebellar System on Cerebellar Nuclear Spike Activity. <i>Journal of Neuroscience, 31</i>, 14708–14720. <a href="https://www.jneurosci.org/content/31/41/14708">https://www.jneurosci.org/content/31/41/14708</a><a href="http://doi.org/10.1523/JNEUROSCI.3323-11.2011"> http://doi.org/10.1523/JNEUROSCI.3323-11.2011</a></p>
 
 <p id="BlissLomo73">Bliss, T.V., & Lomo, T. (1973). Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path. <i>The Journal of physiology, 232</i>, 331–356. <a href="http://www.ncbi.nlm.nih.gov/pubmed/4727084">http://www.ncbi.nlm.nih.gov/pubmed/4727084</a></p>
@@ -295,6 +297,8 @@
 <p id="ChaiHayashibe20">Chai, J., & Hayashibe, M. (2020). Motor Synergy Development in High-Performing Deep Reinforcement Learning Algorithms. <i>IEEE Robotics and Automation Letters, 5</i>, 1271–1278. <a href="https://ieeexplore.ieee.org/abstract/document/8966298">https://ieeexplore.ieee.org/abstract/document/8966298</a><a href="http://doi.org/10.1109/LRA.2020.2968067"> http://doi.org/10.1109/LRA.2020.2968067</a></p>
 
 <p id="ChaterOaksfordHahnEtAl10">Chater, N., Oaksford, M., Hahn, U., & Heit, E. (2010). Bayesian models of cognition. <i>WIREs Cognitive Science, 1</i>, 811–823. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.79">https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.79</a><a href="http://doi.org/10.1002/wcs.79"> http://doi.org/10.1002/wcs.79</a></p>
+
+<p id="ChaterTenenbaumYuille06">Chater, N., Tenenbaum, J.B., & Yuille, A. (2006). Probabilistic models of cognition: conceptual foundations. <i>Trends in cognitive sciences, 10</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/16807064">http://www.ncbi.nlm.nih.gov/pubmed/16807064</a></p>
 
 <p id="ChenCaiZhouEtAl24">Chen, X., Cai, Q., Zhou, J., Pleasure, S.J., Schulman, H., Zhang, M., & Nicoll, R.A. (2024). CaMKII autophosphorylation is the only enzymatic event required for synaptic memory. <i>Proceedings of the National Academy of Sciences, 121</i>, e2402783121. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2402783121">https://www.pnas.org/doi/abs/10.1073/pnas.2402783121</a><a href="http://doi.org/10.1073/pnas.2402783121"> http://doi.org/10.1073/pnas.2402783121</a></p>
 
@@ -407,6 +411,8 @@
 <p id="DehaeneLauKouider17">Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? <i>Science, 358</i>, 486–492. <a href="https://www.science.org/doi/abs/10.1126/science.aan8871">https://www.science.org/doi/abs/10.1126/science.aan8871</a><a href="http://doi.org/10.1126/science.aan8871"> http://doi.org/10.1126/science.aan8871</a></p>
 
 <p id="DeliaginaZeleninBeloozerovaEtAl07">Deliagina, T.G., Zelenin, P.V., Beloozerova, I.N., & Orlovsky, G.N. (2007). Nervous mechanisms controlling body posture. <i>Physiology & Behavior, 92</i>, 148–154. <a href="https://www.sciencedirect.com/science/article/pii/S0031938407002107">https://www.sciencedirect.com/science/article/pii/S0031938407002107</a><a href="http://doi.org/10.1016/j.physbeh.2007.05.023"> http://doi.org/10.1016/j.physbeh.2007.05.023</a></p>
+
+<p id="DelMoralDoucetJasra12">Del Moral, P., Doucet, A., & Jasra, A. (2012). An adaptive sequential Monte Carlo method for approximate Bayesian computation. <i>Statistics and Computing, 22</i>, 1009–1020. <a href="https://doi.org/10.1007/s11222-011-9271-y">https://doi.org/10.1007/s11222-011-9271-y</a><a href="http://doi.org/10.1007/s11222-011-9271-y"> http://doi.org/10.1007/s11222-011-9271-y</a></p>
 
 <p id="DengDongSocherEtAl09">Deng, J., Dong, W., Socher, R., Li, L., Li, K., & Fei-Fei, L. (2009). <i>ImageNet: A large-scale hierarchical image database. </i>In 2009 IEEE Conference on Computer Vision and Pattern Recognition (pp. 248–255). <a href="https://ieeexplore.ieee.org/abstract/document/5206848">https://ieeexplore.ieee.org/abstract/document/5206848</a><a href="http://doi.org/10.1109/CVPR.2009.5206848"> http://doi.org/10.1109/CVPR.2009.5206848</a></p>
 
@@ -610,6 +616,8 @@
 
 <p id="GelfandLatash98">Gelfand, I.M., & Latash, M.L. (1998). On the Problem of Adequate Language in Motor Control. <i>Motor Control, 2</i>, 306–313. <a href="https://journals.humankinetics.com/view/journals/mcj/2/4/article-p306.xml">https://journals.humankinetics.com/view/journals/mcj/2/4/article-p306.xml</a><a href="http://doi.org/10.1123/mcj.2.4.306"> http://doi.org/10.1123/mcj.2.4.306</a></p>
 
+<p id="GelfandSmith90">Gelfand, A.E., & Smith, A.F.M. (1990). Sampling-Based Approaches to Calculating Marginal Densities. <i>Journal of the American Statistical Association, 85</i>, 398–409. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1990.10476213">https://www.tandfonline.com/doi/abs/10.1080/01621459.1990.10476213</a><a href="http://doi.org/10.1080/01621459.1990.10476213"> http://doi.org/10.1080/01621459.1990.10476213</a></p>
+
 <p id="GemanGeman84">Geman, S., & Geman, D. (1984). Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-6</i>, 721–741. </p>
 
 <p id="Gentner83">Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. <i>Cognitive Science, 7</i>, 155–170. <a href="https://www.sciencedirect.com/science/article/pii/S0364021383800093">https://www.sciencedirect.com/science/article/pii/S0364021383800093</a><a href="http://doi.org/10.1016/S0364-0213(83)80009-3"> http://doi.org/10.1016/S0364-0213(83)80009-3</a></p>
@@ -737,6 +745,8 @@
 <p id="HaoZhuHuangEtAl24">Hao, S., Zhu, X., Huang, Z., Yang, Q., Liu, H., Wu, Y., Zhan, Y., Dong, Y., Li, C., Wang, H., Haasdijk, E., Wu, Z., Li, S., Yan, H., Zhu, L., Guo, S., Wang, Z., Ye, A., Lin, Y., Cui, L., Tan, X., Liu, H., Wang, M., Chen, J., Zhong, Y., Du, W., Wang, G., Lai, T., Cao, M., Yang, T., Xu, Y., Li, L., Yu, Q., Zhuang, Z., Xia, Y., Lei, Y., An, Y., Cheng, M., Zhao, Y., Han, L., Yuan, Y., Song, X., Song, Y., Gu, L., Liu, C., Lin, X., Wang, R., Wang, Z., Wang, Y., Li, S., Li, H., Song, J., Chen, M., Zhou, W., Yuan, N., Sun, S., Wang, S., Chen, Y., Zheng, M., Fang, J., Zhang, R., Zhang, S., Chai, Q., Liu, J., Wei, W., He, J., Zhou, H., Sun, Y., Liu, Z., Liu, C., Yao, J., Liang, Z., Xu, X., Poo, M., Li, C., De Zeeuw, C.I., Shen, Z., Liu, Z., Liu, L., Liu, S., Sun, Y., & Liu, C. (2024). Cross-species single-cell spatial transcriptomic atlases of the cerebellar cortex. <i>Science, 385</i>, eado3927. <a href="https://www.science.org/doi/full/10.1126/science.ado3927">https://www.science.org/doi/full/10.1126/science.ado3927</a><a href="http://doi.org/10.1126/science.ado3927"> http://doi.org/10.1126/science.ado3927</a></p>
 
 <p id="HarrisShepherd15">Harris, K.D., & Shepherd, G.M.G. (2015). The neocortical circuit: themes and variations. <i>Nature Neuroscience, 18</i>(2), 170–181. <a href="http://www.nature.com/articles/nn.3917">http://www.nature.com/articles/nn.3917</a><a href="http://doi.org/10.1038/nn.3917"> http://doi.org/10.1038/nn.3917</a></p>
+
+<p id="Hastings70">Hastings, W.K. (1970). Monte Carlo sampling methods using Markov chains and their applications. <i>Biometrika, 57</i>, 97–109. <a href="https://doi.org/10.1093/biomet/57.1.97">https://doi.org/10.1093/biomet/57.1.97</a><a href="http://doi.org/10.1093/biomet/57.1.97"> http://doi.org/10.1093/biomet/57.1.97</a></p>
 
 <p id="HattoxNelson07">Hattox, A.M., & Nelson, S.B. (2007). Layer V neurons in mouse cortex projecting to different targets have distinct physiological properties. <i>Journal of Neurophysiology, 98</i>, 3330–3340. <a href="http://www.ncbi.nlm.nih.gov/pubmed/17898147">http://www.ncbi.nlm.nih.gov/pubmed/17898147</a></p>
 
@@ -950,6 +960,8 @@
 
 <p id="KhalilMansvelderWitter22">Khalil, A.J., Mansvelder, H.D., & Witter, L. (2022). Mesodiencephalic junction GABAergic inputs are processed separately from motor cortical inputs in the basilar pons. <i>iScience, 25</i>, <a href="https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0">https://www.cell.com/iscience/abstract/S2589-0042(22)00913-0</a><a href="http://doi.org/10.1016/j.isci.2022.104641"> http://doi.org/10.1016/j.isci.2022.104641</a></p>
 
+<p id="KhanRue23">Khan, M.E., & Rue, H. (2023). The Bayesian Learning Rule. <i>Journal of Machine Learning Research, 24</i>, 1–46. <a href="http://jmlr.org/papers/v24/22-0291.html">http://jmlr.org/papers/v24/22-0291.html</a></p>
+
 <p id="KheradmandZee11">Kheradmand, A., & Zee, D.S. (2011). Cerebellum and Ocular Motor Control. <i>Frontiers in Neurology, 2</i>, <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2011.00053/full">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2011.00053/full</a><a href="http://doi.org/10.3389/fneur.2011.00053"> http://doi.org/10.3389/fneur.2011.00053</a></p>
 
 <p id="KheradpishehGanjtabeshThorpeEtAl18">Kheradpisheh, S.R., Ganjtabesh, M., Thorpe, S.J., & Masquelier, T. (2018). STDP-based spiking deep convolutional neural networks for object recognition. <i>Neural Networks, 99</i>, 56–67. <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302903">https://www.sciencedirect.com/science/article/pii/S0893608017302903</a><a href="http://doi.org/10.1016/j.neunet.2017.12.005"> http://doi.org/10.1016/j.neunet.2017.12.005</a></p>
@@ -1119,6 +1131,8 @@
 <p id="ManningClarkHewittEtAl20">Manning, C.D., Clark, K., Hewitt, J., Khandelwal, U., & Levy, O. (2020). Emergent linguistic structure in artificial neural networks trained by self-supervision. <i>Proceedings of the National Academy of Sciences, 117</i>, 30046–30054. <a href="https://www.pnas.org/doi/full/10.1073/pnas.1907367117">https://www.pnas.org/doi/full/10.1073/pnas.1907367117</a><a href="http://doi.org/10.1073/pnas.1907367117"> http://doi.org/10.1073/pnas.1907367117</a></p>
 
 <p id="MariniPiancaTredici99">Marini, G., Pianca, L., & Tredici, G. (1999). Descending projections arising from the parafascicular nucleus in rats: trajectory of fibers, projection pattern and mapping of terminations. <i>Somatosensory & Motor Research, 16</i>, 207–222. <a href="https://doi.org/10.1080/08990229970465">https://doi.org/10.1080/08990229970465</a><a href="http://doi.org/10.1080/08990229970465"> http://doi.org/10.1080/08990229970465</a></p>
+
+<p id="MarinPudloRobertEtAl12">Marin, J., Pudlo, P., Robert, C.P., & Ryder, R.J. (2012). Approximate Bayesian computational methods. <i>Statistics and Computing, 22</i>, 1167–1180. <a href="https://doi.org/10.1007/s11222-011-9288-2">https://doi.org/10.1007/s11222-011-9288-2</a><a href="http://doi.org/10.1007/s11222-011-9288-2"> http://doi.org/10.1007/s11222-011-9288-2</a></p>
 
 <p id="MarkovErcsey-RavaszLamyEtAl13">Markov, N.T., Ercsey-Ravasz, M., Lamy, C., Ribeiro Gomes, A.R., Magrou, L., Misery, P., Giroud, P., Barone, P., Dehay, C., Toroczkai, Z., Knoblauch, K., Van Essen, D.C., & Kennedy, H. (2013). The role of long-range connections on the specificity of the macaque interareal cortical network. <i>Proceedings of the National Academy of Sciences U. S. A., 110</i>, 5187–5192. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23479610">http://www.ncbi.nlm.nih.gov/pubmed/23479610</a></p>
 
@@ -1482,6 +1496,8 @@
 
 <p id="RitchieWilkie58">Ritchie, J.M., & Wilkie, D.R. (1958). The dynamics of muscular contraction. <i>The Journal of Physiology, 143</i>, 104–113. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1356714/">https://pmc.ncbi.nlm.nih.gov/articles/PMC1356714/</a><a href="http://doi.org/10.1113/jphysiol.1958.sp006047"> http://doi.org/10.1113/jphysiol.1958.sp006047</a></p>
 
+<p id="RobertCasella04">Robert, C.P., & Casella, G. (2004). <i>Monte Carlo Statistical Methods. </i> Springer. <a href="http://link.springer.com/10.1007/978-1-4757-4145-2">http://link.springer.com/10.1007/978-1-4757-4145-2</a><a href="http://doi.org/10.1007/978-1-4757-4145-2"> http://doi.org/10.1007/978-1-4757-4145-2</a></p>
+
 <p id="RobertsClarke19">Roberts, A.C., & Clarke, H.F. (2019). Why we need nonhuman primates to study the role of ventromedial prefrontal cortex in the regulation of threat- and reward-elicited responses. <i>Proceedings of the National Academy of Sciences, 116</i>, 26297–26304. <a href="https://www.pnas.org/doi/10.1073/pnas.1902288116">https://www.pnas.org/doi/10.1073/pnas.1902288116</a><a href="http://doi.org/10.1073/pnas.1902288116"> http://doi.org/10.1073/pnas.1902288116</a></p>
 
 <p id="RobertsShafferSeymourEtAl10">Roberts, B.M., Shaffer, C.L., Seymour, P.A., Schmidt, C.J., Williams, G.V., & Castner, S.A. (2010). Glycine transporter inhibition reverses ketamine-induced working memory deficits. <i>NeuroReport, 21</i>, 390–394. <a href="https://journals.lww.com/neuroreport/Fulltext/2010/03310/Glycine_transporter_inhibition_reverses.15.aspx">https://journals.lww.com/neuroreport/Fulltext/2010/03310/Glycine_transporter_inhibition_reverses.15.aspx</a><a href="http://doi.org/10.1097/WNR.0b013e3283381a4e"> http://doi.org/10.1097/WNR.0b013e3283381a4e</a></p>
@@ -1583,6 +1599,8 @@
 <p id="SchwetlickHerzog25">Schwetlick, L., & Herzog, M.H. (2025). Visual Crowding. <i>Annual Review of Vision Science, 11</i>, 359–383. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110423-024409">https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110423-024409</a><a href="http://doi.org/10.1146/annurev-vision-110423-024409"> http://doi.org/10.1146/annurev-vision-110423-024409</a></p>
 
 <p id="Scott04">Scott, S.H. (2004). Optimal feedback control and the neural basis of volitional motor control. <i>Nat Rev Neurosci, 5</i>, 532–546. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15208695">http://www.ncbi.nlm.nih.gov/pubmed/15208695</a></p>
+
+<p id="SeignetteKrakerPapaleEtAl26">Seignette, K., Kraker, L., Papale, P., Petro, L.S., Montijn, J.S., Self, M.W., Larkum, M.E., Roelfsema, P.R., Muckli, L.F., & Levelt, C.N. (2026). Opposing plasticity mechanisms in single neurons shape visual saliency assignment. 2024.06.10.598181. <a href="https://www.biorxiv.org/content/10.1101/2024.06.10.598181v2">https://www.biorxiv.org/content/10.1101/2024.06.10.598181v2</a><a href="http://doi.org/10.1101/2024.06.10.598181"> http://doi.org/10.1101/2024.06.10.598181</a></p>
 
 <p id="SenguptaBagnall23">Sengupta, M., & Bagnall, M.W. (2023). Spinal Interneurons: Diversity and Connectivity in Motor Control. <i>Annual Review of Neuroscience, 46</i>, 79–99. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-083122-025325">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-083122-025325</a><a href="http://doi.org/10.1146/annurev-neuro-083122-025325"> http://doi.org/10.1146/annurev-neuro-083122-025325</a></p>
 
@@ -1824,6 +1842,8 @@
 
 <p id="UusisaariKnopfel11">Uusisaari, M., & Knöpfel, T. (2011). Functional Classification of Neurons in the Mouse Lateral Cerebellar Nuclei. <i>The Cerebellum, 10</i>, 637–646. <a href="https://doi.org/10.1007/s12311-010-0240-3">https://doi.org/10.1007/s12311-010-0240-3</a><a href="http://doi.org/10.1007/s12311-010-0240-3"> http://doi.org/10.1007/s12311-010-0240-3</a></p>
 
+<p id="VafaiiGalorYates25">Vafaii, H., Galor, D., & Yates, J.L. (2025). Brain-like variational inference. <a href="http://arxiv.org/abs/2410.19315">http://arxiv.org/abs/2410.19315</a><a href="http://doi.org/10.48550/arXiv.2410.19315"> http://doi.org/10.48550/arXiv.2410.19315</a></p>
+
 <p id="VaidyaLiChitwoodEtAl25">Vaidya, S.P., Li, G., Chitwood, R.A., Li, Y., & Magee, J.C. (2025). Formation of an expanding memory representation in the hippocampus. <i>Nature Neuroscience, 28</i>, 1510–1518. <a href="https://www.nature.com/articles/s41593-025-01986-3">https://www.nature.com/articles/s41593-025-01986-3</a><a href="http://doi.org/10.1038/s41593-025-01986-3"> http://doi.org/10.1038/s41593-025-01986-3</a></p>
 
 <p id="vandenBoschLambregtsMaattaEtAl22">Bosch, R., Lambregts, B., Määttä, J., Hofmans, L., Papadopetraki, D., Westbrook, A., Verkes, R., Booij, J., & Cools, R. (2022). Striatal dopamine dissociates methylphenidate effects on value-based versus surprise-based reversal learning. <i>Nature Communications, 13</i>, 4962. <a href="https://www.nature.com/articles/s41467-022-32679-1">https://www.nature.com/articles/s41467-022-32679-1</a><a href="http://doi.org/10.1038/s41467-022-32679-1"> http://doi.org/10.1038/s41467-022-32679-1</a></p>
@@ -1843,6 +1863,8 @@
 <p id="vanSchouwenburgdenOudenCools15">Schouwenburg, M.R., Ouden, H.E.M., & Cools, R. (2015). Selective Attentional Enhancement and Inhibition of Fronto-Posterior Connectivity by the Basal Ganglia During Attention Switching. <i>Cerebral Cortex, 25</i>, 1527–1534. <a href="https://doi.org/10.1093/cercor/bht345">https://doi.org/10.1093/cercor/bht345</a><a href="http://doi.org/10.1093/cercor/bht345"> http://doi.org/10.1093/cercor/bht345</a></p>
 
 <p id="VapnikChervonenkis71">Vapnik, V.N., & Chervonenkis, A. (1971). On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities. <i>Theory of Probability and Its Applications, 16</i>, 264–280. </p>
+
+<p id="VastolaGershmanRajan26">Vastola, J., Gershman, S.J., & Rajan, K. (2026). Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules. <i>Advances in Neural Information Processing Systems, 38</i>, 119609–119650. <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ad557daf1552a14dd0c26c11d3a72676-Abstract-Conference.html">https://proceedings.neurips.cc/paper_files/paper/2025/hash/ad557daf1552a14dd0c26c11d3a72676-Abstract-Conference.html</a></p>
 
 <p id="VaswaniShazeerParmarEtAl17">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, �., & Polosukhin, I. (2017). Attention is all you need. In I. Guyon, U.V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Eds.), <i>Advances in Neural Information Processing Systems 30</i> (pp. 5998–6008). Curran Associates, Inc. <a href="http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf</a></p>
 

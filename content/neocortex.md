@@ -59,4 +59,11 @@ Each cortical area also has extensive **lateral** connectivity among neurons wit
 
 The other significant aspect of cortical connectivity that will become quite important for our models, is that the connectivity is largely **bidirectional** ([[#figure_bidir-cons-map]]). Thus, an area that sends a feedforward projection to another area also typically receives a reciprocal feedback projection from that same area. As noted in the introduction, this [[bidirectional connectivity]] has many functional benefits, including being important for enabling the network to converge into a coherent overall state of activity across layers, and for [[error-driven learning]].
 
+## Laminar Details
+
+This section provides a more detailed treatment of the laminar structure of neocortex, across different cortical areas. As discussed in [[evolution#Evolution of neocortex]], the most evolutionarily ancient cortical areas only have three layers of structure, e.g., in the cingulate areas and in the hippocampus areas (CA3, CA1, and DG). Thus, here we generally refer to more modern neocortical areas that have the full compliment of laminar neuron types.
+
+
+
+
 
