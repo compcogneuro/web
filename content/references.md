@@ -726,6 +726,8 @@
 
 <p id="GutfreundYaromSegev95">Gutfreund, Y., Yarom, Y., & Segev, I. (1995). Subthreshold oscillations and resonant frequency in guinea-pig cortical neurons: physiology and modelling. <i>The Journal of Physiology, 483</i>, 621–640. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1995.sp020611">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1995.sp020611</a><a href="http://doi.org/10.1113/jphysiol.1995.sp020611"> http://doi.org/10.1113/jphysiol.1995.sp020611</a></p>
 
+<p id="GutmannHyvarinen13">Gutmann, M., & Hyvärinen, A. (2013). <i>Estimation of unnormalized statistical models without numerical integration. </i>In Proc. Workshop on Information Theoretic Methods in Science and Engineering (WITMSE2013) <a href="https://www.research.ed.ac.uk/en/publications/estimation-of-unnormalized-statistical-models-without-numerical-i/">https://www.research.ed.ac.uk/en/publications/estimation-of-unnormalized-statistical-models-without-numerical-i/</a></p>
+
 <p id="Haber03">Haber, S.N. (2003). The primate basal ganglia: parallel and integrative networks. <i>Journal of Chemical Neuroanatomy, 26</i>, 317–330. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14729134">http://www.ncbi.nlm.nih.gov/pubmed/14729134</a></p>
 
 <p id="HaberFudgeMcFarland00">Haber, S.N., Fudge, J.L., & McFarland, N.R. (2000). Striatonigrostriatal pathways in primates form an ascending spiral from the shell to the dorsolateral striatum. <i>The Journal of Neuroscience, 20</i>, 2369–2382. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10704511">http://www.ncbi.nlm.nih.gov/pubmed/10704511</a></p>
@@ -795,6 +797,8 @@
 <p id="Hill38">Hill, A.V. (1938). The heat of shortening and the dynamic constants of muscle. <i>Proceedings of the Royal Society of London. B. Biological Sciences, 126</i>, 136–195. <a href="https://doi.org/10.1098/rspb.1938.0050">https://doi.org/10.1098/rspb.1938.0050</a><a href="http://doi.org/10.1098/rspb.1938.0050"> http://doi.org/10.1098/rspb.1938.0050</a></p>
 
 <p id="HinnekensBarbu-RothDoEtAl23">Hinnekens, E., Barbu-Roth, M., Do, M., Berret, B., & Teulier, C. (2023). Generating variability from motor primitives during infant locomotor development. <i>eLife, 12</i>, e87463. <a href="https://doi.org/10.7554/eLife.87463">https://doi.org/10.7554/eLife.87463</a><a href="http://doi.org/10.7554/eLife.87463"> http://doi.org/10.7554/eLife.87463</a></p>
+
+<p id="Hinton02">Hinton, G.E. (2002). Training products of experts by minimizing contrastive divergence. <i>Neural Computation, 14</i>, 1771–1800. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12180402">http://www.ncbi.nlm.nih.gov/pubmed/12180402</a></p>
 
 <p id="HintonMcClelland88">Hinton, G.E., & McClelland, J.L. (1988). Learning representations by recirculation. In D.Z. Anderson (Ed.), <i>Neural Information Processing Systems (NIPS 1987</i> (pp. 358–366)) American Institute of Physics. <a href="http://papers.nips.cc/paper/78-learning-representations-by-recirculation.pdf">http://papers.nips.cc/paper/78-learning-representations-by-recirculation.pdf</a></p>
 
@@ -1157,6 +1161,8 @@
 <p id="MathewsonGrattonFabianiEtAl09">Mathewson, K., Gratton, G., Fabiani, M., Beck, D., & Ro, T. (2009). To see or not to see: Prestimulus alpha phase predicts visual awareness. <i>The Journal of Neuroscience, 29</i>, 2725–2732. </p>
 
 <p id="MathyHoDavieEtAl09">Mathy, A., Ho, S.S.N., Davie, J.T., Duguid, I.C., Clark, B.A., & Häusser, M. (2009). Encoding of Oscillations by Axonal Bursts in Inferior Olive Neurons. <i>Neuron, 62</i>, 388–399. <a href="https://www.cell.com/neuron/abstract/S0896-6273(09)00248-7">https://www.cell.com/neuron/abstract/S0896-6273(09)00248-7</a><a href="http://doi.org/10.1016/j.neuron.2009.03.023"> http://doi.org/10.1016/j.neuron.2009.03.023</a></p>
+
+<p id="MatsudaHyvarinen19">Matsuda, T., & Hyvärinen, A. (2019). <i>Estimation of Non-Normalized Mixture Models. </i>In Proceedings of the Twenty-Second International Conference on Artificial Intelligence and Statistics (pp. 2555–2563). PMLR. <a href="https://proceedings.mlr.press/v89/matsuda19a.html">https://proceedings.mlr.press/v89/matsuda19a.html</a></p>
 
 <p id="MatsumotoMinamimotoGraybielEtAl01">Matsumoto, N., Minamimoto, T., Graybiel, A.M., & Kimura, M. (2001). Neurons in the thalamic CM-Pf complex supply striatal neurons with information about behaviorally significant sensory events. <i>Journal of neurophysiology, 85</i>, 960–976. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11160526">http://www.ncbi.nlm.nih.gov/pubmed/11160526</a></p>
 

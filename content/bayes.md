@@ -12,7 +12,7 @@ $$
 
 This is also known as the **posterior** probability of the hypothesis. This "pure" form of the expression is in terms of the **joint probabilities** $P(h_i,d)$, which is the probability that the given hypothesis is true and the given data is present. In this form, it is clear that the conditional probability is just a form of _normalization_ where you consider one specific hypothesis $h_j$ relative to all other possible hypotheses $h_i$, and this normalization ensures that the resulting probability sums to 1. If the data are continuous, then you can replace the sum with an _integral_.
 
-The fundamental problem in dealing with probabilities is this pesky requirement that they sum to 1. This ultimately requires some way of accounting for the space of _all possible combinations of hypotheses and data_ (i.e., the normalizing denominator in [[#eq_phd]]), which entails the [[curse of dimensionality]] as the size of these spaces gets larger. Thus, all but very small-scale applications of true probability-based computations are computationally _intractable_ ([[@ChaterTenenbaumYuille06]]; [[@vanRooijWrightWareham12]]). We return to this issue below ([[#approximate solutions]]), where we see that the powerful gradient descent process described in [[search]] can be used to overcome this difficulty.
+The fundamental problem in dealing with probabilities is this pesky requirement that they sum to 1. This ultimately requires some way of accounting for the space of _all possible combinations of hypotheses and data_ (i.e., the normalizing denominator in [[#eq_phd]], also known as the **partition function**), which entails the [[curse of dimensionality]] as the size of these spaces gets larger. Thus, all but very small-scale applications of true probability-based computations are computationally _intractable_ ([[@ChaterTenenbaumYuille06]]; [[@vanRooijWrightWareham12]]). We return to this issue below ([[#approximate solutions]]), where we see that the powerful gradient descent process described in [[search]] can be used to overcome this difficulty.
 
 Bayes' theorem is, mechanically, just a simple bit of algebra to re-express the posterior probability in terms of the **likelihood** conditional probability, $P(d | h_j)$, which tells you how likely the given observed data is, assuming the hypothesis $h_j$ is true. The key advantage of a likelihood is that it is theoretically _independent_ of all the other hypotheses, and therefore could be computed directly from the given hypothesis itself (we'll see that this actually involves a bit of wishful thinking, as you can see in [[#eq_phd]] that some kind of accounting for the other hypotheses must enter somewhere).
 
@@ -32,7 +32,7 @@ $$
 P(d) = \sum_i P(h_i,d)
 $$
 
-The key idea here is that the overall probability of any given data value can be computed by adding up its probability of occuring under each of the different hypotheses. The term _marginal_ comes from the computation of these sums in the margins of a table listing all possible values of $h$ in one axis and all possible values of $d$ in the other axis (see [WikiPedia](https://en.wikipedia.org/wiki/Marginal_distribution)).
+The key idea here is that the overall probability of any given data value can be computed by adding up its probability of occuring under each of the different hypotheses. The term _marginal_ comes from the computation of these sums in the margins of a table listing all possible values of $h$ in one axis and all possible values of $d$ in the other axis (see [Wikipedia](https://en.wikipedia.org/wiki/Marginal_distribution)).
 
 Thus, we can re-write the conditional probability in a more commonly-used form:
 
@@ -75,7 +75,7 @@ However, you still end up with this pesky normalization factor of $P(d)$ in the 
 
 You can get rid of the denominator by computing **odds ratios**, where the shared denominator cancels out:
 
-{id="eq_odds"}
+{id="eq_odds" title="Odds ratio"}
 $$
 O_d(h_i|h_j) = \frac{P(h_i|d)}{P(h_j|d)} = \frac{P(d|h_i) P(h_i)}{P(d|h_j) P(h_j)}
 $$
@@ -126,4 +126,5 @@ The key point here is that both of these terms are computationally tractable -- 
 
 Interestingly, this variational inference framework and its connection to the gradient descent computation performed in error backpropagation has also allowed the derivation of a number of different learning algorithms starting from a more abstract, generalized probabilistic framework ([[@KhanRue23]]; [[@VastolaGershmanRajan26]]).
 
+There are also other techniques for performing inference in unnormalized probabilistic models, for example by estimating the normalization denominator, and using contrastive functions that subtract away the shared normalization function ([[@GutmannHyvarinen13]]; [[@MatsudaHyvarinen19]]; [[@Hinton02]]).
 
