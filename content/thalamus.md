@@ -195,6 +195,8 @@ The broad connectivity of VAmc, similar to that of VAbg, seems ideally suited fo
 
 The role of the AM in interconnecting the medial temporal lobe including the [[hippocampus]], subiculum, and the retrosplenial cortex (RSC) in the medial parietal lobe is critical for enabling episodic memories to be engaged in the service of goal planning, as is discussed a bit further in the section on [[#anterior thalamic areas]] (see also [[@XiaoZikopoulosBarbas09]]).
 
+[[@LiuZhangJiangEtAl24]] show that OFC -> V1 hits PT lower output neurons, projecting subcortically, while LP (Pulvinar) -> V1 hits PF upper IT neurons.
+
 <!--- * Intratelencephalic (IT) neurons in the cortex, a broad class of neuron with diverse subtypes in layers 2–6, project to the cortex and striatum bilaterally but not to the thalamus. [[@ShepherdYamawaki21]] -->
 
 <!--- * AM, MD get significant CT layer 6 inputs (only 20% layer 5 drivers), whereas VL,VA,VAmc all have nearly 50% layer 5 inputs ([[@XiaoZikopoulosBarbas09]]).  PT layer 5b (deep) ([[@XiaoZikopoulosBarbas09]]) are more focal, whereas 5b (superficial, IT) are broader -->

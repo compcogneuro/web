@@ -96,6 +96,8 @@
 
 <p id="BarakTsodyks14">Barak, O., & Tsodyks, M. (2014). Working models of working memory. <i>Current Opinion in Neurobiology, 25</i>, 20–24. <a href="http://www.sciencedirect.com/science/article/pii/S0959438813002158">http://www.sciencedirect.com/science/article/pii/S0959438813002158</a><a href="http://doi.org/10.1016/j.conb.2013.10.008"> http://doi.org/10.1016/j.conb.2013.10.008</a></p>
 
+<p id="BarattaSeligmanMaier23">Baratta, M.V., Seligman, M.E.P., & Maier, S.F. (2023). From helplessness to controllability: toward a neuroscience of resilience. <i>Frontiers in Psychiatry, 14</i>, <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1170417">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1170417</a></p>
+
 <p id="BarbasZikopoulos25">Barbas, H., & Zikopoulos, B. (2025). The cortical structural model extends to thalamocortical connections. <i>European Journal of Neuroscience, 61</i>, e70167. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70167">https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70167</a><a href="http://doi.org/10.1111/ejn.70167"> http://doi.org/10.1111/ejn.70167</a></p>
 
 <p id="BarKassamGhumanEtAl06">Bar, M., Kassam, K., Ghuman, A., Boshyan, J., & Schmidt, A. (2006). Top-down facilitation of visual recognition. <i>Proceedings of the National Academy of Sciences, 103</i>, 449–454. <a href="http://www.pnas.org/cgi/content/abstract/103/2/449">http://www.pnas.org/cgi/content/abstract/103/2/449</a></p>
@@ -359,6 +361,8 @@
 <p id="Cools85">Cools, A.R. (1985). Brain and Behavior: Hierarchy of Feedback Systems and Control of Input. In P.P.G. Bateson, & P.H. Klopfer (Eds.), <i>Perspectives in Ethology: Volume 6 Mechanisms</i> (pp. 109–168). Springer US. <a href="https://doi.org/10.1007/978-1-4757-0232-3_5">https://doi.org/10.1007/978-1-4757-0232-3_5</a><a href="http://doi.org/10.1007/978-1-4757-0232-3_5"> http://doi.org/10.1007/978-1-4757-0232-3_5</a></p>
 
 <p id="CoolsArnsten22">Cools, R., & Arnsten, A.F.T. (2022). Neuromodulation of prefrontal cortex cognitive function in primates: the powerful roles of monoamines and acetylcholine. <i>Neuropsychopharmacology, 47</i>(1), 309–328. <a href="https://www.nature.com/articles/s41386-021-01100-8">https://www.nature.com/articles/s41386-021-01100-8</a><a href="http://doi.org/10.1038/s41386-021-01100-8"> http://doi.org/10.1038/s41386-021-01100-8</a></p>
+
+<p id="CoolsdenOudenHartstra25">Cools, R., Ouden, H.E.M., & Hartstra, E. (2025). <i>Role of dopamine in adaptively tuning motivational bias to the current environment. </i>In Handbook of Behavioral Neuroscience (pp. 367–381). Elsevier. <a href="https://www.sciencedirect.com/science/chapter/handbook/pii/B9780443298677000335">https://www.sciencedirect.com/science/chapter/handbook/pii/B9780443298677000335</a><a href="http://doi.org/10.1016/B978-0-443-29867-7.00033-5"> http://doi.org/10.1016/B978-0-443-29867-7.00033-5</a></p>
 
 <p id="Cooper05">Cooper, S.J. (2005). Donald O. Hebb's synapse and learning rule: a history and commentary. <i>Neuroscience & Biobehavioral Reviews, 28</i>, 851–874. <a href="https://www.sciencedirect.com/science/article/pii/S0149763404000995">https://www.sciencedirect.com/science/article/pii/S0149763404000995</a><a href="http://doi.org/10.1016/j.neubiorev.2004.09.009"> http://doi.org/10.1016/j.neubiorev.2004.09.009</a></p>
 
@@ -691,6 +695,8 @@
 <p id="GreenSteinmetz05">Green, J.T., & Steinmetz, J.E. (2005). Purkinje cell activity in the cerebellar anterior lobe after rabbit eyeblink conditioning. <i>Learning & Memory, 12</i>, 260–269. <a href="http://learnmem.cshlp.org/content/12/3/260">http://learnmem.cshlp.org/content/12/3/260</a><a href="http://doi.org/10.1101/lm.89505"> http://doi.org/10.1101/lm.89505</a></p>
 
 <p id="GribbleOstrySanguinetiEtAl98">Gribble, P.L., Ostry, D.J., Sanguineti, V., & Laboissière, R. (1998). Are complex control signals required for human arm movement? <i>Journal of neurophysiology, 79</i>, 1409–1424. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9497421">http://www.ncbi.nlm.nih.gov/pubmed/9497421</a></p>
+
+<p id="GrienbergerMagee22">Grienberger, C., & Magee, J.C. (2022). Entorhinal cortex directs learning-related changes in CA1 representations. <i>Nature, 611</i>, 554–562. <a href="https://www.nature.com/articles/s41586-022-05378-6">https://www.nature.com/articles/s41586-022-05378-6</a><a href="http://doi.org/10.1038/s41586-022-05378-6"> http://doi.org/10.1038/s41586-022-05378-6</a></p>
 
 <p id="GrievesJeffery17">Grieves, R.M., & Jeffery, K.J. (2017). The representation of space in the brain. <i>Behavioural Processes, 135</i>, 113–131. <a href="http://doi.org/10.1016/j.beproc.2016.12.012"> http://doi.org/10.1016/j.beproc.2016.12.012</a></p>
 
@@ -1114,6 +1120,8 @@
 
 <p id="LismanFellousWang99">Lisman, J.E., Fellous, J.M., & Wang, X.J. (1999). A role for {NMDA}-receptor channels in working memory. <i>Nature Neuroscience, 1</i>, 273–275. <a href="http://www.ncbi.nlm.nih.gov/pubmed/10195158">http://www.ncbi.nlm.nih.gov/pubmed/10195158</a></p>
 
+<p id="LiuZhangJiangEtAl24">Liu, Y., Zhang, J., Jiang, Z., Qin, M., Xu, M., Zhang, S., & Ma, G. (2024). Organization of corticocortical and thalamocortical top-down inputs in the primary visual cortex. <i>Nature Communications, 15</i>, 4495. <a href="https://www.nature.com/articles/s41467-024-48924-8">https://www.nature.com/articles/s41467-024-48924-8</a><a href="http://doi.org/10.1038/s41467-024-48924-8"> http://doi.org/10.1038/s41467-024-48924-8</a></p>
+
 <p id="Llinas09">Llinás, R.R. (2009). Inferior olive oscillation as the temporal basis for motricity and oscillatory reset as the basis for motor error correction. <i>Neuroscience, 162</i>, 797–804. <a href="https://www.sciencedirect.com/science/article/pii/S0306452209006526">https://www.sciencedirect.com/science/article/pii/S0306452209006526</a><a href="http://doi.org/10.1016/j.neuroscience.2009.04.045"> http://doi.org/10.1016/j.neuroscience.2009.04.045</a></p>
 
 <p id="LlinasJahnsen82">Llinas, R., & Jahnsen, H. (1982). Electrophysiology of mammalian thalamic neurones in vitro. <i>Nature, 297</i>, 406–8. </p>
@@ -1300,6 +1308,8 @@
 
 <p id="NandaRajamanoharanKramarEtAl23">Nanda, N., Rajamanoharan, S., Kramár, J., & Shah, R. (2023). Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level (Post 1) <a href="https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall">https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall</a></p>
 
+<p id="NashaatOrabyKrasniqiEtAl25">Nashaat, M., Oraby, H., Krasniqi, F., Goh-Sauerbier, S.T., Bosc, M., Koerner, S., Karayel, S., Kepecs, A., & Larkum, M.E. (2025). The neural mechanisms of fast versus slow decision-making. 2024.08.22.608577. <a href="https://www.biorxiv.org/content/10.1101/2024.08.22.608577v2">https://www.biorxiv.org/content/10.1101/2024.08.22.608577v2</a><a href="http://doi.org/10.1101/2024.08.22.608577"> http://doi.org/10.1101/2024.08.22.608577</a></p>
+
 <p id="Neal93">Neal, R.M. (1993). Probabilistic Inference Using Markov Chain Monte Carlo Methods. </p>
 
 <p id="NeelyKoralekAthalyeEtAl18">Neely, R.M., Koralek, A.C., Athalye, V.R., Costa, R.M., & Carmena, J.M. (2018). Volitional modulation of primary visual cortex activity requires the basal ganglia. <i>Neuron, 97</i>, 1356-1368.e4. <a href="https://www.sciencedirect.com/science/article/pii/S089662731830076X">https://www.sciencedirect.com/science/article/pii/S089662731830076X</a><a href="http://doi.org/10.1016/j.neuron.2018.01.051"> http://doi.org/10.1016/j.neuron.2018.01.051</a></p>
@@ -1445,6 +1455,8 @@
 <p id="PoiraziBrannonMel03">Poirazi, P., Brannon, T., & Mel, B.W. (2003). Arithmetic of Subthreshold Synaptic Summation in a Model CA1 Pyramidal Cell. <i>Neuron, 37</i>, 977–987. <a href="https://www.sciencedirect.com/science/article/pii/S089662730300148X">https://www.sciencedirect.com/science/article/pii/S089662730300148X</a><a href="http://doi.org/10.1016/S0896-6273(03)00148-X"> http://doi.org/10.1016/S0896-6273(03)00148-X</a></p>
 
 <p id="PoiraziPapoutsi20">Poirazi, P., & Papoutsi, A. (2020). Illuminating dendritic function with computational models. <i>Nature Reviews Neuroscience, 21</i>(6), 303–321. <a href="http://www.nature.com/articles/s41583-020-0301-7">http://www.nature.com/articles/s41583-020-0301-7</a><a href="http://doi.org/10.1038/s41583-020-0301-7"> http://doi.org/10.1038/s41583-020-0301-7</a></p>
+
+<p id="PollakSachdevLarkumEtAl25">Pollak, Y.E., Sachdev, R., Larkum, M., & Gilad, A. (2025). Cortex-wide laminar dynamics diverge during learning. 2025.07.15.664840. <a href="https://www.biorxiv.org/content/10.1101/2025.07.15.664840v1">https://www.biorxiv.org/content/10.1101/2025.07.15.664840v1</a><a href="http://doi.org/10.1101/2025.07.15.664840"> http://doi.org/10.1101/2025.07.15.664840</a></p>
 
 <p id="PoltoratskiMaierNewtonEtAl19">Poltoratski, S., Maier, A., Newton, A.T., & Tong, F. (2019). Figure-Ground Modulation in the Human Lateral Geniculate Nucleus Is Distinguishable from Top-Down Attention. <i>Current Biology, 29</i>, 2051-2057.e3. <a href="https://www.cell.com/current-biology/abstract/S0960-9822(19)30497-X">https://www.cell.com/current-biology/abstract/S0960-9822(19)30497-X</a><a href="http://doi.org/10.1016/j.cub.2019.04.068"> http://doi.org/10.1016/j.cub.2019.04.068</a></p>
 

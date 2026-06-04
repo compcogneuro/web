@@ -71,6 +71,11 @@ Consistent with the parallel [[constraint satisfaction]] process operating via t
 
 Similar dynamics were observed in OFC by [[@^RichWallis16]] as the monkeys considered different options, consistent with the requirement that a single option is considered at any given point in time. This is necessary to avoid [[binding problems]] in the constraint satisfaction process ([[@HerdKruegerNairEtAl21]]).
 
+There is a wide range of data regarding the unique properties of PL / BA32 / PGACC, which is generally consistent with the idea that it is the central hub of the meta-control goal-driven network of brain areas ([[@CoolsdenOudenHartstra25]]), integrating outcome value inputs from OFC and IL, and action value inputs from dorsal ACC (BA 24). This is consistent with extensive work showing that PL is critical for representing a sense of controllability or agency, in the context of the learned helplessness response to controllable vs. uncontrollable shock ([[@BarattaSeligmanMaier23]]). In addition, [[@^NashaatOrabyKrasniqiEtAl25]] found that PL (designated as MFC, which may include other surrounding areas) was critical for overall task strategy choice, whereas lateral frontal areas were more associated with direct motor action initiation. 
+
+<!--- TODO: meta-control framing of the whole thing, in Rubicon on down, and cite [[@CoolsdenOudenHartstra25]] and related work! -->
+
+
 ## Mechanisms of active maintenance
 
 {id="figure_pfc-maint-lamina" style="height:40em"}
@@ -134,6 +139,8 @@ More direct evidence for the role of the basal ganglia in modulating the thalamo
 
 ### Distinct thalamic gating circuits
 
+<!--- TODO: redundant with thal! -->
+
 {id="figure_haber-ct" style="height:30em"}
 ![Thalamocortical connectivity across goal-driven areas (via MD = mediodorsal thalamus) and motor areas (via VA, Vlo ventral anterior / lateral thalamus). From McFarland & Haber, 2002.](media/fig_haber_thal_frontal_md_va_vlo.png)
 
@@ -149,6 +156,8 @@ The Rubicon goal-driven framework posits that there are two qualitatively distin
 A more detailed discussion of these different thalamocortical loops is provided in the [[thalamus]] page, but the main points are summarized in [[#figure_md-pfc]] from [[@^KuramotoPanFurutaEtAl17]] showing the goal-gating connectivity of area MD in rodents, and [[#figure_motor-thal]] showing the motor area thalamocortical loops organized according to the motor hierarchy ([[@Bosch-BoujuHylandParr-Brownlie13]]).
 
 In the case of the MD, the medial portion (MDm) provides a single locus of gating control over all of the goal-relevant PFC areas, while the central (MDc) provides more specific connectivity to OFC (outcome) areas, while lateral (MDl) connects with the PL and ACC areas. This is consistent with the idea that there are both global goal-wide gating signals for engaging an active goal, and more specific updating of the outcome and effort / utility aspects of the goal state as things progress.
+
+<!--- TODO: [[@PollakSachdevLarkumEtAl25]] show layer 5 motor area neurons activated at time of response, but suppressed at time of sensory onset cue, while 2/3 in posterior cortex showed opposite results. Also discuss the meta-stable state stuff here ([[@LaCameraFontaniniMazzucato19]]; [[@RecanatesiPereira-ObilinovicMurakamiEtAl22]]) -->
 
 ## Primate-specific PFC areas
 
