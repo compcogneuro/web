@@ -1080,6 +1080,8 @@
 
 <p id="LatashScholzSchoner07">Latash, M.L., Scholz, J.P., & Schöner, G. (2007). Toward a New Theory of Motor Synergies. <i>Motor Control, 11</i>, 276–308. <a href="https://journals.humankinetics.com/view/journals/mcj/11/3/article-p276.xml">https://journals.humankinetics.com/view/journals/mcj/11/3/article-p276.xml</a><a href="http://doi.org/10.1123/mcj.11.3.276"> http://doi.org/10.1123/mcj.11.3.276</a></p>
 
+<p id="LeCun86">Le Cun, Y. (1986). Learning Process in an Asymmetric Threshold Network. In E. Bienenstock, F.F. Soulié, & G. Weisbuch (Eds.), <i>Disordered Systems and Biological Organization</i> (pp. 233–240). Springer. <a href="http://doi.org/10.1007/978-3-642-82657-3_24"> http://doi.org/10.1007/978-3-642-82657-3_24</a></p>
+
 <p id="LeCunBengioHinton15">LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>, 436–444. <a href="http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html">http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html</a><a href="http://doi.org/10.1038/nature14539"> http://doi.org/10.1038/nature14539</a></p>
 
 <p id="LeDoux00">LeDoux, J. (2000). Cognitive-Emotional Interactions: Listen to the brain. In R.D. Lane, & L. Nadel (Eds.), <i>Cognitive neuroscience of emotion</i> (pp. 129–156). Oxford Univ. Press. </p>
@@ -1741,6 +1743,8 @@
 <p id="Stone60">Stone, M. (1960). Models for Choice-Reaction Time. <i>Psychometrika, 25</i>, 251–260. <a href="https://www.cambridge.org/core/journals/psychometrika/article/abs/models-for-choicereaction-time/4BA8E902DBAD412CCF9B193F80FECF0E">https://www.cambridge.org/core/journals/psychometrika/article/abs/models-for-choicereaction-time/4BA8E902DBAD412CCF9B193F80FECF0E</a><a href="http://doi.org/10.1007/BF02289729"> http://doi.org/10.1007/BF02289729</a></p>
 
 <p id="StrickDumRathelot21">Strick, P.L., Dum, R.P., & Rathelot, J. (2021). The Cortical Motor Areas and the Emergence of Motor Skills: A Neuroanatomical Perspective. <i>Annual Review of Neuroscience, 44</i>, 425–447. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-070918-050216">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-070918-050216</a><a href="http://doi.org/10.1146/annurev-neuro-070918-050216"> http://doi.org/10.1146/annurev-neuro-070918-050216</a></p>
+
+<p id="StrunkWhite09">Strunk, W., & White, E.B. (2009). <i>The Elements of Style, Fourth Edition. </i> Pearson. </p>
 
 <p id="Sugihara11">Sugihara, I. (2011). Compartmentalization of the Deep Cerebellar Nuclei Based on Afferent Projections and Aldolase C Expression. <i>The Cerebellum, 10</i>, 449–463. <a href="https://doi.org/10.1007/s12311-010-0226-1">https://doi.org/10.1007/s12311-010-0226-1</a><a href="http://doi.org/10.1007/s12311-010-0226-1"> http://doi.org/10.1007/s12311-010-0226-1</a></p>
 

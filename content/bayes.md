@@ -115,7 +115,7 @@ $$
 KL(q_{\theta}({\bf z} | {\bf x}) || p({\bf z} | {\bf x}) ) = E_{\theta} [log q_{\theta}({\bf z} | {\bf x}) ] - E_{\theta} [log p({\bf x} | {\bf z}) p({\bf z})] + log p({\bf x})]
 $$ 
 
-which reveals the intractable $p({\bf x})$ factor (which does not depend on $q$ and therefore does not require the expectation over the parameters of q. However, the other terms in this expression beside that one are in fact tractably computable, so in effect you can do some algebra and end up _maximizing_ the negative of these other terms, which provides a lower-bound on the actual target KL divergence. This lower bound is called the **evidence lower bound (ELBO)**:
+which reveals the intractable $p({\bf x})$ factor (which does not depend on $q$ and therefore does not require the expectation over the parameters of q). However, the other terms in this expression beside that one _are_ in fact tractably computable, so in effect you can do some algebra and end up _maximizing_ the negative of these other terms, which provides a lower-bound on the actual target KL divergence. This lower bound is called the **evidence lower bound (ELBO)**:
 
 {id="eq_elbo" title="Evidence lower bound"}
 $$
