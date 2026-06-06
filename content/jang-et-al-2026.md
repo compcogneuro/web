@@ -1,10 +1,10 @@
 +++
 Name = "Jang et al (2026)"
 Title = "Synaptic Plasticity as a Function of the Temporal Derivative"
-Authors = "Jinyoung Jang<sup>1</sup>, Juan Flores<sup>1</sup>, Karen Zito<sup>1</sup>, Randall C. O'Reilly<sup>1,2,#</sup>"
+Authors = "Jinyoung Jang<sup>1</sup>, Juan C. Flores<sup>1</sup>, Karen Zito<sup>1</sup>, Randall C. O'Reilly<sup>1,2,#</sup>"
 Affiliations = "<sup>1</sup>Center for Neuroscience, University of California Davis, Davis, CA <br><sup>2</sup>Astera Institute<br><sup>#</sup>correspondence: oreilly@ucdavis.edu"
 Abstract = "A major outstanding question in neuroscience is whether the neocortex uses the same powerful learning algorithm as current AI models: error backpropagation. One way this could be accomplished is as a function of the temporal derivative (i.e., differences in neural activity states over time), which can closely approximate the backpropagated error gradient. We tested the hypothesis that the direction of synaptic plasticity is a function of the temporal derivative in synaptic activity over the course of a 200 ms (5 Hz) theta cycle. Using mouse hippocampal slices, we drove presynaptic activity across the two 100 ms halves of a 200 ms window at either 25 Hz or 50 Hz, combined with corresponding low and high magnitudes of postsynaptic depolarization, testing all four 2x2 combinations of these low and high activity levels, while measuring the resulting effects on synaptic efficacy (as measured by EPSP amplitude to standard test probes). Consistent with the computational hypothesis, a positive temporal derivative (low to high) resulted in LTP (increased synaptic strength), while a negative temporal derivative (high to low) resulted in LTD. Critically, both no-change conditions (stable low or high across 200 ms) resulted in no net synaptic change, even though the high no-change condition had the highest overall synaptic activity levels. Possible biochemical mechanisms that could support these results are discussed."
-Date = "2026-06-04"
+Date = "2026-06-05"
 Version = "1"
 NoURLinPDF = true
 Categories = ["Papers"]
