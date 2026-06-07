@@ -924,7 +924,7 @@
 
 <p id="JainNakahataPancaniEtAl24">Jain, A., Nakahata, Y., Pancani, T., Watabe, T., Rusina, P., South, K., Adachi, K., Yan, L., Simorowski, N., Furukawa, H., & Yasuda, R. (2024). Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity. <i>Nature, 635</i>, 151–159. <a href="https://www.nature.com/articles/s41586-024-08021-8">https://www.nature.com/articles/s41586-024-08021-8</a><a href="http://doi.org/10.1038/s41586-024-08021-8"> http://doi.org/10.1038/s41586-024-08021-8</a></p>
 
-<p id="JangFloresOReillyEtAl26">Jang, J., Flores, J., O'Reilly, R.C., & Zito, K. (2026). Synaptic Plasticity as a Function of the Temporal Derivative. <a href="https://compcogneuro.org/jang-et-al-2026">https://compcogneuro.org/jang-et-al-2026</a></p>
+<p id="JangFloresZitoEtAl26">Jang, J., Flores, J.C., Zito, K., & O'Reilly, R.C. (2026). Synaptic Plasticity as a Function of the Temporal Derivative. 2026.06.05.730489. <a href="https://www.biorxiv.org/content/10.64898/2026.06.05.730489v1">https://www.biorxiv.org/content/10.64898/2026.06.05.730489v1</a><a href="http://doi.org/10.64898/2026.06.05.730489"> http://doi.org/10.64898/2026.06.05.730489</a></p>
 
 <p id="Jankowska22">Jankowska, E. (2022). Basic principles of processing of afferent information by spinal interneurons. <i>Journal of Neurophysiology, 128</i>, 689–695. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022">https://journals.physiology.org/doi/abs/10.1152/jn.00344.2022</a><a href="http://doi.org/10.1152/jn.00344.2022"> http://doi.org/10.1152/jn.00344.2022</a></p>
 
