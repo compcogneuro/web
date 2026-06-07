@@ -1052,6 +1052,8 @@
 
 <p id="KurodaSchweighoferKawato01">Kuroda, S., Schweighofer, N., & Kawato, M. (2001). Exploration of signal transduction pathways in cerebellar long-term depression by kinetic simulation. <i>Journal of Neuroscience, 21</i>, 5693–5702. <a href="https://www.jneurosci.org/content/21/15/5693">https://www.jneurosci.org/content/21/15/5693</a><a href="http://doi.org/10.1523/JNEUROSCI.21-15-05693.2001"> http://doi.org/10.1523/JNEUROSCI.21-15-05693.2001</a></p>
 
+<p id="Kurzweil00">Kurzweil, R. (2000). <i>The Age of Spiritual Machines: When Computers Exceed Human Intelligence. </i> Penguin Publishing Group. </p>
+
 <p id="LaCameraFontaniniMazzucato19">La Camera, G., Fontanini, A., & Mazzucato, L. (2019). Cortical computations via metastable activity. <i>Current Opinion in Neurobiology, 58</i>, 37–45. <a href="http://www.sciencedirect.com/science/article/pii/S0959438818302198">http://www.sciencedirect.com/science/article/pii/S0959438818302198</a><a href="http://doi.org/10.1016/j.conb.2019.06.007"> http://doi.org/10.1016/j.conb.2019.06.007</a></p>
 
 <p id="LakeBaroni17">Lake, B.M., & Baroni, M. (2017). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. <i>arXiv:1711.00350 [cs], <a href="http://arxiv.org/abs/1711.00350">http://arxiv.org/abs/1711.00350</a></i></p>

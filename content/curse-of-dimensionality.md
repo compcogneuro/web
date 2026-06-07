@@ -9,6 +9,9 @@ Thus, the main conclusion here is that only _dedicated-parallel, gradient-based_
 
 ## Combinatorial explosion
 
+{id="figure_chessboard" style="height:35em"}
+![Illustration of how fast exponential values increase, with a doubling of the number of "grains of wheat / rice" on each successive square of a chessboard, based on legendary stories requesting payment in this manner. Because it starts out innocently enough, people are lulled into thinking there won't be a problem, but once you get to the "second half of the chessboard" ([[@Kurzweil00]]), the numbers get very large indeed.](media/fig_combinatorial_explosion_chessboard.png)
+
 The curse arises from the [combinatorial explosion](https://en.wikipedia.org/wiki/Combinatorial_explosion) (wikipedia link) that arises remarkably quickly as the dimensionality of a space increases. This combinatorial explosion is already present in the very lowest dimensions, e.g., in the number of pixels in a 2D monitor as you increase the pixel density. The impressive-sounding _megapixel_ increases touted by manufacturers actually correspond to relatively modest increases in the 1D linear density (e.g., 1,280 x 720 is almost 1 megapixels, but 1,920 x 1,080 is already 2 megapixels).
 
 Moving up to the 3D volume level, the increases in mass associated with increases in linear body size of animals has major real-world consequences for limiting how big things can become, and how easy it is to fly (e.g., a bee scaled up simply can't fly).
@@ -20,7 +23,7 @@ $$
 N = 2^d
 $$
 
-This innocent-looking expression can be deceptive, and people have a hard time understanding how fast it grows. A legendary story involves a chessboard maker requesting to be paid by simply doubling the number of grains of wheat on each square of a [chessboard](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem). This innocent-sounding request results in 18,446,744,073,709,551,615 grains total! 
+This innocent-looking expression can be deceptive, and people have a hard time understanding how fast it grows. A legendary story involves a chessboard maker requesting to be paid by simply doubling the number of grains of wheat on each square of a [[#figure_chessboard]]. This innocent-sounding request results in 18,446,744,073,709,551,615 grains total! 
 
 Another fun real-world demonstration is the difficulty in folding paper in half progressively more than 8 times, because the thickness grows exponentially. The world record is apparently 13, which required [54,000 feet of toilet paper](https://www.npr.org/sections/thetwo-way/2011/12/05/143150449/record-folders-54-000-feet-of-paper-13-folds-one-new-standard) (NPR link).
 
