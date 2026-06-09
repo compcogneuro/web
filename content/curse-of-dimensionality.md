@@ -5,7 +5,7 @@ bibfile = "ccnlab.json"
 
 The **curse of dimensionality** ([[@Bellman57]]) arises in many aspects of neural computation, and provides an essential tool for understanding the relative strengths and weaknesses of computational algorithms. Human intuitions are generally (wildly) inaccurate about these issues, which effectively prevent any serial algorithm from succeeding in even a modestly complex problem space.
 
-Thus, the main conclusion here is that only _dedicated-parallel, gradient-based_ algorithms that exhibit _polynomial_ computational complexity as the dimensionality increases are viable for real-world problems, as elaborated in the discussion of [[search]] as a unifying computational framework. This is why neural networks are much more useful than symbolic approaches to [[artificial intelligence]], for example. [[Reinforcement learning]], i.e., trial-and-error search, is severely impacted by the curse of dimensionality.
+Thus, the main conclusion here is that only _dedicated-weight-gradient-search_ (DWGS) algorithms that exhibit _polynomial_ computational complexity as the dimensionality increases are viable for real-world problems, as elaborated in the discussion of [[search]] as a unifying computational framework. This is why neural networks are much more useful than symbolic approaches to [[artificial intelligence]], for example. [[Reinforcement learning]], i.e., trial-and-error search, is severely impacted by the curse of dimensionality.
 
 ## Combinatorial explosion
 

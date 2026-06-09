@@ -60,6 +60,8 @@
 
 <p id="AndersonLebiere98">Anderson, J.R., & Lebiere, C. (1998). <i>The Atomic Components of Thought</i> (1 ed).  Lawrence Erlbaum Associated, Publishers. </p>
 
+<p id="AndersonRosenfeld00">Anderson, J.A., & Rosenfeld, E. (2000). <i>Talking Nets: An Oral History of Neural Networks. </i> MIT Press. </p>
+
 <p id="AndoUedaLuoEtAl20">Ando, T., Ueda, M., Luo, Y., & Sugihara, I. (2020). Heterogeneous vestibulocerebellar mossy fiber projections revealed by single axon reconstruction in the mouse. <i>Journal of Comparative Neurology, 528</i>, 1775–1802. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24853">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24853</a><a href="http://doi.org/10.1002/cne.24853"> http://doi.org/10.1002/cne.24853</a></p>
 
 <p id="AngelGuertinJimenezEtAl96">Angel, M.J., Guertin, P., Jiménez, T., & McCrea, D.A. (1996). Group I extensor afferents evoke disynaptic EPSPs in cat hindlimb extensor motorneurones during fictive locomotion. <i>The Journal of Physiology, 494</i>, 851–861. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1996.sp021538">https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1996.sp021538</a><a href="http://doi.org/10.1113/jphysiol.1996.sp021538"> http://doi.org/10.1113/jphysiol.1996.sp021538</a></p>
@@ -77,6 +79,10 @@
 <p id="ArieliSterkinGrinvaldEtAl96">Arieli, A., Sterkin, A., Grinvald, A., & Aertsen, A. (1996). Dynamics of ongoing activity: Explanation of the large variability in evoked cortical responses. <i>Science, 273</i>, 1868–1871. <a href="http://www.ncbi.nlm.nih.gov/pubmed/8791593">http://www.ncbi.nlm.nih.gov/pubmed/8791593</a></p>
 
 <p id="ArnstenWangPaspalas12">Arnsten, A.F.T., Wang, M.J., & Paspalas, C.D. (2012). Neuromodulation of thought: flexibilities and vulnerabilities in prefrontal cortical network synapses. <i>Neuron, 76</i>, 223–239. <a href="http://www.sciencedirect.com/science/article/pii/S0896627312008045">http://www.sciencedirect.com/science/article/pii/S0896627312008045</a><a href="http://doi.org/10.1016/j.neuron.2012.08.038"> http://doi.org/10.1016/j.neuron.2012.08.038</a></p>
+
+<p id="Arora98">Arora, S. (1998). Polynomial time approximation schemes for Euclidean traveling salesman and other geometric problems. <i>Journal of the ACM (JACM), 45</i>, 753–782. <a href="https://dl.acm.org/doi/10.1145/290179.290180">https://dl.acm.org/doi/10.1145/290179.290180</a><a href="http://doi.org/10.1145/290179.290180"> http://doi.org/10.1145/290179.290180</a></p>
+
+<p id="AroraBarak09">Arora, S., & Barak, B. (2009). <i>Computational Complexity: A Modern Approach. </i> Cambridge University Press. </p>
 
 <p id="AshbyEllValentinEtAl05">Ashby, F.G., Ell, S.W., Valentin, V.V., & Casale, M.B. (2005). FROST: A distributed neurocomputational model of working memory maintenance. <i>Journal of Cognitive Neuroscience, 17</i>, 1728–1743. <a href="https://doi.org/10.1162/089892905774589271">https://doi.org/10.1162/089892905774589271</a><a href="http://doi.org/10.1162/089892905774589271"> http://doi.org/10.1162/089892905774589271</a></p>
 
@@ -397,6 +403,8 @@
 <p id="DacreColliganClarkeEtAl21">Dacre, J., Colligan, M., Clarke, T., Ammer, J.J., Schiemann, J., Chamosa-Pino, V., Claudi, F., Harston, J.A., Eleftheriou, C., Pakan, J.M.P., Huang, C., Hantman, A.W., Rochefort, N.L., & Duguid, I. (2021). A cerebellar-thalamocortical pathway drives behavioral context-dependent movement initiation. <i>Neuron, 109</i>, 2326-2338.e8. <a href="https://www.sciencedirect.com/science/article/pii/S0896627321003561">https://www.sciencedirect.com/science/article/pii/S0896627321003561</a><a href="http://doi.org/10.1016/j.neuron.2021.05.016"> http://doi.org/10.1016/j.neuron.2021.05.016</a></p>
 
 <p id="DannerShevtsovaFrigonEtAl17">Danner, S.M., Shevtsova, N.A., Frigon, A., & Rybak, I.A. (2017). Computational modeling of spinal circuits controlling limb coordination and gaits in quadrupeds. <i>eLife, 6</i>, e31050. <a href="https://doi.org/10.7554/eLife.31050">https://doi.org/10.7554/eLife.31050</a><a href="http://doi.org/10.7554/eLife.31050"> http://doi.org/10.7554/eLife.31050</a></p>
+
+<p id="DauphinPascanuGulcehreEtAl14">Dauphin, Y.N., Pascanu, R., Gulcehre, C., Cho, K., Ganguli, S., & Bengio, Y. (2014). <i>Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. </i>In Advances in Neural Information Processing Systems. Curran Associates, Inc. <a href="https://proceedings.neurips.cc/paper_files/paper/2014/hash/04192426585542c54b96ba14445be996-Abstract.html">https://proceedings.neurips.cc/paper_files/paper/2014/hash/04192426585542c54b96ba14445be996-Abstract.html</a></p>
 
 <p id="dAvellaSaltielBizzi03">Avella, A., Saltiel, P., & Bizzi, E. (2003). Combinations of muscle synergies in the construction of a natural motor behavior. <i>Nature Neuroscience, 6</i>, 300–308. <a href="https://www.nature.com/articles/nn1010">https://www.nature.com/articles/nn1010</a><a href="http://doi.org/10.1038/nn1010"> http://doi.org/10.1038/nn1010</a></p>
 
@@ -1087,6 +1095,8 @@
 <p id="LeCunBengioHinton15">LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. <i>Nature, 521</i>, 436–444. <a href="http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html">http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html</a><a href="http://doi.org/10.1038/nature14539"> http://doi.org/10.1038/nature14539</a></p>
 
 <p id="LeDoux00">LeDoux, J. (2000). Cognitive-Emotional Interactions: Listen to the brain. In R.D. Lane, & L. Nadel (Eds.), <i>Cognitive neuroscience of emotion</i> (pp. 129–156). Oxford Univ. Press. </p>
+
+<p id="LeePanageasPiliourasEtAl19">Lee, J.D., Panageas, I., Piliouras, G., Simchowitz, M., Jordan, M.I., & Recht, B. (2019). First-order methods almost always avoid strict saddle points. <i>Mathematical Programming, 176</i>, 311–337. <a href="https://doi.org/10.1007/s10107-019-01374-3">https://doi.org/10.1007/s10107-019-01374-3</a><a href="http://doi.org/10.1007/s10107-019-01374-3"> http://doi.org/10.1007/s10107-019-01374-3</a></p>
 
 <p id="LeeSeung99">Lee, D.D., & Seung, H.S. (1999). Learning the parts of objects by non-negative factorization. <i>Nature, 401</i>, 788. </p>
 
