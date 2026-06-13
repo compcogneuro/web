@@ -41,3 +41,6 @@ VP key for task engagement.
 
 
 * [[@FujimotoHoriNagaiEtAl19]] -- VP
+
+* [[@CampbellRaChenEtAl25]] -- show that NAc D1 neurons drive VTA DA bursts, with a downstream sequence of fast excitation and slow inhibition. Consistent with the basic model: temporal derivative filter on excitatory inputs.
+

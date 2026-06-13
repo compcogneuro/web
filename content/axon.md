@@ -11,9 +11,12 @@ Given the considerable scope of neuroscience, cognition, and computation covered
 
 ## Highlights
 
+{id="figure_stack" style="height:15em"}
+![The dependency tree for the central features of Axon, from a computational perspective. The ability to perform integrated activation-level [[search]] across the entire neocortical network (integrating top-down, lateral, and bottom-up constraints), i.e., [[constraint-satisfaction]], depends on [[bidirectional connectivity]]. Because of the excitatory feedback loops, this requires [[inhibition]] to regulate overall activity levels, and inhibition also serves as an essential regularizer for constraint satisfaction search. Furthermore, [[neuron#spiking output|spiking]] activity has significant computational advantages over a continuous rate code, in being better able to represent and appropriately process graded signals, and to represent multimodal and other statistical distributional properties ([[@McKeeCrandellChaudhuriEtAl22]]). Spiking neurons require longer-lasting NMDA and GABA-B channels to produce [[stable activation]] states, required for both constraint satisfaction and learning. Bidirectional connectivity also enables biologically-based error backpropagation learning ([[kinase algorithm]]), which is not strictly necessary computationally on its own, but once you have bidirectional connectivity and constraint satisfaction dynamics, it is like better overall ([[@LinsleyAshokGovindarajanEtAl20]]).](media/fig_axon_stack_logic.png)
+
 * Unified computational-level framework in terms of efficient gradient-based [[search]] through [[curse of dimensionality|combinatorially explosive]] parameter spaces, at the fast activation-based time scale through [[constraint-satisfaction]], and at the slower weight-based time scale through biologically-supported [[temporal-derivative]] based [[error backpropagation]], which is driven by [[predictive learning]].
 
-	Both of these depend on the [[bidirectional connectivity]] of the neocortex, which is rarely included in current [[abstract neural network]] ("AI") models, and is a central feature of Axon.
+	Both of these depend on the [[bidirectional connectivity]] of the neocortex, which is rarely included in current [[abstract neural network]] ("AI") models, and is a central feature of Axon, that then drives the need for its other major features ([[#figure_stack]]).
 
 	[[Papers]]: [[OReilly (2026) Cortical Learning]]; [[Jang et al (2026)]].
 

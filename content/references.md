@@ -96,6 +96,8 @@
 
 <p id="BaddeleyHitch74">Baddeley, A.D., & Hitch, G.J. (1974). Working memory. In G. Bower (Ed.), <i>The Psychology of Learning and Motivation</i> (pp. 47–89). Academic Press. </p>
 
+<p id="BahriDyerKaplanEtAl24">Bahri, Y., Dyer, E., Kaplan, J., Lee, J., & Sharma, U. (2024). Explaining neural scaling laws. <i>Proceedings of the National Academy of Sciences, 121</i>, e2311878121. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2311878121">https://www.pnas.org/doi/abs/10.1073/pnas.2311878121</a><a href="http://doi.org/10.1073/pnas.2311878121"> http://doi.org/10.1073/pnas.2311878121</a></p>
+
 <p id="BaldiHornik89">Baldi, P., & Hornik, K. (1989). Neural networks and principlal components analysis: Learning from examples without local minima. <i>Neural Networks, 2</i>, 53–58. </p>
 
 <p id="BalleineDickinson98">Balleine, B.W., & Dickinson, A. (1998). Goal-directed instrumental action: contingency and incentive learning and their cortical substrates. <i>Neuropharmacology, 37</i>, 407–419. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9704982">http://www.ncbi.nlm.nih.gov/pubmed/9704982</a></p>
@@ -282,11 +284,15 @@
 
 <p id="BuonomanoMauk94">Buonomano, D.V., & Mauk, M.D. (1994). Neural network model of the cerebellum: Temporal discrimination and the timing of motor responses. <i>Neural Computation, 6</i>, 38–55. </p>
 
+<p id="BurkartCerritoNatalucciEtAl25">Burkart, J.M., Cerrito, P., Natalucci, G., & Schaik, C.P. (2025). Cooperative Breeding as a Likely Early Catalyst of Human Evolution. <i>Evolutionary Anthropology: Issues, News, and Reviews, 34</i>, e70016. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.70016">https://onlinelibrary.wiley.com/doi/abs/10.1002/evan.70016</a><a href="http://doi.org/10.1002/evan.70016"> http://doi.org/10.1002/evan.70016</a></p>
+
 <p id="Butler08">Butler, A.B. (2008). Evolution of the thalamus: a morphological and functional review. <i>Thalamus & Related Systems, 4</i>, 35–58. <a href="https://www.cambridge.org/core/journals/thalamus-and-related-systems/article/abs/evolution-of-the-thalamus-a-morphological-and-functional-review/B0D500C7591B6FC801B600D8C43EBD9B">https://www.cambridge.org/core/journals/thalamus-and-related-systems/article/abs/evolution-of-the-thalamus-a-morphological-and-functional-review/B0D500C7591B6FC801B600D8C43EBD9B</a><a href="http://doi.org/10.1017/S1472928808000356"> http://doi.org/10.1017/S1472928808000356</a></p>
 
 <p id="CainSnutch12">Cain, S.M., & Snutch, T.P. (2012). Voltage-Gated Calcium Channels in Epilepsy. In J.L. Noebels, M. Avoli, M.A. Rogawski, R.W. Olsen, & A.V. Delgado-Escueta (Eds.), <i>Jasper's Basic Mechanisms of the Epilepsies</i> (4th ed.). National Center for Biotechnology Information (US) <a href="http://www.ncbi.nlm.nih.gov/books/NBK98147/">http://www.ncbi.nlm.nih.gov/books/NBK98147/</a></p>
 
 <p id="CampbellMartinMageeEtAl26">Campbell, E.P., Martin, L., Magee, J.C., & Grienberger, C. (2026). Learning-dependent feedback by OLM interneurons shapes CA1 representations. 2025.12.21.695825. <a href="https://www.biorxiv.org/content/10.64898/2025.12.21.695825v2">https://www.biorxiv.org/content/10.64898/2025.12.21.695825v2</a><a href="http://doi.org/10.64898/2025.12.21.695825"> http://doi.org/10.64898/2025.12.21.695825</a></p>
+
+<p id="CampbellRaChenEtAl25">Campbell, M.G., Ra, Y., Chen, Z., Xu, S., Burrell, M., Matias, S., Watabe-Uchida, M., & Uchida, N. (2025). A hardwired neural circuit for temporal difference learning. 2025.09.18.677203. <a href="https://www.biorxiv.org/content/10.1101/2025.09.18.677203v3">https://www.biorxiv.org/content/10.1101/2025.09.18.677203v3</a><a href="http://doi.org/10.1101/2025.09.18.677203"> http://doi.org/10.1101/2025.09.18.677203</a></p>
 
 <p id="CampbellRaneGiallanzaEtAl24">Campbell, D., Rane, S., Giallanza, T., De Sabbata, N., Ghods, K., Joshi, A., Ku, A., Frankland, S.M., Griffiths, T.L., Cohen, J.D., & Webb, T. (2024). Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem. <i>Advances in Neural Information Processing Systems, 37</i>, 113436–113460. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/cdcc6d47c1627350014a3076112ab824-Abstract-Conference.html">https://proceedings.neurips.cc/paper_files/paper/2024/hash/cdcc6d47c1627350014a3076112ab824-Abstract-Conference.html</a></p>
 
@@ -323,6 +329,8 @@
 <p id="Chomsky65">Chomsky, N. (1965). <i>Aspects of the Theory of Syntax. </i> MIT Press. </p>
 
 <p id="ChopekHultbornBrownstone19">Chopek, J.W., Hultborn, H., & Brownstone, R.M. (2019). Multistable properties of human subthalamic nucleus neurons in Parkinson’s disease. <i>Proceedings of the National Academy of Sciences, 116</i>, 24326–24333. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1912128116">https://www.pnas.org/doi/abs/10.1073/pnas.1912128116</a><a href="http://doi.org/10.1073/pnas.1912128116"> http://doi.org/10.1073/pnas.1912128116</a></p>
+
+<p id="ChoromanskaHenaffMathieuEtAl15">Choromanska, A., Henaff, M., Mathieu, M., Arous, G.B., & LeCun, Y. (2015). <i>The Loss Surfaces of Multilayer Networks. </i>In Proceedings of the Eighteenth International Conference on Artificial Intelligence and Statistics (pp. 192–204). PMLR. <a href="https://proceedings.mlr.press/v38/choromanska15.html">https://proceedings.mlr.press/v38/choromanska15.html</a></p>
 
 <p id="ChurchlandShenoy24">Churchland, M.M., & Shenoy, K.V. (2024). Preparatory activity and the expansive null-space. <i>Nature Reviews Neuroscience, 25</i>, 213–236. <a href="https://www.nature.com/articles/s41583-024-00796-z">https://www.nature.com/articles/s41583-024-00796-z</a><a href="http://doi.org/10.1038/s41583-024-00796-z"> http://doi.org/10.1038/s41583-024-00796-z</a></p>
 
@@ -626,6 +634,8 @@
 
 <p id="GaovanBeugenDeZeeuw12">Gao, Z., Beugen, B.J., & De Zeeuw, C.I. (2012). Distributed synergistic plasticity and cerebellar learning. <i>Nature Reviews Neuroscience, 13</i>, 619–635. <a href="https://www.nature.com/articles/nrn3312">https://www.nature.com/articles/nrn3312</a><a href="http://doi.org/10.1038/nrn3312"> http://doi.org/10.1038/nrn3312</a></p>
 
+<p id="GaoZhouWangEtAl19">Gao, S., Zhou, M., Wang, Y., Cheng, J., Yachi, H., & Wang, J. (2019). Dendritic Neuron Model With Effective Learning Algorithms for Classification, Approximation, and Prediction. <i>IEEE Transactions on Neural Networks and Learning Systems, 30</i>, 601–614. <a href="https://ieeexplore.ieee.org/abstract/document/8409490">https://ieeexplore.ieee.org/abstract/document/8409490</a><a href="http://doi.org/10.1109/TNNLS.2018.2846646"> http://doi.org/10.1109/TNNLS.2018.2846646</a></p>
+
 <p id="GarciaSteeleMauk99">Garcia, K.S., Steele, P.M., & Mauk, M.D. (1999). Cerebellar Cortex Lesions Prevent Acquisition of Conditioned Eyelid Responses. <i>Journal of Neuroscience, 19</i>, 10940–10947. <a href="https://www.jneurosci.org/content/19/24/10940">https://www.jneurosci.org/content/19/24/10940</a><a href="http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999"> http://doi.org/10.1523/JNEUROSCI.19-24-10940.1999</a></p>
 
 <p id="GarwiczChristenssonPsouni09">Garwicz, M., Christensson, M., & Psouni, E. (2009). A unifying model for timing of walking onset in humans and other mammals. <i>Proceedings of the National Academy of Sciences, 106</i>, 21889–21893. <a href="https://www.pnas.org/doi/full/10.1073/pnas.0905777106">https://www.pnas.org/doi/full/10.1073/pnas.0905777106</a><a href="http://doi.org/10.1073/pnas.0905777106"> http://doi.org/10.1073/pnas.0905777106</a></p>
@@ -858,6 +868,8 @@
 
 <p id="HorakAnderson84">Horak, F.B., & Anderson, M.E. (1984). Influence of globus pallidus on arm movements in monkeys. I. Effects of kainic acid-induced lesions. <i>Journal of Neurophysiology, 52</i>, 290–304. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1984.52.2.290">https://journals.physiology.org/doi/abs/10.1152/jn.1984.52.2.290</a><a href="http://doi.org/10.1152/jn.1984.52.2.290"> http://doi.org/10.1152/jn.1984.52.2.290</a></p>
 
+<p id="HornikStinchcombeWhite89">Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. <i>Neural Networks, 2</i>, 359–366. <a href="https://www.sciencedirect.com/science/article/pii/0893608089900208">https://www.sciencedirect.com/science/article/pii/0893608089900208</a><a href="http://doi.org/10.1016/0893-6080(89)90020-8"> http://doi.org/10.1016/0893-6080(89)90020-8</a></p>
+
 <p id="HouckPerson14">Houck, B.D., & Person, A.L. (2014). Cerebellar loops: A review of the nucleocortical pathway. <i>Cerebellum (London, England), 13</i>, 378–385. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207368/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207368/</a><a href="http://doi.org/10.1007/s12311-013-0543-2"> http://doi.org/10.1007/s12311-013-0543-2</a></p>
 
 <p id="HouckPerson15">Houck, B.D., & Person, A.L. (2015). Cerebellar premotor output neurons collateralize to innervate the cerebellar cortex. <i>Journal of Comparative Neurology, 523</i>, 2254–2271. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23787">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.23787</a><a href="http://doi.org/10.1002/cne.23787"> http://doi.org/10.1002/cne.23787</a></p>
@@ -926,6 +938,8 @@
 
 <p id="JaegerHaas04">Jaeger, H., & Haas, H. (2004). Harnessing nonlinearity: predicting chaotic systems and saving energy in wireless communication. <i>Science (New York, N.Y.), 304</i>, 78–80. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15064413">http://www.ncbi.nlm.nih.gov/pubmed/15064413</a></p>
 
+<p id="JaeggiBurkartVanSchaik10">Jaeggi, A.V., Burkart, J.M., & Van Schaik, C.P. (2010). On the psychology of cooperation in humans and other primates: combining the natural history and experimental evidence of prosociality. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 365</i>, 2723–2735. <a href="https://doi.org/10.1098/rstb.2010.0118">https://doi.org/10.1098/rstb.2010.0118</a><a href="http://doi.org/10.1098/rstb.2010.0118"> http://doi.org/10.1098/rstb.2010.0118</a></p>
+
 <p id="JahrStevens90">Jahr, C.E., & Stevens, C.F. (1990). A quantitative description of NMDA receptor-channel kinetic behavior. <i>Journal of Neuroscience, 10</i>, 1830–1837. <a href="http://www.jneurosci.org/content/10/6/1830">http://www.jneurosci.org/content/10/6/1830</a><a href="http://doi.org/10.1523/JNEUROSCI.10-06-01830.1990"> http://doi.org/10.1523/JNEUROSCI.10-06-01830.1990</a></p>
 
 <p id="JainMurphy-BaumdeRosenrollEtAl20">Jain, V., Murphy-Baum, B.L., deRosenroll, G., Sethuramanujam, S., Delsey, M., Delaney, K.R., & Awatramani, G.B. (2020). The functional organization of excitation and inhibition in the dendrites of mouse direction-selective ganglion cells. <i>eLife, 9</i>, e52949. <a href="https://doi.org/10.7554/eLife.52949">https://doi.org/10.7554/eLife.52949</a><a href="http://doi.org/10.7554/eLife.52949"> http://doi.org/10.7554/eLife.52949</a></p>
@@ -961,6 +975,8 @@
 <p id="Kahneman11">Kahneman, D. (2011). <i>Thinking, Fast and Slow. </i> Macmillan. </p>
 
 <p id="KahnemanTversky84">Kahneman, D., & Tversky, A. (1984). Choices, values and frames. <i>American Psychologist, 39</i>, 341–50. </p>
+
+<p id="KaplanMcCandlishHenighanEtAl20">Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D. (2020). Scaling Laws for Neural Language Models. <a href="http://arxiv.org/abs/2001.08361">http://arxiv.org/abs/2001.08361</a><a href="http://doi.org/10.48550/arXiv.2001.08361"> http://doi.org/10.48550/arXiv.2001.08361</a></p>
 
 <p id="KarbachKray21">Karbach, J., & Kray, J. (2021). Executive Function Training. In T. Strobach, & J. Karbach (Eds.), <i>Cognitive Training: An Overview of Features and Applications</i> (pp. 199–212). Springer International Publishing. <a href="https://doi.org/10.1007/978-3-030-39292-5_14">https://doi.org/10.1007/978-3-030-39292-5_14</a><a href="http://doi.org/10.1007/978-3-030-39292-5_14"> http://doi.org/10.1007/978-3-030-39292-5_14</a></p>
 
@@ -1620,11 +1636,19 @@
 
 <p id="SaundersMacoskoWysokerEtAl18">Saunders, A., Macosko, E.Z., Wysoker, A., Goldman, M., Krienen, F.M., Rivera, H., Bien, E., Baum, M., Bortolin, L., Wang, S., Goeva, A., Nemesh, J., Kamitaki, N., Brumbaugh, S., Kulp, D., & McCarroll, S.A. (2018). Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain. <i>Cell, 174</i>, 1015-1030.e16. <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30955-3">https://www.cell.com/cell/abstract/S0092-8674(18)30955-3</a><a href="http://doi.org/10.1016/j.cell.2018.07.028"> http://doi.org/10.1016/j.cell.2018.07.028</a></p>
 
+<p id="SaxeMcClellandGanguli13">Saxe, A.M., McClelland, J.L., & Ganguli, S. (2013). Exact solutions to the nonlinear dynamics of learning in deep linear neural networks. <a href="https://arxiv.org/abs/1312.6120v3">https://arxiv.org/abs/1312.6120v3</a></p>
+
 <p id="ScellierBengio17">Scellier, B., & Bengio, Y. (2017). Equilibrium propagation: Bridging the gap between energy-based models and backpropagation. <i>Frontiers in Computational Neuroscience, 11</i>, <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415673/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415673/</a><a href="http://doi.org/10.3389/fncom.2017.00024"> http://doi.org/10.3389/fncom.2017.00024</a></p>
+
+<p id="SchaferZimmermann06">Schäfer, A.M., & Zimmermann, H.G. (2006). Recurrent Neural Networks Are Universal Approximators. In S.D. Kollias, A. Stafylopatis, W. Duch, & E. Oja (Eds.), <i>Artificial Neural Networks – ICANN 2006</i> (pp. 632–640). Springer. <a href="http://doi.org/10.1007/11840817_66"> http://doi.org/10.1007/11840817_66</a></p>
 
 <p id="SchapiroRogersCordovaEtAl13">Schapiro, A.C., Rogers, T.T., Cordova, N.I., Turk-Browne, N.B., & Botvinick, M.M. (2013). Neural representations of events arise from temporal community structure. <i>Nature Neuroscience, 16</i>, 486–492. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23416451">http://www.ncbi.nlm.nih.gov/pubmed/23416451</a></p>
 
+<p id="Schmidhuber08">Schmidhuber, J. (2008). The last inventor of the telephone. <i>Science, 319</i>, 1759. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18369122">http://www.ncbi.nlm.nih.gov/pubmed/18369122</a><a href="http://doi.org/DOI: 10.1126/science.319.5871.1759b"> http://doi.org/DOI: 10.1126/science.319.5871.1759b</a></p>
+
 <p id="Schmidhuber15a">Schmidhuber, J. (2015). Deep learning in neural networks: An overview. <i>Neural Networks, 61</i>, 85–117. <a href="http://www.sciencedirect.com/science/article/pii/S0893608014002135">http://www.sciencedirect.com/science/article/pii/S0893608014002135</a><a href="http://doi.org/10.1016/j.neunet.2014.09.003"> http://doi.org/10.1016/j.neunet.2014.09.003</a></p>
+
+<p id="Schmidhuber25">Schmidhuber, J. (2025). Annotated History of Modern AI and Deep Learning. <a href="http://arxiv.org/abs/2212.11279">http://arxiv.org/abs/2212.11279</a><a href="http://doi.org/10.48550/arXiv.2212.11279"> http://doi.org/10.48550/arXiv.2212.11279</a></p>
 
 <p id="SchmidhuberGersEck02">Schmidhuber, J., Gers, F., & Eck, D. (2002). Learning nonregular languages: A comparison of simple recurrent networks and LSTM. <i>Neural Computation, 14</i>, 2039–2042. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12184841">http://www.ncbi.nlm.nih.gov/pubmed/12184841</a></p>
 
@@ -1788,6 +1812,8 @@
 
 <p id="Swanson87">Swanson, L.W. (1987). The limbic region. I: The septohippocampal system. <i>Handbook ofchemical neuroanatomy, 5</i>, 125–279. <a href="https://cir.nii.ac.jp/crid/1573668924489461888">https://cir.nii.ac.jp/crid/1573668924489461888</a></p>
 
+<p id="SwapnaRekhaNayakBehera20">Swapna Rekha, H., Nayak, J., & Behera, H.S. (2020). Pi-Sigma Neural Network: Survey of a Decade Progress. In A.K. Das, J. Nayak, B. Naik, S. Dutta, & D. Pelusi (Eds.), <i>Computational Intelligence in Pattern Recognition</i> (pp. 429–441). Springer. <a href="http://doi.org/10.1007/978-981-15-2449-3_37"> http://doi.org/10.1007/978-981-15-2449-3_37</a></p>
+
 <p id="SwensonCastro83">Swenson, R.S., & Castro, A.J. (1983). The afferent connections of the inferior olivary complex in rats. An anterograde study using autoradiographic and axonal degeneration techniques. <i>Neuroscience, 8</i>, 259–275. <a href="https://www.sciencedirect.com/science/article/pii/0306452283900647">https://www.sciencedirect.com/science/article/pii/0306452283900647</a><a href="http://doi.org/10.1016/0306-4522(83)90064-7"> http://doi.org/10.1016/0306-4522(83)90064-7</a></p>
 
 <p id="SylvestreCullen99">Sylvestre, P.A., & Cullen, K.E. (1999). Quantitative Analysis of Abducens Neuron Discharge Dynamics During Saccadic and Slow Eye Movements. <i>Journal of Neurophysiology, 82</i>, 2612–2632. <a href="https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2612">https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2612</a><a href="http://doi.org/10.1152/jn.1999.82.5.2612"> http://doi.org/10.1152/jn.1999.82.5.2612</a></p>
@@ -1853,6 +1879,8 @@
 <p id="Tomasello01">Tomasello, M. (2001). <i>The Cultural Origins of Human Cognition. </i> Harvard University Press. </p>
 
 <p id="TononiCirelli03">Tononi, G., & Cirelli, C. (2003). Sleep and synaptic homeostasis: a hypothesis. <i>Brain Research Bulletin, 62</i>, 143–150. <a href="https://www.sciencedirect.com/science/article/pii/S0361923003002594">https://www.sciencedirect.com/science/article/pii/S0361923003002594</a><a href="http://doi.org/10.1016/j.brainresbull.2003.09.004"> http://doi.org/10.1016/j.brainresbull.2003.09.004</a></p>
+
+<p id="TononiKoch15">Tononi, G., & Koch, C. (2015). Consciousness: here, there and everywhere? <i>Phil. Trans. R. Soc. B, 370</i>, 20140167. <a href="http://rstb.royalsocietypublishing.org/content/370/1668/20140167">http://rstb.royalsocietypublishing.org/content/370/1668/20140167</a><a href="http://doi.org/10.1098/rstb.2014.0167"> http://doi.org/10.1098/rstb.2014.0167</a></p>
 
 <p id="TorradoPachecoBottorffGaoEtAl21">Torrado Pacheco, A., Bottorff, J., Gao, Y., & Turrigiano, G.G. (2021). Sleep promotes downward firing rate homeostasis. <i>Neuron, 109</i>, 530-544.e6. <a href="https://www.sciencedirect.com/science/article/pii/S0896627320308606">https://www.sciencedirect.com/science/article/pii/S0896627320308606</a><a href="http://doi.org/10.1016/j.neuron.2020.11.001"> http://doi.org/10.1016/j.neuron.2020.11.001</a></p>
 

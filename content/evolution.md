@@ -118,5 +118,9 @@ Thus, a consideration of the evolutionary trajectory provides an important way o
 
 [[#figure_ring2]] shows a more elaborated dual-ring structure (from [[@PuellesAlonsoGarcia-CaleroEtAl19]]) with the hippocampal and associated subfields differentiating from the medial mesocortical ring structures, which then contain the different sensory-coding areas of the neocortex proper, where the full 6-layer structure emerges. [[#figure_embryo]] shows the structure of the mesocortical ring in a human embryo at gestational week 9, demonstrating the principle that _ontogeny recapitulates phylogeny_ (the developmental trajectory recapitulates the evolutionary one).
 
+## Evolution of human social motivations
 
+The strong [[emotion#social needs]] in humans, including our desire to share (food, resources, information), likely drives our ability to form and evolve cultures, that are such an essential contributor to human intelligence ([[@Tomasello01]]). This strong sharing drive is not evident in even our closest primate relatives (e.g., chimpanzees), and is likely due to a transition to cooperative breeding, which is associated with similar patterns of cooperative behavior in other primate species ([[@JaeggiBurkartVanSchaik10]]; [[@BurkartCerritoNatalucciEtAl25]]).
+
+Interestingly, even though there are multiple benefits of cooperative breeding, it also has costs, and is thus not very prevalent among primate species. These costs include the commitment of time and effort of non-breeding individuals toward the rearing of others, who may not be closely genetically related. In addition, the strong social dynamics that result can also end up limiting the net ability of individuals to reproduce, through stronger social control over reproduction and stronger prohibitions on inbreeding.
 
