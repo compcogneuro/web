@@ -534,6 +534,8 @@
 
 <p id="Elston03">Elston, G.N. (2003). Cortex, cognition and the cell: new insights into the pyramidal neuron and prefrontal function. <i>Cerebral Cortex, 13</i>, 1124–1138. <a href="http://www.ncbi.nlm.nih.gov/pubmed/14576205">http://www.ncbi.nlm.nih.gov/pubmed/14576205</a></p>
 
+<p id="EmanuelEldar23">Emanuel, A., & Eldar, E. (2023). Emotions as computations. <i>Neuroscience & Biobehavioral Reviews, 144</i>, 104977. <a href="https://www.sciencedirect.com/science/article/pii/S0149763422004663">https://www.sciencedirect.com/science/article/pii/S0149763422004663</a><a href="http://doi.org/10.1016/j.neubiorev.2022.104977"> http://doi.org/10.1016/j.neubiorev.2022.104977</a></p>
+
 <p id="EncisoRempeDmitrievEtAl10">Enciso, G.A., Rempe, M., Dmitriev, A.V., Gavrikov, K.E., Terman, D., & Mangel, S.C. (2010). A model of direction selectivity in the starburst amacrine cell network. <i>Journal of Computational Neuroscience, 28</i>, 567–578. <a href="https://doi.org/10.1007/s10827-010-0238-3">https://doi.org/10.1007/s10827-010-0238-3</a><a href="http://doi.org/10.1007/s10827-010-0238-3"> http://doi.org/10.1007/s10827-010-0238-3</a></p>
 
 <p id="EspositoCapelliArber14">Esposito, M.S., Capelli, P., & Arber, S. (2014). Brainstem nucleus MdV mediates skilled forelimb motor tasks. <i>Nature, 508</i>, 351–356. <a href="https://www.nature.com/articles/nature13023">https://www.nature.com/articles/nature13023</a><a href="http://doi.org/10.1038/nature13023"> http://doi.org/10.1038/nature13023</a></p>
@@ -864,7 +866,7 @@
 
 <p id="Hopfield95">Hopfield, J.J. (1995). Pattern recognition computation using action potential timing for stimulus representation. <i>Nature, 376</i>, 33. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7596429">http://www.ncbi.nlm.nih.gov/pubmed/7596429</a></p>
 
-<p id="HopfieldTank85">Hopfield, J.J., & Tank, D.W. (1985). {`Neural'} computation of decisions in optimization problems. <i>Biological Cybernetics, 52</i>, 141–152. <a href="http://www.ncbi.nlm.nih.gov/pubmed/4027280">http://www.ncbi.nlm.nih.gov/pubmed/4027280</a></p>
+<p id="HopfieldTank85">Hopfield, J.J., & Tank, D.W. (1985). "Neural" computation of decisions in optimization problems. <i>Biological Cybernetics, 52</i>, 141–152. <a href="http://www.ncbi.nlm.nih.gov/pubmed/4027280">http://www.ncbi.nlm.nih.gov/pubmed/4027280</a></p>
 
 <p id="HorakAnderson84">Horak, F.B., & Anderson, M.E. (1984). Influence of globus pallidus on arm movements in monkeys. I. Effects of kainic acid-induced lesions. <i>Journal of Neurophysiology, 52</i>, 290–304. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1984.52.2.290">https://journals.physiology.org/doi/abs/10.1152/jn.1984.52.2.290</a><a href="http://doi.org/10.1152/jn.1984.52.2.290"> http://doi.org/10.1152/jn.1984.52.2.290</a></p>
 

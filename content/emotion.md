@@ -27,7 +27,7 @@ Psychologically based accounts have struggled with attempts to categorize the nu
 
 Computationally, much of this falls within the domain of [[reinforcement learning]] (RL). However, RL typically only deals with a very limited scope of "emotion", as captured in a single scalar reward value, whereas the Rubicon framework encompasses a broader range of states and the relationship between needs / drives and the current internal state, including goals and **motivational** state.
 
-The term **affect** typically encompasses a broader scope than emotion, but we use them essentially interchangably here, under the above definition. Likewise, the psychological distinction between **mood** and emotion is not a primary concern in our framework, where the relevant internal states can extend across a range of different timescales.
+The term **affect** typically encompasses a broader scope than emotion, but we use them essentially interchangeably here, under the above definition. See [[#moods and longer time scales]] for potential distinctions associated with longer time scales of emotional processing.
 
 ## Categorizing emotion
 
@@ -65,4 +65,10 @@ Like many other species, humans are strongly social animals, and we depend on ot
 Furthermore, [[@^Tomasello01]] argues that humans have a unique drive to share that is not evident in even our closest primate relatives (e.g., chimpanzees). This sharing instinct is what drives the pervasive nature of our cultural evolution, where we acquire much of our knowledge from the accumulated wisdom of those who have come before us. This drive likely arose from a transition to cooperative breeding, which drives similar patterns of cooperative behavior in other primate species ([[@JaeggiBurkartVanSchaik10]]; [[@BurkartCerritoNatalucciEtAl25]]).
 
 A major function of emotion is to communicate and share our internal states with others, so they can help us satisfy our needs as well. This is nicely conveyed in the movie _Inside Out_ with respect to the important role of sadness. Considerable work has identified a set of facial expressions that are universally recognized across cultures ([[@EkmanFriesen75]]): anger, disgust, fear, happiness, sadness and surprise. Note that this small set is not thought to be exhaustive, and not all emotional states are communicated: the ones on this list are those that are clearly useful to communicate.
+
+## Moods and longer time scales
+
+Moods are generally considered to persist over longer periods of time than emotions, but the exact time scales and dynamics involved are unclear. [[@^EmanuelEldar23]] articulate a clear framework where moods are effectively longer time-scale running averages of momentary emotional states. However, it subjectively feels like there tend to be more _discrete_ transitions between mood states relative to the continuously updating processes described by this model.
+
+For example, a sad / depressed mood could be triggered by a significant lowering of expectations about a specific situation, after a sustained period of negative outcomes (disappointments relative to the current expectations). In other words, this would be a "giving up on a dream" kind of situation in an extreme case, with less extreme such situations presumably driving less severe and long-lasting mood states.
 
