@@ -3,14 +3,15 @@ module github.com/compcogneuro/web
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.35
-	cogentcore.org/lab v0.1.13
-	github.com/emer/axon/v2 v2.0.0-dev0.3.12
+	cogentcore.org/core v0.3.36
+	cogentcore.org/lab v0.1.15
+	github.com/emer/axon/v2 v2.0.0-dev0.3.13
 	github.com/emer/emergent/v2 v2.0.0-dev0.1.12
 )
 
 require (
-	codeberg.org/go-pdf/fpdf v0.11.0 // indirect
+	codeberg.org/go-pdf/fpdf v0.11.1 // indirect
+	git.sr.ht/~sbinet/overlayfs v0.1.1 // indirect
 	github.com/Bios-Marcel/wastebasket/v2 v2.0.3 // indirect
 	github.com/Masterminds/vcs v1.13.3 // indirect
 	github.com/adrg/strutil v0.3.1 // indirect
@@ -21,6 +22,7 @@ require (
 	github.com/bramvdbogaerde/go-scp v1.6.0 // indirect
 	github.com/chewxy/math32 v1.11.2 // indirect
 	github.com/cogentcore/readline v0.1.3 // indirect
+	github.com/cogentcore/star-tex v0.7.2-0.20260625151004-a16970c7d698 // indirect
 	github.com/cogentcore/yaegi v0.0.0-20260116172027-700fbf8949f3 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
 	github.com/ericchiang/css v1.4.0 // indirect
@@ -61,7 +63,6 @@ require (
 	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/tools v0.44.0 // indirect
 	gonum.org/v1/gonum v0.17.0 // indirect
-	modernc.org/knuth v0.5.4 // indirect
+	modernc.org/knuth v0.5.5 // indirect
 	modernc.org/token v1.1.0 // indirect
-	star-tex.org/x/tex v0.7.1 // indirect
 )

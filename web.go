@@ -5,6 +5,7 @@
 package main
 
 import (
+	"bytes"
 	"embed"
 
 	"cogentcore.org/core/content"
@@ -13,7 +14,7 @@ import (
 	"cogentcore.org/core/icons"
 	"cogentcore.org/core/styles"
 	"cogentcore.org/core/text/csl"
-	_ "cogentcore.org/core/text/tex" // include this to get math
+	"cogentcore.org/core/text/tex/texcache"
 	"cogentcore.org/core/tree"
 	_ "github.com/emer/axon/v2/yaegiaxon"
 )
@@ -25,9 +26,13 @@ import (
 // todo: include link for configuring here
 
 //go:generate mdcite -vv -refs ./ccnlab.json -d ./content
+//go:generate go run ./genmath.go
 
 //go:embed content citedrefs.json
 var econtent embed.FS
+
+//go:embed mathcache.json.gz
+var mathcache []byte
 
 //go:embed icon.svg
 var icon string
@@ -38,6 +43,8 @@ var icon string
 var sims map[string]func(tree.Node)
 
 func main() {
+	texcache.ReadGzip(bytes.NewBuffer(mathcache))
+	texcache.SetShapeMath()
 	core.AppIcon = icon
 	content.Settings.SiteTitle = "Computational Cognitive Neuroscience"
 	content.OfflineURL = "https://compcogneuro.org"
