@@ -40,10 +40,10 @@ github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZQ=
 github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
-github.com/emer/axon/v2 v2.0.0-dev0.3.14 h1:KxkHuvnN2tB1Ss5VXwQmEpBzfyGJvoM4YISjSnjMCHU=
-github.com/emer/axon/v2 v2.0.0-dev0.3.14/go.mod h1:I++s3JsYQzd31fjiAwkHMoukW8ne3oVOSrbVQ6Pqfkg=
-github.com/emer/emergent/v2 v2.0.0-dev0.1.13 h1:7prZxasrJJIn1oG5pgx8agQJ8zdiEwAj6jVKPrYCZxY=
-github.com/emer/emergent/v2 v2.0.0-dev0.1.13/go.mod h1:FVeijRQraig+MaivmO0shlgA66+vMLWKRjDDIAG0xkw=
+github.com/emer/axon/v2 v2.0.0-dev0.3.15 h1:NhJA2fokorzqh0itQ9mFXdysEXEM7Ip67XuExO+Jvm0=
+github.com/emer/axon/v2 v2.0.0-dev0.3.15/go.mod h1:MIWSBsgOlrJNOSs50lx3hMDc+5UPAJ5TEd8g15lgk/8=
+github.com/emer/emergent/v2 v2.0.0-dev0.1.14 h1:96DMJcq8xC7QTJd0mgkdprqZ2InG4ypQoSoBxhP1yyM=
+github.com/emer/emergent/v2 v2.0.0-dev0.1.14/go.mod h1:FVeijRQraig+MaivmO0shlgA66+vMLWKRjDDIAG0xkw=
 github.com/ericchiang/css v1.4.0 h1:OlkWiPGHZpWIthKa2YBSAh00XwOT1PUtaoye9bKkTqw=
 github.com/ericchiang/css v1.4.0/go.mod h1:sVSdL+MFR9Q4cKJMQzpIkHIDOLiK+7Wmjjhq7D+MubA=
 github.com/fsnotify/fsnotify v1.9.0 h1:2Ml+OJNzbYCTzsxtv8vKSFD9PbJjmhYF14k/jKC7S9k=

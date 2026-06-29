@@ -5,8 +5,8 @@ go 1.25.6
 require (
 	cogentcore.org/core v0.3.37
 	cogentcore.org/lab v0.1.16
-	github.com/emer/axon/v2 v2.0.0-dev0.3.14
-	github.com/emer/emergent/v2 v2.0.0-dev0.1.13
+	github.com/emer/axon/v2 v2.0.0-dev0.3.15
+	github.com/emer/emergent/v2 v2.0.0-dev0.1.14
 )
 
 require (
