@@ -30,3 +30,4 @@ These are ecologically reasonable properties under the assumption that reward is
 
 To simplify the use of a consistent motor sequence across the parallel-data processing used on GPU (NData > 1), we just keep the target sequence as 0,1,2 etc, because the model doesn't know any better, and the random initial weights have no bias either.
 
+</div>

@@ -5,7 +5,6 @@
 package main
 
 import (
-	"bytes"
 	"embed"
 
 	"cogentcore.org/core/content"
@@ -32,7 +31,7 @@ import (
 var econtent embed.FS
 
 //go:embed mathcache.json.gz
-var mathcache []byte
+var mathcache embed.FS
 
 //go:embed icon.svg
 var icon string
@@ -43,7 +42,7 @@ var icon string
 var sims map[string]func(tree.Node)
 
 func main() {
-	texcache.ReadGzip(bytes.NewBuffer(mathcache))
+	texcache.OpenFS(mathcache, "mathcache.json.gz")
 	texcache.SetShapeMath()
 	core.AppIcon = icon
 	content.Settings.SiteTitle = "Computational Cognitive Neuroscience"

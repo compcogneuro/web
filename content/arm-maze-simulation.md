@@ -10,3 +10,5 @@ This model explores how the [[Rubicon]] model exhibits goal-driven decision-maki
 
 [[@FriedmanHommaGibbEtAl15]] shows that PL projections to dorsomedial striatum (ALM / dlPFC motor planning area) activate inhibitory interneurons in striosomes, which then inhibit striosomes, during high-conflict cases where cost-benefit ratio is high. Inhibiting this PL projection led to an increase in high-reward choices specifically in the high-cost, high-reward case. Activating PL had opposite effects. Activating ACC lead to increase in higher-reward preference across the board.
 
+</div>
+

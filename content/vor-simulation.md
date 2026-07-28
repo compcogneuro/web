@@ -27,3 +27,5 @@ GAIN = balance between these two! not either one alone. More gain -> E_i+, E_c-;
 
 Overall most of the HGVP Purkinje cells respond too late to drive the earliest modified component of the VOR, which must be driven by changes in the brain stem vestibular inputs to FTNs: the HGVP may contribute to plasticity but the FTN neurons are clearly the locus of most of the critical learning.
 
+</div>
+

@@ -7,7 +7,6 @@
 package main
 
 import (
-	"bytes"
 	"embed"
 	"fmt"
 
@@ -23,10 +22,10 @@ import (
 var econtent embed.FS
 
 //go:embed mathcache.json.gz
-var mathcache []byte
+var mathcache embed.FS
 
 func main() {
-	texcache.ReadGzip(bytes.NewBuffer(mathcache))
+	texcache.OpenFS(mathcache, "mathcache.json.gz")
 	content.Settings.SiteTitle = "Generate Cache Math"
 	content.OfflineURL = "https://compcogneuro.org"
 	b := core.NewBody("Generate Cache Math")
