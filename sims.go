@@ -8,6 +8,7 @@ package main
 
 import (
 	"cogentcore.org/core/tree"
+	"github.com/compcogneuro/web/sims/detector"
 	"github.com/compcogneuro/web/sims/stability"
 	"github.com/compcogneuro/web/sims/urakubo"
 	"github.com/emer/axon/v2/sims/bgdorsal"
@@ -27,6 +28,7 @@ func init() {
 		"bgdorsal":  e[bgdorsal.Sim, bgdorsal.Config],
 		"bgventral": e[bgventral.Sim, bgventral.Config],
 		"deepfsa":   e[deepfsa.Sim, deepfsa.Config],
+		"detector":  e[detector.Sim, detector.Config],
 		"inhib":     e[inhib.Sim, inhib.Config],
 		"neuron":    e[neuron.Sim, neuron.Config],
 		"stability": e[stability.Sim, stability.Config],
