@@ -16,7 +16,7 @@ The network receives input activations from two cortical areas that represent th
 
 The BG model drives an overall disinhibitory _gating_ of the MD thalamus, which in turn projects back up into the frontal cortex to determine whether to lock-in the current goal being considered (i.e., to cross the Rubicon and transition into the goal-engaged state), or to skip this goal and move on to considering another. The dopamine feedback is computed (in the simulation code in this case -- see the [[PVLV simulation]] for a biologically based model) as a function of this goal-gating in relation to the balance of positive vs. negative value represented in the input. If this balance is net positive, then the model is rewarded for disinhibitory gating, whereas it is punished if the balance is net negative. If nothing happens, then there is no dopamine feedback (i.e., "nothing wagered, nothing won").
 
-* Click [[#sim_vmbg:Wts]] in the Network variables, and then on [[#sim_vmbg:r.Wt]] to view the receiving weights into neurons as you click on them in the network.
+* Click [[#sim-bgventral:Wts]] in the Network variables, and then on [[#sim-bgventral:r.Wt]] to view the receiving weights into neurons as you click on them in the network.
 
 You should see the initial random weights associated with the pathways indicated by the arrows. The CT layer has recurrent self connections that allow it to better maintain information over time, so that it can leverage information from points even earlier than the prior trial.
 
