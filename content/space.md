@@ -31,6 +31,8 @@ Both of these quantities can be computed by incrementally updating an internal c
 
 In order to perform such an integration, you need some kind of representation of the amount of time over which the acceleration has occurred. Indeed, the importance of accurate timekeeping represented a major technical challenge for early ocean explorers. It appears that the theta rhythm, which is generated in the same system that drives this path integration process, provides the fundamental timing signal for this integration process.
 
+Role of hippocampus: [[@WallaceWhishaw03]]; [[@WhishawMcKennaMaaswinkel97]]
+
 ## The mammillothalamic system
 
 {id="figure_mmt" style="height:50em"}
@@ -53,4 +55,13 @@ The evident solution to this and other such fine tuning problems in the [[vestib
 This same error-driven [[predictive learning]] mechanism in the cerebellum can also tune the ring attractor synapses to accurately maintain a consistent head direction bump in the absence of input, and also accurately update to reflect the net head and body movement.
 
 <!--- TODO: evidence on head movement velocity cells in DTN, head dir in LMN, etc -->
+
+
+## Hippocampal replay and preplay
+
+Relevant literature: [[@GillespieAstudilloMayaDenovellisEtAl21]] [[@SchmidtGagliardiRedish26]] [[@YuJiOrmondEtAl26]] [[@TangMeiHarveyEtAl26]]
+
+## Graphs vs. maps
+
+[[@Warren19]], [[@PeerBrunecNewcombeEtAl21]], [[@RajuGuntupalliZhouEtAl24]]; [[@Parra-BarreroVijayabaskaranSeabrookEtAl23]]
 
