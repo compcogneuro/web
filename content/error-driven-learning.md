@@ -1,5 +1,4 @@
 +++
-Name = "Error-driven learning"
 Categories = ["Learning"]
 bibfile = "ccnlab.json"
 +++

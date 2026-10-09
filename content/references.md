@@ -672,6 +672,8 @@
 
 <p id="GiguereGoldman-Rakic88">Giguere, M., & Goldman‐Rakic, P.S. (1988). Mediodorsal nucleus: Areal, laminar, and tangential distribution of afferents and efferents in the frontal lobe of rhesus monkeys. <i>Journal of Comparative Neurology, 277</i>, 195–213. <a href="http://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902770204">http://onlinelibrary.wiley.com/doi/abs/10.1002/cne.902770204</a><a href="http://doi.org/10.1002/cne.902770204"> http://doi.org/10.1002/cne.902770204</a></p>
 
+<p id="GillespieAstudilloMayaDenovellisEtAl21">Gillespie, A.K., Astudillo Maya, D.A., Denovellis, E.L., Liu, D.F., Kastner, D.B., Coulter, M.E., Roumis, D.K., Eden, U.T., & Frank, L.M. (2021). Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice. <i>Neuron, <a href="https://www.sciencedirect.com/science/article/pii/S0896627321005730">https://www.sciencedirect.com/science/article/pii/S0896627321005730</a></i><a href="http://doi.org/10.1016/j.neuron.2021.07.029"> http://doi.org/10.1016/j.neuron.2021.07.029</a></p>
+
 <p id="GilliesWillshaw06">Gillies, A., & Willshaw, D. (2006). Membrane Channel Interactions Underlying Rat Subthalamic Projection Neuron Rhythmic and Bursting Activity. <i>Journal of Neurophysiology, 95</i>, 2352–2365. <a href="http://journals.physiology.org/doi/full/10.1152/jn.00525.2005">http://journals.physiology.org/doi/full/10.1152/jn.00525.2005</a><a href="http://doi.org/10.1152/jn.00525.2005"> http://doi.org/10.1152/jn.00525.2005</a></p>
 
 <p id="GilmartinBalderstonHelmstetter14">Gilmartin, M.R., Balderston, N.L., & Helmstetter, F.J. (2014). Prefrontal cortical regulation of fear learning. <i>Trends in Neurosciences, 37</i>, 455–464. <a href="https://www.sciencedirect.com/science/article/pii/S0166223614000794">https://www.sciencedirect.com/science/article/pii/S0166223614000794</a><a href="http://doi.org/10.1016/j.tins.2014.05.004"> http://doi.org/10.1016/j.tins.2014.05.004</a></p>
@@ -1456,6 +1458,8 @@
 
 <p id="ParnaudeauBolkanKellendonk18">Parnaudeau, S., Bolkan, S.S., & Kellendonk, C. (2018). The mediodorsal thalamus: An essential partner of the prefrontal cortex for cognition. <i>Biological Psychiatry, 83</i>, 648–656. <a href="http://www.sciencedirect.com/science/article/pii/S0006322317321935">http://www.sciencedirect.com/science/article/pii/S0006322317321935</a><a href="http://doi.org/10.1016/j.biopsych.2017.11.008"> http://doi.org/10.1016/j.biopsych.2017.11.008</a></p>
 
+<p id="Parra-BarreroVijayabaskaranSeabrookEtAl23">Parra-Barrero, E., Vijayabaskaran, S., Seabrook, E., Wiskott, L., & Cheng, S. (2023). A map of spatial navigation for neuroscience. <i>Neuroscience & Biobehavioral Reviews, 152</i>, 105200. <a href="https://linkinghub.elsevier.com/retrieve/pii/S0149763423001690">https://linkinghub.elsevier.com/retrieve/pii/S0149763423001690</a><a href="http://doi.org/10.1016/j.neubiorev.2023.105200"> http://doi.org/10.1016/j.neubiorev.2023.105200</a></p>
+
 <p id="Pashler94">Pashler, H. (1994). Dual-task interference in simple tasks: data and theory. <i>Psychological bulletin, 116</i>, 220–244. <a href="http://www.ncbi.nlm.nih.gov/pubmed/7972591">http://www.ncbi.nlm.nih.gov/pubmed/7972591</a></p>
 
 <p id="PateriaSubagdjaTanEtAl21">Pateria, S., Subagdja, B., Tan, A., & Quek, C. (2021). Hierarchical Reinforcement Learning: A Comprehensive Survey. <i>ACM Comput. Surv., 54</i>, 109:1–109:35. <a href="https://dl.acm.org/doi/10.1145/3453160">https://dl.acm.org/doi/10.1145/3453160</a><a href="http://doi.org/10.1145/3453160"> http://doi.org/10.1145/3453160</a></p>
@@ -1463,6 +1467,8 @@
 <p id="PauliHazyOReilly12">Pauli, W.M., Hazy, T.E., & O'Reilly, R.C. (2012). Expectancy, ambiguity, and behavioral flexibility: separable and complementary roles of the orbital frontal cortex and amygdala in processing reward expectancies. <i>Journal of Cognitive Neuroscience, 24</i>, 351–366. <a href="http://www.ncbi.nlm.nih.gov/pubmed/22004047">http://www.ncbi.nlm.nih.gov/pubmed/22004047</a></p>
 
 <p id="PauliOReillyYarkoniEtAl16">Pauli, W.M., O’Reilly, R.C., Yarkoni, T., & Wager, T.D. (2016). Regional specialization within the human striatum for diverse psychological functions. <i>Proceedings of the National Academy of Sciences, 113</i>, 1907–1912. <a href="http://www.pnas.org/content/113/7/1907">http://www.pnas.org/content/113/7/1907</a><a href="http://doi.org/10.1073/pnas.1507610113"> http://doi.org/10.1073/pnas.1507610113</a></p>
+
+<p id="PeerBrunecNewcombeEtAl21">Peer, M., Brunec, I.K., Newcombe, N.S., & Epstein, R.A. (2021). Structuring Knowledge with Cognitive Maps and Cognitive Graphs. <i>Trends in Cognitive Sciences, 25</i>, 37–54. <a href="https://www.sciencedirect.com/science/article/pii/S1364661320302503">https://www.sciencedirect.com/science/article/pii/S1364661320302503</a><a href="http://doi.org/10.1016/j.tics.2020.10.004"> http://doi.org/10.1016/j.tics.2020.10.004</a></p>
 
 <p id="PetrofViaeneSherman15">Petrof, I., Viaene, A.N., & Sherman, S.M. (2015). Properties of the primary somatosensory cortex projection to the primary motor cortex in the mouse. <i>Journal of Neurophysiology, 113</i>, 2400–2407. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00949.2014">https://journals.physiology.org/doi/full/10.1152/jn.00949.2014</a><a href="http://doi.org/10.1152/jn.00949.2014"> http://doi.org/10.1152/jn.00949.2014</a></p>
 
@@ -1519,6 +1525,8 @@
 <p id="QuirogaReddyKreimanEtAl05">Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C., & Fried, I. (2005). Invariant visual representation by single neurons in the human brain. <i>Nature, 435</i>, 1102–1107. <a href="https://www.nature.com/articles/nature03687">https://www.nature.com/articles/nature03687</a><a href="http://doi.org/10.1038/nature03687"> http://doi.org/10.1038/nature03687</a></p>
 
 <p id="QuyFujitaSakamotoEtAl11">Quy, P.N., Fujita, H., Sakamoto, Y., Na, J., & Sugihara, I. (2011). Projection patterns of single mossy fiber axons originating from the dorsal column nuclei mapped on the aldolase C compartments in the rat cerebellar cortex. <i>Journal of Comparative Neurology, 519</i>, 874–899. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555</a><a href="http://doi.org/10.1002/cne.22555"> http://doi.org/10.1002/cne.22555</a></p>
+
+<p id="RajuGuntupalliZhouEtAl24">Raju, R.V., Guntupalli, J.S., Zhou, G., Wendelken, C., Lázaro-Gredilla, M., & George, D. (2024). Space is a latent sequence: A theory of the hippocampus. <i>Science Advances, 10</i>, eadm8470. <a href="https://www.science.org/doi/full/10.1126/sciadv.adm8470">https://www.science.org/doi/full/10.1126/sciadv.adm8470</a><a href="http://doi.org/10.1126/sciadv.adm8470"> http://doi.org/10.1126/sciadv.adm8470</a></p>
 
 <p id="Rall67">Rall, W. (1967). Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input. <i>Journal of Neurophysiology, 30</i>, 1138–1168. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138">https://journals.physiology.org/doi/abs/10.1152/jn.1967.30.5.1138</a><a href="http://doi.org/10.1152/jn.1967.30.5.1138"> http://doi.org/10.1152/jn.1967.30.5.1138</a></p>
 
@@ -1653,6 +1661,8 @@
 <p id="Schmidhuber25">Schmidhuber, J. (2025). Annotated History of Modern AI and Deep Learning. <a href="http://arxiv.org/abs/2212.11279">http://arxiv.org/abs/2212.11279</a><a href="http://doi.org/10.48550/arXiv.2212.11279"> http://doi.org/10.48550/arXiv.2212.11279</a></p>
 
 <p id="SchmidhuberGersEck02">Schmidhuber, J., Gers, F., & Eck, D. (2002). Learning nonregular languages: A comparison of simple recurrent networks and LSTM. <i>Neural Computation, 14</i>, 2039–2042. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12184841">http://www.ncbi.nlm.nih.gov/pubmed/12184841</a></p>
+
+<p id="SchmidtGagliardiRedish26">Schmidt, B., Gagliardi, C.M., & Redish, A.D. (2026). Just how goal-directed are hippocampal theta sweeps, anyway? <i>Nature Neuroscience, </i>1–2. <a href="https://www.nature.com/articles/s41593-026-02366-1">https://www.nature.com/articles/s41593-026-02366-1</a><a href="http://doi.org/10.1038/s41593-026-02366-1"> http://doi.org/10.1038/s41593-026-02366-1</a></p>
 
 <p id="SchmittWimmerNakajimaEtAl17">Schmitt, L.I., Wimmer, R.D., Nakajima, M., Happ, M., Mofakham, S., & Halassa, M.M. (2017). Thalamic amplification of cortical connectivity sustains attentional control. <i>Nature, 545</i>, 219–223. <a href="https://www.nature.com/articles/nature22073">https://www.nature.com/articles/nature22073</a><a href="http://doi.org/10.1038/nature22073"> http://doi.org/10.1038/nature22073</a></p>
 
@@ -1840,6 +1850,8 @@
 
 <p id="TangMattarGiustiEtAl19">Tang, E., Mattar, M.G., Giusti, C., Lydon-Staley, D.M., Thompson-Schill, S.L., & Bassett, D.S. (2019). Effective learning is accompanied by high-dimensional and efficient representations of neural activity. <i>Nature Neuroscience, 22</i>, 1000–1009. <a href="https://www.nature.com/articles/s41593-019-0400-9">https://www.nature.com/articles/s41593-019-0400-9</a><a href="http://doi.org/10.1038/s41593-019-0400-9"> http://doi.org/10.1038/s41593-019-0400-9</a></p>
 
+<p id="TangMeiHarveyEtAl26">Tang, W., Mei, X., Harvey, R.E., Carbajal-Leon, E., Netzer, T., Chang, H., Oliva, A., & Fernandez-Ruiz, A. (2026). Goal-directed hippocampal theta sweeps during memory-guided navigation. <i>Nature Neuroscience, 29</i>, 2214–2224. <a href="https://www.nature.com/articles/s41593-026-02364-3">https://www.nature.com/articles/s41593-026-02364-3</a><a href="http://doi.org/10.1038/s41593-026-02364-3"> http://doi.org/10.1038/s41593-026-02364-3</a></p>
+
 <p id="TanibuchiKitanoJinnai09">Tanibuchi, I., Kitano, H., & Jinnai, K. (2009). Substantia nigra output to prefrontal cortex via thalamus in monkeys. I. Electrophysiological identification of thalamic relay neurons. <i>Journal of Neurophysiology, 102</i>, 2933–2945. <a href="http://www.ncbi.nlm.nih.gov/pubmed/19692504">http://www.ncbi.nlm.nih.gov/pubmed/19692504</a></p>
 
 <p id="Taube07">Taube, J.S. (2007). The head direction signal: Origins and sensory-motor integration. <i>Annual Review of Neuroscience, 30</i>, 181–207. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854">https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.29.051605.112854</a><a href="http://doi.org/10.1146/annurev.neuro.29.051605.112854"> http://doi.org/10.1146/annurev.neuro.29.051605.112854</a></p>
@@ -1970,6 +1982,8 @@
 
 <p id="WallaceSaundersHuangEtAl17">Wallace, M.L., Saunders, A., Huang, K.W., Philson, A.C., Goldman, M., Macosko, E.Z., McCarroll, S.A., & Sabatini, B.L. (2017). Genetically Distinct Parallel Pathways in the Entopeduncular Nucleus for Limbic and Sensorimotor Output of the Basal Ganglia. <i>Neuron, 94</i>, 138-152.e5. <a href="https://www.cell.com/neuron/abstract/S0896-6273(17)30200-3">https://www.cell.com/neuron/abstract/S0896-6273(17)30200-3</a><a href="http://doi.org/10.1016/j.neuron.2017.03.017"> http://doi.org/10.1016/j.neuron.2017.03.017</a></p>
 
+<p id="WallaceWhishaw03">Wallace, D.G., & Whishaw, I.Q. (2003). NMDA lesions of Ammon's horn and the dentate gyrus disrupt the direct and temporally paced homing displayed by rats exploring a novel environment: evidence for a role of the hippocampus in dead reckoning. <i>European Journal of Neuroscience, 18</i>, 513–523. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1460-9568.2003.02772.x">https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1460-9568.2003.02772.x</a><a href="http://doi.org/10.1046/j.1460-9568.2003.02772.x"> http://doi.org/10.1046/j.1460-9568.2003.02772.x</a></p>
+
 <p id="Wallen-MackenzieDumasPapathanouEtAl20">Wallén-Mackenzie, �., Dumas, S., Papathanou, M., Martis Thiele, M.M., Vlcek, B., König, N., & Björklund, �.K. (2020). Spatio-molecular domains identified in the mouse subthalamic nucleus and neighboring glutamatergic and GABAergic brain structures. <i>Communications Biology, 3</i>, 338. <a href="https://www.nature.com/articles/s42003-020-1028-8">https://www.nature.com/articles/s42003-020-1028-8</a><a href="http://doi.org/10.1038/s42003-020-1028-8"> http://doi.org/10.1038/s42003-020-1028-8</a></p>
 
 <p id="WalshMcGovernClarkEtAl20">Walsh, K.S., McGovern, D.P., Clark, A., & O'Connell, R.G. (2020). Evaluating the neurophysiological evidence for predictive processing as a model of perception. <i>Annals of the New York Academy of Sciences, 1464</i>, 242–268. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187369/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187369/</a><a href="http://doi.org/10.1111/nyas.14321"> http://doi.org/10.1111/nyas.14321</a></p>
@@ -1988,6 +2002,8 @@
 
 <p id="WangYangWangEtAl13">Wang, M., Yang, Y., Wang, C., Gamo, N.J., Jin, L.E., Mazer, J.A., Morrison, J.H., Wang, X., & Arnsten, A.F.T. (2013). NMDA receptors subserve persistent neuronal firing during working memory in dorsolateral prefrontal cortex. <i>Neuron, 77</i>, 736–749. <a href="http://www.sciencedirect.com/science/article/pii/S089662731300038X">http://www.sciencedirect.com/science/article/pii/S089662731300038X</a><a href="http://doi.org/10.1016/j.neuron.2012.12.032"> http://doi.org/10.1016/j.neuron.2012.12.032</a></p>
 
+<p id="Warren19">Warren, W.H. (2019). Non-Euclidean navigation. <i>Journal of Experimental Biology, 222</i>, <a href="https://jeb.biologists.org/content/222/Suppl_1/jeb187971">https://jeb.biologists.org/content/222/Suppl_1/jeb187971</a><a href="http://doi.org/10.1242/jeb.187971"> http://doi.org/10.1242/jeb.187971</a></p>
+
 <p id="WarstadtBowman22">Warstadt, A., & Bowman, S.R. (2022). <i>What Artificial Neural Networks Can Tell Us about Human Language Acquisition. </i>In Algebraic Structures in Natural Language. CRC Press. </p>
 
 <p id="WatsonKayalioglu09">Watson, C., & Kayalioglu, G. (2009). <i>The Organization of the Spinal Cord. </i>In The Spinal Cord (pp. 1–7). Academic Press. <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780123742476500055">https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780123742476500055</a><a href="http://doi.org/10.1016/B978-0-12-374247-6.50005-5"> http://doi.org/10.1016/B978-0-12-374247-6.50005-5</a></p>
@@ -2001,6 +2017,8 @@
 <p id="Werbos88">Werbos, P.J. (1988). Generalization of backpropagation with application to a recurrent gas market model. <i>Neural Networks, 1</i>, 339–356. <a href="https://www.sciencedirect.com/science/article/pii/089360808890007X">https://www.sciencedirect.com/science/article/pii/089360808890007X</a><a href="http://doi.org/10.1016/0893-6080(88)90007-X"> http://doi.org/10.1016/0893-6080(88)90007-X</a></p>
 
 <p id="Werbos90">Werbos, P. (1990). Backpropagation through time: what it does and how to do it. <i>Proceedings of the IEEE, 78</i>, 1550–1560. <a href="http://doi.org/10.1109/5.58337"> http://doi.org/10.1109/5.58337</a></p>
+
+<p id="WhishawMcKennaMaaswinkel97">Whishaw, I.Q., McKenna, J.E., & Maaswinkel, H. (1997). Hippocampal Lesions and Path Integration. <i>Current Opinion in Neurobiology, 7</i>, 228. </p>
 
 <p id="WhittingtonBogacz17">Whittington, J.C.R., & Bogacz, R. (2017). An approximation of the error backpropagation algorithm in a predictive coding network with local hebbian synaptic plasticity. <i>Neural Computation, 29</i>, 1229–1262. <a href="https://doi.org/10.1162/NECO_a_00949">https://doi.org/10.1162/NECO_a_00949</a><a href="http://doi.org/10.1162/NECO_a_00949"> http://doi.org/10.1162/NECO_a_00949</a></p>
 
@@ -2067,6 +2085,8 @@
 <p id="YttriDudman16">Yttri, E.A., & Dudman, J.T. (2016). Opponent and bidirectional control of movement velocity in the basal ganglia. <i>Nature, 533</i>(7603), 402–406. <a href="http://www.nature.com/articles/nature17639">http://www.nature.com/articles/nature17639</a><a href="http://doi.org/10.1038/nature17639"> http://doi.org/10.1038/nature17639</a></p>
 
 <p id="YttriDudman18">Yttri, E.A., & Dudman, J.T. (2018). A Proposed Circuit Computation in Basal Ganglia: History‐Dependent Gain. <i>Movement Disorders, 33</i>, 704–716. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001446/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001446/</a><a href="http://doi.org/10.1002/mds.27321"> http://doi.org/10.1002/mds.27321</a></p>
+
+<p id="YuJiOrmondEtAl26">Yu, C., Ji, Z., Ormond, J., O’Keefe, J., & Burgess, N. (2026). Hippocampal theta sweeps indicate goal direction during navigation. <i>Nature Neuroscience, 29</i>, 2225–2236. <a href="https://www.nature.com/articles/s41593-026-02365-2">https://www.nature.com/articles/s41593-026-02365-2</a><a href="http://doi.org/10.1038/s41593-026-02365-2"> http://doi.org/10.1038/s41593-026-02365-2</a></p>
 
 <p id="YuSmithChristensenEtAl07">Yu, C., Smith, L.B., Christensen, M., & Pereira, A. (2007). <i>Two views of the world: Active vision in real-world interaction. </i>In Proceedings of the Annual Meeting of the Cognitive Science Society. <a href="https://escholarship.org/content/qt7ms4z979/qt7ms4z979.pdf">https://escholarship.org/content/qt7ms4z979/qt7ms4z979.pdf</a></p>
 

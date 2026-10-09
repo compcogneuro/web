@@ -3,8 +3,8 @@ Categories = ["Computation"]
 bibfile = "ccnlab.json"
 +++
 
-{id="figure_turing-machine"}
-![The components of a Turing machine: with just three basic components, any computation can be performed!](media/fig_turing_machine.jpg)
+{id="figure_turing-machine" style="height:15em"}
+![The components of a Turing machine: with just three basic components, any computation can be performed!](media/fig_turing_machine.png)
 
 To understand what kind of neural machinery it would take to support CPU-like functionality in the brain, we start with the surprisingly simple mechanisms needed to make a computer work. At the most abstract level, Alan Turing and John Von Neumann worked out the basic principles of a **universal computational device** (something that could in principle do _anything_) in the 1930's and 40's ([[@Turing36]], [[@VonNeumann45]]).  Amazingly, this device only requires three essential components ([[#figure_turing-machine]]):
 
@@ -16,7 +16,7 @@ To understand what kind of neural machinery it would take to support CPU-like fu
 
 These elements were elaborated by Von Neumann, in one of the most important unpublished papers of all time ([[@VonNeumann45]]), creating the foundation for modern digital computers. We now take it for granted that computers can do almost anything, but this was just theory not so long ago.
 
-{id="figure_mental-mult"}
+{id="figure_mental-mult" style="height:25em"}
 ![Computers solve problems by breaking them down into many small sequential steps, each one involving a specific, well-defined operation such as adding numbers, writing them down somewhere, and reading them back in for use later. Just like you do when performing multi-digit arithmetic. Alan Turing showed that these basic processes can be used to solve any problem.](media/fig_mental_multiplication.jpg)
 
 You can get a good feel for how a computer works, and why it can do anything, by considering the traditional strategies for performing multi-digit arithmetic ([[#figure_mental-mult]]).  Instead of just staring at those big numbers and hoping a number pops to mind, you break the problem down into a sequence of simple, discrete steps.  That sequence of steps is the _program_ or algorithm, and each individual _operation_ involves one of a small set of different processes, such as adding or multiplying single-digit numbers, writing down some numbers for later use (i.e., storing onto the tape in a Turing machine), and reading those numbers back in at the appropriate time (as you move to the next column of digits).
