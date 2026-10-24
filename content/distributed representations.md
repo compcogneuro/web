@@ -32,7 +32,7 @@ Some real-world data on distributed representations is shown in the above Figure
 
 [[#figure_maps]] shows an overall summary map of the topology of shape representations in monkey inferotemporal (IT) cortex, where each area has a given optimal stimulus that activates it, while neighboring areas have similar but distinct optimal stimuli. Thus, any given shape input will be encoded as a distributed pattern across all of these areas to the extent that it has features that are sufficiently similar to activate the different detectors. A more continuous transformation of different stimuli is sometimes present as well, as shown in [[#figure_topo]].
 
-{id="figure_haxbyetal01"}
+{id="figure_haxbyetal01" style="height:50em"}
 ![Maps of neural activity in the human brain in response to different visual input stimuli (as shown --- faces, houses, chairs, shoes), recorded using functional magnetic resonance imaging (fMRI). There is a high level of overlap in neural activity across these different stimuli, in addition to some level of specialization. This is the hallmark of a distributed representation. Reproduced from Haxby et al. (2001).](media/fig_haxbyetal01_obj_maps.jpg)
 
 Another demonstration of distributed representations comes from a landmark study by [[@^HaxbyGobbiniFureyEtAl01]], using functional magnetic resonance imaging (fMRI) of the human brain, while viewing different visual stimuli ([[#figure_haxbyetal01]]). They showed that contrary to prior claims that the visual system was organized in a strictly modular fashion, with completely distinct areas for faces vs. other visual categories, for example, there is in fact a high level of overlap in activation over a wide region of the visual system for these different visual inputs. They showed that you can distinguish which object is being viewed by the person in the fMRI machine based on these distributed activity patterns, at a high level of accuracy.
@@ -41,7 +41,7 @@ Critically, this accuracy level does not go down appreciably when you exclude th
 
 ## Coarse coding
 
-{id="figure_coarse-coding"}
+{id="figure_coarse-coding"  style="height:10em"}
 ![Coarse coding, which is an instance of a distributed representation with neurons that respond in a graded fashion. This example is based on the coding of color in the eye, which uses only 3 different photoreceptors tuned to different frequencies of light (red, green blue) to cover the entire visible spectrum. This is a very efficient representation compared to having many more receptors tuned more narrowly and discretely to different frequencies along the spectrum.](media/fig_coarse_coding.png)
 
 [[#figure_coarse-coding]] illustrates an important specific case of a distributed representation known as **coarse coding**. This is not actually different from what we've described above, but the particular example of how the eye uses only 3 photoreceptors to capture the entire visible spectrum of light is a particularly good example of the power of distributed representations. Each individual frequency of light is uniquely encoded in terms of the _relative balance_ of graded activity across the different detectors.
@@ -70,7 +70,7 @@ Interestingly, the use of _decoder_ models to analyze neural population activity
 
 The opposite of a distributed representation is a **localist** representation, where a single neuron is active to encode a given category of information. Although we do not think that localist representations are characteristic of the actual brain, they are nevertheless often convenient to use for computational models, especially for input and output patterns to present to a network. It is often difficult to construct a suitable distributed pattern of activity to realistically capture the similarities between different inputs, so we resort to a localist input pattern with a single input neuron active for each different type of input (also known as a "one hot" encoding), and just let the network develop its own distributed representations from there.
 
-{id="figure_halle-berry-neuron"}
+{id="figure_halle-berry-neuron" style="height:30em"}
 ![The famous case of a Halle Berry neuron recorded from a person with epilepsy who had electrodes implanted in their brain. The neuron appears sensitive to many different presentations of Halle Berry (including just seeing her name in text), but not to otherwise potentially similar people. Although this would seem to suggest the presence of localist "grandmother cells", in fact there are many other distributed neurons activated by any given input such as this within the same area, and even this neuron does exhibit some level of firing to similar distractor cases. Reproduced from Quiroga et al. (2005).](media/fig_halle_berry_neuron.jpg)
 
 [[#figure_halle-berry-neuron]] shows the famous case of a "Halle Berry" neuron, recorded from a person with epilepsy who had electrodes implanted in their brain ([[@QuirogaReddyKreimanEtAl05]]). This would appear to be evidence for an extreme form of localist representation, known as a **grandmother cell** (a term apparently coined by Jerry Lettvin in 1969), denoting a neuron so specific yet abstract that it only responds to one's grandmother, based on any kind of input, but not to any other people or things. People had long scoffed at the notion of such grandmother cells.
