@@ -72,4 +72,7 @@ To more accurately represent how humans perceive color as inputs to vision model
 
 We use the HPE (_Hunt-Pointer-Estevez_) version of the LMS transforms, which start by converting sRGB (s = standard) images into the [XYZ](https://en.wikipedia.org/wiki/CIE_1931_color_space) color space, and from there, using different weights to produce L, M, S outputs.
 
+## Rodent vision
+
+Rodent ecological vision: [[@NiellBeyelerGoardEtAl26]]: motion parallax is likely to be key in depth perception, due to relatively limited binocular overlap. [[@KimAngelakiDeAngelis16]], [[@XuDeAngelis25]] [[@WexlerBoxtel05]] on motion parallax. This is in general more robust than binocular parallax and likely the grounding of depth signals, which can then potentially train binocular.
 

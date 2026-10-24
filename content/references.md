@@ -1000,6 +1000,8 @@
 
 <p id="KennerleyBehrensWallis11">Kennerley, S.W., Behrens, T.E.J., & Wallis, J.D. (2011). Double dissociation of value computations in orbitofrontal and anterior cingulate neurons. <i>Nature Neuroscience, 14</i>, 1581–1589. <a href="https://www.nature.com/neuro/journal/v14/n12/full/nn.2961.html">https://www.nature.com/neuro/journal/v14/n12/full/nn.2961.html</a><a href="http://doi.org/10.1038/nn.2961"> http://doi.org/10.1038/nn.2961</a></p>
 
+<p id="KerstenMamassianYuille04">Kersten, D., Mamassian, P., & Yuille, A. (2004). Object perception as Bayesian inference. <i>Annual Review of Psychology, 55</i>, 271–304. </p>
+
 <p id="KetzefSilberberg21">Ketzef, M., & Silberberg, G. (2021). Differential synaptic input to external globus pallidus neuronal subpopulations in vivo. <i>Neuron, 109</i>, 516-529.e4. <a href="https://www.sciencedirect.com/science/article/pii/S0896627320308849">https://www.sciencedirect.com/science/article/pii/S0896627320308849</a><a href="http://doi.org/10.1016/j.neuron.2020.11.006"> http://doi.org/10.1016/j.neuron.2020.11.006</a></p>
 
 <p id="KetzMorkondaOReilly13">Ketz, N., Morkonda, S.G., & O'Reilly, R.C. (2013). Theta coordinated error-driven learning in the hippocampus. <i>PLoS Computational Biology, 9</i>, e1003067. <a href="http://www.ncbi.nlm.nih.gov/pubmed/23762019">http://www.ncbi.nlm.nih.gov/pubmed/23762019</a></p>
@@ -1344,6 +1346,8 @@
 
 <p id="NashaatOrabyKrasniqiEtAl25">Nashaat, M., Oraby, H., Krasniqi, F., Goh-Sauerbier, S.T., Bosc, M., Koerner, S., Karayel, S., Kepecs, A., & Larkum, M.E. (2025). The neural mechanisms of fast versus slow decision-making. 2024.08.22.608577. <a href="https://www.biorxiv.org/content/10.1101/2024.08.22.608577v2">https://www.biorxiv.org/content/10.1101/2024.08.22.608577v2</a><a href="http://doi.org/10.1101/2024.08.22.608577"> http://doi.org/10.1101/2024.08.22.608577</a></p>
 
+<p id="NaveedKhanQiuEtAl25">Naveed, H., Khan, A.U., Qiu, S., Saqib, M., Anwar, S., Usman, M., Akhtar, N., Barnes, N., & Mian, A. (2025). A Comprehensive Overview of Large Language Models. <i>ACM Transactions on Intelligent Systems and Technology, 16</i>, 106:1–106:72. <a href="https://dl.acm.org/doi/10.1145/3744746">https://dl.acm.org/doi/10.1145/3744746</a><a href="http://doi.org/10.1145/3744746"> http://doi.org/10.1145/3744746</a></p>
+
 <p id="Neal93">Neal, R.M. (1993). Probabilistic Inference Using Markov Chain Monte Carlo Methods. </p>
 
 <p id="NeelyKoralekAthalyeEtAl18">Neely, R.M., Koralek, A.C., Athalye, V.R., Costa, R.M., & Carmena, J.M. (2018). Volitional modulation of primary visual cortex activity requires the basal ganglia. <i>Neuron, 97</i>, 1356-1368.e4. <a href="https://www.sciencedirect.com/science/article/pii/S089662731830076X">https://www.sciencedirect.com/science/article/pii/S089662731830076X</a><a href="http://doi.org/10.1016/j.neuron.2018.01.051"> http://doi.org/10.1016/j.neuron.2018.01.051</a></p>
@@ -1468,7 +1472,7 @@
 
 <p id="PauliOReillyYarkoniEtAl16">Pauli, W.M., O’Reilly, R.C., Yarkoni, T., & Wager, T.D. (2016). Regional specialization within the human striatum for diverse psychological functions. <i>Proceedings of the National Academy of Sciences, 113</i>, 1907–1912. <a href="http://www.pnas.org/content/113/7/1907">http://www.pnas.org/content/113/7/1907</a><a href="http://doi.org/10.1073/pnas.1507610113"> http://doi.org/10.1073/pnas.1507610113</a></p>
 
-<p id="PeerBrunecNewcombeEtAl21">Peer, M., Brunec, I.K., Newcombe, N.S., & Epstein, R.A. (2021). Structuring Knowledge with Cognitive Maps and Cognitive Graphs. <i>Trends in Cognitive Sciences, 25</i>, 37–54. <a href="https://www.sciencedirect.com/science/article/pii/S1364661320302503">https://www.sciencedirect.com/science/article/pii/S1364661320302503</a><a href="http://doi.org/10.1016/j.tics.2020.10.004"> http://doi.org/10.1016/j.tics.2020.10.004</a></p>
+<p id="PeerBrunecNewcombeEtAl21">Peer, M., Brunec, I.K., Newcombe, N.S., & Epstein, R.A. (2021). Structuring knowledge with cognitive maps and cognitive graphs. <i>Trends in Cognitive Sciences, 25</i>, 37–54. <a href="https://www.sciencedirect.com/science/article/pii/S1364661320302503">https://www.sciencedirect.com/science/article/pii/S1364661320302503</a><a href="http://doi.org/10.1016/j.tics.2020.10.004"> http://doi.org/10.1016/j.tics.2020.10.004</a></p>
 
 <p id="PetrofViaeneSherman15">Petrof, I., Viaene, A.N., & Sherman, S.M. (2015). Properties of the primary somatosensory cortex projection to the primary motor cortex in the mouse. <i>Journal of Neurophysiology, 113</i>, 2400–2407. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00949.2014">https://journals.physiology.org/doi/full/10.1152/jn.00949.2014</a><a href="http://doi.org/10.1152/jn.00949.2014"> http://doi.org/10.1152/jn.00949.2014</a></p>
 
@@ -1779,6 +1783,8 @@
 <p id="SpellmanRigottiAhmariEtAl15">Spellman, T., Rigotti, M., Ahmari, S.E., Fusi, S., Gogos, J.A., & Gordon, J.A. (2015). Hippocampal–prefrontal input supports spatial encoding in working memory. <i>Nature, 522</i>(7556), 309–314. <a href="https://www.nature.com/articles/nature14445">https://www.nature.com/articles/nature14445</a><a href="http://doi.org/10.1038/nature14445"> http://doi.org/10.1038/nature14445</a></p>
 
 <p id="Spruston08">Spruston, N. (2008). Pyramidal neurons: dendritic structure and synaptic integration. <i>Nature Reviews. Neuroscience, 9</i>, 201–221. <a href="http://www.ncbi.nlm.nih.gov/pubmed/18270515">http://www.ncbi.nlm.nih.gov/pubmed/18270515</a></p>
+
+<p id="SridharLiGorbonosEtAl21">Sridhar, V.H., Li, L., Gorbonos, D., Nagy, M., Schell, B.R., Sorochkin, T., Gov, N.S., & Couzin, I.D. (2021). The geometry of decision-making in individuals and collectives. <i>Proceedings of the National Academy of Sciences, 118</i>, e2102157118. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2102157118">https://www.pnas.org/doi/abs/10.1073/pnas.2102157118</a><a href="http://doi.org/10.1073/pnas.2102157118"> http://doi.org/10.1073/pnas.2102157118</a></p>
 
 <p id="SteinMisiaszekPearson00">Stein, R.B., Misiaszek, J.E., & Pearson, K.G. (2000). Functional role of muscle reflexes for force generation in the decerebrate walking cat. <i>The Journal of Physiology, 525</i>, 781–791. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.2000.00781.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.2000.00781.x</a><a href="http://doi.org/10.1111/j.1469-7793.2000.00781.x"> http://doi.org/10.1111/j.1469-7793.2000.00781.x</a></p>
 

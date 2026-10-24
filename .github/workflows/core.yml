@@ -37,13 +37,13 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.25.6'
+          go-version: '1.27.2'
 
       - name: Install Core
         run: go install cogentcore.org/core@main && core setup
 
       - name: Build App
-        run: core build web -o static
+        run: core build js -o static
 
       - name: Copy CNAME
         run: cp CNAME static

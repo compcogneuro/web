@@ -1,6 +1,7 @@
 +++
 Name = "OReilly (2026) Search"
-Title = "Everything is Search, and Gradient Descent is the only Efficient Search Mechanism"
+Title = "Everything is Search, and Gradient Descent (in Spiking Networks) is the only Efficient Search Mechanism"
+Heading = "Everything is Search"
 Authors = "Randall C. O'Reilly"
 Affiliations = "Astera Institute; Department of Psychology<br>Center for Neuroscience, University of California Davis<br>correspondence: oreilly@ucdavis.edu"
 Abstract = "."
@@ -9,6 +10,32 @@ Version = "1"
 Categories = ["Papers"]
 bibfile = "ccnlab.json"
 +++
+
+Most cognitively relevant computation can be seen as variants of a _search_ process, providing a unified basis for understanding the essential properties of the underlying processes across different domains and timescales of such search processes. Stochastic gradient descent in suitably smooth systems is the only known solution to a search process that scales in polynomial time, in the face of exponentially large search spaces. The computational cost properties of this search process can be understood within _computational complexity_ theory ([[@AroraBarak09]]), where the class of _NP hard_ and _NP complete_ problems have been rigorously analyzed.
+
+The prototypical successful example of stochastic gradient-based search in exponentially-large spaces is a neural network learning via error backpropagation to search the space of all possible representations of a given problem ([[@RumelhartHintonWilliams86]]; [[@LeCunBengioHinton15]]), which underlies current large-language models and other very large AI models ([[@NaveedKhanQiuEtAl25]]). The network architecture in these models is optimized in ways that make the gradient descent landscape sufficiently smooth to enable this procedure to succeed. The nature of these smoothness constraints is critical, in relation to other nearby cases that have proven less successful for gradient-descent-based search. Specifically, architectures that minimize interdependencies and have more linear response dynamics appear to be more successful.
+
+Aside from learning representations, another important search domain involves the search for effective interpretations of the current state context (i.e., _in context learning_). This search process can be understood within the general framework of _constraint-satisfaction search_: finding the representations that optimize the various constraints from the current context, based on representations that have been shaped over the course of learning. This can also be described as the _inference_ problem, e.g., in standard Bayesian frameworks (e.g., [[@KerstenMamassianYuille04]]).
+
+A prototypical example of this kind of constraint-satisfaction search is the _travelling salesman problem_ (TSP), which involves finding the minimal distance route between a set of $n$ randomly-distributed cities ([[@Arora98]]; [[@HopfieldTank85]]). In the neural network framework, such problems have been explored using bidirectionally-connected networks that perform stochastic gradient descent in activation space (e.g., [[@HopfieldTank85]]; [[@AckleyHintonSejnowski85]]).
+
+Thus, stochastic gradient descent appears to provide a consistent overarching solution to these two intertwined forms of search, where learning provides a longer-time-scale shaping of the representations upon which the online inferential constraint-satisfaction search process operates. The empirical fact that only neural networks have proven successful for large-scale gradient-based search in learning can be leveraged to restrict the focus on such architectures for the online inferential search process.
+
+In this context, it is notable that most neural network architectures in wide use today are strictly _feedforward_, and therefore do not support a gradient-descent inferential process. Instead, current LLM models for example use very deep architectures to effectively unroll the bidirectional interactions that would otherwise occur in a bidirectionally-connected network ([[@McClellandHillRudolphEtAl20]]), and further employ _chain of thought_ outer-loop search processes for additional iterations, that help to converge on better representations of the current situation.
+
+By contrast, the mammalian neocortex is extensively bidirectionally-connected, and therefore should in principle be capable of extensive online bidirectional constraint-satisfaction processing, similar to the original neural network models. In this context, we show that certain properties of biological, discrete-spiking neurons (as contrasted with continuous-valued rate-code neurons like those in most neural network models) are important for facilitating this form of stochastic gradient search. In particular, the following properties are identified:
+
+* Compared to rate-coded networks, spiking dynamics allow graded, probabilistic information to be represented throughout the network (not just in restricted layers, such as the variational auto-encoder), and overall are much better at avoiding getting stuck in bad local minima during the gradient-descent process.
+
+* Pervasive bidirectional connectivity allows detailed constraints in deep, modality-specific processing areas to effectively constrain more abstract interpretations generated in higher-level integrative areas, which contrasts with the loop-unrolling behavior of deep feedforward networks, which only support unidirectional flow through more abstract, higher-level areas. This may contribute to the tendency of LLM models to confabulate, for example.
+
+* In general, a bias toward forming _low dimensional_ final states represents an important additional constraint on the inference search process, which also favors the properties of the bidirectional neural network search process, as compared to the feedforward loop unrolling. Specifically, the bidirectional network tends to settle into discrete attractor states, whereas the loop unrolling process through feedforward layers does not have this property. This is also likely a factor in the tendency of LLM models to confabulate.
+
+Thus, this analysis suggests that the specific properties of the mammalian neocortex could be particularly well-suited for this inferential online search process, for finding sensible low-dimensional interpretations of the environment, that then provide a suitable basis for acting in the world. Given that the motor action space is necessarily low-dimensional, the ability to rapidly compress the high-dimensional environmental state into appropriate low-dimensional interpretations likely has significant survival benefits ([[@SridharLiGorbonosEtAl21]]).
+
+Furthermore, the interplay of bidirectional (recurrent) processing and low-dimensional activity states may have deep connections to the nature of human consciousness, given the prominent role that these features play in most neuroscience-based theories (e.g., [[@Lamme06]]; [[@TononiKoch15]]).
+
+## Search is universal
 
 Every cognitively relevant type of computation can be cast as form of search:
 
@@ -24,7 +51,7 @@ Every cognitively relevant type of computation can be cast as form of search:
 
 This is not an empty tautology, because it provides a unified understanding about the central problem faced in all of these domains: Each of these search spaces is plagued by the curse of dimensionality, and effective solutions for real-world, large-scale problems must somehow tackle the exponential explosion problem. 
 
-Indeed, the field of computational complexity provides a unified framework based fundamentally on the process of search, that formally quantifies the computational cost of different types of problems through the use of universal Turing machines ([[@AroraBarak09]]). The core distinction here is in terms of _polynomial_ (P) versus exponential time costs, where polynomial means that the compute time is _on the order of_ (expressed as $O(f(n))$) a _constant_ exponential factor of the dimensionality of the problem space (e.g., $O(n^2)$ where the polynomial factor is 2). By contrast, exponential time means that $n$ is instead in the exponent, e.g., $O(2^n)$, which is where the exponential explosion problem occurs as $n$ increases, making these problems _intractable_.
+Indeed, the field of computational complexity provides a unified framework based directly on the process of search, that formally quantifies the computational cost of different types of problems using universal Turing machines ([[@AroraBarak09]]). The core distinction here is in terms of _polynomial_ (P) versus exponential time costs, where polynomial means that the compute time is _on the order of_ (expressed as $O(f(n))$) a _constant_ exponential factor of the dimensionality of the problem space (e.g., $O(n^2)$ where the polynomial factor is 2). By contrast, exponential time means that $n$ is instead in the exponent, e.g., $O(2^n)$, which is where the exponential explosion problem occurs as $n$ increases, making these problems _intractable_.
 
 Computational complexity theory defines an equivalence class across a wide range of problems, known as _NP complete_, where NP stands for _nondeterministic polynomial_ time. The terminology is not particularly intuitive, but the NP complete class defines a large set of _decision problems_ that require _exhaustive, enumerative_ (i.e, _brute force_) search over an exponentially-large space of possible solutions, where each decision evaluates a binary (yes or no) function, which itself runs in polynomial time (which accounts for the _P_ in _NP_). 
 
@@ -89,4 +116,50 @@ The final contribution of this paper is to explore the potential impact of a set
 ## Acknowledgments
 
 This work has benefited significantly from input from Alex Petrov and other members of the analogy discussion group, hosted by Jonathan Cohen at Princeton.
+
+
+## Environment desiderata
+
+Key property is that top-down influences resolution of lower-level features. But you don't want to hallucinate. Therefore, it should be _attentional_, in terms of guiding what features are relevant to resolve, and providing specific disambiguating context.
+
+### Navigation
+
+* In general want a good synthetic model of parietal / RSC etc spatial reps for navigation.
+
+* Each border / depth feature provides constraints on overall topology of env, collective set mutually informative for overall shape.
+
+* Prediction is what happens when you turn: what depth map do you expect to see. Constraint satisfaction fills that in based on higher level schematic representation.
+
+* Existing data from [[@El-GabyHarrisWhittingtonEtAl24]] and [[@MaeleVerbelenGeorgeEtAl26]] on simple 3x3 room with different sequences: higher-level rep is sequence, lower is specific view. Plan-level is how to move. Can build in motivation etc factors and just focus on the predictive learning and planning. use BG Dorsal for RL-based learning.
+
+* Provides direct plug-in for cerebellar factor, but can build in head direction signal and visual motion signals straight away.
+
+* Build-in detailed motion map instead of any parallax-based depth -- that is the most relevant for [[vision#rodent vision]]
+
+
+### Artificial synthetic env
+
+Low-level modality inputs:
+* Each individual input feature is ambiguous
+* Feature combinations are meaningful
+* Relevant categories are low dimensional: many inputs to one category
+* This allows for incomplete inputs, can fill in missing pieces from regularities
+* multiple low-level features that could be filled-in: high-level determines what is relevant!
+
+params: 
+* N features, K values per feature
+* LC lower categories (LC << K^N)
+* Each LC defined by: M subset of features, at L-H range of values per feature. O < M features actually presented at any given time. Each 
+* HC higher categories
+* same parameterization, but different instances
+
+High-level categories:
+* Depend on _different_ combinations of low-level features
+* So filling-in at lower level resolves higher-level
+
+Semantic example:
+
+* top level: want water + absence of predator
+* low level: river bank, trees -> water (but river bank, rocks -> no water);
+* lack of odors, prey tracks (but lack of odors, predator tracks -> predator) -> no predator
 
