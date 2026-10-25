@@ -7,6 +7,8 @@
 package main
 
 import (
+	"cogentcore.org/core/core"
+	"cogentcore.org/core/system"
 	"cogentcore.org/core/tree"
 	"github.com/compcogneuro/web/sims/detector"
 	"github.com/compcogneuro/web/sims/stability"
@@ -16,22 +18,63 @@ import (
 	"github.com/emer/axon/v2/sims/deepfsa"
 	"github.com/emer/axon/v2/sims/inhib"
 	"github.com/emer/axon/v2/sims/neuron"
-	"github.com/emer/emergent/v2/egui"
 )
 
-func e[S, C any](b tree.Node) {
-	egui.Embed[S, C](b)
+func useGPU() bool {
+	return core.TheApp.Platform() != system.Web
+}
+
+func ndata(nd int) int {
+	if core.TheApp.Platform() == system.Web {
+		return 1
+	}
+	return nd
 }
 
 func init() {
 	sims = map[string]func(tree.Node){
-		"bgdorsal":  e[bgdorsal.Sim, bgdorsal.Config],
-		"bgventral": e[bgventral.Sim, bgventral.Config],
-		"deepfsa":   e[deepfsa.Sim, deepfsa.Config],
-		"detector":  e[detector.Sim, detector.Config],
-		"inhib":     e[inhib.Sim, inhib.Config],
-		"neuron":    e[neuron.Sim, neuron.Config],
-		"stability": e[stability.Sim, stability.Config],
-		"urakubo":   e[urakubo.Sim, urakubo.Config],
+		"bgdorsal": func(b tree.Node) {
+			bgdorsal.Embed(b, func(ss *bgdorsal.Sim, cfg *bgdorsal.Config) {
+				cfg.GPU = useGPU()
+				cfg.Run.NData = ndata(cfg.Run.NData)
+			})
+		},
+		"bgventral": func(b tree.Node) {
+			bgventral.Embed(b, func(ss *bgventral.Sim, cfg *bgventral.Config) {
+				cfg.GPU = useGPU()
+				cfg.Run.NData = ndata(cfg.Run.NData)
+			})
+		},
+		"deepfsa": func(b tree.Node) {
+			deepfsa.Embed(b, func(ss *deepfsa.Sim, cfg *deepfsa.Config) {
+				cfg.GPU = useGPU()
+				cfg.Run.NData = ndata(cfg.Run.NData)
+			})
+		},
+		"detector": func(b tree.Node) {
+			detector.Embed(b, func(ss *detector.Sim, cfg *detector.Config) {
+				cfg.GPU = useGPU()
+			})
+		},
+		"inhib": func(b tree.Node) {
+			inhib.Embed(b, func(ss *inhib.Sim, cfg *inhib.Config) {
+				cfg.GPU = useGPU()
+			})
+		},
+		"neuron": func(b tree.Node) {
+			neuron.Embed(b, func(ss *neuron.Sim, cfg *neuron.Config) {
+				cfg.GPU = useGPU()
+			})
+		},
+		"stability": func(b tree.Node) {
+			stability.Embed(b, func(ss *stability.Sim, cfg *stability.Config) {
+				cfg.GPU = useGPU()
+			})
+		},
+		"urakubo": func(b tree.Node) {
+			urakubo.Embed(b, func(ss *urakubo.Sim, cfg *urakubo.Config) {
+				cfg.GPU = false
+			})
+		},
 	}
 }
