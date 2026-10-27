@@ -15,7 +15,7 @@ import (
 	"cogentcore.org/core/text/csl"
 	"cogentcore.org/core/text/tex/texcache"
 	"cogentcore.org/core/tree"
-	_ "github.com/emer/axon/v2/yaegiaxon"
+	"github.com/emer/axon/v2/mvmaxon"
 )
 
 // NOTE: you must make a symbolic link to the zotero CCNLab CSL file as ccnlab.json
@@ -36,12 +36,23 @@ var mathcache embed.FS
 //go:embed icon.svg
 var icon string
 
-// sims is a map of sim names to functions that embed a sim GUI.
-// This is only set on non-generatehtml platforms so that xyz does
-// not interfere with html generation.
-var sims map[string]func(tree.Node)
+// simNames are the names of the simulations of the sims package, which
+// the pages embed as <sim-name> elements.
+var simNames = []string{"bgdorsal", "bgventral", "deepfsa", "detector", "inhib",
+	"neuron", "stability", "urakubo"}
+
+// embedSim is [sims.Embed], which js builds load only when the first
+// simulation is shown (see [Web] DeferredFunctions in core.toml). It is
+// only set on non-generatehtml platforms so that xyz does not interfere
+// with html generation.
+var embedSim func(parent tree.Node, name string) bool
 
 func main() {
+	// The code blocks of the content are compiled into the app by the core
+	// tool (contentcode_gen.go, see [ContentCode] in core.toml). Edited code
+	// runs in the mvm interpreter, which js builds load when code is first
+	// edited (see [Web] DeferredFunctions in core.toml).
+	content.BindTextEditor = mvmaxon.BindTextEditor
 	texcache.OpenFS(mathcache, "mathcache.json.gz")
 	texcache.SetShapeMath()
 	core.AppIcon = icon
@@ -71,7 +82,10 @@ func main() {
 }
 
 func AddSims(ctx *htmlcore.Context) {
-	for nm, em := range sims {
+	if embedSim == nil {
+		return
+	}
+	for _, nm := range simNames {
 		snm := "sim-" + nm
 		ctx.ElementHandlers[snm] = func(ctx *htmlcore.Context) bool {
 			fr := core.NewFrame(ctx.BlockParent)
@@ -80,7 +94,7 @@ func AddSims(ctx *htmlcore.Context) {
 				s.Direction = styles.Column
 				s.Grow.Set(1, 1)
 			})
-			em(fr)
+			embedSim(fr, nm)
 			return true
 		}
 	}

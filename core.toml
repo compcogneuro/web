@@ -1,3 +1,16 @@
 Name = "Computational Cognitive Neuroscience"
 About = "A comprehensive, self-contained framework for understanding the cognitive and computational functions of the brain through biologically-based computational models that simulate all major aspects of brain and cognitive function, using spiking neurons. A wide range of cognitive functions are simulated, including perception, attention, learning, memory, motor control, goal-driven motivation, executive function, and language based on models of different areas of the neocortex interacting with the thalamus, basal ganglia, hippocampus, cerebellum, amygdala, and a number of other subcortical networks."
 
+[Web]
+  # mvm is loaded when code is first edited, and the simulations when the
+  # first one is shown (see main)
+  DeferredFunctions = ["github.com/emer/axon/v2/mvmaxon.BindTextEditor", "github.com/compcogneuro/web/sims.Embed"]
+
+[ContentCode]
+  # the Goal interpreter of mvmaxon does not record math-mode variables in tensorfs
+  GoalRecord = false
+  # code blocks use the axon packages, and egui, without importing them
+  Imports = ["github.com/emer/axon/v2/fsfffb", "github.com/emer/axon/v2/chans", "github.com/emer/axon/v2/chans/chanplots", "github.com/emer/axon/v2/kinase", "github.com/emer/axon/v2/axon", "github.com/emer/emergent/v2/egui"]
+  # the plots of the channels run in the interpreter, which js builds load
+  # with them only when that page is shown
+  Interpret = ["neuron-channels"]
