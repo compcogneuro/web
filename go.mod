@@ -3,8 +3,8 @@ module github.com/compcogneuro/web
 go 1.27.0
 
 require (
-	cogentcore.org/core v0.5.11
-	cogentcore.org/lab v0.2.8
+	cogentcore.org/core v0.5.13
+	cogentcore.org/lab v0.2.9
 	github.com/emer/axon/v2 v2.0.4
 	github.com/emer/emergent/v2 v2.0.2
 	github.com/stretchr/testify v1.11.1
@@ -13,7 +13,6 @@ require (
 require (
 	github.com/Bios-Marcel/wastebasket/v2 v2.0.3 // indirect
 	github.com/BurntSushi/toml v1.6.0 // indirect
-	github.com/Masterminds/vcs v1.13.3 // indirect
 	github.com/adrg/strutil v0.3.1 // indirect
 	github.com/alecthomas/chroma/v3 v3.0.0-alpha.5.0.20261015230651-e17ffc9bfce4 // indirect
 	github.com/anthonynsimon/bild v0.14.0 // indirect

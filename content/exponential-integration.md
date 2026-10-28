@@ -5,6 +5,7 @@ bibfile = "ccnlab.json"
 
 {id="sim_tau" title="Tau exponential integration time constant" collapsed="true"}
 ```Goal
+totalTime := 100
 tau := 10.0 // time constant
 drive := 50.0
 init := 0.0
@@ -12,7 +13,6 @@ val := init
 var tauStr, driveStr, initStr, valAtTauStr string
 
 ##
-totalTime := 100
 driver := zeros(totalTime) // driver is what is driving the value
 vals := zeros(totalTime) // values
 exps := zeros(totalTime) // exponential function values
@@ -27,17 +27,13 @@ func valUpdate() {
     iv := array(init)
     dv := d - iv
     v := array(init) // current
-    ttau := array(tau)
-    ##
-    for t := range 100 {
-        ##
-        tv := array(t)
+    for t := range totalTime {
         driver[t] = d
         vals[t] = v
-        v += (1.0 / ttau) * (d - v) // v moves toward d
-        exps[t] = iv + dv * (1 - exp(-tv / ttau))
-        ##
+        v += (1.0 / tau) * (d - v) // v moves toward d
+        exps[t] = iv + dv * (1 - exp(-t / tau))
     }
+	##
     tint := int(tau)
     tval := vals.Float(tint)
     dist := drive - init

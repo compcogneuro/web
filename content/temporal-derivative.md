@@ -40,14 +40,16 @@ The prediction error is represented by the difference between the fast and slow 
 
 {id="sim_td" title="Temporal Derivative from Fast - Slow" collapsed="true"}
 ```Goal
+totalTime := 200 // total number of cycles
+plusPhase := 50 // cycles for the outcome phase; before is prediction
 fastTau := 20.0 // time constant for fast integration
 slowTau := 40.0 // time constant for slow integration
 pred := 50.0
 out := 80.0
 var dwtStr, fastStr, slowStr, predStr, outStr string
 
+// note: ## surrounds math mode, with simplified math syntax
 ##
-totalTime := 200
 driver := zeros(totalTime) // driver is what is driving the system
 fast := zeros(totalTime) // fast is a fast integrator of driver
 slow := zeros(totalTime) // slow is a slow integrator of driver
@@ -62,22 +64,16 @@ func td() {
     d := array(pred) // current drive
     f := 0.0 // current fast
     s := 0.0 // current slow
-    fTau := array(fastTau)
-    sTau := array(slowTau)
-    ##
-    for t := range 200 {
-        if t == 150 {
-            # d = array(out)
+    for t := range totalTime {
+        if t == totalTime - plusPhase {
+            d = array(out)
         }
-        ##
-        f += (1.0 / fTau) * (d - f) // f moves toward d
-        s += (1.0 / sTau) * (d - s) // s moves toward f
+        f += (1.0 / fastTau) * (d - f) // f moves toward d
+        s += (1.0 / slowTau) * (d - s) // s moves toward f
         driver[t] = d
         fast[t] = f
         slow[t] = s
-        ##
     }
-    ##
     dwt := fast[-1] - slow[-1]
     ##
     dwtStr = fmt.Sprintf("<b>Weight Change ΔW ≅ Predition - Outcome = Fast - Slow = %7.2g</b>", dwt.Float1D(0))
@@ -169,6 +165,8 @@ There is a reliable timing signal available at each individual neuron, which cou
 
 {id="sim_diff" title="Timing for learning" collapsed="true"}
 ```Goal
+totalTime := 200 // total number of cycles
+plusPhase := 50 // cycles for the outcome phase; before is prediction
 fastTau := 20.0 // time constant for fast integration
 slowTau := 40.0 // time constant for slow integration
 pred := 50.0
@@ -176,7 +174,6 @@ out := 80.0
 var dwtStr, fastStr, slowStr, predStr, outStr string
 
 ##
-totalTime := 200
 driver := zeros(totalTime) // driver is what is driving the system
 fast := zeros(totalTime) // fast is a fast integrator of driver
 slow := zeros(totalTime) // slow is a slow integrator of driver
@@ -192,23 +189,17 @@ func td() {
     d := array(pred) // current drive
     f := 0.0 // current fast
     s := 0.0 // current slow
-    fTau := array(fastTau)
-    sTau := array(slowTau)
-    ##
-    for t := range 200 {
-        if t == 150 {
-            # d = array(out)
+    for t := range totalTime {
+        if t == totalTime - plusPhase {
+            d = array(out)
         }
-        ##
-        f += (1.0 / fTau) * (d - f) // f moves toward d
-        s += (1.0 / sTau) * (d - s) // s moves toward f
+        f += (1.0 / fastTau) * (d - f) // f moves toward d
+        s += (1.0 / slowTau) * (d - s) // s moves toward f
         driver[t] = d
         fast[t] = f
         slow[t] = s
         diff[t] = abs(s-f)
-        ##
     }
-    ##
     dwt := fast[-1] - slow[-1]
     ##
     dwtStr = fmt.Sprintf("<b>Weight Change ΔW ≅ Predition - Outcome = Fast - Slow = %7.2g</b>", dwt.Float1D(0))

@@ -260,20 +260,18 @@ $$
 
 {id="plot_sigmoid" title="Sigmoidal contrast enhancement function" collapsed="true"}
 ```Goal
-##
 points := 100
+##
 lin := zeros(points) // linear values
 sig := zeros(points) // sigmoidal values
-##
 
-for v := range 100 {
-    ##
+for v := range points {
 	l := max(array(v) / points, 1.0e-6)
     s := 2.0 / (1.0 + ((1 - l) / l)**6)
     lin[v] = l
     sig[v] = s
-    ##
 }
+##
 
 plotStyler := func(s *plot.Style) {
     s.Range.SetMax(2).SetMin(0)

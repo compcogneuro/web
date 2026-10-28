@@ -42,13 +42,13 @@ To see how this works, let's just consider excitation versus inhibition (inhibit
 
 {id="sim_vm_gbar" title="Membrane potential tug-of-war" collapsed="true"}
 ```Goal
+totalTime := 100
 vmTau := 10.0 // time constant for vm integration
 gbarE := 0.2
 gbarI := 0.4
 var gbarEStr, gbarIStr, vmTauStr string
 
 ##
-totalTime := 100
 gE := zeros(totalTime) // excitatory conductance
 gI := zeros(totalTime) // inhibitory conductance
 Vm := zeros(totalTime) // membrane potential
@@ -60,21 +60,16 @@ func vmRun() {
     vmTauStr = fmt.Sprintf("Vm Tau: %7.4g", vmTau)
     ##
     vm := 0.0 // current excitation
-    tau := array(vmTau)
-    gbE := array(gbarE)
-    gbI := array(gbarI)
-    ##
-    for t := range 100 {
-        ##
-        ge := gbE * (1.0 - vm)
-        gi := gbI * (0.0 - vm)
-        dvm := (1.0 / tau) * (ge + gi)
+    for t := range totalTime {
+        ge := gbarE * (1.0 - vm)
+        gi := gbarI * (0.0 - vm)
+        dvm := (1.0 / vmTau) * (ge + gi)
 		vm += dvm
         Vm[t] = vm
-        gE[t] = gbE
-        gI[t] = gbI
-        ##
+        gE[t] = gbarE
+        gI[t] = gbarI
     }
+	##
 }
 
 vmRun()
@@ -313,13 +308,13 @@ There are some further complexities about how we integrate inputs from different
 
 {id="sim_vm_g" title="Membrane potential tug-of-war: currents" collapsed="true"}
 ```Goal
+totalTime := 100
 vmTau := 10.0 // time constant for vm integration
 gbarE := 0.2
 gbarI := 0.4
 var gbarEStr, gbarIStr, vmTauStr string
 
 ##
-totalTime := 100
 iE := zeros(totalTime) // excitatory current
 iI := zeros(totalTime) // inhibitory current
 Vm := zeros(totalTime) // membrane potential
@@ -331,21 +326,16 @@ func vmRun() {
     vmTauStr = fmt.Sprintf("Vm Tau: %7.4g", vmTau)
     ##
     vm := 0.0 // current excitation
-    tau := array(vmTau)
-    gbE := array(gbarE)
-    gbI := array(gbarI)
-    ##
-    for t := range 100 {
-        ##
-        ie := gbE * (1.0 - vm)
-        ii := gbI * (0.0 - vm)
-        dvm := (1.0 / tau) * (ie + ii)
+    for t := range totalTime {
+        ie := gbarE * (1.0 - vm)
+        ii := gbarI * (0.0 - vm)
+        dvm := (1.0 / vmTau) * (ie + ii)
 		vm += dvm
         Vm[t] = vm
         iE[t] = ie
         iI[t] = -ii
-        ##
     }
+	##
 }
 
 vmRun()
