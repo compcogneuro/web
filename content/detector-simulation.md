@@ -4,6 +4,7 @@ bibfile = "ccnlab.json"
 +++
 
 <sim-detector>
+</sim-detector>
 
 <div>
 

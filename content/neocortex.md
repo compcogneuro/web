@@ -8,8 +8,10 @@ The **neocortex** ("new cortex") or **cerebral cortex** (often just referred to 
 The connectivity of the neocortex is organized into multiple different specialized areas of processing, and each such area has a similar laminar structure with 6 distinct layers of neurons. These multiple areas correspond to the "deep" layered organization of [[abstract neural network]]s, which demonstrably provide important computational power. At a cognitive level, this power arises from the process of [[categorization]], where multiple stages of [[neuron detector]]s progressively develop more abstract, general, and powerful ways of representing the world, which then support more systematic and appropriate behaviors even in novel environments.
 
 <embed-page src="bidirectional connectivity">
+</embed-page>
 
 <embed-page src="categorization">
+</embed-page>
 
 ## Biology of the neocortex
 

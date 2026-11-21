@@ -4,6 +4,7 @@ bibfile = "ccnlab.json"
 +++
 
 <sim-stability>
+</sim-stability>
 
 <div>
 

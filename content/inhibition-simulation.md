@@ -4,6 +4,7 @@ bibfile = "ccnlab.json"
 +++
 
 <sim-inhib>
+</sim-inhib>
 
 <div>
 

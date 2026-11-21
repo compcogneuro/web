@@ -37,6 +37,7 @@ The criteria for success here are a bit murkier and subjective --- basically it 
 In fact, much ground can be (and to some extent already has been) gained by attempts to understand one level of modeling in terms of the other. At the end of the day, linking from molecule to mind spans multiple levels of analysis, and like studying the laws of particle physics to planetary motion, require multiple formal tools.
 
 <embed-page src="emergent" title="Emergent phenomena">
+</embed-page>
 
 ## Why should we care about the brain?
 

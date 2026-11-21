@@ -4,6 +4,7 @@ bibfile = "ccnlab.json"
 +++
 
 <sim-neuron>
+</sim-neuron>
 
 <div>
 
