@@ -38,7 +38,7 @@
 
 <p id="AlexanderBrown11">Alexander, W.H., & Brown, J.W. (2011). Medial prefrontal cortex as an action-outcome predictor. <i>Nature Neuroscience, 14</i>, 1338–1344. <a href="http://www.ncbi.nlm.nih.gov/pubmed/21926982">http://www.ncbi.nlm.nih.gov/pubmed/21926982</a></p>
 
-<p id="AlexanderCrutcher90a">Alexander, G.E., & Crutcher, M.D. (1990). Functional architecture of basal ganglia circuits: neural substrates of parallel processing. <i>Trends in Neurosciences, 13</i>, 266–271. <a href="http://www.sciencedirect.com/science/article/pii/016622369090107L">http://www.sciencedirect.com/science/article/pii/016622369090107L</a><a href="http://doi.org/10.1016/0166-2236(90)90107-L"> http://doi.org/10.1016/0166-2236(90)90107-L</a></p>
+<p id="AlexanderCrutcher90a">Alexander, G.E., & Crutcher, M.D. (1990). Preparation for movement: neural representations of intended direction in three motor areas of the monkey. <i>Journal of Neurophysiology, 64</i>, 133–150. <a href="https://journals.physiology.org/doi/abs/10.1152/jn.1990.64.1.133">https://journals.physiology.org/doi/abs/10.1152/jn.1990.64.1.133</a><a href="http://doi.org/10.1152/jn.1990.64.1.133"> http://doi.org/10.1152/jn.1990.64.1.133</a></p>
 
 <p id="AlexanderDeLongStrick86">Alexander, G., DeLong, M., & Strick, P. (1986). Parallel organization of functionally segregated circuits linking basal ganglia and cortex. <i>Annual Review of Neuroscience, 9</i>, 357–381. <a href="http://www.ncbi.nlm.nih.gov/pubmed/3085570">http://www.ncbi.nlm.nih.gov/pubmed/3085570</a></p>
 
@@ -520,6 +520,8 @@
 
 <p id="EkmanFriesen75">Ekman, P., & Friesen, W. (1975). <i>Pictures of facial affect. </i> Consulting Psychologists Press. </p>
 
+<p id="El-GabyHarrisWhittingtonEtAl24">El-Gaby, M., Harris, A.L., Whittington, J.C.R., Dorrell, W., Bhomick, A., Walton, M.E., Akam, T., & Behrens, T.E.J. (2024). A cellular basis for mapping behavioural structure. <i>Nature, 636</i>, 671–680. <a href="https://www.nature.com/articles/s41586-024-08145-x">https://www.nature.com/articles/s41586-024-08145-x</a><a href="http://doi.org/10.1038/s41586-024-08145-x"> http://doi.org/10.1038/s41586-024-08145-x</a></p>
+
 <p id="ElhageNandaOlssonEtAl21">Elhage, N., Nanda, N., Olsson, C., Henighan, T., Joseph, N., Mann, B., Askell, A., Bai, Y., Chen, A., & Conerly, T. (2021). A mathematical framework for transformer circuits. <i>Transformer Circuits Thread, 1</i>, 12. <a href="https://transformer-circuits.pub/2021/framework/index.html">https://transformer-circuits.pub/2021/framework/index.html</a></p>
 
 <p id="EliasWatanabeKohn14">Elias, L.A., Watanabe, R.N., & Kohn, A.F. (2014). Spinal Mechanisms May Provide a Combination of Intermittent and Continuous Control of Human Posture: Predictions from a Biologically Based Neuromusculoskeletal Model. <i>PLOS Computational Biology, 10</i>, e1003944. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003944">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003944</a><a href="http://doi.org/10.1371/journal.pcbi.1003944"> http://doi.org/10.1371/journal.pcbi.1003944</a></p>
@@ -580,7 +582,7 @@
 
 <p id="Frank05">Frank, M.J. (2005). When and when not to use your subthalamic nucleus: Lessons from a computational model of the basal ganglia. In A.K. Seth, T.J. Prescott, & J.J. Bryson (Eds.), <i>Modelling Natural Action Selection: Proceedings of an International Workshop</i> (pp. 53–60). AISB. </p>
 
-<p id="Frank06">Frank, M.J. (2006). Hold your horses: a dynamic computational role for the subthalamic nucleus in decision making. <i>Neural Networks, 19</i>, 1120–1136. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16945502">http://www.ncbi.nlm.nih.gov/pubmed/16945502</a></p>
+<p id="Frank06">Frank, S.L. (2006). <i>Strong Systematicity in Sentence Processing by an Echo State Network. </i> Springer Berlin / Heidelberg. </p>
 
 <p id="FrankClaus06">Frank, M.J., & Claus, E.D. (2006). Anatomy of a decision: Striato-orbitofrontal interactions in reinforcement learning, decision making, and reversal. <i>Psychological Review, 113</i>, 300–326. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16637763">http://www.ncbi.nlm.nih.gov/pubmed/16637763</a></p>
 
@@ -1014,6 +1016,8 @@
 
 <p id="KheradpishehGanjtabeshThorpeEtAl18">Kheradpisheh, S.R., Ganjtabesh, M., Thorpe, S.J., & Masquelier, T. (2018). STDP-based spiking deep convolutional neural networks for object recognition. <i>Neural Networks, 99</i>, 56–67. <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302903">https://www.sciencedirect.com/science/article/pii/S0893608017302903</a><a href="http://doi.org/10.1016/j.neunet.2017.12.005"> http://doi.org/10.1016/j.neunet.2017.12.005</a></p>
 
+<p id="KimAngelakiDeAngelis16">Kim, H.R., Angelaki, D.E., & DeAngelis, G.C. (2016). The neural basis of depth perception from motion parallax. <i>Philosophical Transactions of the Royal Society B: Biological Sciences, 371</i>, 20150256. <a href="https://doi.org/10.1098/rstb.2015.0256">https://doi.org/10.1098/rstb.2015.0256</a><a href="http://doi.org/10.1098/rstb.2015.0256"> http://doi.org/10.1098/rstb.2015.0256</a></p>
+
 <p id="KimGreeneZlateskiEtAl14">Kim, J.S., Greene, M.J., Zlateski, A., Lee, K., Richardson, M., Turaga, S.C., Purcaro, M., Balkam, M., Robinson, A., Behabadi, B.F., Campos, M., Denk, W., & Seung, H.S. (2014). Space–time wiring specificity supports direction selectivity in the retina. <i>Nature, 509</i>, 331–336. <a href="https://www.nature.com/articles/nature13240">https://www.nature.com/articles/nature13240</a><a href="http://doi.org/10.1038/nature13240"> http://doi.org/10.1038/nature13240</a></p>
 
 <p id="KimKimNakajimaEtAl17">Kim, J., Kim, Y., Nakajima, R., Shin, A., Jeong, M., Park, A.H., Jeong, Y., Jo, S., Yang, S., Park, H., Cho, S., Cho, K., Shim, I., Chung, J.H., Paik, S., Augustine, G.J., & Kim, D. (2017). Inhibitory basal ganglia inputs induce excitatory motor signals in the thalamus. <i>Neuron, 95</i>, 1181-1196.e8. <a href="http://www.sciencedirect.com/science/article/pii/S0896627317307432">http://www.sciencedirect.com/science/article/pii/S0896627317307432</a><a href="http://doi.org/10.1016/j.neuron.2017.08.028"> http://doi.org/10.1016/j.neuron.2017.08.028</a></p>
@@ -1173,6 +1177,8 @@
 <p id="MaassNatschlagerMarkram02">Maass, W., Natschläger, T., & Markram, H. (2002). Real-time computing without stable states: a new framework for neural computation based on perturbations. <i>Neural computation, 14</i>, 2531–2560. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12433288">http://www.ncbi.nlm.nih.gov/pubmed/12433288</a></p>
 
 <p id="MacLean52">MacLean, P.D. (1952). Some psychiatric implications of physiological studies on frontotemporal portion of limbic system (Visceral brain) <i>Electroencephalography and Clinical Neurophysiology, 4</i>, 407–418. <a href="https://www.sciencedirect.com/science/article/pii/0013469452900734">https://www.sciencedirect.com/science/article/pii/0013469452900734</a><a href="http://doi.org/10.1016/0013-4694(52)90073-4"> http://doi.org/10.1016/0013-4694(52)90073-4</a></p>
+
+<p id="MaeleVerbelenGeorgeEtAl26">Maele, T.V., Verbelen, T., George, D., & Pezzulo, G. (2026). Schema-based active inference supports rapid generalization of experience and frontal cortical coding of abstract structure. <a href="http://arxiv.org/abs/2601.18946">http://arxiv.org/abs/2601.18946</a><a href="http://doi.org/10.48550/arXiv.2601.18946"> http://doi.org/10.48550/arXiv.2601.18946</a></p>
 
 <p id="Magee26">Magee, J.C. (2026). Behavioral timescale synaptic plasticity: properties, elements and functions. <i>Nature Neuroscience, 29</i>, 520–534. <a href="https://www.nature.com/articles/s41593-026-02214-2">https://www.nature.com/articles/s41593-026-02214-2</a><a href="http://doi.org/10.1038/s41593-026-02214-2"> http://doi.org/10.1038/s41593-026-02214-2</a></p>
 
@@ -1370,6 +1376,8 @@
 
 <p id="NiederMiller04">Nieder, A., & Miller, E.K. (2004). Analog numerical representations in rhesus monkeys: evidence for parallel processing. <i>Journal of cognitive neuroscience, 16</i>, 889–901. <a href="http://www.ncbi.nlm.nih.gov/pubmed/15200715">http://www.ncbi.nlm.nih.gov/pubmed/15200715</a></p>
 
+<p id="NiellBeyelerGoardEtAl26">Niell, C.M., Beyeler, M., Goard, M.J., & Smith, S.L. (2026). Ecological Visual Processing in the Mouse. <i>Annual Review of Neuroscience, 49</i>, 189–209. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-112723-040446">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-112723-040446</a><a href="http://doi.org/10.1146/annurev-neuro-112723-040446"> http://doi.org/10.1146/annurev-neuro-112723-040446</a></p>
+
 <p id="NieuwenhuysPuelles15">Nieuwenhuys, R., & Puelles, L. (2015). <i>Towards a New Neuromorphology. </i> Springer. </p>
 
 <p id="NordPattabiramanViselEtAl15">Nord, A.S., Pattabiraman, K., Visel, A., & Rubenstein, J.L.R. (2015). Genomic Perspectives of Transcriptional Regulation in Forebrain Development. <i>Neuron, 85</i>, 27–47. <a href="https://www.cell.com/neuron/abstract/S0896-6273(14)01011-3">https://www.cell.com/neuron/abstract/S0896-6273(14)01011-3</a><a href="http://doi.org/10.1016/j.neuron.2014.11.011"> http://doi.org/10.1016/j.neuron.2014.11.011</a></p>
@@ -1508,9 +1516,9 @@
 
 <p id="PougetBeckMaEtAl13">Pouget, A., Beck, J.M., Ma, W.J., & Latham, P.E. (2013). Probabilistic brains: knowns and unknowns. <i>Nature Neuroscience, 16</i>, 1170–1178. <a href="http://doi.org/10.1038/nn.3495"> http://doi.org/10.1038/nn.3495</a></p>
 
-<p id="Powers73">Powers, W.T. (1973). <i>Behavior: The Control of Perception. </i> Hawthorne. </p>
+<p id="Powers73">Powers, W.T. (1973). Feedback: Beyond Behaviorism: Stimulus-response laws are wholly predictable within a control-system model of behavioral organization. <i>Science, 179</i>, 351–356. <a href="http://science.sciencemag.org/content/179/4071/351">http://science.sciencemag.org/content/179/4071/351</a><a href="http://doi.org/10.1126/science.179.4071.351"> http://doi.org/10.1126/science.179.4071.351</a></p>
 
-<p id="Powers73a">Powers, W.T. (1973). Feedback: Beyond Behaviorism: Stimulus-response laws are wholly predictable within a control-system model of behavioral organization. <i>Science, 179</i>, 351–356. <a href="http://science.sciencemag.org/content/179/4071/351">http://science.sciencemag.org/content/179/4071/351</a><a href="http://doi.org/10.1126/science.179.4071.351"> http://doi.org/10.1126/science.179.4071.351</a></p>
+<p id="Powers73a">Powers, W.T. (1973). <i>Behavior: The Control of Perception. </i> Hawthorne. </p>
 
 <p id="PragerPlotkin19">Prager, E.M., & Plotkin, J.L. (2019). Compartmental function and modulation of the striatum. <i>Journal of Neuroscience Research, </i>jnr.24522. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jnr.24522">https://onlinelibrary.wiley.com/doi/10.1002/jnr.24522</a><a href="http://doi.org/10.1002/jnr.24522"> http://doi.org/10.1002/jnr.24522</a></p>
 
@@ -1529,6 +1537,10 @@
 <p id="QuirogaReddyKreimanEtAl05">Quiroga, R.Q., Reddy, L., Kreiman, G., Koch, C., & Fried, I. (2005). Invariant visual representation by single neurons in the human brain. <i>Nature, 435</i>, 1102–1107. <a href="https://www.nature.com/articles/nature03687">https://www.nature.com/articles/nature03687</a><a href="http://doi.org/10.1038/nature03687"> http://doi.org/10.1038/nature03687</a></p>
 
 <p id="QuyFujitaSakamotoEtAl11">Quy, P.N., Fujita, H., Sakamoto, Y., Na, J., & Sugihara, I. (2011). Projection patterns of single mossy fiber axons originating from the dorsal column nuclei mapped on the aldolase C compartments in the rat cerebellar cortex. <i>Journal of Comparative Neurology, 519</i>, 874–899. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555">https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.22555</a><a href="http://doi.org/10.1002/cne.22555"> http://doi.org/10.1002/cne.22555</a></p>
+
+<p id="Raichle15">Raichle, M.E. (2015). The Brain's Default Mode Network. <i>Annual Review of Neuroscience, 38</i>, 433–447. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-071013-014030">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-071013-014030</a><a href="http://doi.org/10.1146/annurev-neuro-071013-014030"> http://doi.org/10.1146/annurev-neuro-071013-014030</a></p>
+
+<p id="RaichleMacLeodSnyderEtAl01">Raichle, M.E., MacLeod, A.M., Snyder, A.Z., Powers, W.J., Gusnard, D.A., & Shulman, G.L. (2001). A default mode of brain function. <i>Proceedings of the National Academy of Sciences, 98</i>, 676–682. <a href="https://www.pnas.org/doi/full/10.1073/pnas.98.2.676">https://www.pnas.org/doi/full/10.1073/pnas.98.2.676</a><a href="http://doi.org/10.1073/pnas.98.2.676"> http://doi.org/10.1073/pnas.98.2.676</a></p>
 
 <p id="RajuGuntupalliZhouEtAl24">Raju, R.V., Guntupalli, J.S., Zhou, G., Wendelken, C., Lázaro-Gredilla, M., & George, D. (2024). Space is a latent sequence: A theory of the hippocampus. <i>Science Advances, 10</i>, eadm8470. <a href="https://www.science.org/doi/full/10.1126/sciadv.adm8470">https://www.science.org/doi/full/10.1126/sciadv.adm8470</a><a href="http://doi.org/10.1126/sciadv.adm8470"> http://doi.org/10.1126/sciadv.adm8470</a></p>
 
@@ -1553,6 +1565,8 @@
 <p id="RaymondMedina18">Raymond, J.L., & Medina, J.F. (2018). Computational Principles of Supervised Learning in the Cerebellum. <i>Annual Review of Neuroscience, 41</i>, 233–253. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-080317-061948">https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-080317-061948</a><a href="http://doi.org/10.1146/annurev-neuro-080317-061948"> http://doi.org/10.1146/annurev-neuro-080317-061948</a></p>
 
 <p id="Reber67">Reber, A.S. (1967). Implicit Learning of Artificial Grammars. <i>Journal of Verbal Learning and Verbal Behavior, 6</i>, 855–863. </p>
+
+<p id="RecanatesiFarrellLajoieEtAl21">Recanatesi, S., Farrell, M., Lajoie, G., Deneve, S., Rigotti, M., & Shea-Brown, E. (2021). Predictive learning as a network mechanism for extracting low-dimensional latent space representations. <i>Nature Communications, 12</i>, 1417. <a href="https://www.nature.com/articles/s41467-021-21696-1">https://www.nature.com/articles/s41467-021-21696-1</a><a href="http://doi.org/10.1038/s41467-021-21696-1"> http://doi.org/10.1038/s41467-021-21696-1</a></p>
 
 <p id="RecanatesiPereira-ObilinovicMurakamiEtAl22">Recanatesi, S., Pereira-Obilinovic, U., Murakami, M., Mainen, Z., & Mazzucato, L. (2022). Metastable attractors explain the variable timing of stable behavioral action sequences. <i>Neuron, 110</i>, 139-153.e9. <a href="https://www.cell.com/neuron/abstract/S0896-6273(21)00779-0">https://www.cell.com/neuron/abstract/S0896-6273(21)00779-0</a><a href="http://doi.org/10.1016/j.neuron.2021.10.011"> http://doi.org/10.1016/j.neuron.2021.10.011</a></p>
 
@@ -1608,7 +1622,7 @@
 
 <p id="RumelhartHintonWilliams86">Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. <i>Nature, 323</i>, 533–536. </p>
 
-<p id="RumelhartMcClelland86">Rumelhart, D.E., & McClelland, J.L. (1986). PDP Models and General Issues in Cognitive Science. In D.E. Rumelhart, J.L. McClelland, & P.R. Group (Eds.), <i>Parallel Distributed Processing. Volume 1: Foundations</i> (pp. 110–146). MIT Press. </p>
+<p id="RumelhartMcClelland86">Rumelhart, D.E., & McClelland, J.L. (1986). On Learning the Past Tenses of English Verbs. In J.L. McClelland, D.E. Rumelhart, & P.R. Group (Eds.), <i>Parallel Distributed Processing. Volume 2: Psychological and Biological Models</i> (pp. 216–271). MIT Press. </p>
 
 <p id="RumelhartZipser85">Rumelhart, D.E., & Zipser, D. (1985). Feature discovery by competitive learning* <i>Cognitive Science, 9</i>, 75–112. <a href="http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0901_5/abstract">http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0901_5/abstract</a><a href="http://doi.org/10.1207/s15516709cog0901_5"> http://doi.org/10.1207/s15516709cog0901_5</a></p>
 
@@ -1880,7 +1894,7 @@
 
 <p id="ThomsonDestexhe99">Thomson, A.M., & Destexhe, A. (1999). Dual intracellular recordings and computational models of slow inhibitory postsynaptic potentials in rat neocortical and hippocampal slices. <i>Neuroscience, 92</i>, 1193–1215. <a href="http://www.sciencedirect.com/science/article/pii/S0306452299000214">http://www.sciencedirect.com/science/article/pii/S0306452299000214</a><a href="http://doi.org/10.1016/S0306-4522(99)00021-4"> http://doi.org/10.1016/S0306-4522(99)00021-4</a></p>
 
-<p id="Thorndike1898">Thorndike, E.L. (1898). Animal Intelligence: an experimental study of associative processes in animals. <i>Psychological Monographs, </i>2, Whole No. 8.. </p>
+<p id="Thorndike98">Thorndike, E.L. (1898). Animal Intelligence: an experimental study of associative processes in animals. <i>Psychological Monographs, </i>2, Whole No. 8.. </p>
 
 <p id="ThorpeDelormeVanRullen01">Thorpe, S., Delorme, A., & Van Rullen, R. (2001). Spike-based strategies for rapid processing. <i>Neural networks, 14</i>, 715–725. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11665765">http://www.ncbi.nlm.nih.gov/pubmed/11665765</a></p>
 
@@ -2024,6 +2038,8 @@
 
 <p id="Werbos90">Werbos, P. (1990). Backpropagation through time: what it does and how to do it. <i>Proceedings of the IEEE, 78</i>, 1550–1560. <a href="http://doi.org/10.1109/5.58337"> http://doi.org/10.1109/5.58337</a></p>
 
+<p id="WexlerBoxtel05">Wexler, M., & Boxtel, J.J.A. (2005). Depth perception by the active observer. <i>Trends in Cognitive Sciences, 9</i>, 431–438. <a href="https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(05)00215-9">https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(05)00215-9</a><a href="http://doi.org/10.1016/j.tics.2005.06.018"> http://doi.org/10.1016/j.tics.2005.06.018</a></p>
+
 <p id="WhishawMcKennaMaaswinkel97">Whishaw, I.Q., McKenna, J.E., & Maaswinkel, H. (1997). Hippocampal Lesions and Path Integration. <i>Current Opinion in Neurobiology, 7</i>, 228. </p>
 
 <p id="WhittingtonBogacz17">Whittington, J.C.R., & Bogacz, R. (2017). An approximation of the error backpropagation algorithm in a predictive coding network with local hebbian synaptic plasticity. <i>Neural Computation, 29</i>, 1229–1262. <a href="https://doi.org/10.1162/NECO_a_00949">https://doi.org/10.1162/NECO_a_00949</a><a href="http://doi.org/10.1162/NECO_a_00949"> http://doi.org/10.1162/NECO_a_00949</a></p>
@@ -2044,7 +2060,7 @@
 
 <p id="WuSugiharaShinoda99">Wu, H., Sugihara, I., & Shinoda, Y. (1999). Projection patterns of single mossy fibers originating from the lateral reticular nucleus in the rat cerebellar cortex and nuclei. <i>Journal of Comparative Neurology, 411</i>, 97–118. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O">https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291096-9861%2819990816%29411%3A1%3C97%3A%3AAID-CNE8%3E3.0.CO%3B2-O</a><a href="http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O"> http://doi.org/10.1002/(SICI)1096-9861(19990816)411:1<97::AID-CNE8>3.0.CO;2-O</a></p>
 
-<p id="XiangHuguenardPrince98">Xiang, Z., Huguenard, J.R., & Prince, D.A. (1998). Cholinergic switching within neocortical inhibitory networks. <i>Science (New York, N.Y.), 281</i>, 985–988. <a href="http://www.ncbi.nlm.nih.gov/pubmed/9703513">http://www.ncbi.nlm.nih.gov/pubmed/9703513</a></p>
+<p id="XiangHuguenardPrince98">Xiang, Z., Huguenard, J.R., & Prince, D.A. (1998). GABAA receptor-mediated currents in interneurons and pyramidal cells of rat visual cortex. <i>The Journal of Physiology, 506</i>, 715–730. <a href="http://physoc.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.1998.715bv.x">http://physoc.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7793.1998.715bv.x</a><a href="http://doi.org/https://doi.org/10.1111/j.1469-7793.1998.715bv.x"> http://doi.org/https://doi.org/10.1111/j.1469-7793.1998.715bv.x</a></p>
 
 <p id="XiaoLiChitwoodEtAl23">Xiao, K., Li, Y., Chitwood, R.A., & Magee, J.C. (2023). A critical role for CaMKII in behavioral timescale synaptic plasticity in hippocampal CA1 pyramidal neurons. <i>Science Advances, 9</i>, eadi3088. <a href="https://www.science.org/doi/full/10.1126/sciadv.adi3088">https://www.science.org/doi/full/10.1126/sciadv.adi3088</a><a href="http://doi.org/10.1126/sciadv.adi3088"> http://doi.org/10.1126/sciadv.adi3088</a></p>
 
@@ -2053,6 +2069,8 @@
 <p id="XiaoZikopoulosBarbas09">Xiao, D., Zikopoulos, B., & Barbas, H. (2009). Laminar and modular organization of prefrontal projections to multiple thalamic nuclei. <i>Neuroscience, 161</i>, 1067–1081. <a href="http://www.sciencedirect.com/science/article/pii/S0306452209006411">http://www.sciencedirect.com/science/article/pii/S0306452209006411</a><a href="http://doi.org/10.1016/j.neuroscience.2009.04.034"> http://doi.org/10.1016/j.neuroscience.2009.04.034</a></p>
 
 <p id="XieSeung03">Xie, X., & Seung, H.S. (2003). Equivalence of backpropagation and Contrastive Hebbian Learning in a layered network. <i>Neural Computation, 15</i>, 441–454. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12590814">http://www.ncbi.nlm.nih.gov/pubmed/12590814</a></p>
+
+<p id="XuDeAngelis25">Xu, Z., & DeAngelis, G.C. (2025). Seeing a Three-Dimensional World in Motion: How the Brain Computes Object Motion and Depth During Self-Motion. <i>Annual Review of Vision Science, 11</i>, 423–446. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110323-112124">https://www.annualreviews.org/content/journals/10.1146/annurev-vision-110323-112124</a><a href="http://doi.org/10.1146/annurev-vision-110323-112124"> http://doi.org/10.1146/annurev-vision-110323-112124</a></p>
 
 <p id="XuMawaseSchieber24">Xu, J., Mawase, F., & Schieber, M.H. (2024). Evolution, biomechanics, and neurobiology converge to explain selective finger motor control. <i>Physiological Reviews, 104</i>, 983–1020. <a href="https://journals.physiology.org/doi/full/10.1152/physrev.00030.2023">https://journals.physiology.org/doi/full/10.1152/physrev.00030.2023</a><a href="http://doi.org/10.1152/physrev.00030.2023"> http://doi.org/10.1152/physrev.00030.2023</a></p>
 

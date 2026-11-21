@@ -7,6 +7,8 @@ The **neocortex** ("new cortex") or **cerebral cortex** (often just referred to 
 
 The connectivity of the neocortex is organized into multiple different specialized areas of processing, and each such area has a similar laminar structure with 6 distinct layers of neurons. These multiple areas correspond to the "deep" layered organization of [[abstract neural network]]s, which demonstrably provide important computational power. At a cognitive level, this power arises from the process of [[categorization]], where multiple stages of [[neuron detector]]s progressively develop more abstract, general, and powerful ways of representing the world, which then support more systematic and appropriate behaviors even in novel environments.
 
+In other words, the neocortex is a massive **compression** device, processing very high-dimensional sensory inputs down into an efficient, systematic, low-dimensional **internal latent space** that captures the behaviorally-relevant features of the world, enhancing the ability to make decisions affecting survival. Ultimately, the evolutionary function of the extravagance that is the human neocortex is presumably to enable us to make extensive plans about our future behavior, which is what we evidently spend most of our time thinking about (i.e., the **default mode** network; [[@Raichle15]]; [[@RaichleMacLeodSnyderEtAl01]]). Capturing this future-oriented, strongly goal-directed nature of our brains is the goal of the [[Rubicon]] framework, which builds upon these foundational capacities of the neocortex.
+
 <embed-page src="bidirectional connectivity">
 </embed-page>
 

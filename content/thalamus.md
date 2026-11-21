@@ -56,11 +56,11 @@ The nature of the connectivity from TRNs into the cortex provides another import
 
 Instead of retaining a core-vs-matrix categorical approach, we prefer to use functional, feature-based terminology in describing the connectivity profiles of neurons in different thalamic areas. A given TRN cell will in general have multiple of these properties.
 
-+ **Input:** focal projections into the middle layers, driving informational input to a cortical areas.
+* **Input:** focal projections into the middle layers, driving informational input to a cortical areas.
 
 * **Maintenance:** focal projections to layers 1 and 5, supporting active maintenance in layer 5b PT neurons.
 
-+ **Modulatory:** diffuse projections to layers 1 and 5. This is not exclusive to classical arousal-modulating matrix-type neurons, as basal-ganglia modulated motor areas including VA and VM have this pattern, to provide more dynamic, fine-grained modulation of motor cortical areas.
+* **Modulatory:** diffuse projections to layers 1 and 5. This is not exclusive to classical arousal-modulating matrix-type neurons, as basal-ganglia modulated motor areas including VA and VM have this pattern, to provide more dynamic, fine-grained modulation of motor cortical areas.
 
 * **Single:** projects to a single area.
 

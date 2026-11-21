@@ -9,6 +9,8 @@ Forming these categories is essential for enabling us to make the appropriate be
 
 It is also critical to understand how many individual neural detectors at each stage of processing can work together to capture the subtlety and complexity necessary to encode complex conceptual categories, in the form of [[distributed representations]]. These distributed representations are also critical for enabling multiple different ways of categorizing an input to be active at the same time --- e.g., a given face can be simultaneously recognized as female, old, and happy. A great deal of the [[emergent]] intelligence of the human brain arises from multiple successive levels of cascading distributed representations, constituting the collective actions of billions of neurons working together in the cortex.
 
+This system of distributed, categorical representations is also described as a low-dimensional internal **latent space** representation of the environment ([[@RecanatesiFarrellLajoieEtAl21]]).
+
 ## Categorization processes
 
 {id="figure_hierarch-dist-reps" style="height:30em"}
