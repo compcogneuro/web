@@ -87,8 +87,8 @@ func AddSims(ctx *htmlcore.Context) {
 	}
 	for _, nm := range simNames {
 		snm := "sim-" + nm
-		ctx.ElementHandlers[snm] = func(ctx *htmlcore.Context) bool {
-			fr := core.NewFrame(ctx.BlockParent)
+		ctx.AddElementHandler(snm, func(ctx *htmlcore.Context) bool {
+			fr := core.NewFrame(ctx.BlockParent())
 			fr.SetName(snm)
 			fr.Styler(func(s *styles.Style) {
 				s.Direction = styles.Column
@@ -96,6 +96,6 @@ func AddSims(ctx *htmlcore.Context) {
 			})
 			embedSim(fr, nm)
 			return true
-		}
+		})
 	}
 }
