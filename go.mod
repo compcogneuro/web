@@ -4,7 +4,7 @@ go 1.27.0
 
 require (
 	cogentcore.org/core v0.5.51
-	cogentcore.org/lab v0.2.25
+	cogentcore.org/lab v0.2.26
 	github.com/emer/axon/v2 v2.0.15
 	github.com/emer/emergent/v2 v2.0.7
 	github.com/stretchr/testify v1.11.1
